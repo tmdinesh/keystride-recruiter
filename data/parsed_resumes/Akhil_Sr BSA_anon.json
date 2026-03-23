@@ -1,0 +1,30 @@
+{
+  "resume_id": "Akhil_Sr BSA_anon",
+  "skills": [
+    "html",
+    "css",
+    "asp.net",
+    "rest",
+    "soap",
+    "sql",
+    "oracle",
+    "azure",
+    "hadoop",
+    "tableau",
+    "jira",
+    "confluence"
+  ],
+  "education": {
+    "degree": "Role: Sr. Business Systems Analyst/ Scrum Master",
+    "year": "Unknown"
+  },
+  "experience_years": 8,
+  "projects": [
+    "Expert in requirement gatherings while following various elicitation techniques for business requirements by conducting client group interviews, focused groups, workshops and online surveys.",
+    "Prepared business requirement document (BRD) and System Requirement Specification (SRS) to provide details of each business and functional requirement, development and implementation plan of these requirements, timelines.",
+    "Assisted in developing the project deadlines/deliverables/strategies to effectively manage projects.",
+    "Prepared and maintained the Requirement Traceability Matrix (RTM) to record the business and functional requirements.",
+    "Prepared use case diagrams and description documentation based on the analysis, and obtained approvals from the clients."
+  ],
+  "certifications": []
+}

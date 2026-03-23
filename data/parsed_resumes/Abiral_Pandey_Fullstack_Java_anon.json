@@ -1,0 +1,31 @@
+{
+  "resume_id": "Abiral_Pandey_Fullstack_Java_anon",
+  "skills": [
+    "java",
+    "javascript",
+    "angular",
+    "html",
+    "css",
+    "bootstrap",
+    "jquery",
+    "spring",
+    "rest",
+    "soap",
+    "sql",
+    "mysql",
+    "mongodb",
+    "oracle",
+    "cassandra",
+    "aws",
+    "jenkins",
+    "apache",
+    "jira"
+  ],
+  "education": {
+    "degree": "Bachelor of Computer Science \u2013 University of North Texas, MASKED_LOCATION, MASKED_LOCATION",
+    "year": "Unknown"
+  },
+  "experience_years": 6,
+  "projects": [],
+  "certifications": []
+}

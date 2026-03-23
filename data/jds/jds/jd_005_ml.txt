@@ -1,0 +1,45 @@
+ROLE: Machine Learning Engineer
+SOURCE: Synthetic
+URL: N/A
+COMPANY: Velocity Software
+
+============================================================
+  MACHINE LEARNING ENGINEER
+  Velocity Software
+============================================================
+
+ABOUT THE COMPANY
+----------------------------------------
+Velocity Software is a leading innovator in developing intelligent software solutions that optimize business processes and enhance user experiences. We leverage cutting-edge AI and machine learning to build robust, scalable applications that drive tangible impact for our global clientele.
+
+RESPONSIBILITIES
+----------------------------------------
+  • Design, develop, and implement machine learning and deep learning models using PyTorch for various applications.
+  • Preprocess, analyze, and manage large datasets to ensure data quality and suitability for model training.
+  • Evaluate, fine-tune, and optimize ML models for performance, scalability, and resource efficiency in production.
+  • Collaborate with software engineers to integrate ML models into existing production systems and APIs.
+  • Research and stay updated with the latest advancements in machine learning, deep learning, and the PyTorch ecosystem.
+
+REQUIRED SKILLS (Must-Have)
+----------------------------------------
+  ✅ Python 3.8+
+  ✅ PyTorch (e.g., 2.x)
+  ✅ Experience with common ML/data science libraries (e.g., NumPy, Pandas, Scikit-learn)
+  ✅ Strong understanding of machine learning and deep learning fundamentals (e.g., CNNs, RNNs, Transformers)
+  ✅ Proficiency in data manipulation, feature engineering, and statistical analysis
+  ✅ Experience with version control systems (e.g., Git, GitHub)
+
+PREFERRED SKILLS (Nice-to-Have)
+----------------------------------------
+  ⭐ Experience with cloud platforms (e.g., AWS SageMaker, GCP AI Platform, Azure ML)
+  ⭐ Familiarity with MLOps practices and tools (e.g., MLflow, Kubeflow, Weights & Biases)
+  ⭐ Knowledge of containerization technologies (e.g., Docker, Kubernetes)
+
+EXPERIENCE & EDUCATION
+----------------------------------------
+  Experience: 2-4 years
+  Education:  Bachelor's or Master's degree in Computer Science, Machine Learning, or a related quantitative field.
+
+COMPENSATION
+----------------------------------------
+  $110,000 - $160,000 USD

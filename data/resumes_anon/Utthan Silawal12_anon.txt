@@ -1,0 +1,133 @@
+MASKED_NAME 
+MASKED_EMAIL
+MASKED_PHONE
+MASKED_LOCATION Citizen
+Over 9 years of extensive experience in Business Analysis, Software Validation and business process re-engineering, with proven ability to articulate business values. .
+Functional experience with concentration on Use Case modeling using UML, Business Process Modeling, Data Modeling, Change Management, Technical Training, Software Development methodologies, QA testing, and Systems Testing of client server and web-based systems. 
+Strong project management skills including planning, scheduling, monitoring and budgeting with experience in requirement gathering, gap analysis, risk analysis, effort estimation etc.
+Strong Business Analysis Skills including In depth knowledge of Software Development Life Cycle (SDLC), having thorough understanding of various phases like Requirements, Analysis/Design, Development and Testing and Practical knowledge of Rational Unified Process (RUP).
+MASKED_NAME of Systems Management, Design and Data Modeling.
+Hard-core experience involving Business Process Re-Engineering, Software Re-Engineering using RUP methodology and ERP Systems Implementation and Continuous Improvement techniques.
+Proven expertise in creating test plans, UML diagrams, flowcharts, screen mockups and systems requirements specifications. 
+Excellent business writing skills in writing Preliminary Investigation Report, System Requirements document, Systems Design Specification and System Requirement Change Request.
+Excellent Training skills, facilitation, power point presentations, maintaining performance metrics, devising training documentation & communicating to users.
+Strong understanding of information technology capabilities and dependencies, including platforms, content management, e-document strategies and process mapping.
+Demonstrated high capacity to learn new technologies rapidly with no formal training.
+Proficient at creating and transforming business requirements into software requirement specification (SRS) using Rational RequisitePro and designing business models using UML diagrams such as use case model, Class Diagrams, Activity Diagrams, Sequence Diagrams and Collaboration Diagrams in Rational Rose and MASKED_NAME. 
+Understanding of BEA WebLogic Portal to simplify the production and management of custom-fit portals, allowing a shared services environment to roll out changes with minimal complexity and effort.
+Experience in conducting Joint Application Development (JAD) sessions with end-users, expert team, development and QA team for project meetings, walkthroughs and customer interviews.
+Expert in Root Cause Analysis, Feasibility studies and Risk Assessment studies.
+Professional Experience:
+Barneys - New York, NY						                                                         Feb ’16 – Present
+Sr. Business Analyst
+The project was to enhance robust e-commerce platform under ATG Ecommerce which involved the enhancements to content management, payment gateway and checkout process to the digital experience across websites, mobile and tablet. The project also involved testing of the core website functionalities on Mobile platforms like Windows, Android and IOS. And the goal of the project was also to implement Omni-channel support that aimed to provide an end-to-end e-commerce solution to support real time order generation, payment information and package tracking information to customers. I was involved and customer retention analysis. The project followed agile scrum methodology. 
+Responsibilities: 
+Actively involved in various e-commerce initiatives, including custom application development and front end features on the e-commerce platform. The upgrades were done to the legacy platform and new features development for existing retail clients 
+Analyzed and discovered phases by identifying the key stakeholders and engaging with the internal and external Subject Matter Experts (SMEs) 
+Collaborated with clients and internal team to validate business requirements and performed Requirement Plan sign offs 
+Conducted JAD sessions with Business, Operations and IT to identify, analyzed and validated business requirements in form of user stories to produce, amended and/or reviewed business and functional specifications for any new or existing technology applications. 
+Prepared Business Requirements Document (BRD) and Functional Specification Document. 
+MASKED_NAME business requirements to functional design using IBM Rational RequisitePro, by leveraging Agile SDLC methodology. 
+Wrote Use Case requirements BRD for conversion of data from existing legacy systems to new client-centric system 
+Experienced in SDLC Agile-Scrum, Kanban and Waterfall methodologies in both On/Off shore models. 
+Performed as Scrum Master facilitating time boxed Agile Scrum Ceremonies: Daily Scrum Call, Sprint Planning, Sprint Review, MASKED_NAME and Scrum Events: MASKED_NAME, Story-Point Estimation. Managed Scrum Artifacts: Product Backlog, MASKED_NAME, Iterative Product Increment and Burn-down Chart. 
+Supported comprehensive BRD and functional documentation for an Industry Change Initiative 
+Responsible for Requirements gathering, MASKED_NAME, designing and reviewing BRD Conducted sessions for understanding business expectations and gathering requirements from various SMEs. 
+Excellent at managing and working with graphic designer in the creation of effective marketing collateral for visual appeal, grammar, and call to action.
+Identified and communicated dependencies and potential risks to the completion of the sprints including resources, costs and systems. 
+Aggregated and analyzed reports, as well as data from multiple sources to support and enhancing Omni-channel initiatives. Prepared data information for projects, team meeting, Power-Point presentations and ad hoc requests. 
+Tracked and ensured visibility of historical team metrics and progress of the iteration and release. 
+Constantly worked with the project leaders to ensure the team is producing solutions that meet established standards, procedures and practices, address issues, risks and mitigation plans. 
+Monitored, analyzed and reported performance of website utilizing site analytic tools as Google Analytic and Omniture. 
+Maintained the product catalogs, search and navigation, search engine optimization (SEO), Business Intelligence (BI) and personalization, etc. 
+Involved in documentation creation such as functional and non-functional requirement specifications, questionnaires, product launch kits, quick-start and training, and user manual. 
+Authored design documentations, Requirement Traceability Matrices (RTM), functional specs and complex process and work flow diagrams. 
+Employed UML in behavioral, structural and architectural modeling - in creating Use Case, Activity, Class and Sequence diagrams. 
+Incorporated User Stories in different release plans for the sprints in Scrum process.
+Prepared test data from user stories, write and execute test cases in MASKED_LOCATION.
+Generated transactional reports by using SQL server then further used those reports for process gap analysis which lead to the re-engineering of the existing transactions involved between Order routing and Payment Hub. 
+Wrote the SQL queries in SQL Developer and managed the database and assisted in making Data warehouse and doing Data profiling. 
+Tested GUI and functionality on MASKED_LOCATION, Android and iOS platforms using VMWare and report numerous software defects in that area 
+Performed knowledge transfer to technical/development and QA team by developing use cases and user stories to explain business requirements to IT and identified, documented and provided relevant test scenarios, quality test cases and provided accurate test data 
+Gifferent and Brompton Ltd - Houston, TX				                                                                 Jan 14 - Jan 16
+Sr. Business Analyst
+Gifferent and Brompton Ltd is an engineering firm which provides professional, scientific and Technical services for sourced oil and gas and engineering firms. Gifferent and Brompton Ltd designs and manufactures pumps and ancillary equipment for the global upstream and downstream oil and gas markets and provides aftermarket service and support activities.
+Senior Business Analyst 
+Conduct JAD (Joint Application Design) session with business users, Development team and other stakeholders to generate convincing business process recommendations. 
+Created Business and functional Requirement specification Documents. 
+Use Scrum user stories and use case technique to document AS IS and TO BE process flows. 
+Function as a member of an Agile team on delivering business value 
+Responsible for Loading Requirements and test cases into HP ALM and mapping of requirements to test cases with traceability. 
+Review change requests, Participate in client discussions. Prioritize change requests and implementation impact analysis. 
+Participate in daily scrum meetings to provide real time parameter tracking for logistics and marketing departments, resulting in significant.
+As Scrum Master involved with making appropriate commitments through story selection, sizing and tasking. 
+Led scrum meetings as a scrum master to share opinions and track sprint tasks by analyzing MASKED_NAME charts
+Performed review sessions and gathered BRD and SRS sign offs from Business, technology and other related work streams. 
+Created the BRD for risk charge calculation methodology for securitized products as defined in Revised Securitization Framework
+Preparing BRD (Business Requirement Document), Mapping specification document, Technical specification document 
+Coordinated with the Graphic Designer to develop the User Interface screen-Coordination with the stake holder for getting sign offs on the user stories, wire frames and Mock ups-Brainstorming the requirement with the internal stake holders-Organizing and leading the knowledge sharing session with the development, testing teams to spread the requirement
+Develop technical solutions to improve scalability, performance and value-add by automating end user computing area 
+Perform Gap Analysis to check the compatibility of the existing system infrastructure with the new business requirements.  
+Plan and define system requirements to Wire Frames with Use Case, Use Case Scenario and Use Case Narrative using the UML (Unified Modeling Language) methodologies.  
+Create Use Case Diagrams, Activity Diagrams, Sequence Diagrams and ER Diagrams in MS MASKED_NAME.  
+Assist in the development, design and implementation of new relational or multi-dimensional databases, including the analysis of user needs.  
+Create and manage project templates, Use Case project templates, requirement types and traceability relationships in MASKED_LOCATION.  
+Involved in Performance Measurement to develop measurable indicators that can be systematically tracked to assess progress made in achieving predetermined goals.  
+Create training manuals for the end users and co-ordinate the "Train the Trainers" program.  
+Participate in a daily call with project manager and other testers on issues during testing. 
+Work actively with TSO (Test support office) teams for monitoring the test phases and activities and report them to PMO and Exec leadership  
+Interface with developers to identify and resolve technical issues and bugs in the software to validate end-user requirements; Assist QA team with Manual testing 
+Work with the testing team (TCOE) and create test cases for bill redesign. 
+Work with the business and vendor to create test cases for Energy trading and risk management. 
+Recognize team effort and reward the team to keep motivated and deliver high performance. 
+Work on execution of test cases in FUT/SIT/UAT in ALM. 
+Created test plan/strategy/summary report documents.
+Chanel USA - New York, MASKED_LOCATION					                                                             Oct ’11 – Dec MASKED_ADDRESS
+The goal of the project was to make enhancement to existing E-commerce platform under ATG-Ecommerce. The project involved implementing changes to existing online payment system such as PayPal payments, Authorize.net, shopping cart, catalogue management and search function. The project followed MASKED_NAME. 
+Responsibilities: 
+Worked with client to agree and document detailed design and acceptance criteria for both functional and non-functional requirements and for project deliverables. 
+Interviewed Subject Matter Experts and sampler users to record requirements that can be understood by management team and other stakeholders. 
+Wrote Business Requirement Specifications and integrate them into System Requirement Specification.
+Cooperated with Design team in order to develop professional template and catalog for website. 
+Participating in implementing various online payment system gateways (PayPal, MASKED_NAME). 
+Integrated data from one database to another from different web applications. 
+Worked with scrum team members to prioritized user stories from product backlog and assisted in generating sprint backlog by using MASKED_NAME. 
+Converted the business expectations (scope) into User Story document (BRD) covering all the requirements
+Created Feature list based on the requirements document-Elicitation of the feature and the requirements with the stake holders-Writing User Stories-Creation of Wireframe
+Documented business needs and created detailed Use Cases by using UML, and worked with production team to identify and map detailed existing processes.
+Worked with the Product Owner and SCRUM Master to implement the project in Agile SCRUM methodology.
+Lead developer on project to integrate previous legacy software solutions to use .NET architecture (C#, MS-SQL, MASKED_LOCATION, MASKED_NAME).
+Facilitated Scrum planning meetings to coordinate between Clients, Product Owner, MASKED_NAME. and QA teams.  
+Identified, assessed and solved complex business solutions for area responsibility, where analysis of situations or data requires an in depth evaluation of variable factors.
+Responsible for gathering high level objectives and business requirements into functional, non-functional and systems requirements and documenting business and functional requirements. 
+Acting as a liaison between the technical, business, testing groups to provide them with required specifications and to resolve any issues in between. 
+Collaborated with data analyst team to design model and create data mapping documents and participated in data analysis and created reports with business objects.
+Prepared Use Cases, Business Flows, Process maps and Work Flows Diagrams for effective plans. 
+Conducted group discussions and meetings to implement concepts into the system. 
+Developed project templates, traceability relationships, user stories, Sequence Diagrams, Activity Diagrams, and Class Diagrams. 
+Generated transactional reports by using SQL server then further used those reports for process gap analysis which lead to the re-engineering of the existing transactions involved between Order routing and Payment Hub. 
+Wrote the SQL queries in SQL Developer and managed the database and assisted in making Data warehouse and doing Data profiling.
+Tracking project issues/stories in MASKED_LOCATION.
+Involved in creating a detailed Test Plans, Test Cases and Test Scripts for different modules in the application according to the Business Requirement Documentation. 
+Conducted meetings with the Project Manager and Business stakeholders to review the products. 
+Managed complete redesign and launch of the web portal for rebranding the company.
+Midfirst Bank, MASKED_LOCATION, OK		                             	                                                                           Nov ‘09 – Sept ‘MASKED_ADDRESS. 
+MIDFIRST is a financial service company offering a variety of banking products and financial solutions like personal banking, small business, retail banking, home financing and equity loans, asset management, wealth management, corporate and investment banking and credit card services to its customers. It is an online banking application that enables customers to access their checking and savings accounts, and credit card account using the Internet. The application produces e-statements and lets Customers go “paperless”.
+Responsibilities:
+Conducted user interviews, gathered requirements, analyzed, and documented Business requirements based on the analysis of the workflow model.
+Work with trading desk daily in order to streamline pricing processes for all collateral 
+Conducted workflow, process diagram and gap analyses to derive requirements for existing systems enhancements.
+Conducted interviews with end-users to collect requirement and business process information.
+Developed business process models in RUP to document existing and future business processes.
+Designed and developed project document templates based on SDLC methodology.
+Developed business requirement specification documents as well as high-level project plan. 
+Data mapping, logical data modeling, created class diagrams and ER diagrams and used SQL queries to filter data within the MASKED_NAME database.
+Converted various SQL statements into stored procedures thereby reducing the Number of database accesses.
+Designed and developed Use Cases, Activity Diagrams, Sequence Diagrams, and OOD using UML.
+Relieved pressure off the PM by maintaining artifacts and portions of the project binder. 
+Assisted the Project Manager to develop both high-level and detailed application architecture to meet user requests and business needs.
+Worked with the business users to define business requirements and analyze the possible technical solutions.
+Maintained configuration and change management using BMC Remedy Atrium
+Assisted with user testing of systems, developing and maintaining quality procedures, and ensuring that appropriate documentation is in place.
+Functioned as the primary liaison between the business line, operations, and the technical areas throughout the project life cycle.  
+Performed task decomposition, delegated tasks and monitored project milestones using MS Project.

@@ -1,0 +1,97 @@
+TEJASWI S								Employer Details
+MASKED_EMAIL					        Mail: MASKED_EMAIL 
+      					                                      Phone: MASKED_PHONE
+PROFESSIONAL PROFILE
+Senior Business/System Analyst with a strong technical background, energized by problem identification and resolution. 
+SUMMARY
+Over 7 years of experience in Business and Systems Analysis working in various domains – Financial, Mortgage, Retail and Healthcare. 
+Experienced in all phases of Software Development Life Cycle (SDLC) methodology (such as requirement, analysis, design, data modeling, business process modeling, implementation and deployment).
+Experienced in various SDLC methodologies – Agile, MASKED_NAME and RUP 
+Capable of managing multiple projects simultaneously.
+Exceptional problem solving and sound decision making capabilities. 
+Experience in writing queries/scripts for data analysis ad QA report testing.
+Excellent data analysis skills.
+Extensive experience in gathering Business/Functional user requirements, creating Use Cases as per user requirements, developing/designing diagrams such as Activity, Class, and or Sequence diagrams, and in addition to creating Business Requirements Document (BRD).
+Organized, goal-oriented, self-starter, and ability to master new technologies, manage multiple tasks while following through from start to completion. 
+Flexibility in adaption to a wide range of work environments.
+Experienced in requirement gathering including Joint Application Development (JAD) and requirement analysis.
+Ability to inculcate new relevant skills with ease in a time sensitive frame.
+Experience in writing Use cases and Functional Requirement Document. 
+Knowledge of ISO, Six Sigma and CMM standards.
+Experience in working with SMEs and interacting across the hierarchy from architects, to data modelers, underwriters and risk analysts to gather requirements. 
+Experience in creating User Interface wireframes mock up’s.
+Strong knowledge in importing/exporting data across various database platforms to perform analyses.
+TECHNICAL SKILLS
+WORK EXPERIENCE
+JPMC is a combination of several MASKED_LOCATION Banking companies providing investment banking, asset management, private banking, private wealth management, and treasury & securities services divisions.  Worked on multiple projects that involved data movement across legacy systems to a MASKED_NAME based platform, testing financial applications and developing functional requirements specifications for applications supported. 
+Responsibilities:
+Developed high level process flows and presented them to various business users.
+Organized, set up and facilitated JAD sessions, user story workshops and functional design review meetings.
+Worked as a Decision Analyst and created business rules in MASKED_LOCATION decision manager.
+Worked with the QA, to help them understand use cases and help them build valid test scenarios and scripts.
+Worked with LOB partners to seek sign-off approval for production defects validations and UAT testing.
+Updated application specific business specification documentation based on updated to functionality of the systems. 
+Coordinated with all project team members to ensure project needs are clearly understood and supportable.
+Conducted peer review meetings periodically to keep track of the project’s milestones.
+Conducted GAP Analysis of current state (As-Is) and proposed state (To-Be) situations and represented in MS MASKED_NAME. 
+Provided assistance with creating data flow diagrams.
+Created source to target mapping documents.
+Generated Requirements Traceability Matrix. 
+Analyzed data extracted from different tables using SQL to ensure accuracy in the source to target flow documentation process.
+Created Activity Diagrams, and Sequence Diagrams using UML in MS MASKED_NAME.
+Created the Data Dictionary and updated the MASKED_NAME for all the data attributes related to project.
+Reviewed the Data Models and updated Data Mapping Documents as needed. 
+PNC Financial Services                                                                                                 MASKED_LOCATION, OH
+Technical Business Analyst                                                                                             Nov 2013–Aug2015
+PNC Financial Services Group is one of the nation’s largest diversified financial services organizations providing retail and banking; residential mortgage banking. I was responsible for gathering requirements; functional specification and test plan for projects like Retail Consumer Credit and Commercial Credit Redevelopment projects & Data Quality and Governance projects.
+Responsibilities:
+Conduct kick-off and on-going meetings with client management and executives for best course of action, on-going requirements and implementation planning.
+ Documentation regarding course of action, responsibilities, meeting minutes and project statistics (on-time, on-budget).
+Created detailed business requirements and Functional Specification for conversion from multiple departmentalized systems, web applications and manual processes into one integrated system.
+Assigned tasks among development team monitored and tracked progress of project following Waterfall Methodology. 
+Assisted in design review meetings making sure all the requirements are covered in the development project scope.
+Created detailed business requirement documentation for current and new functionality
+Reviewed initial Program Scope and provided input in to project timeline/milestone, staffing and project work plan.
+Create Scope Impact with risk assessment and process documentation detailing requirements and solutions for both phased and full installations, offering alternatives and options to build within budgets. 
+Analysis to incorporate the necessary personnel for business, IT, data administration, security and outside business partners into the development team.
+Perform data mapping and conversion of data from one system to another. Executed SQL queries to validate the data mapping conversion.
+Conduct training sessions for new processes and new personnel.
+Create large volume test plans that include all related criteria to changes and to ensure unaffected code is stable, detailing expected results and actual results.
+Researched current system, recommending processing and system functions to enhance ease of system use. 
+Published test execution status reports and provided additional testing metrics as appropriate.
+Delivered and maintained extensive documentation for future extendibility of the system.
+Amerigroup Solutions                                                                                          MASKED_LOCATION, VA
+ Business Analyst                                                                                                             Jan 2013–Oct 2013
+Currently serving approximately 3.5 million members in 12 states nationwide, Amerigroup is dedicated to offering real solutions that improve health care access and quality for our members, while proactively working to reduce the overall cost of care to taxpayers. Worked as a Business Analyst for improving an existing reporting system with business intelligence modules and dashboards.
+Responsibilities:
+Co-ordinated with cross-functional teams and conducted in-depth analyses of existing reporting systems and suggested improvements.
+Led requirements review meetings and obtained necessary approvals from all stakeholders and baselined the requirements documents.
+Conducted meetings with Subject Matter Experts (SME’s) on a regular basis to gather requirements and identify KPI’s.
+Conducted Gap Analysis and suggested process improvements.
+Participated in white boarding sessions, release prioritization meetings, and team retrospectives.
+Developed UAT strategy and ensured execution of test cases and resolution of defects.    
+Conveyed business vision and goals associated with feature sets clearly to the development team in order to ensure that delivery is focused on business value. 
+Created Functional Requirements documents from Business Requirements.
+Status reporting - Sent weekly status reports to the client.
+Created various Use Cases, Activity diagrams, Sequence Diagrams and other UML diagrams by using MASKED_NAME. 
+Performed GAP analysis and created related GAP analysis document to estimate the project progress by seeing the state of actual and expected state. 
+Developed Test approach and Test plan involving all the functional requirements that are been documented. 
+Johnson Financial Group                                                                                             Norcross, GA
+Business Analyst                                                                                                             Apr 2010–Dec 2012
+The Johnson Financial Group offers a wide range of financial services including Life Insurance, Long Term Care, Portfolio Management, Business Succession Strategies, Educational Funding, Estate Preservation, Financial and Retirement Planning.
+Responsibilities:
+Served as a liaison between the business analysis team and the technology services group for the latest release for asset management reporting and systems. 
+Utilized System Development Life Cycle (SDLC) to facilitate project fulfillment and delivery.
+Responsible for the identification, analysis and resolution of metadata issues.
+Coordinated User Acceptance Testing/Defect prioritization for incorporating the latest system enhancements.
+Conducted meetings with SME’s and analysts on a regular basis to gather requirements and analyze workflows.
+Created project repository for managing project artifacts and deliverables.
+Communicated project status, escalated issues, and managed timelines and action items.
+Managed any change requests related to the working project daily to meet the agreed deadlines.
+Worked with business in documenting and tracking the enhancements for the system.
+Worked with the QA team helping them create Test Plans, Test Requirements, Test Cases and Test Scripts.
+CERTIFICATIONS/TRAININGS
+Inteq’s Business Systems Analysis Training Course
+Oracle SQL Training at Learning Tree
+EDUCATION
+Bachelors in Management, State University of New York, MASKED_LOCATION, 2010

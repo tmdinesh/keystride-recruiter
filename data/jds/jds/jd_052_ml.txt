@@ -1,0 +1,76 @@
+ROLE: Project Manager - Automotive Unit
+SOURCE: Arbeitnow
+URL: https://www.arbeitnow.com/jobs/companies/simi-reality-motion-systems-gmbh/project-manager-automotive-unit-unterschleissheim-428092
+
+ZF LIFETEC is one of the world's leading suppliers of passive safety systems. As Simi Automotive, a global innovation leader for motion capture software and complete systems for recording and analyzing human movements and a subsidiary of ZF LIFETEC, we contribute our experience with camera-based systems to the development of solutions for occupant safety. Together with our colleagues at ZF LIFETEC, we are working on adaptive restraint systems.
+
+Tasks
+
+As the central Project Manager for our agile team you will be the engine that keeps our AI-driven projects moving. You will act as the bridge between our specialized AI engineers, software developers, and infrastructure experts, ensuring that our cutting-edge automotive solutions are delivered on time and to specification.
+
+Your focus will be project execution, technical requirements, and process improvement. You will work in a high-trust environment where your input is valued, functioning as a fast-moving accelerator unit backed by the stability of our parent organization.
+
+Key Responsibilities
+
+Plan & Track:
+ Take full ownership of project planning, timeline tracking, and milestone delivery, coordinating closely with our Tech Lead and engineering teams.
+
+Process Architecture:
+ Analyze our current ad-hoc workflows and build efficient, scalable processes (e.g., Agile/Scrum) that fit our specific needs.
+
+Requirements Engineering:
+ Collect, analyze, and document technical requirements from customers and partners, translating them into clear tasks for the team.
+
+Bridge the Gap:
+ Facilitate communication between AI engineers, C++/Python developers, and non-technical stakeholders to unblock dependencies.
+
+Customer Engagement:
+ Occasionally travel to partner and customer sites to present progress, clarify requirements, and discuss integrations (collaborating with our Field Application Engineer).
+
+Strategic Documentation:
+ Establish and maintain clear project documentation (KPIs, roadmaps, risk assessments) to ensure transparency across the team.
+
+Requirements
+
+Required Qualifications
+
+Language Skills:
+ Business fluent English is mandatory, German fluency is beneficial.
+
+Project Management Experience:
+ 35 years of experience managing technical projects, ideally within automotive, embedded software, or AI sectors.
+
+Process Builder Mindset:
+ Proven ability to not just follow existing rules, but to create, refine, and implement new processes in a dynamic environment.
+
+Requirements Expertise:
+ Experience in gathering requirements and translating business needs into technical specifications.
+
+Tech-Savviness:
+ Sufficient technical understanding to grasp software development lifecycles and communicate effectively with AI experts and system engineers.
+
+Adaptability:
+ Willingness to handle a mix of high-level management and hands-on operational tasks (e.g. creating tickets, refining backlogs).
+
+Preferred Qualifications
+
+Automotive Background:
+ Familiarity with automotive standards (e.g., ASPICE) or OMS systems.
+
+Tool Proficiency:
+ Experience setting up or optimizing project management tools (e.g., Jira, Confluence, Integrity).
+
+Agile Knowledge:
+ Practical experience with Agile or Scrum methodologies.
+
+Corporate Interface:
+ Experience navigating the relationship between a small agile unit and a larger corporate structure.
+
+Technical Background:
+ A degree in engineering or previous experience as a developer is a plus, but not required if the technical understanding is there.
+
+We offer the opportunity to take on responsibility and make a difference, flat hierarchies and flexible working hours. In addition to working in our new, modern office in Unterschleiheim, it is also possible to work from home part of the time. A highly motivated team of software developers and machine learning experts who work together with the target to make driving even safer is looking forward to meeting you!
+
+Find 
+Jobs in Germany
+ on Arbeitnow

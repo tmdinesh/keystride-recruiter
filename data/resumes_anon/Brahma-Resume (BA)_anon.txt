@@ -1,0 +1,144 @@
+RESUME
+                                                                 Name: Brahma Prathi
+                    Ph No: MASKED_PHONE
+Email ID: MASKED_EMAIL
+Business System Analyst
+Summary: 8+ years of experience, discipline and highly-motivated Business System Analyst, Data analyst and Quality Analyst with healthcare domain who has worked on a wide range of projects.  An accomplished and fluent communicator with strong investigation, problem-solving and decision-making skills, combined with a pragmatic approach and sound business acumen. Highly accomplished in fields such as IT knowledge specific to Healthcare and have complete knowledge of all phases of the software development life cycle (SDLC) gained over working on various projects for different clients. I prepare, analyze, and gather business requirements, business processes, mapping and the development of interactive prototypes.
+Professional Skills:
+Strong knowledge of HIPAA standards 4010 & 5010, ICD-9, ICD-10, EDI, HL7, HIX (Health Insurance Exchange), Health Care Reform.
+Develop different EDI healthcare transactions like 837 for submitting claims, 835 for payments, 834 for benefit enrollment, 270,271 for health care benefits and eligibility, 276, 277 for claims status and 278 for transmitting health care service information.
+Proficiency in the child welfare and case management business area, policies and domain knowledge in child welfare programs
+Experienced on Claims, Payments, Medicaid, Medicare, Provider, Portal, Billing, and Benefits.
+Extensive experience in performing GAP analysis, SWOT analysis, Cost benefit analysis, Risk analysis.
+Hands on experience in analyzing and documenting Business Requirements Documents (BRD), Functional Requirements Documents, Use Cases and Requirements Traceability Matrix (RTM).
+Broad knowledge on Waterfall, RUP and Agile methodologies.
+Incomparable analytical skills in understanding the business process, understanding the functional requirements and translating them to system requirement specifications (SRS).
+Information and understanding in conducting Joint Application Development (JAD) and Rapid Application Development (RAD) sessions. Conducted Requirement Gathering Sessions and interviewed Subject Matter Experts, gathered detailed functionality aspects of business process and updated the information to the requirements in an easily comprehensible format.
+Broad experience in creating business process flow diagrams, UML (Unified Modeling Language) tools to create Activity, Sequence and Collaboration diagrams.
+Robust experience in writing SQL queries for Data Analysis and QA report testing.
+Business Analysis, Supporting Strategy management, MASKED_LOCATION relations, Business modeling, CRM & Workflow, Test planning MS Office, MS Project, MASKED_NAME, MS Excel.
+Develop workflows that demonstrate current and proposed business requirements.
+Knowledge and expertise in system design and development required for business process.
+Aptitude to construct process models including data dictionaries and volume estimates.
+Experienced in creating Data models, Data designs, data Integration and writing complex SQL queries.
+Understanding service objectives and capturing business requirements through active listening & questioning techniques.
+Keeping abreast of new legislation, company strategy and policy and being able to identify its impact on business projects.
+Experience in creating User Manuals and providing training to users.
+Inventive and Aggressive person capable of forming and maintaining positive and productive team environments with integrative thinking skills.
+Exceptional Problem Solving and Sound Decision Making capabilities, along with the ability to resolve difficult situations.
+Capable to prepare written proposals, requirements specifications, invitations to tender and solution specifications.
+Able to identify business & systems process improvements from Big Picture to detail level.
+CERTIFICATION AND TECHNICAL SKILLS
+Languages:	
+                                  SQL, PL\SQL, HiveQL, SAS, R, XML, MASKED_NAME, Python, .Net
+Tools & Environments: 
+                                        MS Office, MASKED_NAME, SQL Server SSIS, SSRS, Oracle Developer, MASKED_LOCATION, MASKED_LOCATION, Power BI, SAS EM, ERwin Data Modeler, WebI, SAP Business objects, UDT, Excel, Rational Rose, MASKED_NAME, MASKED_NAME, JIRA, Confluence, MS Visual Studio
+Certifications:       
+                                        SAS Certified Data Mining and Business Intelligence professional, Google Analytics and AdWords Certified Professional, Certified Microsoft Technology Associate (MTA) in .NET, Advance communicator Silver and Advance Leader MASKED_NAME by Toastmasters International
+Work Experience:
+DST Health Solutions, MASKED_LOCATION, MASKED_LOCATION		                                                    July 2016 -Present
+Sr. Business System Analyst
+Project Description: The project was on create claim management system which has benefit module for all Medicare part D and Medicaid expansion plans for states. The project was also utilizing analytics for optimization of processes and benefits.
+Responsibilities: 
+Gathered requirement through workshops and JAD sessions. 
+Developed documents like BRD, FRD, Data specification document, technical specification documents, file transfer document, Data mapping document etc.
+Participated in analysis workshops for ICD 9 Procedure and Diagnosis Codes in accordance with ICD 10 CM and ICD 10 PCS Conversion Compliances.
+Developed Use case diagrams, activity diagram and system design diagrams.
+Validated CPT, HCPC, ICD  9 code sets from Data Flat files to support configured benefit plan building.
+Managed global administration and support of the Documented based Regulatory Electronic Document Information System (EDMS).
+Facilitated Electronic Data Interchange (EDI) and storage in the ICD-10. 
+Worked on HIPAA Transaction Sets 837P and 837I Standards as per the test scenarios.
+Created Test Conditions from business requirement document and functional requirement document.
+Processed Medicaid claims and worked on X12 format of EDI 837 and EDI 835 for Medicaid claims.
+Accessed Diagnosis Master File and Crosswalk Mapping file to use ICD Diagnosis and Surgical Procedure Codes.
+Performed GAP Analysis to make sure that all requirements were covered by test cases.
+Prepared and submitted weekly test status reports to QA Lead.
+Developed SQL scripts for mining medical claim cases which helped in making faster decisions for over 400 healthcare-835, EDI cases
+Conducted JAD sessions with the stakeholders to solve Amisys Advance claims and presented solutions using structured SDLC approach
+Designed data flow and mined data for HIPAA/ICD/EDI claim analysis that helped expedite the process of Medicaid claim processing
+MASKED_NAME and risk analysis on workflow and business rule models to create project specific action plans for HIPAA implementation
+Created PL/SQL procedures and performed data stage transformations, benefiting data flow of over 2000 claims and 5 functional areas
+Collected data from EDI, HIPAA, 837,835 CRM transactions which helped in smooth functioning of Medicare and Medicaid entities
+Worked on EDI 834 to validate new enrollment and dismiss the enrollment.
+Accepted and validated messages in EDI 999 form like accepted, rejected, and accepted with error.
+Coordinated System and Regression testing schedules and completed the same. 
+Ensured the functionality meets business requirements as defined in test results logged in RQM.
+Developed Test Cases to test the functionality of the system based on the test conditions.
+Extensively used Rational Quality Manager to monitor the progress of assignment of testing activities and Reported executed results.
+Logged the defects in MASKED_LOCATION tool, assigned the right severity level and managed the defects through it.
+Analyzed several defects related to Edits & Audits functional area along with the help of a SME.
+Conducted KT sessions for Member, Provider and Service Authorization.
+Environment: MS Office, MASKED_NAME, Rational ClearQuest, Windows 7, MASKED_LOCATION, PLSQL, JIRA, CRM, Oracle10g
+Texas State DHHS, MASKED_NAME, TX                                                                                       Jan 2013 to June2016
+Sr. Business System Analyst/Data Analyst
+Project Description: The project was about to implemented new business processes in MMIS and integrates MMIS with Integrated Eligibility System.
+Responsibilities:
+Conducted user interviews, gathered requirements, analyzed and documented business requirements in BRD 
+Balanced competing project constraints such as scope, quality, schedule, budget, resources, and risks.
+Involved in MASKED_LOCATION, sprint planning and making work ready for releases and sprints.
+Created strategy for risk detection, risk management, Risk Mitigation and dependencies.
+Performed user storytelling and grooming using CA Rally.
+Worked with contract manager to develop and modify project plans on routine basis and jointly provided weekly high-level briefings on status of individual projects to senior State IT management and to review IV&V outcomes on a periodic basis.
+Conducted JAD sessions between multiple cross functional team to resolve problem and requirements pass on.
+Created process flow of case management for healthcare Assistance Eligible member in IBM Curam.
+Created process flow of case management for TANF  Eligible member
+Current areas of focus include IV&V initiatives, program support initiatives, and human services cost allocation.
+MASKED_NAME all professional documents on SharePoint.
+Responsible for maintaining share-point directories and document template for my project using share-point.
+Worked on Medicaid Managed care programs, encounter claims and Medicaid eligibility program.
+Gathered and managed XML elements for portals.
+Developed Technical Design Document and helped Architect in developing System architecture document.
+Filtered applicant using different business cases to create a separate flow to route them for better case management services.
+Developed functional specifications and system design specifications consistent with findings of Independent Validation and Verification (IV&V) audit based on knowledge of existing system specifications.
+Created Swim lane diagram, process flow diagram, Activity diagrams, use cases diagram using MASKED_NAME.
+Worked on HIPAA EDI 837, EDI 835, CPT and ICD10 codes and state eligibility policies.
+Worked on creating project end to end process flow using BPMN 2.0 in MASKED_LOCATION tool and MASKED_NAME.
+Prioritize user stories for each release and sprint as product owner.
+Assign task to other BA and estimated their work effort.
+As a part of IV&V team, conducted assessment to cooperatively facilitate evaluation of the sub-components and services necessary for a complete solution to meet business.
+Trained other Team members so they can perform in expected format.
+Research to gather business requirements from valid sources by myself and convert them in MASKED_LOCATION, functional and non functional requirements.
+Supported in architecture, High level UML diagrams and prototype of proposed solution.
+Test rules service requests and response using REST and SOAP.
+Created HL Design and low level design Medicaid eligibility.
+Environment: MS Office, Quality Center, SQL Server, MASKED_LOCATION, MS Project, MASKED_LOCATION, MASKED_NAME, Unix, SQL, HTML, MASKED_NAME, XML, Rational ClearQuest, Windows 7, AWS, MMIS.
+American Family Insurance, MASKED_NAME, WI						     Jan 2012 to Jan 2013
+Sr. Business System Analyst
+Project Description: To create a web based application which would automate the claims process and reduce costs. Application was an Electronics Claims Processing (ECP) system designed to accept the electronic claims coming from the various providers (doctors and hospitals) and process them. The project involved HIPAA 4010 to HIPAA5010 conversion.
+Responsibilities:
+Implemented RUP methodology for iterative and incremental development of the system.
+Involved in the creation of the Mockups and Use Cases for MACD quotes and Orders using MASKED_NAME.
+Coordinated with the stakeholders and project key personnel to gather functional and non-functional requirements during JAD sessions.
+Recorded requirements in the Requirement Traceability Matrix (RTM) defining each technical requirement in detail from areas like: main hardware, application software, networks, servers, internet and desktop configuration.
+Planned RUP iterations and documented the artifacts throughout the various phases of the development process.
+Propose strategies to implement HIPAA 4010 to HIPAA 5010 changes in the System.
+Developed an implementation guide for Partners for HIPAA 5010EDI X12 transactions such as 837 (medical claims), 835 (medical claim payments), 270 (eligibility inquiry), 271 (eligibility response), 276 (claim status), 277 (claim status response), 820 (enrollment), and 834 (premium payments).
+Studied the existing business process and created AS-IS workflow to illustrate the existing system.
+Prepared Logical Process and Data Models that contained set of diagrams and supporting documents containing the essential business elements, detailed definitions, and descriptions of the relationships between the data elements to analyze and document Business Data Requirements. 
+Compiled the Vision Document and composed detailed Specification Documents in Rational RequisitePro.
+Created UML class diagrams, use case diagrams and sequence diagrams to view the system from different perspectives. 
+Incorporated stakeholder feedback throughout project lifecycle to ensure project quality and customer satisfaction.  
+Created Technical documentation for the project using tools like MASKED_NAME, Word, etc. 
+Used MS Project for managing schedules, resources and collaboration.
+Produced complete data mappings and data conversion documents needed for the Claims application.
+Performed Functional and GUI Testing to ensure that the user acceptance criteria are met.
+Co-coordinated the UAT with the SME’s to make sure that all the Business Requirements are addressed in the application.
+Formed detailed UAT and QA test plans, managed system testing and preserving testing documentation.
+Environment: MS Office, MS Project, MASKED_NAME, SQL, Oracle, Test Director, Rational Unified Process (RUP), MASKED_NAME (RequisitePro, ClearQuest),Business Objects, MASKED_LOCATION.
+Apollo Hospital, MASKED_LOCATION, MASKED_LOCATION 						                        Jan MASKED_ADDRESS
+Project Description: To develop Customer Billing and Management System
+Responsibilities:
+Writing requirement specifications and functional specifications participation in requirement session with clients and communicate to stakeholders assisted with Sr. Manager
+Perform User Acceptance Testing of developed software of Revenue Cycle Management. 
+Identify source of requirements and develop priority matrix.
+Gather requirements, Elicitation & write functional design specification with minimal supervision.
+Work with both internal and external stakeholders across locations.
+Interviews, surveys and analysis of historical data. Organize brainstorming, facts-finding and structured walk through sessions.
+Modeled data into RDMS structure that helped in reporting and maintaining over 200 vendor and client data using MASKED_NAME
+Enhanced security of consumer data by re-engineering the data warehouse model to include customer specific parameters
+Managed billing systems and collaborated with customer service teams which led to 6% increase in positive customer feedback
+Research problems and share results and understanding with the test team with domain and functional knowledge
+Test the application and Interact and liaise with the technology team to resolve functional & technical queries as a good skilled problem solver
+MASKED_NAME as a conduit for effective communication between team members in MASKED_LOCATION and team members in MASKED_LOCATION, Works well with all levels of staff with strong presentation skills
+Review user documentation of projects and participate in test plan development with exceptional organizational skills
+Environment: Agile,MASKED_NAME, SQL Server, MS Office MASKED_NAME, HP Quality Center

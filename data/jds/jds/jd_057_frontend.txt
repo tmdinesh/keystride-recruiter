@@ -1,0 +1,5 @@
+ROLE: Frontend Developer
+SOURCE: Adzuna
+URL: https://www.adzuna.com/land/ad/5593994418?se=PMQUpIsY8RG5rcA4CVuJpQ&utm_medium=api&utm_source=e34e223e&v=2C02D75A7CF27CC4BB560DD52075D24C4C6C8C43
+
+Vianai is looking for an experienced Frontend Developer who will define and deliver the strategy and roadmap for a human-centered AI experience throughout a growing collection of ML products. Our ideal Frontend Developer is hands-on, collaborative, self-motivated, and innovative. She or he should be as excited as we are to create human-centered AI products poised for rapid growth and continued success. Expectations :  The candidate will be part of the ML data science and engineering team to bu

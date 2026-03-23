@@ -1,0 +1,45 @@
+ROLE: Junior Frontend Developer
+SOURCE: Synthetic
+URL: N/A
+COMPANY: CloudBridge Inc
+
+============================================================
+  JUNIOR FRONTEND DEVELOPER
+  CloudBridge Inc
+============================================================
+
+ABOUT THE COMPANY
+----------------------------------------
+CloudBridge Inc. is a leading technology firm specializing in building robust, scalable cloud-based solutions for enterprise clients. We are dedicated to innovation, leveraging cutting-edge technologies to deliver exceptional products that empower businesses to thrive in the digital age.
+
+RESPONSIBILITIES
+----------------------------------------
+  • Develop and maintain responsive, high-performance user interfaces for web applications using React.
+  • Collaborate closely with senior developers, designers, and product managers to translate requirements into functional user experiences.
+  • Write clean, well-documented, and maintainable code following established coding standards and best practices.
+  • Participate in code reviews, testing, and debugging to ensure the quality and reliability of frontend components.
+  • Actively learn new technologies and continuously improve development skills to contribute to team and project success.
+
+REQUIRED SKILLS (Must-Have)
+----------------------------------------
+  ✅ React (experience with hooks and component lifecycle)
+  ✅ JavaScript (ES6+ proficiency)
+  ✅ HTML5
+  ✅ CSS3 (including responsive design and preprocessors like SCSS/Sass)
+  ✅ Git version control
+  ✅ Understanding of RESTful API integration
+
+PREFERRED SKILLS (Nice-to-Have)
+----------------------------------------
+  ⭐ TypeScript
+  ⭐ Next.js or similar React framework
+  ⭐ Familiarity with UI/UX principles or design tools (e.g., Figma, Sketch)
+
+EXPERIENCE & EDUCATION
+----------------------------------------
+  Experience: 0-2 years
+  Education:  Bachelor's degree in Computer Science, Software Engineering, or a related technical field, or equivalent practical experience.
+
+COMPENSATION
+----------------------------------------
+  $65,000 - $80,000 USD

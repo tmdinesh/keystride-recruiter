@@ -1,0 +1,105 @@
+SHASHANK TIWARI
+MASKED_EMAIL                                                                                            MASKED_PHONE MASKED_LOCATION, NJ (07306)
+SUMMARY:
+Over seven years of experience as Business Analyst/Scrum Master with solid understanding of Business Requirement gathering, Business Process Modeling and database/data warehouse experience
+Extensive experience of communicating with Subject Matter Experts (SME’s), performing requirement gathering, business analysis, data analysis, and documentation
+Expert in facilitating Agile ceremonies, coached team in JIRA, Service Now including concentrated efforts with product owner on user story/epic/feature optimization
+Proficient in Agile engineering process such as Test Driven Development (TDD), Behavior driven Development (BDD), MASKED_NAME integration.
+Orchestrated various business analysis activities such as GAP, ROI, Risk, SWOT, Cost and Impact analysis.
+Excellent Business writing skills in writing business requirements document, USE Case specifications, functional specifications, systems design specifications, system requirements specifications, data dictionary, business continuity plan, and data/work flows
+4 Years of experience in Data Analysis, report generation, maintenance of business report processes, and data verifications and validations
+Proficient in defect management activities using JIRA, HP QC and Rational Clear Quest
+Experienced in tracking and managing requirements using Requirement Traceability Matrix (RTM)
+Specialist in creating Use Case Models, Process Flows Diagrams, Workflow Analysis and Functional Decomposition Analysis
+Proficient in writing queries, store procedures, triggers, views in SQL server and Oracle server
+Experience in Business Intelligence, Data analysis, Data mapping, Data Warehouse, CRM and ERP
+Masters - Business Administration; Post MASKED_NAME in Management.
+PROFESSIONAL EXPERIENCE:
+Goldman Sachs, MASKED_LOCATION (Client) 
+Business Analyst:                                                                                                                                                         Sept 2017 – Present
+Facilitating and managing meeting sessions with committee of SMEs from various business areas including loan Servicing, Loan Monitoring and Asset Management
+Conducting user meetings to identify business rules and requirements and then documented them in a format that can be reviewed and understood by both business people and technical people.
+Created, managed and prioritized the Product Backlog.
+Conducted Product Backlog grooming sessions with product owner and facilitated Daily Scrum meetings.
+Elaborated the user stories with the development and QA and responsible for ensuring user stories have meet the acceptance criteria.
+MASKED_NAME, manage and mitigate risks, impediments, and dependencies.
+Agile methodology mentor for new team members.
+Actively assisted in the acceptance and validation of the stories by testing the delivered stories.
+Performed disaster recovery tests to ensure system availability and functionality
+Responsible for analyzing report requirements and developing the reports and using MS SharePoint for centralized project documentation.
+Devised system to generate automated Business Intelligence reports for the internal users.
+Provide the data warehouse team with information to support the analysis of the data requirements for reporting.
+Prepared Business Process Models including business process flows from conceptual to procedural level, often applying BPR to optimize resource optimization
+Controlling project resources, planning and implementation using MS Project, SharePoint and AGILE methodologies
+Performing requirement elicitation from walkthroughs with the users and business developers. 
+Assisting the technical team in translating application functionality into application architecture and the production of a System Functionality document
+Coordinated and performed Unit testing, Integration testing and Regression testing of the system with the QA team
+Texas Southern University, MASKED_LOCATION
+Graduate Assistant:                                                                                                                                                      Jan 2016 - Jun 2017
+Worked extensively with the users and with different levels of management to identify requirements, Use cases and developed functional specifications
+Prepared Current  and future business process flow diagrams, integrated process flow diagrams to show one end-to-end business model and process mapping including swim lanes
+Conducted JAD sessions with management, SMEs’, Vendors, Users and other Stakeholders for open and pending issues
+Provided executive communications during all phases of the high severity incidents
+Used SharePoint for developing and maintaining an online resource site, including an "encyclopedia" that incorporates policies, procedures, best practices, FAQs, etc.
+Involved in all status meetings with users (QVC), as well as with different vendor teams
+Facilitated UAT, developing and maintaining quality procedures, and ensured that appropriate documentation is in place
+Dorset Kaba Security System Pvt Ltd, MASKED_LOCATION, MASKED_LOCATION
+Sr. Business Analyst                                                                                                                                                      Sept 2014- Jul 2015
+Created a RACI matrix to enhance the project management and business analysis efforts, and streamline the recognition of roles and responsibilities of the entire project team, including the stakeholders, and sponsors, etc.
+Drafted Statement of work (SOW), user stories, and improved team performance with the help of team velocity, burndown charts.
+Facilitated Agile manifesto and servant leadership across the enterprise with version one 
+Participated in Scrum Sessions, presented statistics about time estimation accuracy, team velocity, and burn down rate to manage each sprint.
+Led teams for building projects using software blue prism to automate IT/Business Process end to end
+Responsible for drafting business requirements, functional specifications, documentation and test plans
+Worked with project team to identify and map detailed current processes, identified gaps and failure points, performed root cause analysis and developed functional requirements that supported overall strategy, goals and objectives
+Created a continuous improvement process for my three departments leveraging KPI’s, and performance metrics resulting in all 3 departments going from not meeting their SLA’s to achieving the SLA’s.
+Managed a variety of contracts and subcontracts in accordance with company policies and procedures
+Assured compliance to required corporate standards, procedures, guidelines and processes, including audits.
+Assisted in development of training materials for new technology and process improvement
+Responsible for identifying and documenting business rules, prepared detailed Use Cases and conducted User Acceptance Testing
+Assisted QA team to developed test plan, test conditions and test cases to be used in testing based on business requirements and technical specifications
+MASKED_NAME (I) Ltd, MASKED_LOCATION, MASKED_LOCATION
+Sr. Business Analyst:                                                                                                                                                        Apr 2012 - Aug 2014
+Extracted and Gathered the business requirements like extensive search capabilities, sourcing tools from the business experts and architects, developed Functional Specifications and User cases
+Worked Tremendously on SALESFORCE CRM to set up new accounts, manage teams and issue resolution
+Involved in writing Business Rules to support recommendations for resolving business and technical issues
+Participated in SWAT meetings (JAD Sessions) to develop an architectural solution and ensure that the application meets the business requirements, resolve open issues, and change requests 
+Analyzed Software Requirements documents and Business Requirements documents to get a better understanding of the system on both Technical and Business perspectives
+Created Use Case Diagrams, and Activity Diagrams, using MASKED_NAME according to UML methodology
+Conducted GAP Analysis in understanding how the upgraded system carries out the business functions and assists in ensuring the timely and effective implementation
+Conducted and participated in walkthroughs to discuss issues with the development, design and QA team
+Interacted with the Developers, QA and Engineering teams for resolving the report bugs and technical issues through Sales force CRM by SQL querying on “TOAD”
+Extensively worked with QA team to perform Unit testing and regression testing.
+Conducted User-Acceptance Testing before the release of the product to Business. 
+ANG India Ltd, MASKED_LOCATION, MASKED_LOCATION
+Business Analyst:                                                                                                                                                         Nov 2010 - Mar 2012
+Interacted with Users and Stakeholders to identify business system needs, evaluated solutions for business problems
+Analyzed and documented information system requirements and the corresponding impact on business processes
+Conducted JAD sessions to allow different stakeholders to communicate with each other, resolve problems at early stage
+Studied the Business Requirement Document (BRD), supporting documents containing essential business elements, detailed definition and description of the relationship between the actors
+Designed and developed Use Case Diagrams, Activity Diagrams, and Data Flow Diagrams to define the Business Process
+Analyzed the data entity relationships and worked on multiple short term projects in between.
+Worked as a team with other business analysts to make an object oriented model of the application and created use cases 
+Hands on experience in working with active directory, to give privileges and access to the users according to their roles and designations
+Coordinated with users  for  User acceptance testing (UAT) and  QA team for system testing such as unit testing, integration testing and regression testing
+India Bulls, MASKED_LOCATION, MASKED_LOCATION 
+Analyst:                                                                                                                                                                        Jul 2008- May 2009
+Responsible for drafting and reviewing business requirements, functional specifications, project schedules,     documentation and test plans
+Designed the business requirement collection approach based on the project scope and SDLC Methodology Conducted interviews with key business users to collect requirement and business process information
+Worked with SME’s of different groups to gain detailed knowledge of Investments and Capital Market and also to understand the cross impacts of the system
+Developed business process models in RUP to document existing and future business processes
+Performed extensive requirement analysis including data analysis and gap analysis
+Functioned as the primary liaison between the business line, operations, and the technical areas throughout the project cycle
+Extensively worked on MS Access, MS Excel, MASKED_NAME, PowerPoint, SQL, MS Project
+Partnered with the technical areas in the research and resolution of system and process problems
+Conducted benchmarking activities to identify best practices
+EDUCATION:
+Masters -Business Administration (MBA)                                                                                            Aug 2015- May 2017                                                                       
+MASKED_NAME, Texas Southern University, MASKED_LOCATION MASKED_LOCATION.
+Post Graduate of Diploma in Management                                                                                                                     2011
+Institute of Productivity & Management Ghaziabad, U.P MASKED_LOCATION 
+Bachelor in Science                                                                                                                                                               2008                                                                                                          
+S.S Degree College Kanpur, MASKED_LOCATION.
+Certification:
+Scrum Master Accredited Certification                                                                                                                     Sep 2017                                                                    
+International Scrum Institute

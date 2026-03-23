@@ -1,0 +1,132 @@
+Mounika P
+Front End Developer - Wellington Management
+Hudson, MA 01749
+MASKED_EMAIL - MASKED_PHONE
+Over all 8+ Years of professional experience in Applications design, Development, Integration, Maintenance, Installation, Implementation, testing of various client/server, N-tier and web application and its design, using various UI- TECHNOLOGIES.
+Expert in developing User Interface (UI) applications and professional web applications using JavaScript, jQuery, JSP, XUL, HTML/HTML5, CSS/CSS3, MASKED_NAME, XML, MASKED_NAME and MASKED_NAME.
+Experience in applying the latest software development approaches including model view controller(MVC), event - driven applications using AJAX, Object Oriented JavaScript, MASKED_NAME and XML.
+Expertise in developing various JavaScript frameworks like MASKED_NAME, MASKED_NAME, Node.js, Knockout.js, MASKED_LOCATION, MASKED_LOCATION, MASKED_LOCATION, MASKED_LOCATION, Pdf.js, MASKED_LOCATION, Ext.JS, Responsive web design. (RWD).
+Experienced implementing Web Services using Apache SOAP, WSDL, JAX-RPC, JAX-WS, RESTful API, restful and UDDI.
+Involved in design, coding and testing of multi-tier Windows Form / WPF application and ASP.NET Application.
+Involved in converting Hive/SQL queries into Spark transformations using Spark RDD'S and Scala
+Expertise in application development using ASP.net MVC 4.0/3.0 Framework.
+Development of UI and Server side code (behind) using .net Framework.
+Experience in all phase of SDLC like Requirement Analysis, Implementation and MASKED_NAME and extensive experience with Agile and SCRUM
+Worked on React.js framework to develop interactive websites based on client needs.
+Involved in the Software Life Cycle phases like AGILE and estimating the timelines for projects.
+Experience in MASKED_LOCATION like Apache and MongoDB.
+Experienced in using Text editors like MASKED_NAME, eclipse, MASKED_NAME, MASKED_NAME, NetBeans, MASKED_LOCATION, MASKED_NAME and Notepad++.
+Utilized Pusher, Signal for real-time web communication. Bootstrap3 for styling website and phone gap / Ionic Framework App.
+Developed product using MASKED_NAME, MASKED_LOCATION and SASS.
+Front-end development using JavaScript ES6, AngularJS, jQuery and Bootstrap
+Build and MASKED_LOCATION management - GIT, MASKED_LOCATION, MASKED_NAME administration.
+Technical Skills
+Languages: C#, JAVA, UML, C, MASKED_NAME: HTML/HTML5, CSS2/CSS3, XML, JavaScript, AJAX, JQuery, JSON, MASKED_NAME, angular.js,
+bacon.js, wire.js, require.js, MASKED_NAME, Karma.
+Databases ORACLE, MYSQL.
+Operating Systems Windows [ ] Mac OS X.
+IDE & Tools Eclipse, Microsoft Visual Studio, Notepad++, Dream weaver, sublime, MASKED_NAME, MASKED_NAME.
+Applications Adobe Photoshop, MASKED_NAME, MS Office Suite, Eclipse.
+Willing to relocate: Anywhere
+Authorized to work in the MASKED_LOCATION for any employer
+WORK EXPERIENCE
+Front End Developer
+Wellington Management	-	MASKED_LOCATION, MASKED_LOCATION -
+2017-05 - Present
+MASKED_LOCATION, MASKED_LOCATION May 2017 to till date
+It is an investment company the purpose of the project is to analyze the data from different financial sectors for trading Investment Management Group for Research Data Analytics Team. Need to build data lake as data comes from different applications and internal teams, we need to build data pipeline using AWS cloud techniques Perform quality checks on top of data and do aggregations for Tableau reports. Front End Developer:
+Responsibilities:
+Design prototype MASKED_LOCATION for the UI and Responsive design implementation using web components and Google polymer.
+Strong Hands on Experience with JavaScript, framework, Ionic Framework, MASKED_NAME, CSS and XML.
+Developed web pages using Ploymer.js Forms, Components, Layouts, Events, Validations, Trees, Grids components.
+Utilized handlebar.js to create Views templates that could be reused and rendered to DOM multiple times.
+Designing WPF Forms, Custom Controls and User Controls using XAML language for interactive UI.
+Created proof-of-concept using responsive web design, node JS, React JS, modernizer JS HTML5 and CSS3.
+Involved in building stable react.js components and stand-alone functions to be added to any future pages.
+Configured ASP.net Web applications and ASP.net Web services in Microsoft IIS 7.0/6.0/5.0.
+Most recent concentration has been the design of object oriented web applications for client-server applications using angular 4, Bootstrap, CSS 3, and SASS.
+Developed Single Page Applications (SPA) i.e. Web applications using Angular.js and handlebar.js and JavaScript.
+Involved in use of angular 2.0 technologies to include, LESS and additional technologies to ensure current migration from Angular JS 1.6 to Angular 2.0.
+Migrated existing codebase from flux to MASKED_LOCATION and rebuilt react components in ES6
+Used angular to connect the web application to back-end APIs, used RESTFUL methods to interact with several API's, and wrote custom directives for a responsive, CSS-animated user interface.
+Created ASP.NET pages with web server controls for the presentation layer. Developed Servlets and Utilized Node.js to create a fast and efficient chat server.
+MASKED_NAMEMASKED_LOCATION, CA -
+2016-06 - 2017-04
+Responsibilities:
+Experience working with MASKED_NAME JS to develop single page along with dynamic web applications.
+Worked with making calls to APIs to fetch the data from the backend as MASKED_NAME response and parse it on the UI for DOM/CSS Manipulation.
+Developed front end interface using struts, JSP's, JSTL, MASKED_NAME and also Custom Tag Libraries.
+Worked with WPF designing rich MASKED_NAME, creating Custom Controls and User Controls using Expression Blend.
+MASKED_NAME for internal and promotional use. Write frameworks and pods that streamline the implementation of features for external IOS
+Comfortable using react MASKED_NAME and MASKED_NAME Simulator.
+MASKED_NAME using node.js and hosted on multiple load balanced API instances.
+Worked on angular 4.0 by consuming Restful web services & used angular 4.0 forms like Template Driven forms and Modern Driven (Reactive) forms to perform form validations both on server and client side.
+Experience using mobile APIs and specific functions of iOS such as: Core Foundation, UI Kit, Core Location, Storyboards, MASKED_LOCATION, Local Storage in Core Data, Social Accounts, MASKED_NAME, Google Maps, Push Notifications, MASKED_NAME, cloud integration, Camera, Animations, MASKED_NAME, In MASKED_NAME, Google Analytics.
+Worked with IBM and developed iOS portion of IBM Mobile First Platform Cordova Plugins Using Swift/ Objective-C and JavaScript.
+Client Side code were written in Reacts/Redux and Server Side Code were developed using MASKED_NAME.
+Implemented the front end using ASP.net, MASKED_NAME, XML, CSS3, MASKED_NAME, Bootstrap, AngularJS and AJAX for dynamic.
+Very good experience in MASKED_NAME, deploying Perl Packages and migrating Database from one client to other.
+Utilized react for its efficient data flow architecture to create a lightweight and render efficient web app that searched projects via the GitHub API through keywords.
+Experience in creating web components using polymer.js set of W3C standards and upcoming browser APIs for defining own custom HTML elements.
+Worked in developing dynamic robust UI screens using CSS, HTML, MASKED_LOCATION, MASKED_LOCATION, JavaScript, Bootstrap, Backbone, Ext.js, MASKED_LOCATION and jQuery.
+Experience in Angular-chart.js 1.6 for working with the donut and the line graph.
+Web/UI Developer
+Premier Healthcare	-	MASKED_LOCATION, MASKED_LOCATION -
+2015-04 - 2016-05
+Responsibilities:
+Involved in web designing using MASKED_NAME, MASKED_NAME, CSS3, JavaScript, JQuery and extensively used Table-less Design in CSS for positioning.
+Created popup forms using Bootstrap version 3.0.0 Models, AngularJS Models and AngularJS Controllers.
+Used different MASKED_NAME plugins like Global Build Stats plugin, job generator plugin.
+Worked on ecommerce project which is responsive design and developed a single page responsive website that could be served to desktop, Tablets and mobile users using react.js
+Involved in writing automated typescript for AngularJS application using protractor and JavaScript
+Running reports on active directory Exchange Server, Windows server, office 365 and ESX Server using PowerShell
+Used python and MASKED_NAME creating graphics, XML processing, data exchange and business logic implementation.
+Familiar working with MASKED_NAME, CSS3, SASS, JavaScript, jQuery, MASKED_LOCATION, Bootstrap, MASKED_LOCATION, C#, MASKED_NAME, MASKED_NAME, MASKED_NAME , TFS, MVC, MVVM.
+Created Full trust cloud hosted apps using MVC (Angular) and MVVM(knout.js) frame works to support future integrations.
+Used slick to query and storing in database in a MASKED_NAME fashion using the powerful MASKED_LOCATION collection framework.
+Development of application using Perl CGI, mod Perl, jQuery, AJAX, SQL, HTML, CSS, JavaScript etc., and other latest technologies.
+Used React-Autocomplete for creating google maps location search on the webpage.
+Applied advanced HTML, JavaScript, and CSS to deliver cutting-edge user interfaces using material design components in polymer.js
+Experience working with Google charts using polymer.js, D3.js
+MASKED_NAME were developed using MASKED_NAME, MASKED_NAME, MASKED_NAME, MASKED_NAME, polymer.js Kendo UI components and CSS3.
+Created and deployed new features of the website and made it compatible with mobile devices using Sencha Touch.
+Worked on proof of concept using Google web toolkit to create the personal card application site. Designed and implemented MASKED_NAME (using Jasper Report framework).
+Web/UI Developer
+Pulte Homes	-	MASKED_LOCATION, GA -
+2014-08 - 2015-03
+Responsibilities:
+Experience in developing Native and Hybrid Mobile Application for iOS, Android and Windows Devices.
+Design prototype MASKED_LOCATION for the UI and Responsive design implementation using web components and Google polymer.js
+Developed 6 custom applications in C# using the MVVM pattern in WPF and the .NET Framework environment.
+Worked on typescript extensively to develop JavaScript applications on both server and client side.
+Creating custom Integration Interface that can be generated into web services and exposed t0 services consumers by the service provider.
+Used Bootstrap version 3.0.0 and AngularJS in effective web design.
+Developed java applications using various IDE's like Eclipse 3.X/4.X, RAD, STS and Database IDE's such as TOAD, SQL Server, and MSSQL Management Studio.
+Enhanced usability and user experience on RIA using Flex/Flash, MASKED_NAME, CSS, JavaScript, MVVM, LAMP, MASKED_NAME, and Objective C.
+Developed application by implementing the Single Page application template using AngularJS Route Providers.
+Web/UI Developer
+Costco Wholesale Corporation	-	Issaquah, WA -
+2012-10 - 2014-07
+Responsibilities:
+MASKED_NAME and JavaScript for client side presentation and, data validation on the client side with in the forms.
+Involved in developing the functionality for communicating between the modules mostly involved in VIEW and CONTOLLER section of MVC pattern for CMS project, it includes HTML, JavaScript, JQuery and AJAX which were used for UI development.
+Involved in developing XML, HTML, and JavaScript for client side presentation and, data validation on the client side with in the forms.
+Developed a core component of MASKED_LOCATION with Node.js, Angular.JS, Knockout.js, Ext.js and MASKED_LOCATION.
+MASKED_NAME compatibility & implement Responsive Design custom media queries, etc.
+Implemented MVVM in all interactive views using jQuery &knockout.js and layouts in Bootstrap.
+Working in close coordination with MASKED_LOCATION to resolve issues arising using agile methodologies.
+Designed DOM based interactive to reprogram selected links and adopted WCAG 2.0 standards for HTML and MASKED_NAME and W3C standards for CSS as well.
+Used XML Web Services using SOAP to transfer the amount to transfer application that is remote and global to different financial institutions.
+Web/UI Developer
+MASKED_LOCATION Bank SFO-CA -
+2009-12 - 2012-09
+Responsibilities:
+By using developed interactive web applications using techniques such as AJAX, MASKED_NAME and DOM scripting.
+Used Bower for packaging Management and GRUNT for UI Task runner.
+Worked extensively on web 2.0 migration from Conventional Web Frame work to Ajax driven framework and extensively used JQuery, AJAX and MVC in Presentation Layer.
+Used MASKED_NAME hub for pushing the code and pulling the code.
+Extended Bootstrap classes to build custom front-end controls; example candidate isotopes. Worked extensively on web 2.0 migration from Conventional Web Frame work to Ajax driven framework and extensively used JQuery, AJAX in Presentation Layer.
+Conducted agile meeting on daily aspects.
+EDUCATION
+Bachelor in Computer Science
+Jawaharlal Nehru Technological University	-	MASKED_LOCATION, MASKED_LOCATION

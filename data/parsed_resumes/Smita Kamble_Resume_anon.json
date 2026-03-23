@@ -1,0 +1,23 @@
+{
+  "resume_id": "Smita Kamble_Resume_anon",
+  "skills": [
+    "sql",
+    "oracle",
+    "jira"
+  ],
+  "education": {
+    "degree": "Role: Associate Project Manager/ Scrum Master",
+    "year": "Unknown"
+  },
+  "experience_years": 12,
+  "projects": [
+    "Standardizing IT project management practices through streamlined, effective project governance methodology to deliver highly valued product",
+    "Introduced and implemented Agile/ Scrum methodology through \u201cServant Leadership\u201d, coordinating with product owners in breaking down products into features based on stakeholder`s priorities and needs",
+    "Analyzing business needs to create various reports by determining key data parameters, report execution, data mapping, data gaps, data validation from legacy",
+    "Leading sprint sessions to keep a track on status of user stories development, ensuring definition of done is met for delivery of increments of potentially releasable functionality",
+    "Facilitating and driving stand-ups, showcase, retrospectives for continuous growth and removing impediments by employing transparency, inspection and adaptation"
+  ],
+  "certifications": [
+    "Certified Scrum Masters (CSM)                                                                                       Dec. 2016"
+  ]
+}

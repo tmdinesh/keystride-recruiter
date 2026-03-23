@@ -1,0 +1,140 @@
+MASKED_NAME                                                                              
+Sr. Business Systems Analyst
+MASKED_EMAIL
+Phone no: MASKED_PHONE
+Professional Summary:
+8+ years of intensifying experience in multiple roles as Business Analyst, Business Systems Analyst, MASKED_NAME and achieved titles like Modern Analyst, Organizational Analyst with excellent understanding of various software development life cycle(SDLC)  methodologies such as Waterfall, Agile, MASKED_NAME framework and processes with good domain knowledge in Banking, Finance, Healthcare and E-commerce
+Fine knowledge and comprehension of different software development methodologies such as Kanban and Scrumban, XP(extreme programming), Rational Unified Process (RUP), MASKED_NAME (SAFe)
+Highly-motivated, Innovative, MASKED_NAME, Excellent Negotiation, Proactive, Quick-Learning Individual
+Certified Scrum Master with immense skills in facilitating the Scrum Ceremonies, User Story Workshops, Training the teams to better understand Scrum and increase the teams overall productivity
+Strong Leadership skills in handling multiple teams and Offshore teams and ability to effectively communicate with senior management, third party vendors, technical staff and Business users to improve business value
+Excellent analytical skills to understand the Business process, functionality, cross functional requirements across various business units and translating them into requirement specifications in order to provide comprehensive solutions and understanding of project process and ability to analyze business problems and identify solutions
+Experienced in conducting As-Is and To-Be (Gap Analysis) analysis and possess strong knowledge in carrying out processes for Risk Analysis, SWOT (strength weakness opportunity and threat) Analysis, Cluster Analysis, Change Management and perform Impact Analysis to assess the change and feasibility study
+Ability to work under tight deadlines and multi-tasking to meet business objectives, scheduling meetings, negotiating and coordinating with software developers, solution architects and QA teams
+Proficient in writing user stories (INVEST format) and handling the requirement churn. Efficient at facilitating Estimation techniques such as Planning Poker, T-shirt sizing, Relative Mass Valuation and Prioritization techniques such as MoSCoW method, Kano techniques and Business Value Based
+Engaged with Product Owners to successfully break down Epics into User Stories with INVEST Technique and helped the Scrum Team finalize Tasks for Sprint Backlog using SMART Technique
+Extensive Expertise in creating various artifacts including Request for Proposal (RFP),Business Requirement MASKED_NAME), Product Requirement document (PRD),Software Requirement MASKED_NAME), Functional Requirement Document(FRD),Test Plan, Test Scenarios and Test cases as well as documenting project processes and procedures
+Hands on various tools such as MASKED_NAME, MS Excel, MS PowerPoint, MASKED_NAME, Team Foundation Server (TFS), HP Agile Manager and MS Project Professional for planning, tracking and managing projects
+Managed requirements and tracked defects working with HP Application Lifecycle Management(HPALM) and HP Quality Center (HPQC) and well versed in conducting various types of testing including Smoke, Sanity Testing, Regression Testing, System Testing and User Acceptance Testing (UAT)and documented performance reports
+MASKED_NAME a structured approach in organizing requirements to ensure that critical business rules and requirements are met. Maintained a Requirement Traceability Matrix (RTM) for efficiency
+Proficient in creating UML Modeling like Activity Diagrams, Sequence Diagrams, Use case Diagrams and BPMN
+Practical knowledge of Data Warehousing architecture, implementation approaches, schemas, dimensional modeling and translating the business requirements into various types of dimensions
+Cultivated experience in working with different web services such as HTML, WSDL, SOAP, UDDI, REST, MASKED_NAME under various architectures such as Three-Tier Architecture and Service Oriented Architecture (SOA). Involved in scripting business logic in the web methods of the web services and documenting the WebService Level Agreement (WSLA) document through the use of XML
+Professional Work Experience:
+Client:  JPMorgan Chase	MARCH 2016 to Till Date
+MASKED_ADDRESS
+Role: Sr. Business Systems Analyst/ Scrum Master
+Project Description: Initiated Loan Origination System (LOS) project to make the loan origination process flexible and robust and to support multiple lines of business and allow for easy integration with other systems. This user friendly system will allow users to submit loan applications, review decisions, underwrite and generate closing documents 
+Responsibilities:
+Supported multiple product teams by tracking inter-team dependencies and ensuring those were being mitigated by working with the Product Owner by maintaining a risk log and creating a plan.
+Analyzed the Business Process along with the prior project documentation for complete understanding of the project and contribute in the Business Process Model re-engineering and optimization.
+Interviewed SME’s (subject matter experts) and MASKED_NAME’s (risk management representatives) in order to better understand the business process.
+Performed extensive MASKED_NAME and GAP analysis to get a thorough understanding of AS-IS business process model and develop TO-BE business process model and created Workflows using MASKED_NAME.
+Conducted high-level requirement gathering sessions with Business Owners, risk analyst and concerned teams for requirement elicitation via JAD sessions, Interviews and Brainstorming sessions.
+Created Business Requirement Document (BRD),Functional Requirement Document (FRD) and MASKED_NAME for MASKED_NAME (RFP).
+As a Scrum Master, facilitated and conducted the Backlog Grooming Meeting, sprint planning meeting, the daily scrum standup meeting and Scrum of Scrums.
+Supported the Product Owner and the management in creating product roadmap and KPI’s for the product.
+Led story writing sessions with an aim of decomposing the scope into epics and user stories with product owners. Also, worked on the acceptance criteria for the above developed user stories.
+Facilitated prioritization of user stories using MoSCoW and estimation using Planning Poker techniques.
+Developed and analyzed the Sprint/Product burn down chart in order to calculate the team’s velocity and track sprint progress. This was then utilized for planning of the upcoming sprints. Used MASKED_NAME to plan and track the sprints.
+Resolved impediments faced by the scrum team at the team and the organizational level.
+Developed mock-ups and wireframes along with the screen designs using MASKED_NAME.
+Performed Impact Analysis, Feasibility Study, Cost-Benefit Analysis and Return on Investment (ROI) in order to mitigate certain risks associated with the project and project output.
+Worked with the Product Owner to partner with market research and create a comprehensive competitor analysis report and present it to the management.
+Designed data models and conducted Normalization and De-Normalization of the data as per the Online Transaction Processing (OLTP) and Online Analytical processing (OLAP) frameworks respectively for data analysis.
+Performed slicing and dicing of data marts in order to facilitate the analytical decision making process.
+Integrated various OLTP to OLAP by using Informatica PowerCenter as an ETL tool.
+Developed reports using Tableau v8.0 to communicate information using graphs, charts and other info graphical solutions to the project team.
+Performed User Acceptance Testing (UAT) in conjugation with the QA team. Also, created an error repository and assisted in creation of test cases in HPQC and scheduling manual and automated execution of those test cases through integration with HP Unified Functional Testing (UFT).
+Created Requirement Traceability Matrix (RTM) in order to track test cases and test plans.
+As MASKED_NAME, I facilitated the Sprint Review and Sprint Retrospective Meetings at the end of each sprint.
+Environment: Waterfall-Scrum hybrid, JIRA, Confluence, Oracle 11g, MS-Visio 2013, Microsoft Azure(cloud), 
+Eclipse IDE, MASKED_NAME, MS Project 2016, Informatica Power Center 9.6, Tableau 8.3, MS Office, HP Quality Center 11
+Client:  Global Payments     APRIL 2015 to FEB 2016   
+MASKED_ADDRESS
+Role: Sr. Business Analyst/Scrum Master
+Project Description: This project is intended to migrate a Business Glossary capability from Its Standalone infrastructure on a non-Hadoop Platform to Infosphere suite on Hadoop Cluster for Enterprise use to evaluate the current Business Glossary enterprise application supported in the Data Provisioning space.  IBM InfoSphere Business Glossary is the current enterprise standard to enable creating and managing an enterprise vocabulary and classification system with ready to use standard terms and definitions
+Responsibilities:
+Gathered Business requirements by conducting JRP session, One on One interview and Group sessions with Stakeholders and business Users
+Coordinated with Managers to determine appropriate risk assessment levels.
+Analyzed the existing SAM model using Observation techniques with stakeholders
+Collaborated with the SME and interviewed the stakeholders to understand the AS IS and TO BE state of the project
+Conducted several JAD sessions and requirement workshops with the system architects, business users and development team to perform GAP Analysis
+Gathered functional and non-functional requirements in collaboration with end clients and internal project managers.
+Created detailed business scenarios and writing master use cases with the help of Rational Requisite Pro which covered step by step process of interaction between user and system
+Developed Activity diagrams, Use Case diagrams and MASKED_NAME diagrams using MASKED_NAME environment, so development team and other stakeholders can understand business process
+Created wire frames using MASKED_NAME.
+Facilitated Sprint planning meetings to coordinate between Clients, Product Owner, MASKED_NAME and MASKED_LOCATION teams. 
+Shadow and assist some of the Product Owner activities by providing high level estimates, prioritizing stories for the sprint and maintaining backlogs and release plans. 
+Resolved impediments for scrum team members by facilitating collaborative meeting.
+Facilitated Sprint review meeting to demonstrate potentially shippable product to stakeholders.
+Used retrospective meetings to gather feedback. Made session’s interactive using silent writing technique.
+Facilitated Scrum of Scrums to resolve dependency issues between different teams.
+Protected team members from outside interruptions.
+Manage the assignment of user stories to relevant BAs based on the feature and process expertise. 
+Directly interacted with clients to elicit the requirements and translate them into terms that development team can comprehend. 
+Suggested several process improvements within the ratings process and suggested solution options to automate manual data entry tasks performed by Data Managers.
+Environment: SAFe, Agile/Scrum, RTC/RRC ,IBM InfoSphere suite, MASKED_NAME, MASKED_NAME, MASKED_NAME, MS Project, MS VISIO, SharePoint, Rational Requisite Pro, HPQC
+Client:  MFS Investment Management	  JAN2013 to MARCH 2015
+MASKED_ADDRESS
+Role: Sr. Business Systems Analyst
+Project Description The project aimed to build and integrate the GFT section for the asset management platform. The legacy investment system facilitated only limited feature for GFT. The objective of the project was to facilitate addition of new features to the existing application based on the requirement from the operation team. 
+Responsibilities:
+Primary point of contact working with stakeholders to understand their systems, AS-IS process and business needs. 
+Performed GAP Analysis to identify the deficiencies of the current system and to identify the requirements for the change in the proposed system.
+Facilitated workshops to capture AS-IS requirements & design TO-BE processes
+Conducted several requirements gathering sessions like one on one interviews, Focus Group, Observation.
+Facilitated JAD sessions by inviting SME’s, tech leads and Architects to make sure that gathered requirements are feasible in doing.
+Performed in-depth analysis of the systems organizational structure, services and processes and created As-Is and To-Be process models.
+Assisted in designing User Interface by creating Static and MASKED_NAME.
+Derived functional and non-functional requirements to create a Functional Requirements Document.
+Prepared Business Requirement Documents (BRD), MASKED_NAME based on the gathered requirements.
+Created UML diagrams such as Activity Diagram, Sequence Diagram and Use Case Diagram to depict the various processes flow using MS VISIO
+Responsible for identifying and documenting business rules and created use cases.
+Acted as a MASKED_NAME between business and technical teams and ensured all the communication is seamless
+Created product documentation including online help as user manual as training material.
+Scheduled meetings with developers, system analysts and testers to identify resource allocation and project completion using MS Project.
+Created Requirement Traceability Matrix (RTM) to make sure all the requirements are covered with test cases
+Facilitated UAT sessions for end users and collaborated with business team to get UAT sign offs for every sprint release
+Facilitated triage calls between development team and QA team for resolving issues.
+Developed timelines for project delivery, and managed projects and resources to successful completion
+Environment: Agile/Scrum, ASP.net, MASKED_NAME, SQL SERVER, MASKED_LOCATION, MASKED_NAME, MS Project, MS SharePoint, HPQC, Windows, JIRA, Selenium, SOAP UI.
+HDFC Life   OCT2011 to DEC 2012 
+MASKED_ADDRESS
+Role: Business Analyst/ Risk Analyst
+Project Description: To provide a comprehensive electronic medical record for consumers that can be shared in a secure and integrated environment across HDFC. This project will reduce paper medical charts and provide an electronic mechanism to securely share critical client treatment data within the network, provide opportunities to reduce costs by streamlining and automation of clinic operations; produce better treatment outcomes because of better coordination of care and integrated treatment protocols.
+Responsibilities:
+Identified for business process improvement and initiated efforts to make improvements and problem resolution.
+Involved in high-level requirement meetings with business users and SME’s to understand the requirements.
+Build credibility, establish rapport and maintain communication with stakeholders at multiple levels (external vendors, business partners and internal IT teams).
+Collaborating with stakeholders to gather requirements and creating Business Requirements Document (BRD).
+Involved in interviewing and shadowing various stakeholders and users to capture, analyze and document the Business, Functional and Non-functional requirements.
+Conduct Joint Application Development (JAD) session with stakeholders and business partners to resolve open issues.
+Performing GAP analysis and Impact analysis by identifying existing technologies, documenting the enhancements to meet the end-state requirements.
+Develop use cases using UML and MASKED_NAME for an ease with system interaction. 
+MASKED_NAME on-demand ad-hoc reports and dynamic dashboards, present to client for evaluation and calibration, constantly communicate with higher level authorities.
+Working closely with teams to drive real-time rule implementation and features.
+Environment: MASKED_NAME, MS MASKED_NAME, MS Office Suite 2010(Excel, Word, PowerPoint), MASKED_LOCATION, MS Project 2010, SharePoint, Tableau 6, HPALM 11.0, HTML, CSS, MASKED_NAME.
+Client: Amazon                                                                                                                                              AUGUST2009 to SEP2011
+MASKED_ADDRESS
+Role: Jr. Business Analyst 
+Project Description: This project involved the development of seller central with focus mainly on inventory management, shipping and Amazon Webstore based applications. Seller central was developed for the seller support team to ease the existing ticketing problem
+Responsibilities:
+Participated in preparing the project scope and objectives.
+Expert in requirement gatherings while following various elicitation techniques for business requirements by conducting client group interviews, focused groups, workshops and online surveys.
+Prepared business requirement document (BRD) and System Requirement Specification (SRS) to provide details of each business and functional requirement, development and implementation plan of these requirements, timelines.
+Assisted in developing the project deadlines/deliverables/strategies to effectively manage projects.
+Prepared and maintained the Requirement Traceability Matrix (RTM) to record the business and functional requirements.
+Prepared use case diagrams and description documentation based on the analysis, and obtained approvals from the clients.
+Prepared Mockup screens with the help of UI components using wireframes for testing the front end.
+Prepared activity diagrams on MASKED_NAME to better understand the flow of activities along with the timelines.
+Coordinated with project stakeholders to track the progress of the project, update status and lead review meeting to ensure that schedules and deliverables are met.
+Coordinated and controlled change request for the clients by conducting impact and cost analysis, prioritizing and mitigating changes.
+Managed the contents using SharePoint 2007.
+Tracked defects using HPALM.
+Environment: MASKED_NAME, MS MASKED_NAME, MS Office Suite 2010(MS Excel, MASKED_NAME, MS PowerPoint), MASKED_LOCATION, MS Project 2010, SharePoint 2007, HPALM 11.0, HTML, MASKED_NAME, CSS, MASKED_NAME, MS SQL server
+Education:  Bachelor of Technology, JNTU, Hyderabad.
+Certifications:
+Professional Scrum Master (PSM).
+Scrum Master Accredited Certification (SMAC).
+Six Sigma MASKED_LOCATION certified.

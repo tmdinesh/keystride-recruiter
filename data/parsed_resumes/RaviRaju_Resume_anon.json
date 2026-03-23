@@ -1,0 +1,24 @@
+{
+  "resume_id": "RaviRaju_Resume_anon",
+  "skills": [
+    "html",
+    "sql",
+    "oracle",
+    "aws",
+    "linux",
+    "apache",
+    "tableau",
+    "power bi"
+  ],
+  "education": {
+    "degree": "Master of Technology in Computer Science and Technology (M.Tech) 2002-2004",
+    "year": "2002"
+  },
+  "experience_years": 12,
+  "projects": [
+    "Installed and configured of IIS 6.0 and IIS 7.5. Done audit trails for all the servers .Developed automation of schedule scripts to ease of server administration",
+    "Interface error reporting and mailing.",
+    "Supported URCHIN metrics and Teamsite content management tool."
+  ],
+  "certifications": []
+}

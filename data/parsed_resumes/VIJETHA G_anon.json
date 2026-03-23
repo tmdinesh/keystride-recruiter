@@ -1,0 +1,35 @@
+{
+  "resume_id": "VIJETHA G_anon",
+  "skills": [
+    "python",
+    "java",
+    "javascript",
+    "react",
+    "angular",
+    "html",
+    "css",
+    "bootstrap",
+    "jquery",
+    "node",
+    "spring",
+    "express",
+    "rest",
+    "soap",
+    "sql",
+    "mysql",
+    "oracle",
+    "cassandra",
+    "aws",
+    "docker",
+    "apache",
+    "git",
+    "jira"
+  ],
+  "education": {
+    "degree": "Unknown",
+    "year": "Unknown"
+  },
+  "experience_years": 8,
+  "projects": [],
+  "certifications": []
+}

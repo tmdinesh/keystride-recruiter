@@ -1,0 +1,41 @@
+{
+  "resume_id": "Pranay P_anon",
+  "skills": [
+    "java",
+    "javascript",
+    "r",
+    "react",
+    "angular",
+    "html",
+    "css",
+    "bootstrap",
+    "jquery",
+    "node",
+    "spring",
+    "express",
+    "rest",
+    "soap",
+    "sql",
+    "mysql",
+    "oracle",
+    "elasticsearch",
+    "aws",
+    "azure",
+    "docker",
+    "jenkins",
+    "apache",
+    "git",
+    "jira"
+  ],
+  "education": {
+    "degree": "Education: Bachelor\u2019s in Computer Science & Engineering",
+    "year": "Unknown"
+  },
+  "experience_years": 6,
+  "projects": [
+    "Creating custom tags for JSP for maximum re-usability of user interface components.",
+    "Involved to develop Multithreading for improving CPU time.",
+    "Coded ANT build scripts to build and deploy the application on WebSphere"
+  ],
+  "certifications": []
+}

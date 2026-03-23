@@ -1,0 +1,35 @@
+{
+  "resume_id": "CHETAN_Sr Java Developer_anon",
+  "skills": [
+    "java",
+    "javascript",
+    "angular",
+    "html",
+    "css",
+    "bootstrap",
+    "jquery",
+    "spring",
+    "rest",
+    "soap",
+    "sql",
+    "mysql",
+    "mongodb",
+    "oracle",
+    "aws",
+    "apache",
+    "jira"
+  ],
+  "education": {
+    "degree": "Developed PL/SQL triggers and master tables for automatic creation of primary keys.",
+    "year": "Unknown"
+  },
+  "experience_years": 8,
+  "projects": [
+    "GUI is designed using HTML 5, JQuery, Bootstrap, CSS and JSP for interacting with the server.",
+    "Designed core interfaces and modular design with OSGi and Declarative Services",
+    "Writing database queries on Oracle 9i.",
+    "Writing stored procedures, Packages, Views, Cursors, Functions and triggers using SQL in the back end.",
+    "Wrote SQL commands and Stored Procedures to retrieve data from Oracle database."
+  ],
+  "certifications": []
+}

@@ -1,0 +1,30 @@
+{
+  "resume_id": "Priya_Sharma_anon",
+  "skills": [
+    "java",
+    "javascript",
+    "php",
+    "r",
+    "html",
+    "css",
+    "jquery",
+    "spring",
+    "sql",
+    "mysql",
+    "mongodb",
+    "jira"
+  ],
+  "education": {
+    "degree": "Master's in Software Engineering",
+    "year": "Unknown"
+  },
+  "experience_years": 8,
+  "projects": [
+    "Provide Project Profitability - Revenue Forecasting (Project Level). Assist in preparation, data gathering, presentation and analysis of all capital forecast including, quarterly, annual and long term forecasts",
+    "Designed and documented functional specification requirements such as GUI (Graphical User Interface) designs, and input and output device requirements",
+    "Maintained University of London intranet and internet websites",
+    "Designed Online marketing material, applications and blogs",
+    "Performed weekly assessments of all websites and software to look for potential problems or crashes"
+  ],
+  "certifications": []
+}

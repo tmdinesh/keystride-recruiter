@@ -1,0 +1,30 @@
+{
+  "resume_id": "Syed_Zia_Ashraf_anon",
+  "skills": [
+    "python",
+    "java",
+    "scala",
+    "r",
+    "asp.net",
+    "rest",
+    "sql",
+    "aws",
+    "azure",
+    "jenkins",
+    "ci/cd",
+    "spark",
+    "hadoop",
+    "git"
+  ],
+  "education": {
+    "degree": "1998- Bachelor of Arts in Economics from Lucknow University, MASKED_LOCATION",
+    "year": "1998"
+  },
+  "experience_years": 16,
+  "projects": [
+    "This system will allow the web customers to book travel-related products online through the web. It is the maintenance project for solving issues that report after live deployment of the site."
+  ],
+  "certifications": [
+    "Project Management professional (PMI-PMP), Certification in SCRUM Master (CSM)"
+  ]
+}

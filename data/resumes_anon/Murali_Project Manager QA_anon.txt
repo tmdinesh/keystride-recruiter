@@ -1,0 +1,162 @@
+MASKED_NAME+1) MASKED_PHONE 
+MASKED_LOCATION, MASKED_LOCATION
+PROFESSIONAL SUMMARY:
+Currently working for the client AT&T in MASKED_LOCATION, MASKED_LOCATION as Manager-Testing with 2 PMs reporting from onshore and a testing team of 10 from offshore. E2E testing/QA of AT&T Mobile Apps on different platforms – iOS, Android & Windows.
+14+ years of IT experience which includes major contribution towards Project Management, Agile PMO, Quality Management, Analysis, Testing and Resource Management. Proactive, performance-driven IT professional, with Project Manager experience of more than 5 years. 
+Extensive experience in SDLC using Waterfall and Agile (Scrum) methodologies.
+Well experienced in Creating Product Plan, Schedule, Estimation and monitoring.
+Extensive experience in different Tools Quality Center, JIRA, Rally, TDP - IBM Rational
+Having experience of working in the Global Delivery Model for more than 8 years and has experience in handling multiple projects at a time both at Offshore and Onsite.
+Extensive experience in Agile Ceremonies and Methodologies.
+Daily interaction with technology staff including Developers, DevOps Engineers, Product management (Product Owners), and Program management to identify scope of projects and engage in creating Project plan, schedule, monitoring & execution of projects till closure.
+MASKED_NAME and big projects worth of $4 to $5 Million across multiple teams and different locations.
+Good Exposure to Global Delivery Model, done resourcing, planning, estimation, performance appraisal, team building for 20- 30 resources at Onsite & Offshore. 
+Excellent communication, interpersonal, analytical skills and strong ability to perform as part of a team.
+Great understanding of Agile Manifesto, MASKED_NAME and Principles. 
+Exposure to Mobile Automation tool – ZAP-fiX for automating test scripts to be run on various mobile devices.
+Around 2yrs of experience on VOIP Protocol – SIP
+4 years of experience in telecom switching projects in MASKED_NAME.
+5+ years of onsite exposure at client locations in MASKED_LOCATION, MASKED_LOCATION.
+TECHNICAL COMPETENCIES:
+SOFT SKILLS:
+Project planning & resource allocation.
+Very good customer interaction skills.
+Ability to multi-task, and work under project pressure.
+Excellent verbal/written communication skills, teamwork and interpersonal skills.
+Ability to apply creativity and intelligence to craft test suites that uncover product defects.
+Ability to debug complicated system-level issues.
+Reproduction and debugging of customer issues, handling of field queries.
+Preparation of Estimation, Effort Tracking , MASKED_NAME, Test reporting.
+Scheduling, Defect Tracking, Metrics Reporting.
+Defect Prediction & Management.
+On time delivery of testing tasks.
+MASKED_NAME (Goal Settings, Evaluation, Employee Development).
+Manage day to day operations for assigned staff and projects, including project management tasks such as resource allocation and prioritization, business case estimates, software quality assessments, and time reporting. Also includes anticipating needs and implications of decisions, proactively working to identify, clarify, resolve issues, and removing barriers within and outside the organization in a timely manner.
+Proven ability to engage and focus team members on highest priority, highest risk tasks. 
+Self-motivated, apply good judgment, and willing and able to mentor others.
+MASKED_NAME:
+MBA in International Business (2010) through distance learning from Pondicherry University, MASKED_LOCATION.
+Bachelor of Engineering in Computer Science (2002), with an aggregate of 74% from Bangalore University, MASKED_LOCATION.
+PROJECTS SUMMARY:
+Integration System Testing of AT&T Mobile Apps on various mobile platforms
+	Mar2013-Present
+Role:	Project Manager
+Responsibilities: 	Plan, execute, and finalize projects within triple constraints working in an Onshore/Offshore delivery model -  delivering on time, within budget and scope objectives, including acquiring resources and coordinating efforts of team members to deliver projects according to plan. Identify, effectively communicate, resolve project issues and risks and develop risk mitigation plans. Effectively communicate project health to stakeholders. Coach, mentor, and motivate team members, influencing them to take positive action and accountability for assigned work.
+Environment:	iOS, Android and Windows native apps for AT&T mobile, tablets.
+    	With a team of 2 PMs reporting to me at onshore and 10 offshore testing resources, I’m responsible for delivering the AT&T mobile applications into the market on different platforms such as iPhone, Android & Windows. These apps are both in native and browser version. Every 3-4 months we work on new versions of the app and after several rounds of QA testing on the app, make it available to the end user.
+Have in depth knowledge of E2E Mobile Application to support wider range of Mobile Operation System, Mobile Devices and Tablets, our project feasibility guidelines and, most importantly, our proprietary customizations to Enterprise MASKED_NAME with users to assist in determining current operating procedures, clarify program intent, identify problems and suggest modifications to adapt existing programs to new requirements and to increase operating efficiencies.
+Fair knowledge to automation tools such as ZAP-fiX and Mobile labs to automate test scripts. The MASKED_LOCATION mobile experience has 4 different versions - 3 Mobile apps and a Mobile HTML web site. Every release has new features being added for AT&T mobile customers. Working in agile methodology demands continuous development and testing in parallel one sprint after another. Interacting with client right from the requirements stage, highlighting about the issues, risks, reporting daily status of project related activities, to delivery of the application.
+Development Integration Testing (DIT)			     July2011-Feb2013
+Responsibilities	: Smoke testing of daily/weekly builds, Writing test cases, execution and 
+   Reporting the status/defects to the management team both 
+   MASKED_LOCATION/offshore.	
+Environment		:  Eclipse Galileo, RTC
+    Handling a team of 5 doing smoke testing of our client product UDA. UDA (Unified Desktop Application) is a PC based software application that is used by many Stock Exchange brokers around the globe who do world-wide trading by making calls, texting & voice mail features. Every release has a new set of features added to the product and the same will be tested offshore by my team before releasing the product for System testing.  The team identifies the defect well before in hand and informs the development team about them before the Quality Testing team raises a bug. Ours is like an interface between the Dev and Quality Engineering team working together to report issues and the status first-hand to the management team both offshore & onshore.
+Interoperability Testing 							Jan2011-June2011
+Responsibilities	: Interoperability testing with the third party vendor devices	
+Environment		:  Audio Codes Media MASKED_NAME, MASKED_LOCATION Call Manager, Avaya PBX
+Testing our client’s VOIP product with other vendors in the market like MASKED_LOCATION and MASKED_LOCATION. Also testing the SBC (Session Border Controller) functionality of the Media Gateway from Audio Codes.
+MASKED_NAME UDA Simulator							May2010-Dec2010
+Responsibilities	: Development, Testing	
+Environment		:  PHP, XML, HTML, AJAX, MASKED_NAME, JQUERY, MYSQL
+	UDA stands for Unified Desktop Application. UDA is basically a client application on the user’s desktop used to make/receive calls just like a physical telephone. There are two modules here client (UDAC) and server (UDAS). To test the individual UDAC and UDAS, PHP simulator was developed to verify the XML message exchanges between the components. This would aid in unit testing of the individual modules without any dependency on the other module. 
+MASKED_NAME Simulator							     Feb2010 –May2010
+Responsibilities	: Development, Testing	
+Environment 	  	: MASKED_NAME, MASKED_NAME, libCurl
+During the initial iterations of MASKED_NAME development, there was a need for testing the elements individually with the corresponding supported protocols. With the aim of testing Voice Application Server, the CDI Simulator is an attempt to develop and execute the Integration test cases automatically by simulating Turret & UDA using third party tools. CDI simulator will enable testing of all performance related capacities. The objective of this CDI simulator follows: 
+Multiple instances of this automation software shall be invoked to simulate multiple Turrets
+Ability to respond to messages from A/S especially for various voice applications.
+Ability to update MASKED_NAME Status from Application Server.
+Ability to easily upgrade simulator to different MASKED_NAME releases.
+Aid in system performance testing, especially for application/media servers.
+Provides the performance test report based on collected data e.g. CPU usage, successful calls, number of simultaneous calls, CPS, MASKED_NAME updates, call failure etc.
+IQ/Impact: IPC Professional Services					        Mar2009 – Jan2010
+Responsibilities	: Development, Testing	
+Environment		: Windows, Core Java, Servlet, FLEX, Swing, SQL Server 
+ IQ/Impact is a PC application that works in conjunction with the trader’s turret. The application provides the trader, the ability to monitor and answer incoming calls as well as place calls on hold, transfer or divert them and retrieve or disconnect the call. The MASKED_NAME can also make outbound calls from the directory, call list, and a follow up list or by manually typing in a number or a contact name. They can also intercom another trader as well as be aware of other trader’s presence. The application can also invoke a screen pop within MASKED_NAME or any web browser based application.
+IPC: Switch/Network configuration and Demo                                    Apr2008 – Feb2009
+Responsibilities	: Configuring, Installing, Testing & Bug Fixing.
+This job involved configuring the IPC’s Alliance switch, TCS server and IQ/Impact application in the network, test it thoroughly and educating the end customer on the usage. Also involved co-coordinating with the offshore and onshore team during the installation task. Have installed/configured for 4 different clients, onsite.
+ SIP Registration & Location Server for Release 3.0                            Sep2007 – Mar2008
+Client				: MASKED_LOCATION, MASKED_LOCATION, MASKED_LOCATION
+Language/Technology	: C++, LDAP Netscape Directory Server
+Team Size			: 4
+Duration			: 7 months
+Project Details:  Registration server keeps track of the SIP users registered (called binding) with a database called Location services, provides authentication capabilities to registrations. Registration details are maintained to provide SIP access to only valid users. Whereas the Location Services contains a list of bindings of MASKED_ADDRESS
+Role:  Involved in Design, Implementation and Testing.
+Implementation of COPS Protocol 			                           May2007 – Aug2007
+Role		: Involved in Design, Implementation, Unit Testing and MASKED_NAME.
+Client		: Tech Mahindra, Internal Project
+Team Size	: 4
+Duration	: 4 months
+Project Details:  Implementation of Common Open Policy Service (COPS) Protocol Frame work. This protocol is basically a Client/Server Protocol where the Server (PDP) analyzes the information, takes the decision, and relays it to the client (PEP)
+Implementation of SIP CALEA for Release 3.21 	                            Nov2006 – Apr2007
+Role		: Involved in Design, Implementation, Unit Testing and MASKED_NAME.
+Client		: MASKED_LOCATION, MASKED_LOCATION, USA
+Team Size	: 4
+Duration	: 6 months
+Project Details:  MASKED_NAME enforcement agencies are authorized to tap and record suspect voice conversations. This provision presently available with circuit switched networks needs to be extended to VOIP network, and trace signaling messages and tap into voice sessions that occur on the IP network as well. 
+MGCP CC Call Processing feature for Release 3.2 	                      May2006 – Oct2006
+Role		: Involved in Design, Implementation, Unit Testing and MASKED_NAME.
+Client		: MASKED_LOCATION, MASKED_LOCATION, USA
+Team Size	: 12
+Duration	: 6 months
+Project Details:  MGCP - protocol used to route packet calls over the IP network.  The CSX2100 switch to route MGCP-to-MGCP, both to subscribers on the switch. Additionally, the CSX2100 will serve MGCP-to-PSTN, PSTN-to-MGCP, MGCP-to-SIP, and SIP-to-MGCP calls.
+Regression Testing of all Rel 3.1 Features 		                            Feb2006 – Apr2006
+Role		: Involved in Designing of Test Cases and executing them.
+Client		: MASKED_LOCATION, MASKED_LOCATION, USA
+Team Size	: 4
+Duration	: 3 months
+Project Details:  Testing was an onsite support at the client’s place in MASKED_LOCATION, MASKED_LOCATION, to help them in their testing activities and the FCS (First Customer Shipment) requirements.
+BBG-IP Enhancements 			                                               Feb2005 – Feb2006 
+Role				: High Level Design, GUI and Database modification.
+Client				: MASKED_LOCATION, MASKED_LOCATION, MASKED_LOCATION
+Language/Technology	: MASKED_NAME			: LDAP Netscape Directory Server5.1
+Duration			: 12 months
+Project Details: 
+MASKED_NAME sub-features – Restricting Call Transfer to certain call types; e.g., intra group only, etc.
+Call Forwarding sub-features – Providing Call Forwarding variations tailoring for BBG usage.
+Intercom Dialing Expansion – Allowing 3-5 digit extension dialing, where the extension number needs not be aligned with the PSTN Direct Dialed address.  Currently, the CSX system supports 4-digit extension dialing, where the MASKED_ADDRESS four digits of the PSTN DDD address.
+Assume Dial ‘9’ options to ‘escape’ to PSTN dialing.  In this case, special prefixes are assumed for Intercom Dialing.
+Variable length Inter-Digit Timing – Accommodating ‘slow-dialers.’ 
+Increased number of lines per BBG system – Extending the BBG capacity to allow up to 1,000 subscriber lines per BBG.
+DS3 Probe				                                                             Oct2004 – Jan2005
+Role				: Writing test application for testing the framer driver. 
+Client				: MASKED_LOCATION, USA
+Language/Technology	: C, MASKED_NAME
+Team Size			: 3
+Duration			: 4 months
+Project Details: The product consists of DS3 MASKED_NAME cards – one for incoming traffic and second for outgoing traffic. The DS3 lines carry ATM cells in which IP and Non IP traffic are embedded. The DS3 Line Interface Unit terminates the DS3. In the receive direction the DS3 header is removed and the Header Error check is performed and the ATM cells are transmitted on the UTOPIA Bus. In the Transmit direction the DS3 framer frames the ATM cells received from the UTOPIA Bus. The T3 driver in the physical layer will ensure that the DS3 line is configured and the Performance monitoring and Alarms handling activities for the DS3 are in place.
+System Maintenance for Rel3.21		                                       Jan2004–Sep2004			
+Role		: Integration Testing, MASKED_NAME, Installations and MASKED_NAME.
+Client		: MASKED_LOCATION, MASKED_LOCATION, USA
+Team Size	: 4
+Duration	: 9 months
+Project Details:  MASKED_NAME bugs as part of the Releases delivered so far. It’s a maintenance activity supporting the customer with their customer’s issues. Upgrading the switch software with the new releases and configuring the new network elements.
+Updating database for all features from Release 2.2b	                 July2003 – Dec2003
+Role				: Involved in Design, Implementation and Testing.
+Client				: MASKED_LOCATION, MASKED_LOCATION, MASKED_LOCATION
+Language/Technology	: MASKED_NAME, LDAP Netscape Directory Server 
+Team Size			: 2
+Duration			: 6 months
+Project Details:  MASKED_NAME new database objects and modifying the existing ones for feature interactions with the LDAP Netscape Directory Server. Also caching the required objects for faster access.
+WORKSHOPS/TRAINING PROGRAMS ATTENDED:
+Technical
+Flex3.0 Training – MASKED_NAME – Oct’08
+MASKED_NAME – ESG-B,Tech Mahindra – Aug’08
+MASKED_NAME, Tech Mahindra – Feb’08
+Professional training on Sun Java Programming (MASKED_NAME) from a Sun Authorized Training   center - Oct05
+C/C++ - Apr'04
+Non-Technical
+Creativity & Innovation – L&D, Tech Mahindra – Feb’09
+Effective Problem Solving - L&D, Tech Mahindra – Feb’09
+Working in a Team – L&D, Tech Mahindra – Jan09
+US Accent Training – L&D, Tech Mahindra – Oct’08
+Stress Management – L&D, Tech Mahindra – Dec’07
+Excellence in Customer Service – L&D, Tech Mahindra – Dec’07
+Persuasive Presentation  – by L&D, Tech Mahindra – Nov’07
+Business communication skills training by Alliance academy, Bangalore - Sep'05
+PERSONAL Details:
+MASKED_NAME			: MASKED_EMAIL
+Mobile			: (+1)MASKED_PHONE
+Visa Details		: H1B/I-94 until July2018

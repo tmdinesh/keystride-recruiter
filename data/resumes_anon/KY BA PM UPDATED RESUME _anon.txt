@@ -1,0 +1,105 @@
+KETHANA Y
+Role: BUSINESS ANALYST/PROJECT MANAGER
+CERTIFIED SCRUM MASTER-License 752763
+Email: MASKED_EMAIL		                                                         Phone: MASKED_PHONE
+PROFESSIONAL SUMMARY:
+A techno-savvy Business Analyst with out-of- the-box thinking and 5 successful years of experience in Business Analysis, Business Modeling, Requirement Gathering, Technical Documentation and Data Analysis. Domain experience comprising Healthcare, Banking with strong expertise in all phases of the Software Development Life Cycle and a firm understanding of the technologies involved. 
+Experience in interacting with business teams, programmers and technical staff at all levels. 
+Strong ability to elicit, document, validate and transform business requirements at various stages of software development life cycle (SDLC).
+Extensive success in translating business requirements and user expectations into detailed specifications employing Unified MASKED_NAME (UML).
+Strong business analysis skills and an understanding of the software development life cycle (SDLC) utilizing Rational Unified Process (RUP). 
+Extensive knowledge in working with various project management objects like SWOT analysis, Cost Benefit Analysis, Scheduling, Resource planning, Critical path Method, Risk analysis and Risk Management.
+Good at communicating effectively with Stake holders, Top level Management, Stakeholders, SME’s, Tech leads and Business users.
+Created Dashboards for cognos portal for everyday access and easy identify of history and projections.
+Experience with MS Office products experience including MS Word, Excel, Access, power point. 
+Interpret client's business rules into SQL commands that help in the creation of databases that store customer information.
+Business analyst and data analyst on MASKED_NAME conversion upgrade from MASKED_LOCATION version 5 to MASKED_NAME version 8. 
+Exposure in creating and analyzing data flow diagrams, and entity relationship diagrams, and worked as expert to drive future growth of the cash management product set, policies and procedures.
+Organized JAD and JAR sessions to gather requirements at various stages. Good understanding of project process and ability to analyze business problems and identify solutions. Worked extensively with the team to meet business requirement, create prototypes and analyze workflow. 
+Professional with interpersonal, analytical and team work skills. Effective communication both verbal and written skills. Strong Presentation and MASKED_NAME.
+Strong experience in creating Requirement Traceability Matrices (RTM) to trace the requirements
+throughout the design, use case, development and testing lifecycle.
+Created visualizations using custom hierarchies, groups and merged data from multiple sources using the data blending technique within the tableau workbook. 
+Performed online banking, made cash deposits, managed petty cash, balanced register.
+Worked closely with project stakeholders, SMEs, and staff to understand the requirements and specifications for new applications along with enhancements to the existing applications.
+Elicited requirements from stakeholders, vendors, consultants, subject matter experts and existing system users using various techniques like JAD sessions, brain storming, one on one. 
+Research, gather, and analyze content data and information, to include formatting and reformatting, reviewing, revising, cataloging, and electronically storing for future retrieval. 
+Hands-on experience with process modeling techniques using UML - Use Cases, Work Flow Diagrams, Data Flow Models, Swim Lane Diagrams, Sequence Diagrams and Activity Diagrams using MSVisio.
+Excellent communication, client relationship and customer service skills. Responsible, self-motivated and organized.
+TECHNICAL SKILLS:
+Work Experience:
+Client: Merchant e-solutions, MASKED_LOCATION, CA
+Role: Sr. Business Analyst/Project Manager                                 Duration: March 2017-Till Date
+Description: It is a national sales executive responsible for national sales of Credit Card Processing solutions specific to the business to business transaction.
+Responsibilities:
+Responsible for defining the scope of the project, gathering business requirements and documenting them.
+Conducted Daily Scrum meeting, Planning Sessions, Backlog updates, User Stories updates, MASKED_NAME.
+Coordinated with business users, architects and developers to create business case document, concept proposals, and process workflows. 
+Identified defects, documented Business Requirement Document and collaborated with Subject Matter Experts and Managers to identify an optimal solution.
+Facilitated requirements elicitation sessions with product owners and stakeholders for new software features.
+Maintaining existing cognos reports and making necessary changes as requested.
+Conducted JAD sessions for each assignment, held SME interviews, gathered requirements and created use cases. 
+Creation and updating our Source-to-target mapping documents.
+MASKED_NAME claim center for the client Merchant e-solutions.
+Interviewed the Subject Matter Experts (SME) by asking detailed questions.
+Developed SQL Queries to fetch complex data from different tables in remote databases using joins, database links and MASKED_NAME collects.
+Responsibly maintain and operate ETL process in support of job issues. 
+Perform extensive Data Analysis, Data Requirement Analysis and Data Mapping.
+Extensive experience in installation, configuration and upgradation of various versions of Tableau Desktop/Server.
+Generation of dashboards with calculated fields, MASKED_NAME, Groups, Parameters and Sets to handle views more efficiently in MASKED_LOCATION.
+Designed the Data Warehousing ETL procedures for extracting the data from all source systems to the target system. 
+Extracted, discussed, and refined business requirements from business users and team members.
+Designed and developed project document templates based on SDLC methodology.
+Created UML diagrams such as Activity Diagram, Sequence Diagram and Use Case Diagram to depict the various processes flow using MS VISIO. 
+Performed Feasibility Analysis and SWOT Analysis.
+Used google docs for project management and delivery.
+Wrote PL/SQL statements and stored procedures in MASKED_LOCATION for extracting as well as writing data.
+Assisted Quality Assurance (QA)/Testing Team in creating test scenarios, scripting test cases using testing and defect management tools.
+Monitored the progress of projects using MS Project and took appropriate action to ensure that they keep up with the schedule. 
+Created PowerPoint presentations incorporating MS Office Suite, Excel, Word and Access.
+Environment: SQL, MASKED_LOCATION, MS power point, MS Excel, MASKED_LOCATION project, MS Access, MASKED_NAME, MS outlook, UML (2.0), Waterfall, Rational Rose, Requisite Pro, Clear Case, Rational Clear Quest.
+Client: Lille Systems, MASKED_LOCATION, CA      
+Role: Business Analyst/Project Manager                          Duration: September 2016 – February 2017
+Description: MASKED_NAME, an Inc. MASKED_ADDRESS-winner, is capitalizing on the growing market for providing secure and reliable connectivity for IoT and MASKED_NAME. MASKED_NAME’s fog computing platforms enable a higher level of customizable services which can be deployed to enhance safety, grow ridership, improve customer satisfaction, increase operational efficiency, and seamlessly interconnect IoT applications in the Smart World.
+Interacting with business users and client to understand the requirements to fill the gap between technical and business teams.
+Preparing the technical mapping sheet, functional spec, gap analysis, design document, data modeling sheet, test cases document for streamlining the existing process of deliverable.
+Developed customized cost reports based on business needs and comprehensive reports for decision making purposes.
+Documented processes (in MS MASKED_NAME), and supported internal and external audit efforts involving cross-functional collaboration and educational sessions.
+Key responsibilities included planning and forecasting, cost monitoring, monthly reporting, technical training, regulatory analysis, and process improvement.
+Managed implementation of a new accounting structure for standardize reporting, and the use of a SharePoint to streamline and centralize interactions with over 400 end-users.
+Learned the energy and utility domain in no time and acknowledged by clients in a small span of time.
+Environment: XP Operating Systems, Windows, Word, Excel, and Power point, MASKED_NAME, HP Service Manager, Verint 360 WFM, Desktop Process Analytics and Avaya Unified Communications.
+Client: United HealthCare (UHC), MASKED_LOCATION, CA                                 
+Role: HealthCare Business Analyst                                                    Duration: Aug 2015 – Aug 2016
+Description: UHC is a Preferred Provider Organization (PPO) that has created a network of physicians, hospitals, and other healthcare providers with the goal of offering affordable healthcare services. I worked on Claims processing module of the Group Approval Process (GAP). The claims processing module involved Receipt and Verification of Claim Forms (837) and MASKED_NAME (275), Claims Enquiry and Response, Adjudication, Healthcare Claim Payment/Advice as per HIPAA guidelines.
+Responsibilities:
+Worked in close collaboration with the Project Manager and business users to gather, analyze and document the functional requirements for the project.
+Worked in Healthcare Claims Administration – Healthcare Claims and Processing (837/835) includes facility claims and professional claims.
+Developed a conclusion using analytical and graphical methods for different cases utilizing STAAD Pro and MS Excel.
+Worked with a cross-functional team of Business Development, Product Support in the analysis of Business Needs, information input/output requirements, process and data flows, as well as report format and content Facilitated JAD sessions for communicating and managing expectations with customers were going to be the final users of the product.
+Used cognos Connection for organizing, security, scheduling and distributing reports. 
+Conducted detailed requirements gathering sessions related to data analysis, data mapping to lock down acceptance criteria.
+Responsible for gathering requirements and developed Requirement Traceability Matrix (RTM), writing functional specifications.
+Extracted data using SQL.
+Contributed in the database design with MASKED_LOCATION-models.
+Responsible for feature enhancement and performance tuning in both SQL Server and MS Access environments.
+Developed use case diagrams, use case models, state diagrams and class diagrams based on UML methodology. 
+Perform Gap Analysis for analyzing the gaps in key metrics utilized in existing MASKED_NAME.
+Responsible for various deliverables throughout the software development lifecycle from process flow diagrams to mock-ups and wireframes.
+Environment: MASKED_NAME, UML, SQL, MASKED_NAME, MS Access, MS Excel, cognos, Waterfall, Rational Rose, Requisite Pro, Clear Case, Rational Clear Quest.
+Client: Cipla Global Limited, MASKED_LOCATION                                       
+Role: Project Manager/Business Analyst                                       Duration: June 2013-july 2015
+Description: Cipla global limited is an Indian multinational pharmaceutical and biotech company, headquartered in MASKED_LOCATION. Cipla primarily develops therapeutics to treat cardiovascular disease, arthritis and depression. The project involved development of a centralized web-based database called EDR (Electronic Data Reserve) to be used by various members for generating reports and data from different departments. The application allowed researchers and scientists to store and retrieve data as and when required.
+Responsibilities:
+Organize and track activities ensuring project successfully completes on time and within budget.
+Facilitate business requirements-gathering and review. Ensured all project documentation is kept up to date and communicated to the relevant stakeholders on a timely basis. 
+Involved in multiple phases of SDLC for enterprise level projects, as a client facing consultant, with a focus on the Microsoft platform. Responsible for leading and supporting various projects, as a trusted advisor, for publicly traded clients in a Waterfall and Agile environment. 
+Developed process flow diagrams (flow charts) using MASKED_NAME to identify and analyze process flows.
+Gathered user and business requirements through open-ended discussions, brainstorming sessions and role-playing.
+created and maintained the requirement traceability matrix (RTM) and performed impact analysis.
+Created project plans, taking into consideration projects mission, process flow, timelines, requirements, and documentation.
+Managed workload, schedules and coordinated status review meetings with project managers, business managers and team members.
+Conducted presentations during meetings, took meeting minutes, created action item tracking items, communicated with internal and external stakeholders, and setup phone calls.
+Environment: MS word, MS power point, MS Excel, MASKED_LOCATION project, MS Access, MASKED_NAME, MS outlook, UML, Waterfall, SQL, MASKED_LOCATION, Agile.
+Education:
+Master of Science in Computer Science-Colorado Technical University, CO.

@@ -1,0 +1,46 @@
+{
+  "resume_id": "Harish K_anon",
+  "skills": [
+    "java",
+    "javascript",
+    "react",
+    "angular",
+    "html",
+    "css",
+    "bootstrap",
+    "jquery",
+    "node",
+    "spring",
+    "express",
+    "rest",
+    "soap",
+    "sql",
+    "mysql",
+    "mongodb",
+    "oracle",
+    "cassandra",
+    "aws",
+    "kubernetes",
+    "jenkins",
+    "linux",
+    "apache",
+    "git",
+    "jira",
+    "postman"
+  ],
+  "education": {
+    "degree": "Master of science, MASKED_LOCATION, USA",
+    "year": "Unknown"
+  },
+  "experience_years": 8,
+  "projects": [
+    "Co-coordinated Application testing with the help of testing team.",
+    "Writing database queries on Oracle 10g.",
+    "Writing stored procedures, Packages, Views, Cursors, Functions and triggers using SQL in the back end.",
+    "Wrote SQL commands and Stored Procedures to retrieve data from Oracle database.",
+    "Created and implemented Oracle Stored Procedures, Functions, Triggers and complex queries using SQL."
+  ],
+  "certifications": [
+    "Experienced being a scrum master in our Scrum Method of Agile Software Development."
+  ]
+}

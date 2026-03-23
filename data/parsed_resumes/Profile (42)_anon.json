@@ -1,0 +1,19 @@
+{
+  "resume_id": "Profile (42)_anon",
+  "skills": [
+    "python",
+    "r",
+    "sql",
+    "machine learning",
+    "scikit-learn",
+    "pandas",
+    "numpy"
+  ],
+  "education": {
+    "degree": "Master of Science (MASKED_LOCATION),\u00a0ThermoFluids\u00a0\u00b7\u00a0(2012\u00a0-\u00a02014)",
+    "year": "2012"
+  },
+  "experience_years": 5,
+  "projects": [],
+  "certifications": []
+}

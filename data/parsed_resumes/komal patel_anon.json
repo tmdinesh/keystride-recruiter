@@ -1,0 +1,41 @@
+{
+  "resume_id": "komal patel_anon",
+  "skills": [
+    "java",
+    "javascript",
+    "r",
+    "react",
+    "angular",
+    "html",
+    "css",
+    "bootstrap",
+    "jquery",
+    "node",
+    "spring",
+    "express",
+    "rest",
+    "soap",
+    "sql",
+    "mysql",
+    "oracle",
+    "dynamodb",
+    "aws",
+    "apache",
+    "git",
+    "jira",
+    "swagger"
+  ],
+  "education": {
+    "degree": "Bachelor of Computer Application, MASKED_LOCATION, MASKED_LOCATION, MASKED_LOCATION",
+    "year": "Unknown"
+  },
+  "experience_years": 8,
+  "projects": [
+    "Designed and Developed automation script using Selenium Web Driver in Eclipse.",
+    "Created GET/PUT request and response using RESTFUL web services.",
+    "Involved in analysis and design phases of software development life cycle (SDLC)",
+    "Scrum methodology was used during the product life cycle.",
+    "Created detailed design documents, use case diagrams and class diagrams."
+  ],
+  "certifications": []
+}

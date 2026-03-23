@@ -1,0 +1,43 @@
+{
+  "resume_id": "Alekhya Resume_anon",
+  "skills": [
+    "java",
+    "javascript",
+    "r",
+    "react",
+    "angular",
+    "html",
+    "css",
+    "bootstrap",
+    "jquery",
+    "spring",
+    "express",
+    "rest",
+    "soap",
+    "sql",
+    "postgresql",
+    "mongodb",
+    "oracle",
+    "aws",
+    "jenkins",
+    "ci/cd",
+    "linux",
+    "apache",
+    "git",
+    "jira",
+    "postman"
+  ],
+  "education": {
+    "degree": "Unknown",
+    "year": "Unknown"
+  },
+  "experience_years": 8,
+  "projects": [
+    "Client: Prime Soft Solutions Inc \t\t\t\t\t\t\t\t                May 2009 \u2013 Jan 2011",
+    "Created user-friendly GUI interface and Web pages using HTML, CSS and JSP.",
+    "Wrote JavaScript for client side validation.",
+    "Monitored the logs using Log4J and fixed the problem.",
+    "The Application was deployed on Apache Tomcat Server."
+  ],
+  "certifications": []
+}

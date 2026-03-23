@@ -1,0 +1,124 @@
+BHARAT ARORA
+ PMP, ERP Consultant
+Contact: MASKED_PHONE					                  			
+SUMMARY
+Passionate, value-driven Consultant with 8+ years of experience leading cross-functional teams to plan, build, launch and manage various world-class Applications.
+Have worked for Projects & business meetings with MASKED_LOCATION across NA, APAC, EMEA & UAE
+Prioritize and manage multiple projects within specifications and budget restrictions
+Have been a part of various ERP Implementation, Development, Reengineering and Support projects
+Have got extensive experience in MASKED_LOCATION management, Post production Support and Technical problem resolution, sharing knowledge with team members, driving key initiatives to improve customer satisfaction.
+Have been leading teams which take pride in on-time delivery and have strong Organizational Skills.
+Extensively involved in MASKED_NAME, Fit-gap analysis, development and documentation.
+Blend technology skills with extensive PMP experience and a market orientation.
+ACADEMIC QUALIFICATIONS
+RECOGNITION & CERTIFICATIONS
+PMP – PMI (2017/09)
+IFRS – ACCA, MASKED_LOCATION (2014/07)
+SIX SIGMA – MASKED_LOCATION (2016-17), LEAN (2014-17).
+Awarded Silver & Bronze from GENPACT various times for dedication, skill and talent.
+Recognized with an award for excellent contribution towards a new Set of Book Implementation for GE POWER AND WATER, MASKED_LOCATION. 
+Certified in Corporate MASKED_NAME and Interpersonal Skills from NIIT Uniqua.
+Certified in General Management And Communication Skills Course from MASKED_LOCATION by ICAI.
+EXPERIENCE WITH GENPACT (April 2012 to Present) – Lead Consultant (Current)
+Primarily involved in:
+Program & Project management for Oracle ERP, SharePoint, SAP Success Factors, MASKED_LOCATION, MASKED_LOCATION, SOA/Fusion, LegalEase, SQL Developer, O365
+Consulting for Oracle Financial modules as a Functional Lead/ SME/ Solution architect
+Creation of High Level Design documents and MASKED_NAME to cater to Business Needs of customers.
+Critical Understanding of Business Requirements across industries and translating the same into MASKED_NAME with necessary controls and validations.
+Assist the Product Management Team by highlighting gaps/ deficiencies in Functional Flows and provide alternative solutions to plug lacunae in business rules.
+Developing a custom, comprehensive strategy detailing how the applications will be tested. 
+Conducted various rounds of UAT and SIT with his experience across various modules of Oracle ERP
+Experience in Procure to Pay and Order to Cash, Integration of P2P and O2C with Oracle Financials & Projects across geographies
+Was involved in the Oracle Release 12 features like Sub Ledger Accounting (SLA), Multi Org Access Control (MOAC), EDI design for onboarding new customers
+Involved in design of Chart of accounts and General MASKED_NAME as a part of the Team.
+Also have basic working knowledge of some SCM Modules like MASKED_LOCATION, OM, Inventory and Purchasing.
+Extensively involved in preparation of BRD, BR -100, 110, 150, CF 250, MASKED_LOCATION 200, RICEW and MASKED_NAME
+Working with Oracle Support & Development on Metalink for troubleshooting and time resolution of various issues that come up while testing.
+OTSUKA, MASKED_LOCATION, MASKED_LOCATION, MASKED_LOCATION (Nov 2015 – Present)
+Optimize the Enterprise IT Support, Change & Release Management across various technologies to improve operational efficiency
+Manage stakeholder engagement and communication, Control Scope, time, cost, risks, quality as per plan & manage changes through Change Control Board
+Involved to improve & support finance MASKED_NAME general MASKED_NAME, MASKED_NAME payables, Receivables, Fixed Assets and Cash management as a BEST(Business Effectiveness Services Team)/Support Lead.
+Managing integrations with External systems like AcceLIM, MASKED_LOCATION, MASKED_LOCATION, Hyperion & LegalEase
+Resolve the issues raised by user in Finance and distribution modules by Coordinating with team.
+Ensure for smooth Period close & daily, weekly status MASKED_NAME on issue raised by users
+Follow up with oracle for any BUG resolution & Testing the functionality after applying the patch
+Creation of  Understanding, MASKED_NAME documents for the Current & Proposed business process
+MASKED_NAME sessions to the business & Current ERP Support team
+AVERDA, MASKED_LOCATION, MASKED_LOCATION (Oct 2014 – Nov 2015)
+Transition, Transformation & Reengineering of Processes for setting up Shared Service Centre in MASKED_LOCATION
+Obtain and manage resources, Flowchart business processes, Implement approved changes
+Centralization of all Business Processes in R2R, P2P, O2C, Fixed Assets, I Expense & Cash Management.
+IT Support for Ledgers Rollouts, Month End Closing, Customizations, Extensions, Reporting & Interfaces.
+Chart of Accounts maintenance – COA Values, Code Combinations, Security Rules, Cross Validation Rules, Enabling Dynamic Inserts, Mass Allocations, Creating & Maintaining Budgets, GL Periods.
+Working with Oracle Support for Problem Resolution.
+Modification of the Custom programs, Forms in the System to suit the new business requirement.
+Preparation of Policies & Standard Operating procedures, Reconciliations, Accruals 
+Representing & Liaising with IT Team for entire Finance for all entities across GCC Locations
+Worked on Business Intelligence Tools: Cognos & Oracle Discoverer
+Document Sequencing/ Categories, Translation, Consolidation and Revaluation for reporting globally.
+Actively engaged with a dedicated DBA in Cloning of instances for various rounds of testing, application of patches and data fixes, Code Movements, Handling data corruption and outage for instances when required.
+Defined Financial and Payable Options, Recurring invoices, Expenses Reports templates, Payment terms, and recording transactions using Standard Invoices, credit memos, Debit memos, and Prepayment invoices.
+HUMANA, MASKED_LOCATION, MASKED_LOCATION, MASKED_LOCATION  (MASKED_NAME 2014- Oct 2014)
+Team Building, MASKED_NAME in the Current Processes by having proper Documentation & SOP’s
+Strengthening the Team by Coordinating with the Business directly to gather required information
+Handling issues for I Expense, Finance modules with the Team
+MC GRAW-HILL FINANCIAL, MASKED_LOCATION, MASKED_LOCATION (Jun 2013- Jun 2014)
+Prepare project plans, requirements, constraints and assumptions, Stakeholder Analysis 
+Leading the team & working as the Accounts Payables Administrator.
+Maintaining Project Billing & Revenue recognition tasks for the Project.
+Had discussions on the Current Process in AP and took over the Process smoothly in a time of 4 months
+Daily interaction with Client and Customers for changes in Invoice Authorization Limits.
+Also support for Banking and EDI tasks which involves direct interaction with the MASKED_NAME.
+MASKED_NAME runs in Oracle daily and managing confirmations with bank and treasury.
+Performing Payment stops at Bank and in MASKED_LOCATION.
+Managing Invoice cancellations, rejects and Bank Wires and check rejects & reissue.
+Managing Internal and External feeds into the system(Oracle) for invoice processing. 
+Suggested changes for improvement that were implemented by the MASKED_LOCATION.
+Revamped the process for granting Authorized Approver rights and helped the client to build a new process to get away with the Ticketing system and have a shared mailbox in its place instead.
+Exposure to Ms Access and providing the Business Groups extracts and outputs from the database for necessary decision making.
+Preserving and maintaining all the documents for internal and external audit.
+GE ENERGY, POWER & WATER, MASKED_LOCATION, EUROPE (April 2012 – June 2013)
+Worked as a Solution Architect for implementation of Multiple Reporting Currency (MRC) Feature in MASKED_LOCATION – 
+Collected Business requirements from customer by having discussion directly with the users for various modules and systems by travelling to MASKED_LOCATION, MASKED_LOCATION in MASKED_LOCATION.  This involved studying the clients existing business practices and designing the overall solution, functional design of custom components and interfaces, reporting requirements, configuring and testing the solution, providing training & support to users.
+Understood the existing AS-IS process, map to application and integrations with the other systems external to oracle and updated the daily and weekly status in MASKED_LOCATION and Call.
+Prepared & Presented PowerPoint presentations to the MASKED_LOCATION proposing the TO-BE solution for the required business need & Conducted daily discussions through Live Tele Presence and Webex Sessions
+Complete the unit testing for custom components developed and ensure that business requirements are met
+Achieved the milestone and went Go-Live with the process in Production in a very short time frame and received appreciation from the IT/IM team and the Business 
+Explained the MRC feature in oracle to the MASKED_LOCATION and got their approval for the Future process
+Create a new USD Reporting SOB to replace the existing EUR SOB Due to Legal Compliance in MASKED_LOCATION.
+Cleared unnecessary invoices and Transactions lying in the system.
+Help removing the already existing Rounding and precission issues.
+Worked with the technical team on SQL queries and statements and handling the scripts if required any.
+Modification of the Custom programs in the System to suit the new business requirement.
+Successful period and MASKED_NAME activities after the Implementation without any issues.
+ Defining Mass allocation and MASKED_NAME for the New Set of Book 
+Translation, Consolidation and Revaluation for reporting Globally.
+Disabling the existing EURO SOB and End dating the Sub Ledger modules so that no transactions pass on to the Reporting Set of books that will no longer be used.
+Providing the conversion options for Set of books & Setting Auto reversal MASKED_NAME for the financial options.
+Confirming by testing that all previous and future transactions are posted to the New SOB after the closure of existing books & Ensuring that no transactions lie piling up even in the Interface tables.
+MANAGEMENT TRAINEE UNDER CA (August 2007 to March 2011)
+Worked as an Assistant for 4 years in V.K.B & CO.
+Audit finalization and taxation of clients in manufacturing and service sectors 
+Maintaining the accounts and audit finalization of various companies, firms and organizations
+Finalization of financial statements with compliance of accounting standards, Companies Act 
+Filing of income tax returns for individuals and various organizations
+Conducting management audit of companies and preparing MIS Reports. 
+Ensuring compliance of Indian Auditing Standards, Book keeping and management.
+Financial management: Shares And Derivatives Portfolio Management.
+Preparation of Balance Sheet and filing Income Tax & TDS Return of various assesses. 
+Writing journal entries and preparing bank reconciliation and financial statements.
+Physical verification of stock/inventory.
+COMPUTER LITERACY
+Proficiency in Oracle R11i and R12 finance modules, Basic SQL                                                                               
+Well versed with MS Office – Word, Excel, Access, PowerPoint and Tally
+STRENGTHS
+Good communication skills, MASKED_LOCATION, Focused, Creative and innovative
+Get along with co-workers easily and Able to adapt in changing circumstances
+MASKED_NAME well and have been able to meet deadlines
+PERSONAL DETAIL
+Hobbies                             : Reading, traveling, watching sitcoms & listening to Music.
+Language Proficiency       : English, Hindi and Punjabi
+Job MASKED_ADDRESS
+MASKED_ADDRESS
+Signature:
+BHARAT ARORA						References: Available upon request

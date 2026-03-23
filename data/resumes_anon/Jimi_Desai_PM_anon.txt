@@ -1,0 +1,90 @@
+MASKED_NAME
+IT Project Manager / Scrum Master
+Over 15 Years of IT experience as a Developer, Analyst and Project Manager in various Supply Chain, Retail and Manufacturing Industry.
+PMI – PMP & Scrum alliance – CSM (Certified Scrum Master) certified professional with hands on experience executing IT projects in traditional Waterfall & Agile environment.
+APICS Certified (CSCP) Supply Chain Professional having exposure in various areas of Supply Chain Including SC Planning, Executing, Monitoring, Order management, Logistics optimization and Inventory Management.   
+LSSGB (Lean Six Sigma Green Belt) professional having experience in Business Process Analysis, Improvement using lean principals.
+Heavy exposure executing various IT projects including ERP Implementation, Order management, COTS software system evaluation, Implementation and Integration, Data Management & Migration, e-commerce integration with ERP, Retail POS (Point of Sale) system and MASKED_NAME.
+Very strong in Team building, Coordination & Leadership skills to align Organizational Change Management.
+Excellent Analytical and Lateral thinking skills along with working experience with SAP – APO, MM & SD modules. 
+Core Competencies:
+Tools & Technology Used: MS Project, Clarity CA PPM 14.2, JIRA, HP ALM, Service Now (MASKED_NAME), MS Office, MASKED_NAME, SAP, Oracle PL/SQL, SQL Server, MS Access, Oracle Forms 6i, Visual Basic 6.0
+Education: MBA (Marketing / SCM), B.E. (Production Engineering), Diploma in MASKED_NAME (C-DAC)
+Certifications: PMI - PMP, CSM (Certified Scrum Master), APICS – CSCP, LSSGB (Lean Six Sigma Green Belt)
+Professional Experience: 
+MASKED_NAME, MASKED_NAME, OH – Oct 2017 - Till Date
+Currently involved in multiple retail projects and managing various stakeholders, project teams and vendors with onsite offshore reporting model.
+Enhance existing e-commerce & Omni channel model with Inventory feed (Consolidate Vendor inventory, store inventory and DC Inventory) and expected order delivery date for better customer service. 
+Worked and manage Demand Planning project to migrate SAP APO forecasting data to Financial planning system, which helps Finance to release quarterly budget and monitor sales history and forecast.  
+Use existing Project Charter to understand high level requirements & risks and prepare detailed WBS and project plan by conducting various stakeholder and team meetings. Work with Compliance team to Manage a project for PCI compliance remediation. Removing ecommerce access from POS terminal and route store ecommerce transaction on iPad and Sled device for all 3500 stores.
+Use MASKED_LOCATION project to maintain tasks, resources and schedule to successfully execute projects through all Phase of Project Management. Work with finance Director to manage budget for all projects and repot Bi-weekly expense and spend reports. 
+Use JIRA for managing project Issue and Risks and Confluence site for managing project documents. 
+MASKED_NAME, MASKED_LOCATION, OH – Jan 2017 – Oct 2017
+Worked as a PM / Scrum Master at Cooper Tires BIS division. Manage multiple IT projects in waterfall and Agile environment to support day to day business operations across various plants in MASKED_LOCATION.
+Design and Manage Supply Chain dashboard project in an Agile environment to provide high visibility to VP and C-Suite level executive to make corrective decision based on historical trends and future forecast.
+Both dashboards would provide easy access and visibility to Sales operations (OTC, Region wise, Tire Type Wise Sales & Forecast), Procurement operation (P2P, MASKED_NAME quality and order delivery ratio) and their performance based on several KPIs.
+Conduct project Sprint Planning and daily scrum meetings with team followed by review and retrospect team efforts for successful product delivery and improving work efforts for next sprints. 
+Use JIRA tool to Create and Manage Epic, User stories and tasks.
+MASKED_NAME sprint and release burn-down chart to keep track of project status and motivate team to improve velocity.
+Use Clarity CA PPM tool to manage projects starting from business Idea generation to Project Charter approval to prepare detailed WBS till successful implementation of the project using standard PMI process groups.
+Managed Component Extrusion and Tire finishing process (Measure sidewall Bulge & Depression) projects, helping plant managers to measure data accurately.
+Heavily involved in preparing Project charter, project kick off meeting, weekly status meeting, using Clarity PPM tool for resource based scheduling.
+Worked with Business to get approval on budget and manage resource and project schedule using PM tool and proper communication with technical team across all plants.
+Create and Manage Risk using PM tool throughout the project and make sure project runs with minimal issues.
+Manage various team size of 3- 15 (onsite and Offshore) and communicate with stakeholders across all plants. Provide weekly status update to product owner BRM (Business Relationship Manager) and top management. 
+Tiffany & Co, Parsippany, NJ – Sept 2015 – Dec 2016 
+Worked as a PM and manage Supply Chain Retail foundation project, includes multiple system integrations & business processes changes. 
+Prepare and Manage detailed project plan using MS Project for Supply Chain data integration (Item Master, Supplier Master, Pricing, location, Sales history data) between Legacy system and JD Edwards ERP system.
+Manage financial budget, MASKED_NAME and Scope of the project to support resource planning.
+Create and Manage Risk / Action register and monitor them closely to prevent disruption in project execution process. 
+Manage and analyze all change requests during the project and process them via CCB (Change Control Board). Maintain all project documents and their approvals on SharePoint.
+Worked with PMO and verify all SOP and standards are followed by each team member.
+Develop & implement new process model and an Excel tool for uploading supplier cost data into the new ERP system.
+Manage TVE (Tiffany Vendor Exchange) portal to enhance new functionality of creating and managing supplier on boarding process and their SAP (Social Accountability Program) & contracts renewal process.
+Conduct daily scrum meeting to get status update from team members and identify new challenges to the project.
+Worked with IT team to Prepare process flow diagrams, this manages inventory and Replenishment order flow between MIPS (legacy system), JDE MASKED_LOCATION instance, DMS (WMS system), 3PL warehouse (FTZ in MASKED_LOCATION) and JDE China instance for stores in MASKED_LOCATION.
+User HP ALM for issue tracking and managing high priority defects and their resolution.
+AbbVie, MASKED_NAME, IL – Sept 2014 – Sept 2015
+Worked as PM / Sr. Analyst in AbbVie Supply Chain Planning & Execution System. Involved in various projects starting from project proposal till go live and hyper care. 
+Prepare project proposals which include efforts required from each resource team (Cost vs Capital), estimated budget and project timeline for major milestones. Prepare and manage project plan upon approval of project proposals.
+Worked and manage various phase of SDLC in Supply Chain Planning Projects (Sales Forecast feeds from various affiliates to the Planning System, Product hierarchy, Net sales & profit related confidential data feed to the financial system)
+Work with SAP team to build an interface to pull the inventory details (Quantity and MASKED_LOCATION $$ value) for all plants and warehouses across the world, further integrate the data with RMS (Risk Management System) tool to track inventory for all locations and provide risk assessment report to the top management if any of the location gets impacted by natural disaster or human unrest. 
+Worked with Trax Technology Company to streamline freight payment and invoicing process for all inbound and outbound shipments and integrate with AbbVie SAP system.
+Prepare WBS (work breakdown structure) and assign tasks to each division and set timeline to complete the configuration and set up for 3PL warehouse.
+Arthrex, MASKED_LOCATION, FL – Jan 2014 – Sept 2014
+Worked as an IT Supply chain consultant and support companies MASKED_LOCATION, Warehouse, Customer Service division.
+Worked with PMO office to standardize BRD, Project Charter templates and Project change control procedure. 
+Prepare detail project plan using MS Project and manage Integration between Business Portal (ecommerce portal for supplier quote and orders) & new SAP system.
+Worked in an Agile environment to wireframe and build ecommerce portal in an incremental way and get business approval on each sprint delivery. Use JIRA tool for creating Epic, user stories and tasks.
+Enhance and support Omni channel order management system and streamline order creation process. 
+Worked with Business analyst to manage BAU (business as usual) change requests from various Stakeholders and process them via new CCB procedure and get approvals on various BRDs for enhancements on legacy ERP system. 
+Provide weekly status report to the management for all change request and status of integration between ecommerce portal and SAP system.
+Microsoft, MASKED_LOCATION, WA – Jan 2013 – Jan 2014
+Worked as a Supply Chain Solution Manager to provide solution and streamline B2B and B2C (Buy/Sell & Drop shipment) models at Microsoft resulting in $150M of savings.
+Engage in MASKED_LOCATION process and Manage EDI integration with various suppliers’ warehouse system with Microsoft SAP system to streamline Order management (OTC & PTP) Cycle.
+MASKED_LOCATION and standardize packing slip and shipping label with all suppliers for uniformity in drop shipment delivery. 
+Integrate Microsoft ecommerce portal with SAP system and provide real time Inventory data feed from supplier.
+Quarterly Implement Business logic for various MASKED_NAME shipment model (various combination of items and supplier) domestically and internationally based on various supplier KPI.
+Prepare Project Charter, Project Plan and conduct kick off meetings for various quarterly release of the project.
+Worked with Microsoft Procurement team to understand business needs and work with BSA & SAP team to execute those requirements and configure SAP system.
+ColeHaan, MASKED_LOCATION, ME – July 2011 – Dec 2012
+Worked as a PM / Sr. Analyst on various retail operations and manage various projects like managing level-II POS support team, MASKED_NAME’s between ERP system and Epicor POS system.
+Implement Client telling application (customer Loyalty Program) on iPad for the store manager and integrate it with POS system. Prepare and Manage project plan and budget for various projects.
+Worked on integration of Omni channel order management system with SAP and Epicor POS system.
+Support and manage all IT work in MASKED_LOCATION stores and back office for sales and Inventory.
+FasTrax POS, Monticello, NY – May 2010 – July 2011
+Manage and execute POS system upgrade with order management and inventory management module. Prepare and maintain project management documents (BRD, Project Charter, Process Flow diagrams) using MS Project, MS Visio and other MASKED_LOCATION office tools.
+Worked as single point of contact and become liaison between Retail store managers and IT development team. 
+Define business process rules to implement SOB (Share of Business). Implement Suggested Stock transfer functionality for better Inventory Management which saved 30% on annual inventory cost.
+Build and implement customer Rewards program and CRM system to enhance business profitability.
+Optimize distribution and logistics process for store inventory replenishment orders by engaging 3PL.
+EZ Franchise, MASKED_LOCATION, PA – Jan 2007 – May 2010
+Prepare and Manage project plan for EZ Franchise system and integrate with store POS system and customer royalty program. 
+System will generate multiple financial and inventory reports for the management to analyze business performance.
+Worked on designing and implementing EZ Franchise system for small retail franchise stores.
+Involved in Requirement gathering, preparing various BRDs and process flow diagram, database design, testing, Implementation, Reporting and data integration between various systems.
+Experience in MASKED_LOCATION  (Programmer / Business Analyst)                                                              Oct 2001 – Nov 2006                                                                                                        
+SMPPO (Stock Model Production Planning & Operations) & Inventory Distribution of Cement and clinker.
+SAP B1 Implementation Intellicon India Pvt ltd.
+Mormugao Port Trust
+GIIC (Gujarat Industrial Investment Corporation)

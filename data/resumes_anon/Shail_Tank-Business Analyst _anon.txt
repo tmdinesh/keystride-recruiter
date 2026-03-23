@@ -1,0 +1,143 @@
+MASKED_NAME
+Available on CTC basis. Please call/email MASKED_PHONE anthony.reddy at itmmi dot com
+Over 9 years of Business Analysis experience with all major Development Platforms like Web, Handheld Devices (IOS, Android, Nokia and Black Berry) and Desktop.
+Over 4 Years of multi-dimensional BA and leadership experience across project management, and functional domains. A rare blend of Strong Business Analyst and project management experience combined with excellent technical and analytical skills. Co-piloted with top decision makers to craft strategic technical solutions that boosted operational productivity within challenging timelines and providing automated solutions which are proven Time and cost effective to the organization. Successfully delivered complex IT projects and managed large teams both on-site and off-shore model. I am extremely proficient with Gathering Business Requirements, Business Process Flow, Business Process Modeling and Business Analysis. Adept in communications with senior management, business users, vendors, and internal teams to coordinate overall project delivery. Excellent Decision making, Team building and analytical problem-solving skills in conjunction with strong management background. Extremely meticulous and process oriented.
+Over 4 years of Experience as a Product Manager.
+Over 2 Years of Development Experience in .Net C# technology.
+Area of Expertise
+Professional Experience
+Credit Suisse, NYC	                                            Sr. Business Analyst/AML Business Analyst May 2016 – Till Date
+It is one of the true global banks with an operation unit in MASKED_LOCATION. I cater my duties as a Sr. Business Analyst for web applications along with Mantas Business Analyst in the AML Transactional Surveillance Group since May 2016 till date.
+Responsibilities:
+Executing requirement gathering sessions (Meetings & brain storming sessions) with SMEs for the MASKED_NAME and Web application projects. 
+Conducting Net Meetings and MASKED_NAME to gather requirements from business and am acting as a liaison between business and the IT Resources.
+Conducting JAD Sessions with the offshore team to design a feasible solution.
+Providing Technical Assistance in identifying, evaluating and developing systems and procedures that meet the user requirements.
+Converting the captured requirements into a BRD.
+Working with different SMEs to get the project Signoffs.
+Managing cross functional teams which are scattered by the geographical location. My teams are located in MASKED_LOCATION, MASKED_LOCATION and MASKED_LOCATION. (MASKED_LOCATION, MASKED_LOCATION etc.)
+Mapped the attributes provided by all source providers (Front Office systems) for Account, Account Address, Account to customer, Customer, Customer Address, Front Office Transaction (FOT), Front Office Transaction party (FOTP), Security, Settlement Instruction and Trade Execution feed files.
+Working as am SME from MASKED_LOCATION for the MASKED_NAME implementation project. 
+Supporting the source systems from MASKED_LOCATION team throughout the SDLC process.
+Extensively working with Data Mart Team to get the source system mapping implemented.
+Updated the Data Mapping document to reflect the changes made during development phase via Change Requests (CRs) and defects.
+Supporting DataMart by responding to queries related to data mapping, data processing and data consolidation.
+Working closely with Business Units, Development – Testing – Training and documentation teams during the entire Software Development Lifecycle.
+Created and updated various process and functional documents like SAD, DataMart Consolidated Logic Document, ETL process Document, MD5 checksum implementation document etc.  
+Conducting UAT and assisting business and the QA team by performing Functionality and Sanity Testing when needed.
+On-boarded Mantas Americas on JIRA.
+Providing MASKED_NAME reports for the web tool via backend on ad hoc requests.
+Environnent: 
+MASKED_NAME 8.1.3, Oracle 11g, PLSQL Developer, MS Office 2013, SnagIt 11, Microsoft Visio 2007/2010, Quality Center 11.0 (ALM), Control-M, JIRA.
+T-Mobile, Parsippany – NJ 		      Sr. Business Analyst/Project Manager/Product owner
+March 2011- April 2016
+T-Mobile is one of the largest Telecom Company in the country. The company’s Environment is extremely dynamic and my Responsibilities of as a BA Incorporates Project Management for Cell Sites from Inception till the On Air Status and also acting as a Business analyst / Project Manager for over 40 Web – Desktop and Mobile Applications catering to multiple flavors of In-house customers.
+Responsibilities:
+My Role is a mix of a Business Analyst and a Project Lead. I decide the project approach as well as the project plan – initiating from creating a Business Requirement from new MASKED_NAME to Validating the Final Built.
+Performed structured and unstructured interview sessions with the Technical support team and Managers to understand the “AS-IS” process.
+Conducted Net Meetings and Conference Calls (Bridge) to gather requirements from the SMEs.
+Extensively interacting with the Clients, Senior Management, Application Developers and Operational Team, have communicated / provided documentation of innovative solutions to exceed the achievement of the business objective. 
+Acting as the Product Manager for MASKED_ADDRESS / Project Manager for my 42 Applications.
+Analyzed the gathered requirements and documented a BRD defining the process for the new and existing system(s).
+Created Use Cases and Data Flow Diagrams from the Requirements and provided Process Models and Sequence Diagrams for the same.
+Created Wireframes for the applications for all platforms (Web – Desktop – Mobile).
+Defined and implemented SDLC Time Line for the Projects.
+Updated and Maintained the Online Business Requirement Documents Repository (InfoRouter). 
+MASKED_NAME and completed planning and analysis of business problems to be solved with automated systems. 
+Presented the Proof of Concept (POC) to Management and Business. 
+Providing Technical Assistance in identifying, evaluating and developing systems and procedures that meet the user requirements.
+Extensively performed Impact Analyses based on the Requirements as multiple interfaces are amalgamated together for a process to execute.
+Acting as an Administrator for the creation and maintenance of the SharePoint 2007/2013.
+Identified Actors, created Use Cases and developed Use case and Activity diagrams.
+Scheduled and Conducted User Acceptance testing (UAT) for all production releases. 
+Performed Functionality Testing to assist QA team. 
+MASKED_NAME in Load runner.
+Proficient with Quality center 11.0 (ALM)
+Environnent: 
+MS Office 2007/2010, SnagIt MASKED_LOCATION, Microsoft Visio 2007/2010, Quality Center 11.0 (ALM), MASKED_NAME 9.2, SQL Management Studio 2003, MASKED_NAME, SDLC Management MASKED_NAME (in house Project Management Tool), HOMER (in house Trouble Ticketing /  Work Order System), InSite (in house Cell Site Management Tool), Office Communicator 2007/2010.
+Thomson Reuters, NYC  							        Business Analyst
+April 2010 – March 2011
+Thomson Reuters is a leading source of intelligent information for business and professionals. They combine industry expertise with innovative technology to deliver critical information to leading decision makers in the financial, legal, tax and accounting, healthcare, science and media markets. The project needed to be work done with the developing team for “MASKED_NAME”, which deals with sharing files, quotes, rates and other important information amongst the brokers, Investors and employees
+Responsibilities
+Collaborated with the Project Managers and determined the project approach involved in the preparation of project plan.
+Conducted interviews and JAD sessions to gather requirements from internal and external users / stakeholders. 
+Defined the software development life cycle using RUP and documented future business process.
+Documented, communicated, managed system requirements and maintained requirements traceability matrix to keep members up to date with the latest changes if any.
+Conducted net-meetings and conference calls to facilitate requirements gathering process with business users.
+Performed structured and unstructured interview sessions with the Technical support team Managers to understand “AS-IS” process.
+Analyzed the gathered requirements and documented a BRD defining the process for the new system.
+Identified the Actors, Use Cases and developed Use case diagrams and Activity diagrams to describe how the actors would interact with the system.
+Implemented User Requirement Specification Document (URS) and verified the functionality coverage.
+Interacted with Users, Developers, Project Manager and SMEs to understand the business process, identify enhancements and gather Business Requirements.
+Developed user manuals, presentations and training manuals as per project specifications and timelines.
+Environnent:
+RUP, MS Office, MASKED_NAME, JAD Sessions, MASKED_NAME, UML, MASKED_NAME, Rational Requisite Pro, MS Excel, MS PowerPoint, SQL
+High Point, Lincroft – NJ 							       Business Analyst Feb 2009 – April 2010
+High Point is a provider of property and casualty insurance benefits. The Auto Claims project was on the Intranet claims processing system that adjudicated claims based on the business rules and policies. The adjudication process determines whether the claim should be paid or denied.  Complex or ambiguous claims were put in a PEND status and would require manual intervention by processors to adjudicate the claim.  Online adjudication was done using the claims online system, which was also used for entering and adjudicating paper claims that cannot be converted into electronic format.  The customer service department uses the online system to respond to queries from members or providers.
+Responsibilities:
+Simultaneously worked on the project and streamlining the Claim Processing System project and was responsible for their delivery.
+Conducted triage meetings and came up with all required documentation throughout different phases of the project abiding by the quality standards of the company and keeping up with the scheduled time frames.
+Managed all the requirements using Requisite Pro and created traceability between requirements and various items.
+Created Business Requirement Documents (BRD) after identifying all the user requirements.
+Coordinated with various teams onsite and offshore and was the point of contact across various teams involved in making the project a success.
+Interacted with business users to analyze impact on the existing system and the changes in the Aetna claim adjudication application. 
+Modeled business processes with emphasis on workflow driven requirement engineering and identified areas of improvement by automation.
+Involved in cost and GAP analysis through various project phases.
+Created use case diagram using UML 2.0 and managed the entire functional requirements lifecycle using AGILE.
+Involved in handling business intelligence and responsible for implementation and delivery.
+Interacted closely with SMEs to understand and visualize the problem domain.
+Writing queries by using SQL and create sample databases for testing purpose 
+Worked closely with the Business Owner to create UAT strategy, scenarios, and test scripts, based on “day-in-the-life” scenario.  Documented entry/exit criteria, project/product risks and created several other artifacts for product acceptance.
+Reviewed test cases and defects created by QA team.  Assigned resources and coordinated defect resolution.
+Involved in bug tracking using Quality Center
+Prepared and communicated daily test status report to management and team.
+Environment: 
+Agile, Requisite Pro 7.0, Rational Rose, Test Director, UML, Edit Plus, MASKED_NAME, Web logic, J2EE MASKED_LOCATION, MS Office, UNIX, Windows, MASKED_NAME, HTML, DHTML, XML
+Target Corporation – MASKED_LOCATION, MN       	             		 	         .NET Developer
+April 2008 – Feb 2009
+CPR is a client server based tool for internal use. This application is used internally for Bid Room where stores take customer orders and send them to MASKED_NAME room as bids order. Once the bid reaches bid room the associates generates bids for the orders.  Second phase of the project is to develop an application that updates the credit card information from flat file to the system’s database and generates report based on the credit card information. I have been involved in gathering requirement specifications, designing and developing the application that also includes prototyping and low level designing.
+Responsibilities
+Involved in requirement analysis, GUI design, database design, and development and testing of the CPR using Microsoft Visual Studio 2008/2005.
+Involved in High and low level designing of CPR.
+Developed a Win Forms Application by using WPF to design GUI and the key components of the CPR in C# and .NET framework 3.5
+MASKED_NAME templates and resources for changing appearance of the controls in WPF.
+Implemented WCF for developing web services for accessing data from database server.
+Developed Web Pages using ASP.Net and C#.
+Design and development of classes using C#.Net, ADO.NET, XML for database connectivity.
+Created and developed Properties and implemented routed events in C# and XAML.
+Developed 3DModule Animation in XAML.
+Used Dataset, Data Reader and Data Adapter classes of ADO.NET for accessing data from the database server.
+Developed Win Forms (Windows Forms) Service for configuring a timer service in the application by using C#.
+Wrote different SQL Stored procedures Triggers, and Indexes in SQL to manipulate the data.
+Maintained the user roles and security management.
+Developed a Setup Package to install Win Forms Application on client’s machine.
+Involved in SQL Server 2005 Reporting Services to design various kinds of reports.
+Developed, Monitored and debugged the project.
+Create project and product definition documents; such as functional specifications.
+Environnent:
+ASP.NET 3.5/3.0, C#3.0, ADO.NET3.5/ 3.0, Visual Studio 2008/2005, Win Forms, Web Forms, HTML, DHTML, XML, MASKED_LOCATION, JavaScript, IIS 6.0, SQL Server 2005.
+Allstate Corporation, MASKED_LOCATION – Illinois.                                       	                     .NET Developer March 2007 – April MASKED_ADDRESS corporations of MASKED_LOCATION and sells 13 major lines of insurance, including auto insurance, home insurance, life insurance, and commercial insurance. Allstate wanted to build a portal for new features that would have to be accessible through the Customer Care Center interface. The company needed to sign in customers to two distinct systems while requiring only a single user name and password connecting two Web applications.. As the customers only had excess to their property and vehicle policies through the company's Web portal. Allstate also wanted to give access to their life and annuity insurance policies. To fulfill the requirements we used user authentication, identity management procedures, and a user interfaces.
+Responsibilities
+Involved in web development using Microsoft Visual Studio 2005, Microsoft .Net Framework 2.0, C#, ASP.net, IIS, .Net, SQL Server 2005 (stored procedures, triggers, etc).
+Followed entire SDLC life cycle in this project from Requirement, Design, Coding, Testing and implementation.
+Developed user interface using MASKED_NAME.
+Extensively used Master pages and Themes to suit client needs using MASKED_NAME.
+Developed data access components and business logic components using C# object oriented programming.
+Extensively worked on Web Services in order to make phone calls using our website.
+Developed Windows services for MASKED_LOCATION.
+MASKED_NAME to catch error and give a custom error.
+Used MASKED_NAME for SQL Server database interactions using Data Adaptors, Data Reader and Dataset.
+Developed a complex SQL Stored procedure to manipulate Data.
+Extensively worked with Data Grid, Data List and Repeater to populate data with different templates
+Worked in Rich XML Support, Web enabled Analysis, Application hosting, Security, Full Text Search, improved developer productivity, Scalability and simplified database administration features of SQL 2005.
+Tested the Various Modules of the System thoroughly and fixed the MASKED_LOCATION.
+Performed unit testing by assigning the bugs to tester using Defect Tracking Systems (DTS).
+Developed preparation of High Level Design Document, Low Level Design Document and Design Review Checklist Templates.
+Worked in designing, normalizing databases, created tables, indexes, Stored Procedures of MS SQL Server 2005
+Generated Reports using SSRS
+Used VSS for maintaining the component and for release and version management.
+Environnent:
+Visual Studio 2005, .NET Framework 2.0 , C#, ASP.NET, ADO.NET 3.0, SQL Server 2005, Web Services,  XML, MASKED_LOCATION, Microsoft SQL Reporting Services (SSRS).
+Education:
+New York Institute of technology (N.Y.I.T), Master of Business Administration (MBA) May 2016
+MS University, MASKED_LOCATION, MASKED_LOCATION. Bachelors of Business Administration (B.B.A) Dec 2004

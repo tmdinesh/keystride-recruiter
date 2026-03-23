@@ -1,0 +1,41 @@
+{
+  "resume_id": "manohar.B_anon",
+  "skills": [
+    "python",
+    "java",
+    "javascript",
+    "r",
+    "angular",
+    "html",
+    "css",
+    "bootstrap",
+    "jquery",
+    "node",
+    "spring",
+    "rest",
+    "soap",
+    "sql",
+    "mysql",
+    "mongodb",
+    "oracle",
+    "aws",
+    "azure",
+    "ansible",
+    "jenkins",
+    "linux",
+    "apache",
+    "spark",
+    "hadoop",
+    "git",
+    "jira"
+  ],
+  "education": {
+    "degree": "Oracle Certified Associate (OCA)",
+    "year": "Unknown"
+  },
+  "experience_years": 8,
+  "projects": [],
+  "certifications": [
+    "Oracle Certified Associate (OCA)"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "resume_id": "PM RESUME_anon",
+  "skills": [
+    "oracle",
+    "aws",
+    "azure",
+    "jira"
+  ],
+  "education": {
+    "degree": "Unknown",
+    "year": "Unknown"
+  },
+  "experience_years": 9,
+  "projects": [
+    "Managed all PMO organization activities, ie. Funding, prioritization and kicked off for implementation.",
+    "Built out Business continuity and disaster recovery network.",
+    "Manage the integration of multiple networks to provide a single global network infrastructure for the company.",
+    "Train and mentor young engineers who want to pursue a career in management and project management.",
+    "Created test cases, test scenarios in HP Quality Center and ensured traceability to Business Use Cases and according to the application."
+  ],
+  "certifications": [
+    "Project Management Institute (PMI) member and PMP Certified."
+  ]
+}

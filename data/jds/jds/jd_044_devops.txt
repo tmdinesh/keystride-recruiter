@@ -1,0 +1,101 @@
+ROLE: Cloud & DevOps Engineer (m/w/d)
+SOURCE: Arbeitnow
+URL: https://www.arbeitnow.com/jobs/companies/ares-consulting-gmbh/cloud-devops-engineer-munich-450170
+
+Seit unserer Grndung 2021 in Mnchen sind wir mit unserem Team aus technischen IT-Consultants mit Expertise und Leidenschaft auf Wachstumskurs. Als cloud-native Company leben wir den technologischen Fortschritt und schaffen zukunftsweisende IT-Lsungen fr unsere namhaften Kunden aus unterschiedlichsten Branchen. Gemeinsam setzen wir innovative Projekte um und nutzen modernste Technologien, um nachhaltige IT-Dienstleistungen auf hchstem Niveau zu bieten.
+
+Was uns besonders macht? Unser starkes Team und eine New-Work-Culture, die wir nicht nur versprechen, sondern auch jeden Tag leben. Unsere Mitarbeitenden stehen bei uns immer an erster Stelle  und das ist der Schlssel zu unserem Erfolg. Werde Teil von ARES und gestalte aktiv mit uns die digitale Zukunft!
+
+Aufgaben
+
+Unsere Mission? Die Digitalisierung Deutschlands.
+
+Du arbeitest aktiv in Projektteams bei Kunden in unterschiedlichen Branchen. Je nach Projekt knnen die Aufgaben und das technologische Umfeld dabei variieren.
+
+Selbststndige Analyse von Kundenanforderungen
+
+Konzeptionierung und Optimierung komplexer IT-Systeme im Cloud-Umfeld
+
+Architektur von Lsungsdesigns mit modernen Technologien
+
+Bewertung von Cloud-Architekturen und Prsentation der Ergebnisse auf Management-Ebene
+
+Arbeit mit Private Cloud Technologien und den dazugehrigen Services (IaaS, PaaS, SaaS)
+
+Arbeit mit modernen Cloud-Plattformen (z.B. Azure, AWS, GCP, STACKIT Cloud)
+
+Automatisierung von CI/CD Pipelines fr Builds, Test sowie Release-Zyklen, z.B. mit Jenkins, Gitlab oder Azure DevOps
+
+Bauen von Containerlsungen mit Hilfe von Docker und Kubernetes
+
+Konzeption und Implementierung von Infrastrukturen mit Hilfe von "Infrastructure as Code"
+
+Coaching von Teammitgliedern in Bezug auf Cloud-Architekturen
+
+Untersttzung in ARES internen Projekten
+
+Qualifikation
+
+Studium oder Ausbildung im Bereich der IT
+
+Mehrjhrige Berufserfahrung mit Cloud-Service-Providern (z.B. AWS, Azure, GCP, STACKIT, IONOS, Hetzner) oder mit Private Cloud Infrastrukturen
+
+Du fhlst dich wohl in On-Premises-, Private Cloud- und Public Cloud-Umgebungen und bist flexibel in beiden Welten
+
+Du hast einschlgige Erfahrung im DevOps Bereich
+
+Du hast sehr gute Kenntnisse in Kubernetes, Docker, Ansible und Infrastructure as Code
+
+Du kennst dich mit der Konzeption von Cloud-Infrastrukturen sowohl im IaaS und PaaS Umfeld aus
+
+Du hast richtig Lust, Prozesse zu digitalisieren und Kunden bei ihrer Cloud-Strategie zu begleiten
+
+Du bist flexibel in verschiedenen Kundenbranchen (z.B. ffentlicher Sektor, Automotive, Finanzwesen)
+
+Idealerweise besitzt du bereits Erfahrung in der Beratung
+
+Du bist selbststndig, kundenorientiert, kommunikationsstark und arbeitest gerne im Team
+
+Du bist ehrgeizig und hast den Willen, dich schnell und flexibel in neue Themen einzuarbeiten
+
+Du hast Lust, gemeinsam mit ARES zu wachsen und dich auch intern zu engagieren
+
+Du bringst eine Reisebereitschaft innerhalb Deutschlands zu wichtigen Kundenterminen mit (im Schnitt max. 3 Tage/Monat)
+
+Deine sehr guten Deutsch- und Englischkenntnisse runden dein Profil ab
+
+Bereitschaft zur Sicherheitsberprfung: Aufgrund unserer Zusammenarbeit mit Kunden aus dem Public Sector, kann eine Sicherheitsberprfung (S1 oder S2) nach SG erforderlich sein
+
+Keine 100 % bereinstimmung? Bei ARES untersttzen wir deine persnliche & fachliche Weiterentwicklung!
+
+Benefits
+
+Remote-First-Prinzip & flexible Arbeitszeiten: 100% Homeoffice neben gelegentlicher Reisettigkeit (deutschlandweit)
+
+Job mit Impact & langfristiger Perspektive
+
+MacBook oder Windows? Du entscheidest
+
+Home Office: Du bekommst Equipment von uns, um dein Home Office angemessen auszustatten
+
+30 Tage Urlaub/Jahr
+
+Leistungsgebundener Jahresbonus (max. ein Monatsgehalt)
+
+Urban Sports Club/Wellpass Mitgliedschaft oder SpenditCard im Wert von 50 EUR monatlich (steuerfrei)
+
+Weiterbildung: Dir steht ein jhrliches Budget fr Schulungen, Fort- & Weiterbildungen zur Verfgung
+
+Individuelle Karriereplanung: Wir passen uns deinen Karrierewnschen an
+
+Weitere individuelle Benefits, z.B. JobRad, JobAuto, D-Ticket Zuschuss, Rabatte fr Mitarbeitende oder betriebliche Altersvorsorge
+
+Buddy-Programm & persnliches Mentoring fr deinen perfekten Start bei ARES!
+
+Mehrere tolle Firmenevents pro Jahr - lass dich auf unserem Instagram Account davon berzeugen!
+
+Klingt gut? Dann freuen wir uns ber deine aussagekrftige Bewerbung!
+
+Find 
+Jobs in Germany
+ on Arbeitnow

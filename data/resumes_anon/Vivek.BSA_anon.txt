@@ -1,0 +1,159 @@
+VIVEK SAGAR                                                                                     
+Sr. BUSINESS SYSTEM ANALYST
+PROFESSIONAL SUMMARY
+Senior Business Systems Analyst with 8+ years’ experience on Business Process Modeling, System and Data Analysis in Finance, specializing in Capital Markets, Trading Life Cycle and Portfolio Management.  
+Expertise in acting as a Liaison in Risk/Operations, Compliance, Treasury/Accounting and Finance/Traders.
+Extensive knowledge, expertise and involvement in various phases of Software Development Life Cycle (SDLC) in Waterfall, Scrum, Agile and Scrum-Waterfall Hybrid software development life cycle environments.
+Experienced in requirement elicitation, analysis & detailing, AS-IS and To-Be designing, GAP Analysis, Process Analysis, Risk Analysis, Document Analysis, MASKED_NAME, JRP, Requirement walkthroughs.
+Proficiency in gathering SMART (Specific, Measurable, Attainable, Realistic, Timely) requirements and transforming them into MASKED_LOCATION and Non-Functional Specifications.
+Skilled at Gap analysis, SWOT analysis, Risk analysis, Cost benefit analysis, Impact analysis, Change management, Feasibility study and Viability study.
+Clear and thorough documentation for business & technical complexity – RFP, SLAs, Project Initiation Document, BRD, FRD, NFRD, SRS, Meeting Minutes, Requirement Tractability Matrices.
+Facilitated various elicitation techniques like Survey/Questionnaires, Interviews, Brainstorming, Focus group, Requirement workshops, Reverse engineering, Document analysis, and JAD sessions.
+Analyzed and managed MASKED_NAME, determined Scope, performed impact and Cost Benefit Analysis, Feasibility studies and Risk analysis and maintained Risk Register.
+Proficient in creating page Mock-ups, Wireframes and dynamic UI prototypes – HTML, MS VSIO, MASKED_NAME.
+Proficient in preparing UML-Use Case, Sequence, State Chart, Activity, ER and Class Diagrams using MASKED_NAME.
+Experienced in tracing requirements throughout the development using Requirement Traceability MASKED_NAME). 
+Proficient in handling change request management, effectively implemented change by performing both business Impact analysis and technical impact analysis of the change on the scope of the project.
+Worked with QA team to design Test plans, Test Scenario, Test Cases, Test Data and Test Objective and collaborated in various type of testing like Functional Testing (Black Box Testing) and UAT using HP QC/ HP ALM.
+Proficient in Three-Tier architecture, MASKED_NAME, Web Services REST and SOAP API, XML and JSON messages and was responsible for API Documentation using MS Excel.
+Fluency in API documentation (JSON documentation & XML documentation) using MASKED_NAME.
+Involved in designing an integration solution architecture on WebLogic Integration along with the architects by providing a detailed requirements definitions, which include Business Process management, Data Transformation, Connectivity, Application Monitoring and User Interaction.
+Experienced in Data Analysis, Data Profiling, Data Migration, Data Integration and Metadata Management Services.
+Developed conceptual Data Model, Data Normalization, Logical Design considerations; Created Logical Data Models. Identified key elements, table structures and aid database design. Data Mining, Data Cleansing & Data Mapping and helped with Data Modeling, Indexing and Updating plan.
+Extensive implementation knowledge of Data warehousing, Data Structures, MASKED_LOCATION, Data Marts and OLAP Operations such as Roll-Up, MASKED_NAME, Slice, Dice and Pivot. Strong knowledge of Data-Migration, Data Lineage, Data Migration to Cloud, Systems Mapping and Data-Governance Processes.
+Thorough understanding of Business Intelligence (BI) and experience in creating interactive, analytical dashboards Canned & Ad Hoc reports using Tableau and IBM Cognos for decision making.
+Worked with SMEs’ to understand Key Performance Indicators (KPIs’), and Service Level Agreements (SLA) to enhance application performance through data exchange between external Web Services.
+Well versed with writing SQL queries to integrate and extract data for analysis and reporting.
+Understanding of Test Driven Development (TDD), Behavior Driven Development (BDD), and Acceptance Test Driven Development (ATDD) used in Test-Centric Development.
+Certified Scrum Master (CSM) who has Facilitated Scrum Ceremonies - Daily Scrum, Sprint Planning, Review and Retrospective Meetings. Maintaining scrum reports Burn Up/Burn down Charts, MASKED_NAME, Impediment list, Technical MASKED_NAME and was involved with MASKED_LOCATION in Product Backlog Grooming.
+Successfully facilitated MASKED_NAME and used various interactive techniques like Silent writing, Starfish and Sailboat among others and prepared action items to eliminate Impediments.
+TECHNICAL SKILLS
+DOMAIN KNOWLEDGE
+PROFFESSIONAL EXPERIENCE
+HSBC, MASKED_LOCATION, MASKED_LOCATION                                                                                                                       APR 2016 – DEC 2017
+SR. BUSINESS SYSTEMS ANALYST
+SCOPE: The scope of my project was to consolidate disparate trading, risk and reserve management systems and automate bank specific tasks like payments, conformation, settlements, swift messages while expanding product coverage to improve market operations by providing end-to-end processes for all asset classes. The solution also enabled us to conduct monetary activities, manage reserves and control risk on a single automated platform.  Major overhaul of the Treasury and Portfolio system was also performed to enhance the entire Trading Life Cycle.
+ROLES AND RESPONSIBILITIES
+Strong understanding of Trade Life Cycle, Front Office, Back Office, Capital Markets, Derivative & FX market.
+Emphasized on understanding the project’s requirements from the business perspective and translate them into functional deliverables and gathering requirements for the automation of the Payments, Conformations, Settlements and more.
+Conducted high level requirement gathering activities like JAD sessions, MASKED_NAME, One-on-one Interviews and Document Analysis with the stakeholders.
+Created Wireframes, Mock Ups and MASKED_NAME after closely collaborating with the business users. 
+Created Business Requirement Document and System Requirement Specification incorporating business, functional, non-functional, data and GUI requirements.
+Prepared and analyzed UML diagrams like Use Case Diagrams, Sequence Diagrams and Activity Diagrams using MS MASKED_NAME to analyze and design structure, behavior and interactions in the system design.
+Created and reviewed functional requirement documents, use cases, issue logs, project status documents, scope change documents and mapping specifications.
+Interacted with Financial Analysts to understand Fundamental analysis, Financial models to calculate Expected Return, Market Risk and Portfolio Risk of the portfolio to be used in Analytical tools.
+Helped PM in ROI Analysis, Cost-Benefit Analysis and SWOT analysis in order to be prepared for potential business and technical risks to the system and Handled requirement churn by assisting SMEs in Impact Analysis.
+Documented Risk Analysis of the requirements to identify the key business risks areas for the project and prioritized the application development and testing.
+Assisted creation of Test Cases, Test Plans, Test Scenarios and created forward and backward Traceability Matrices. Conducted User Acceptance Testing (UAT) and actively participated and facilitated testing of the system during Smoke Testing, Black Box Testing and Regression Testing.
+Assisted with user testing of features. Performed interface and integration and Component testing, Sanity testing. Developed and maintained quality procedures and ensured that appropriate documentation was in place.
+Involved in AWS Data Pipeline Documentation along with the AWS Architect in Defining the Pipeline according to the Business Logic for data driven Workflows and Transformation of the data. 
+Assisted AWS business leaders to develop and define key business questions, then work backwards to deliver Reporting and Visualization that answer those questions.
+Prepared the API Gateway API Documentation which involves individual documentation parts associated with specific API entities that include API, resource, method, request, response, as well as authorizers and models.
+MASKED_NAME, Amazon RDS, Amazon Athena and similar technology to make sense of large data sets and boil them down to meaningful, actionable intelligence consumed by the organization.
+ENVIRONMENT: Waterfall, MS Visio 2013, JIRA , MS Office 2013 (MS Word, MS Excel, MS PowerPoint), Wireframes, HTML 9.0, CSS 3.0, JavaScript, AJAX, Route53, Amazon IAM, Amazon EC2, AWS MASKED_NAME, MASKED_NAME, Amazon EC2 Container Services, Elastic Load Balancing, Virtual Private Cloud, MASKED_NAME, MASKED_NAME, Amazon S3, MASKED_LOCATION, Amazon RDS, MASKED_NAME, Amazon Athena, Amazon Quicksight.
+MASKED_LOCATION, MASKED_LOCATION, MA                                                                                                                      FEB 2015 – MASKED_NAME 2016
+SR. BUSINESS SYSTEMS ANALYST
+SCOPE: This was an enhancement project to support investment decision makers in better management of their investments by improving the Portfolio Dashboard. The new dashboard enabled better Performance overview, Improved analytics, Portfolio drill downs and comments from Analysts and Portfolio Managers. This would support Asset management, reporting and performance tracking for the existing investors.
+ROLES AND RESPONSIBILITIES
+As a BSA developed good understanding of Financial Instruments, Asset Allocation, Commodities, Bonds, Corporate Bonds, Money market instrument.
+Conducted JAD sessions, Document analysis and Interviews for the requirements Elicitation.
+Decomposed the scope from the BRD into user stories by conducting a story writing session with the MASKED_NAME owner and then the acceptance criteria for the PSPI (Potentially Shippable Product Increment)
+Created User Stories and led the Planning Poker to estimate them in Sprint Planning and MASKED_NAME meetings. 
+MASKED_NAME and participated in writing User stories, creating Use Cases, Use case diagrams, Workflow Diagrams, Sequence Diagrams, and Class Diagrams and documented design future enhancements for the trading platform.
+Involved in Test Planning, Test Preparation, Test Execution and Issue Resolution and Report Generation to assure that all aspects of a Project are in MASKED_LOCATION with the Business Requirements. 
+Handled Requirement churn during the project by performing Impact Analysis by checking the feasibility in maintaining the Triple Constraint and discussing them in Daily Scrum.
+Involved in systems integration testing, web services API testing using MASKED_NAME.
+Experienced in API documentation for REST API using MASKED_NAME and was a part of API Testing and measured the data flowing between request and response.
+Prepared the necessary Data Flow documentation and visuals to ensure clarity in MASKED_LOCATION lineage and firm understanding of Developed data solutions.
+Created Data Models using Logical and Conceptual ER diagrams and Assisted the metadata repository management.
+Designed data models and conducted normalization and de-normalization of data to fit OLTP and OLAP frameworks, slicing and dicing of data marts for analytical decision making support. 
+Experience in Extraction, Transformation and Loading (ETL) using Informatica Power Center 7.1 
+Worked on Service Oriented Architecture (SOA), REST, SOAP, XML, API.
+Involved in Data Mapping Documentation for Source to Target data and using REST based API via JSON.
+Tracked the defects using HP ALM and created an Error Repository and managed the testing process with the QA team.
+ENVIRONMENT: SDLC, MASKED_NAME – waterfall Hybrid, MASKED_LOCATION project, MASKED_LOCATION office Tools, MS Project, MASKED_NAME, UML,XML, AJAX, API, JAVA EE 6, Oracle 11g, Spotfire and JIRA, Informatica Power center, Eclipse, Hibernate Spring.
+STATE OF MASKED_LOCATION, MASKED_LOCATION, NJ                                                                                                     NOV 2013 – DEC 2014
+SR. BUSINESS ANALYST
+SCOPE: The project was aimed at creating Enterprise Data Warehouse system to provide budget allocation, expenditure tracking and enhanced financial reporting by integrating different data sources to State Data Center. Legacy non-integrated databases are a core to business processing. Integrated system would provide ease of access, analysis, transparency and enhanced reporting capabilities.
+ROLES AND RESPONSIBILITIES
+Understood state of art processes by interacting with stakeholders and documents analysis and performed GAP analysis to assist MASKED_NAME and Project Manager in planning the transition.
+Facilitated JAD sessions as Moderator and conducted interviews with various Subject Matter Experts (SMEs) and stakeholders, process reviews and policy & procedure reviews to elicit requirements.
+Prepared Business Requirement Document (BRD/HLD) and assisted preparation of System Requirement Specification (SRS). Analyzed, modified and validated these documents.
+Identified and categorized all relevant stakeholders involved in the project using RACI Matrix.
+Created Use Cases and built Use Case Diagram and Activity Diagram using MASKED_NAME.
+Managed and tracked requirements using HP ALM through Application Life-Cycle.
+Worked with QA team to design and develop Test Plan and Test Cases to perform User Acceptance Testing (UAT), Functional Testing and Regression Testing.
+Assisted in API documentation (JSON documentation &amp; XML documentation) using MASKED_NAME, MASKED_LOCATION docs for MASKED_NAME.
+ Involved in API testing for MASKED_NAME and XML and measured the data flowing between request and response.
+Assisted Data modeling process by creating conceptual and logical ER diagrams and designing database schemas to help development of an accurate Data Warehouse Structure.
+Integrated various OLTP to the OLAP by using Informatica as an ETL tool and used MASKED_LOCATION as reporting tool. Also maintained the MASKED_NAME and MASKED_NAME Paradigms.
+Served as the subject matter expert for the following practices: Data Governance, Data Warehousing, Data integration, Visual Analytics and Business Process Management.
+Assisted in increasing Data Integrity by performing Data Normalization and adding Data Verification and Validity to maintain accuracy and effectiveness of data,
+Performed Data Mining to find correlation and pattern in existing data and constructed SQL queries..
+Was involved in using MASKED_LOCATION for effective reporting to provide Business Intelligence (BI) to facilitate expenditure tracking using various matrices critical to decision making.
+ENVIRONMENT: Waterfall, MS Office (MS Word, MS Excel, MS PowerPoint), MASKED_LOCATION, MASKED_LOCATION, MASKED_NAME, MS Project, HP ALM, API, Wireframes, Mock-Up Screens, MASKED_NAME, SharePoint, GAP Analysis, UML, UAT testing.
+ ALLY FINANCIAL, CHARLOTTE, MASKED_LOCATION                                                                                                        AUG 2012 – SEPT 2013
+SR. BUSINESS ANALYST
+SCOPE: As ALLY financial AML Business Analyst the scope of my project was to develop Anti-Money laundering surveillance system that provided AML solutions as a part of compliance and Legal division and also assisted in MASKED_LOCATION financial Anti-Money Laundering Program. The system could analyze transaction data based on a group that may include at least one of peer comparison, expected level of activity and debit/credit flow through. 
+ROLES AND RESPONSIBILITIES
+Knowledge of the Dodd-Frank Act, the Bank Secrecy Act, FinCEN and MASKED_NAME.
+Conducted GAP Analysis to derive requirements for AML surveillance system. 
+Organized and Conducted the JAD team and in conducting the weekly sessions from requirement gathering to sign-off of the application after testing.
+Developed a vision plan that defined Citigroup AML policies and procedures are primary goals of the project.
+Elicited demands from the stakeholders and analyzed them for consistency, completeness and flexibility. 
+As a Scrum Master I facilitated Scrum events including Backlog refinement, Sprint Planning, Stand up meeting, Sprint Review and MASKED_NAME.
+Participated in writing and prioritizing user stories in Product Back Log with Product Owner. 
+As experienced Scrum Master anticipated and removed obstacles from project team’s path and pushed them to deliver quality results based on schedule. 
+Used JIRA for issue tracking, user story management and requirement traceability.
+Developed use case documentation for system requirements and business process flows  using MASKED_NAME.
+Responsible for identifying and documenting business rules and creating detailed diagrams including Use Cases, Use Case diagrams, Business Flow diagram, Creating process models, Data flow diagrams.
+Assisted in User Acceptance Testing (UAT), developing and maintaining quality procedures, and ensure that appropriate documentation is in place. Assisted in Black box, UAT and Regression testing. 
+Assisted in identifying documents needed to develop Suspicious Activity Reports as required by Bank Secrecy Act and FINCEN for generating reports and red flags to report fraud, money laundering, patterns and inconsistencies activities.
+ENVIRONMENT: ERP, CRM, MASKED_NAME, MASKED_LOCATION, MASKED_NAME, MS Project, MS office, UML, SCRUM, Fraud management, Money Laundering, SQL, JIRA, Kanban, Tableau Desktop, IBM Cognos, MS Office Suite (MS word, MS Excel, PowerPoint), MS Project, Test Director, Rally, Sharepoint.
+OLX MASKED_LOCATION, MASKED_LOCATION, MASKED_LOCATION                                                                                                                            AUG 2011 – JUL MASKED_ADDRESS
+SCOPE: The project aimed to build a web-based system for its HR department to post vacancies, filter right candidates and manage the entire recruitment process. Some features of this system were storing Applicants data, conducting on-line tests, creating vacancies, Interview process initiation, Scheduling Interviews, storing Interview results etc.
+ROLES AND RESPONSIBILITIES
+Interacted with the customers and internal stakeholders to gather user requirements and their expectations from the system to create BRD, FRD and SRS.
+Served as a liaison between HR department and the project team by assisting the business in identifying,   the recruitment process and documenting their business needs.
+Attended JAD sessions for design and documentation of the System Design Document (SDD) and made sure that all the requirements were implemented into functionality.
+Assisted developers to create Conceptual and Logical Data models to help developers visualize the database schema.
+Used SQL queries like SELECT, JOIN, VIEW to retrieve data from SQL server.
+Assisted QA team to document Test plans, Test cases and Test Scenarios using MS Excel.
+Created mock up screens for the application which helped business users to give their feedback.
+ENVIRONMENT: Waterfall, MS Office, MASKED_NAME and MASKED_NAME.
+SBI, Hyderabad, MASKED_LOCATION                                                                                                                                   AUG 2010 – JULY MASKED_ADDRESS/JAVA DEVELOPER
+SCOPE: SBI Capital Market is amongst the oldest players in Indian Capital Markets, offering Investment Banking Services. The project was to build an Enterprise Reporting System to support Portfolio Management and performance analysis of credit card system.
+ROLES AND RESPONSIBILITIES
+Worked with the Project Manager in defining the scope and requirements of the project.
+Facilitated meeting and arranged JAD sessions with business users for requirement gathering.
+Served as a liaison between business team and the project team by assisting the business in identifying, understanding and documenting their business needs.
+Assisted in gathering requirements for the GUI (Graphical User Interface) MASKED_NAME and designing.
+Created use cases and designed use case diagrams class, sequence diagrams and activity diagrams. 
+Responsible for preparing Software Requirement Specifications (SRS) and Functional Requirement Specifications.
+Designed MASKED_NAME and Objects using J2EE standards.
+Designed the project by using MVC framework.
+Developed the XML schema for the data maintenance and structures. 
+Implemented EJB session beans, messaging technologies like Message Driven Bean, MASKED_NAME.
+Used JSP for presentation layer, entity beans as the model to represent the persistent data and interacted with MASKED_NAME database as per MVC Architecture.
+Participated in design Implementation of GUI using HTML, JSP, Tiles, Validator and MASKED_NAME for front-end validations.
+Involved to develop Multithreading for improving CPU time. 
+Used the XML Parsers like SAX parser to parse the data.
+Used MASKED_NAME calls in the Enterprise MASKED_NAME to access Oracle Database.
+Involved in MASKED_LOCATION testing and defects fixes.
+Conducted Project related Presentations.
+ENVIRONMENT: Waterfall, MS Office, MS EXCEL, MS ACCESS, Load runner, windows 2000, clear case, UML, MASKED_NAME, J2EE, Servlets, Multithreading, JSP, Struts1.1, EJB, JMS, UML, rational Rose2000, MQ Series, WinCVS, Oracle 8i, Eclipse, WebLogic 8.1, HTML, JavaScript, JUnit, ANT, XML SAX, DOM, XSL.
+ SBI, Hyderabad, MASKED_LOCATION                                                                                                                                  AUG 2009 – AUG 2010 
+Jr JAVA DEVELOPER 
+SCOPE: SBI Capital Market is amongst the oldest players in Indian Capital Markets, offering Investment Banking Services. The project was to build an Enterprise Reporting System to support Portfolio Management and performance analysis of credit card system.
+ROLES AND RESPONSIBILITIES
+Designed Java Servlets and Objects using J2EE standards.
+Designed the project by using MVC framework.
+Developed the XML schema for the data maintenance and structures. 
+Implemented EJB session beans, messaging technologies like Message Driven Bean, MASKED_NAME.
+Used JSP for presentation layer, entity beans as the model to represent the persistent data and interacted with MASKED_NAME database as per MVC Architecture.
+Participated in design Implementation of GUI using HTML, JSP, Tiles, Validator and MASKED_NAME for front-end validations.
+Involved to develop Multithreading for improving CPU time. 
+Used the XML Parsers like SAX parser to parse the data.
+Used MASKED_NAME calls in the Enterprise MASKED_NAME to access Oracle Database.
+Involved in MASKED_LOCATION testing and defects fixes.
+ENVIRONMENT: MASKED_NAME, J2EE, Servlets, Multithreading, JSP, Struts1.1, EJB, JMS, UML, Rational Rose2000, MQ Series, WinCVS, Oracle 8i, Eclipse, WebLogic 8.1, HTML, JavaScript, JUnit, ANT, XML SAX, DOM, XSL.

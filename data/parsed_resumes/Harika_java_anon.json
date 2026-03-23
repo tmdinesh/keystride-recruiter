@@ -1,0 +1,46 @@
+{
+  "resume_id": "Harika_java_anon",
+  "skills": [
+    "java",
+    "javascript",
+    "php",
+    "ruby",
+    "scala",
+    "angular",
+    "html",
+    "css",
+    "bootstrap",
+    "jquery",
+    "node",
+    "spring",
+    "express",
+    "rails",
+    "rest",
+    "soap",
+    "sql",
+    "mysql",
+    "mongodb",
+    "oracle",
+    "cassandra",
+    "elasticsearch",
+    "aws",
+    "linux",
+    "apache",
+    "hadoop",
+    "git",
+    "jira"
+  ],
+  "education": {
+    "degree": "Responsible for creating feature branches and merge with master in MASKED_NAME repository.",
+    "year": "Unknown"
+  },
+  "experience_years": 8,
+  "projects": [
+    "Technical analysis, design, development, and documentation with a focus on the implementation and agile development.",
+    "Designed and Developed the JSTL Tag Libraries for the View side.",
+    "Status reporting to onsite team on behalf of entire team.",
+    "Wrote SQL queries to fetch database result on DB2.",
+    "Created Test Specifications, Test Documents, Test Data for all the applications worked with Rational Rose and Together."
+  ],
+  "certifications": []
+}

@@ -1,0 +1,242 @@
+SHIULI MAHMUD
+Sr. BSA/Project Coordinator
+MASKED_ADDRESS, MASKED_LOCATION, NJ-MASKED_ADDRESS, Project Coordinator, Product Owner, Six Sigma (Black Belt), Operations Management, Business Consultant, etc.
+Experience in Insurance, Healthcare, Manufacturing, Financial Services, Retail Banking, Utility Management company and Real Estate domains..
+Applied Six Sigma, MASKED_LOCATION and KT tools and techniques to define measure, analyze, improve and control project processes. 
+Strong skills in Project Management, IT Security and Regulatory compliance, interpersonal relationships, and communication (written and verbal).
+Adept in working within cross functional &amp; geographically dispersed SCRUM teams acting as a Product Owner for various modules within the Portal including Software Products
+Project Coordination experience by planning, executing, controlling / tracking, documenting, capturing, managing, and communicating requirements and following up throughout the Software Development Life Cycle (SDLC) and project life cycle.
+Skilled in developing Business Requirements Document (BRD), USE Cases, Functional Requirement Specifications (FRS), Systems Design Specification (SDS), UI, Business Continuity Plan (BCP), GAP analysis, Cost Benefit analysis, Impact analysis, Risk analysis, Establishing process controls and its Management, Testing, and preparing Training and Knowledge Transfer manuals. 
+Experience with Rational Unified Process (RUP) methodology, Unified MASKED_NAME (UML), MASKED_NAME, and Requisite Pro, knowledge of Agile /SCRUM and Waterfall methodology.   
+Experience in conducting Joint Application Development (JAD) sessions with end-users, SME (subject matter experts) team, development and QA team for project meetings, walk-through and customer interviews.
+Coached team members in understanding Six Sigma, MASKED_LOCATION and KT principle
+Data analysis skills using Minitab, Excel, Six Sigma tools, MASKED_NAME chart reports, SQL etc.
+EDUCATION & CERTIFICATION:
+Ph.D. in Environmental &amp; Resource Engineering (Graduated in 2013)
+SUNY ESF College, MASKED_LOCATION, MASKED_LOCATION
+Master’s Degree on Computer Science
+IFESCU, MASKED_LOCATION
+Black Belt Six Sigma Certified
+Green Belt Six Sigma Certified
+Project Management, American Project Management (APM), MASKED_LOCATION
+OSHA Training, RIT (Rochester Institute of Technology): NewPage Company (10 Hours in-site).
+CPBIS-PIMA Management Course for Enhanced Performance; IPST, Georgia Tech University, MASKED_LOCATION.
+International Scrum Master certification
+TECHNICAL SKILLS:
+PROFESSIONAL EXPERIENCE:
+Client:	MASKED_NAME                                                                                                		July 2017 – Till Date
+Role:	Sr. Business Analyst/Project Coordinator 
+Roles and Responsibilities
+Analyzed business opportunities and offered practical and innovative solutions to customer.
+Developed new products according to the customer requirements, 
+Coordinated with marketing and media departments to build innovative marketing strategies for the company.
+Hold planning meetings for the team and split the effort into effectively measured pieces of work 
+Responsible for preparing Software Requirement Specification (SRS).
+Product management executive responsible for defining entire product portfolio vision, strategy and roadmap, often times acting as the executive for product. 
+Created Process Work flows, Functional Specifications documents.
+Product management executive responsible for defining entire product portfolio vision, strategy and roadmap, often times acting as the executive for product. 
+Analyzed and developed Business Requirements documentation, which identified the work area definition of the proposed application from the user perspective.
+Analyzed system test requirements, Functionality, developed Test Plans, Test cases, Prepared Test Data and managed them using Test Manager
+Coordinated with different people in Project to keep track of all the bugs and updating the track of the bugs using Test Director
+Client:	RSNY (Healthcare Facility)                                                                                       (January, 2017 -June, 2017)
+Role:	Six Sigma – Project Coordinator 
+Roles and Responsibilities
+Supported organization-wide performance/quality improvement and compliance programs and served as a project manager for multiple priority initiatives.
+Engaged with management and administration to identify organizational goals, resources and constraints. 
+Guided the project team, conducted appropriate analysis, met project goals, managed timeline, and worked with the business owner to successfully implement the annual action plan, new processes, technology or strategies.
+Participated in performance measurement and contributed to development and execution of quality management and improvement plans
+Produced tangible operational and financial results for the Healthcare Facility.
+Supported front line staff and Process Owners with identifying, scoping and executing projects. 
+Acted as a change agent to instill MASKED_LOCATION culture throughout the organization.
+Modeled and simulated, through physical mock-ups and virtual (mathematical modeling, space modeling and statistical analysis) to analyze existing systems and prototype potential design changes. 
+Collected and analyzed data for determining an improvement strategy, participated in project phase reviews, documented project status, and coached existing and new MASKED_LOCATION trainees through improvement projects. 
+Used high level of organizational skills to manage projects, timetables and implementations. 
+Used advanced interpersonal skills to direct and coordinate the activities of multiple departments, to positively communicate and worked with professionals at all levels of the organization.
+Client:	Northwestern Mutual Life Insurance and Financial Services, MASKED_LOCATION, WI  		(Sep’14 – March’16)
+Note: Joined as a Business Analyst (Product Owner) for one project, and then served as a Business Consultant within the same company.
+Role:	Sr. Business Consultant									 
+Roles and Responsibilities
+As a Business Consultant, I was involved in the following tasks –
+Gathered the client requirements and managed the requirements of an IT Security improvement project to upgrade from HP Nemo system to HP Autonomy system. 
+Acted as a liaison between the different stakeholders involved. I was the primary interface between the Client and Project Team and was responsible to provide the Project Technical team with client requirements as user stories. 
+Delivered client requirements in a timely manner and ensured client satisfaction by handling unique project situations, under minimal direction.
+Evaluated Project Risks and created risk management plans.
+Established process controls after extensive data analysis and managed it.
+Worked closely with the clients daily in understanding reporting issues, problem analysis, identifying process issues, setting deadlines, providing possible recommendations, seeking feedback from the technical team and communicating that to the business clients.
+Validated the deliverable created by IT developers against functional specifications.
+Created User Guides for some functionality of HP Autonomy Application.
+MASKED_NAME technical documents, e.g. User story documents, change request documents, transition documents, New request documents/ defect tracker, POC document, test results documents, etc and many such documents.
+Created several Process Maps.
+Helped the Testing team by conducting performance tests on different functionality of the newly implemented HP Autonomy Application, to ensure that it met NM requirements.
+Strong writing and communication skills. 
+Self-reliant on setting deadlines and prioritizing reporting works. 			                   
+Organized demo sessions for internal and external customers.                                                             
+MASKED_NAME with different teams involved in a POC project, e.g.  IRM, Sharepoint Team, HP team, Actiance Vantage team, etc.
+Sr. Business Analyst (Scrum Product Owner) 
+The day-to-day management of the Product Backlog and full participation in all sprint ceremonies like the Sprint Planning Meeting and daily stand-ups.
+Ensured that the requirements are clear and complete, made adjustments in line with overall business value and ultimately accepted or rejected the software development works.
+Maintained the product backlog for my team.
+Executed responsibilities with an understanding of the product vision, strategic objectives, and     priorities.
+Prioritized stories in the product backlog for a specific team, according to business value.
+Helped in Planning and execution of the Enterprise Service Request Center to process work requests. 
+Identified and managed the project risks and managed it according to the risk management plan.
+Experienced with agile software development methodologies.
+Translated high-level strategy & product direction into features, epics and user stories; prioritize in the product backlog for selection for sprint backlog.                                                                                                                    
+Served as the primary interface to the Scrum Team and was responsible to provide team with user stories and help the team define the business-driven test cases.                                                                                                
+Used SQL Server Reporting Services to follow Management decisions.                                                            
+Identified product release content and time line.
+Conveyed the vision and goal at the beginning of every release and sprint to Development Teams.
+Represented the stakeholders, end users and customers to the team, answers questions, and provided direction.
+Assisted with the elaboration of the user stories and requirements.
+Participated in the planning meetings, reviews (demo) and retrospective meetings
+Coordinated with other Agile Product Owners to coordinate release planning for cross-product initiatives.
+Worked as the primary interface to the Scrum Team and was responsible to provide team with user stories and help the team define the business-driven test cases
+Accepted or rejected product development results from a team
+Identified and prepared materials for and, as needed, delivered internal training for new features.
+Client:	Barclays, WI, DE				                                         (July’12 – March’14)
+Role:	Six Sigma Business Analyst				    	          
+Barclays Bank is a financial institution offering a variety of bank accounts. The application is built in client/server technology to create and maintain various accounts and account types. Users can perform various tasks like verifying balance, payment of recurring bills and transfer of funds between accounts.
+MASKED_NAME and Responsibilities
+Determined user/business/functional requirements. Created vision, scope, and use case documents; business process models, use case diagrams, activity diagrams, and state chart diagrams.
+Translated non-technical needs from clients into technical specifications for the internal project team.
+Utilized RUP to configure and develop process, standards, and procedures.
+Performed GAP and Risk analysis of existing system and evaluated benefits of new system.
+Conducted Joint Application Development (JAD) sessions with stakeholders throughout SDLC to resolve open issues.
+Validated technical designs created by IT developers against functional specifications.
+Worked with QA team to design test plan and test cases for User Acceptance Testing (UAT).
+Involved in Risk assessment and creating risk mitigation plan.
+Coordinated work plans between project manager and client using MS Project.
+Created documentation for training and MASKED_NAME teams.
+Worked with clients, and subsequently, coordinated with internal designers, developers, and PMs to complete a solution.									                   
+Used SQL Server to meet client requirements in reporting.
+Created measurable business improvement by partnering with leaders, process owners and project teams to identify strategically relevant improvement opportunities and converted those opportunities into successfully completed projects using Lean Six Sigma methods and tools.
+Mapped processes and business offerings, and conducted Requirements Elicitation Discovery Sessions, Solution Assessment & Validation, MASKED_NAME, and Current MASKED_ADDRESS
+Established controls based on six sigma analysis and managed it.
+Acted as a change leader throughout the organization to establish a process management culture and facts-and-data mindset. Helped to drive establishment and refinement of metrics that give visibility into opportunities, insight into root cause and accountability for improvement.
+Provided consultative support on improvement recommendations, including changes in the organization, management methods, work practices and process design.
+Mined data, conducted statistical analysis and established persuasive and compelling business cases to support recommendations and aid business leaders in prioritization.
+Trained, mentored and coached leaders and team members in applying Continuous Improvement approaches and Lean Six Sigma methods and tools.
+Developed and utilized tools, techniques and templates for structuring and organization information in support of decision making processes.
+Provided leadership with project status updates and monitor all aspects of projects to achieve the project objectives on time and to the specified cost, quality and performance.
+Client:	MASKED_LOCATION, MASKED_LOCATION, MASKED_LOCATION 
+Role:	Business Analyst                	     	   	 	                                          (March’11 – June’12)
+I worked as a Six Sigma Business Analyst at MASKED_LOCATION to assist the Product Manager to help out end customers (data center managers) to control and lead the continuous improvement of their data centers. I was involved to ensure process improvement efforts are driven throughout the organization to help MASKED_LOCATION serve customers safely, reliably and efficiently and to develop a high performance culture. I also assisted in performing high level testing on the entire system as well as in developing the Test Plan, writing of Test Cases and MASKED_NAME for manual, and automated testing for the web- application.
+MASKED_NAME and Responsibilities
+Followed (RUP) methodology for creating artifacts
+Facilitated (JAD) Joint Application Development sessions to identify business rules and requirements and then documented them in a format that can be reviewed and understood by both business people and technical people
+Researched on Best Industry Practices and explained the Business Users of the benefits and costs associated in implementing the same 
+Participated in design walk-through with Subject Matter Experts (SME’s) to baseline the business architecture.
+Used MS MASKED_NAME to carry out business modeling and created use cases, use case diagrams, and activity diagrams.
+Interacted constantly with the Business Users and Project Manager to keep them current with the latest updates
+Involved in requirement scoping and analyzing high priority requirements for implementation
+Supported the QA manager in creating various testing scenarios for integration and system testing
+Supported the QA team while conducting Unit and Functional Testing
+Assisted the Business Users at the time of Application testing and User Acceptance Testing 
+Identified process improvement projects and successfully deployed and supported six sigma techniques.
+Developed the risk management plan, established controls based on six sigma analysis and managed it.
+Developed and maintained collaborative relationships with business process owners to support changes and innovations within the company and the successful deployment of six sigma techniques.
+Coached, mentored and lead cross-functional project teams through the phases of Lean Six Sigma in order to produce transformation results on key initiatives covering quality, productivity, cycle-time and growth.
+Designed, developed and lead training and support programs at various levels of Lean Six Sigma and supported project selection, scoping, delivery, review and reporting to ensure effective application of six sigma tools and alignment with business vision and strategy.
+Client:	Newpage Paper Corporation, MASKED_LOCATION
+Role:	Operational Excellence Manager- Lean Six Sigma                                                      (February’08 – Jan.’11)
+Headquartered in MASKED_LOCATION, MASKED_LOCATION, MASKED_LOCATION is a leading producer of printing and specialty papers in MASKED_LOCATION, with $3.1 billion in net sales. MASKED_LOCATION mills have a total annual production capacity of approximately 3.5 million tons of paper. MASKED_LOCATION has facilities in MASKED_LOCATION, MASKED_LOCATION, MASKED_LOCATION, MASKED_LOCATION, MASKED_LOCATION and MASKED_LOCATION.
+Their MASKED_NAME operation was established in 1888. Today it has one Kraft pulp mill and two paper machines. At this location, the company can produce 480,000 tons per year of coated free sheet and specialty paper.
+Project 1: Improved the quality of all the raw materials used in paper coating Newpage Paper Company by meeting their specifications. 
+MASKED_NAME and Responsibilities
+Defined the project: purpose, scope, and resources in the charter
+Determined project goals to fit customer needs (Voice of the Customer)
+Collected baseline data on suspected problem
+Plotted the data in time order
+Used Pareto charts to pinpoint occurrence
+Calculated process sigma & Standardized the Six Sigma System.
+Created detailed process maps to analyze waste and bottlenecks
+Focused on the problems identified in the "Measure" process
+MASKED_NAME as many potential causes as possible
+Selected a few of the most likely causes and collect data on them
+Used statistical methods to quantify the effects
+Brainstormed many ideas for improvement
+Selected solutions: select criteria to assess alternative solutions, then evaluate alternatives through testing
+Developed plans, including tasks, timeliness, budget, resources, and stakeholders
+Plotted the selected solutions using PDCA cycles
+Implemented plans, including the means by which you will check results
+Interpreted the charts to quantify effects of solutions
+Evaluated overall results against the methods used to achieve them
+Documented the new methods in order to develop standard work procedures
+Provided training to those who will use new methods
+Monitor implementation and make course corrections
+Created a process to update and improve the method
+Summarized and communicate key lessons learned to others
+Recommended next project to further increase sigma level
+Assisted the Operations excellence Director to put requisition of raw material purchase both by rail cars and trucks in SAP and used Proficy software. 
+Made weekly work schedules for 30 people of the machine coating department.
+Used SAP system to manage raw material purchase history and record quantities for inventory.
+Conducted monthly inventory of raw materials and record it.
+Helped the data warehousing team to develop database on vendors, raw materials, daily scheduling of railcars and trucks with raw materials to keep account of the inventory, etc.
+Assisted the Project Manager in documentation, keeping liaison with the stakeholders, in the day to day operations / duties of the coating department and filled in his position in his absence.
+Project 2: Improved the quality of the raw material properties (Viscosity and solid content %) in all paper grades of New Page Paper Company.
+Roles & Responsibilities:
+Stated the problem, specified the customer set, identified the goals, and outlined the target process, and developed Project Charter.
+Decided what parameters needed to be quantified, worked out the best way to measure them, collected the necessary data, and carried out the measurements by experiment.
+Identified gaps between actual and goal performance, determined causes of those gaps, determined how process inputs affect outputs, and ranked improvement opportunities.
+Devised potential solutions, identified solutions that are easiest to implement, tested hypothetical solutions, and implemented actual improvements.
+Generated a detailed solution monitoring plan, observed implemented improvements for success, updated plan records on a regular basis, and maintained a workable employee training routine.
+Project 3: Helped the management to make decision on the performance of two machines to test paper properties and reduce variability in the process. It also helped them to make decision on purchasing an expensive paper testing machine worth 25,000$ at New Page Paper Company.
+MASKED_NAME and Responsibilities
+Defined the goals of the project and that of the customers (both internal and external).
+Measured the customer needs as well as the goals of the management.
+Analyzed the options, existing process to determine the cause of error origination and evaluate corrective measures.
+Analyzed a new process or a corrective step to the existing one to eliminate the error origination that meets the target specification.
+Verified the performance of both the designs and its ability to meet the target needs.
+Project 4: Helped the quality department to analyze the effects of different process and raw materials changes on paper properties over the years for different grades of papers at New Page Paper Company.
+Roles & Responsibilities:
+Quantified the value of the project to the company.
+Defined issues Operationally, MASKED_NAME and practically and developed a Project Charter.
+Develop the SIPOC (Suppliers-Inputs- Process-Outputs- Customers) map to understand the process
+Identified Performance Matrices.
+Bench-marked Functional, Internal and Competitive Standards.
+Measured variables with the help of different maps and Models.
+Analyzed the results using different data analysis methods.
+Optimized the process
+Improved the process for Six Sigma breakthrough.
+Controlled the process to hold breakthrough improvements.
+Standardized the Six Sigma System.
+Evolved cultural norms and breakthrough transformation.
+Client:	Dell, MASKED_LOCATION
+Role:	Six Sigma Black Belt                                                              (March’06 – January’08)
+Reduced the number of product returns from different sales regions of a Computer company through the application of six sigma tools in a simulation project and thus saved $1,274,805/ yr.
+Roles & Responsibilities
+Developed the project charter, Mapped the process
+Be the strong liaison between Product Management and development to ensure a transparent and productive workflow environment
+Assist other team members, scrum development team, and enterprise architecture in developing solution delivery best practices
+Work with teams to continuously improve product ownership and other agile processes. 
+Understood the voice of the customer to define the problem well.
+Collected baseline data on defects and their possible causes.
+Work with program management to track schedule against the roadmap, and escalate risks and issues. 
+Plotted defect data over time and analyzed for specific causes.
+Created and stratified frequency plots and used Pareto analysis.
+Created detailed process map.
+Developed a focused problem statement.
+Explored potential causes and organized them.
+Collected more specific data and used statistical data methods to quantify cause and effect relationship.
+Created possible solutions for root cause.
+Selected solutions and developed plans for implementation, measured results and evaluated     benefits.
+Controlled the process. Developed and documented standard practices.
+Trained the teams.
+Created processes for updating procedures and Monitored performances.
+Summarized and communicated learning.
+Recommended future plans.
+Transferred data from various sources like MS Excel, MS Access, and SQL Server using SSIS and then created reports using this data using SSRS. 
+Client:	SUNY ESF, MASKED_LOCATION   
+Role:	Six Sigma Black belt                           	           		(November’05 – February’06)
+Increased profit of $1.9M dollars in a Bioprocess simulation project conducted for the Green Belt Six Sigma Certification.
+The State University of New York&#39;s College of Environmental Science and Forestry (ESF) at Syracuse. Established in 1911, is a pioneer in teaching the science of pulp and paper manufacture, chemical and Bioprocess engineering.
+ESF launched its Paper Engineering curriculum in MASKED_ADDRESS such program in MASKED_LOCATION.
+Today, ESF&#39;s curriculum comprises one of the finest paper programs in the world. In 2006, ESF launched a new degree program in Bioprocess Engineering, the first and only program of its kind in the northeastern MASKED_LOCATION.
+Since then, it conducted many researches in MASKED_LOCATION, which has been considered for commercialization. The current project was an effort to establish the Design of Experience (DOE) to find out the best conditions of the commercial reactors that will maximize profits.
+MASKED_NAME and Responsibilities
+Defined the project and identified the process to develop a charter.
+Measured the CTQ’s (Critical to Quality) and evaluated the measurements.
+Designed the Experiment (DOE); estimated the process capabilities.
+Analyzed the results using different methods.
+Improved process performance by implementing changes.
+Established control system to maintain the gains.

@@ -1,0 +1,69 @@
+MASKED_NAME /​215 . 980 . 1011
+Profile
+I've been a WordPress Developer for 13 years now. I've worked with big name marketing agencies in midtown MASKED_LOCATION as well as MASKED_LOCATION. I’ve had clients from MASKED_LOCATION down to MASKED_LOCATION all the way to MASKED_LOCATION to MASKED_LOCATION. My biggest project to date was for IBM with a budget of $100 million. I’ve also flexed my remote capabilities by taking on an international client for a startup based in MASKED_LOCATION which is a 13hr time difference. I'm more than capable of taking on any WordPress role as I’m a proven WP developer who specializes in Full Stacks (FE/BE), Site/Database Migrations, Theme/Plugin Configurations, PSD to HTML and every WordPress task in between. I simply love WordPress and I am deeply rooted in the WordPress online community.
+Core Qualifications
+WordPress theme / plugin development & configuration
+ECommerce based sites
+Full stack / front end / backend
+PSD files to HTML theme development Wordpress migrations
+Wordpress site updates and modifications
+Technical Expertise
+WordPress HTML, CSS, JavaScript, JQuery, PHP, MySQL
+Portfolio (more available upon request)
+Lendkey (Customers)
+MASKED_URL
+Lendkey (Investors)
+MASKED_URL
+Jews For MASKED_NAME
+MASKED_URL
+eShip Global
+MASKED_URL
+Various WordPress Consulting Projects	2005 - Present
+Consulted for companies independently, as well as through agencies such as Mondo & Robert
+Half (references available). Projects range from full stacks, frontend, backend, wordpress migrations, theme/plugin configurations, PSD to html. Biggest project to date was Burlington Coat Factory (one million dollar budget) Worked in teams consisting of project managers, graphic designers, marketing directors, social media directors, IT managers, VP’s, CTO’s, CFO’s, CEO’s and owners. Worked remotely in all 4 continental time zones as well as one international time zone (MASKED_LOCATION). Worked on personal Wordpress Projects (contracted youtuber) that have reached traffic upwards of 100k monthly visitors with an A from Google analytics within 10 months of launching. Built a free music streaming service consisting of social media, spotify and youtube API’s. Used by thousand of users a day.
+Most Recent WordPress Contracts
+***Due to confidentiality agreements, for me to give details for some of my past work I am legally unable to provide some company names. Sorry for any inconvenience this may cause.
+WEG	MASKED_LOCATION, MASKED_LOCATION, MASKED_LOCATION	July 2017 - March 2017
+This contract role was a full stack role for a corporate staffing agency. The site featured a company job board along with compatibility with all internet browsers as well as mobile compatibility. This project started as a migration then transitioned into a full stack then turned to a management/maintenance of the company site after project completion.
+E-Ship Global	MASKED_LOCATION, TX USA	May 2017 - June 2017
+This was a consultant role. I was tasked with creating documentation for the client’s in house IT team. Their IT team wasn't familiar with wordpress or software used. The project was creating a vendor open face market for users to place and sell items to customers.
+American Public University	MASKED_LOCATION, MD USA	April 2017 - May 2017
+Wordpress consultant managing the Learning Management System. The software consisted of implementing of organizing and managing courses based on client preference.
+IBM	MASKED_LOCATION, IL USA	February 2017 - April 2017
+This was a full stack project that I was flown to MASKED_LOCATION for. The $100 million government project was to revamp Cook County’s internal website. MASKED_NAME county is the 2nd biggest county (after MASKED_LOCATION in MASKED_LOCATION) in MASKED_LOCATION. A little over 24,000 employees are planned to use this site on a daily basis for all various types of county tasks & jobs. A team of 14 worked on or contributed to the project but I was the lone Wordpress “expert” to guide county officials, content writers, project manager, and designers from IBM on best CMS/Wordpress practices for a successful project.
+Family Community Services of DelCo	MASKED_LOCATION, PA USA	December 2016 - January 2017
+Full Stack WordPress project based on prior web designs
+Website maintenance
+Social Media & SEO
+Design and layout Monthly Mailchimp Newsletter to subscribers
+Where Is LoZo?	Moorestown, NJ USA	October 2016 - December 2016
+Fullstack Wordpress project interactive fitness training website eCommerce based personal training site
+Jews For MASKED_NAME	MASKED_LOCATION, CA, MASKED_LOCATION	September 2016 - October 2016
+Religious non profit organization that was formed in 1979 needed a site migration from MASKED_NAME to WordPress. This migration consisted of almost 10k articles (files) that were mis categorized by a failed attempt to migrate the site properly before I joined the project. I have a system of contingency plans when I start a migration that allows me to place 3 completely different fail safes simultaneously during my site migrations so EVERY file is accounted for. The migration also included 3rd party files such as mailchimp, application forms, contact forms and a woocommerce shop. Instead of restarting the migration (what the client had feared), I was able to patch up old errors, fix over 9k misdirected URL’s and properly set misshaped images to their original dimensions.
+LendKey	MASKED_LOCATION, NY USA	July 2016 - September 2016
+Financial Tech company with over $1 billion worth of loans. I’m charged with replacing an outsource tech firm of multiple WordPress developers in handling of all WordPress projects. Migrating the company site, the company investor site and dozens of credit union landing pages. As well as updating all Wordpress
+site, fixing any bugs created from the previous developers. I worked predominantly remote with both the MASKED_LOCATION office and MASKED_LOCATION office. I assist the Marketing Department in Creating new landing pages for the new credit Unions coming aboard. I assisted in all photoshop files that were used in every WordPress site. I lead daily onsite/google hangout production meetings with the CEO, Marketing Department, Project Managers and Software Engineers in ALL WordPress related matters
+MASKED_LOCATION	MASKED_LOCATION, OK USA	May 2016 - July MASKED_ADDRESS paced Ecommerce Auction website with User Vendor Capabilities. Open storefront allows for instant bid (purchases). Countdown clocks with scripted “next product up”. Front End product submission. Vendor flexibility to set price, bid window and all other product details User profiles and 3rd party checkouts via paypal. Responsive design for all platforms and compatible on all internet browsers. Responsive menu design, search feature and countdown clock for launch landing page. Sync both twitter and facebook accounts using Social Media API’s
+Biolumina (Medical Marketing)	MASKED_LOCATION, NY USA	(Project) April 2016
+The project was for the Make A Wish foundation were it was a cross between a wordpress migration and PSD to html. I had a deadline within 4 weeks I finished with 2 with a Wordpress hack that I invented. The hack takes PSD files and allows you to bypass numerous steps to help you get to the end result. Saved the company time and money.
+形見 (Ecommerce Subscription) MASKED_LOCATION, PA USA / Tokyo, MASKED_LOCATION January 2016-April MASKED_ADDRESS them shipped to their door in an affordable, timely manner. The site is structure in WordPress and the design is is coded in MASKED_LOCATION, CSS3, JS, PHP, MySQL and MASKED_NAME. The site is completely responsive and is using the WooCommerce Plugin to manage all transactions.
+Mondo (Agency)	MASKED_LOCATION	January 2016
+Client had a MASKED_LOCATION field plugin that was crashing the site and not working properly. I edit the plugin from the Wordpress dashboard with PHP coding which allowed the plugin to let the developers add more fields to various information requesting pages on the website.
+Arcweb Technologies Philadelphia, PA MASKED_LOCATION (contract) November 2015 January 2016
+This was a remote position where the objective was building the client's website/blog before deadline. The client had a website built entirely in HTML code and wanted to translate the site into WordPress. Based on my knowledge of the theme manipulation via code I was able to mimic the previous company website on WordPress ahead of schedule which allow me the extra time saved for site testing protocol.
+Burlington Coat Factory	Burlington, NJ USA	(contract) July 2015 October 2015
+Building the company's employee interface with the Oracle content management system. The site will be a employee
+hub for their 500+ stores, 15k executive/store employees and several distribution centers. The site is used for HR,
+payroll, scheduling and all other company operations. The system requires dead accurate html and css coding.
+Photoshop skills are a must for this contract. I also have to discuss the technicality of the site in laymen's terms to
+Project managers, a communications director and Windows IT managers in daily meetings. I also train new staffers in
+CMS to assist me with my work. I work in house alongside with a remote firm (MASKED_LOCATION) in building this system
+before the company's fast
+approaching deadline.
+Medical Marketing Agency	MASKED_LOCATION, PA USA	(2 week contract) July 2015
+This employer was behind a deadline with a project in 30 % completion. The whole site was created from a
+PSD from the graphics dept on site. My job was to redo the entire company website in according the project managers, account manager and VP’s layout.. I was able to finish before the deadline.
+Home Interior/Exterior Company	Havertown, PA USA  January 2015 May 2015
+Full stack contract. Build site complete with Ecommerce store to sell home remodeling tools and/or to purchase service. Create online visual portfolio of companies past assignments. Use Social Media API’s to link all Facebook, MASKED_NAME and MASKED_NAME accounts to website. Conduct social media contest to build online presence.
+Real Estate Developer Philadelphia, PA USA (Contract) November 2014 January 2015
+The client is a luxury condominium developer in MASKED_LOCATION. The site requires me to use some unique plugins but due to the site's complexity I exercise my PHP knowledge to adjust code of the backend of most of the plugins in use mainly for the Google turn by turn directions.

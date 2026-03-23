@@ -1,0 +1,145 @@
+ 
+ 
+Contact
+www.linkedin.com/in/dennisdt
+(LinkedIn)
+MASKED_NAME
+Machine Learning
+Data Mining
+Languages
+English (Native or Bilingual)
+Vietnamese (Native or Bilingual)
+Certifications
+Machine Learning
+SolidWorks Associate
+Honors-Awards
+Quest Scholar
+MASKED_NAME Science | Machine Learning | Quantitative Finance
+MASKED_LOCATION, MASKED_LOCATION Area
+Summary
+I am a data scientist, passionate about data and motivated to
+develop promising data-driven applications revolutionizing the
+industry.
+Experience
+Thinkful
+1 year 3 months
+Data Science Specializations Immersion Instructor
+January 2020 - Present (3 months)
+Data Science Technical Expert
+May 2019 - January 2020 (9 months)
+MASKED_NAME to technical questions, provided guidance to resolving issues,
+and communicated complex topics in a concise manner
+Data Science Mentor
+January 2019 - January 2020 (1 year 1 month)
+MASKED_LOCATION, CA
+• Mentored aspiring data scientists by utilizing modern machine learning
+modeling techniques and technologies
+• Covered important mathematical and statistical concepts
+MelonLuchi LLC
+Co-Founder
+March 2018 - Present (2 years 1 month)
+MASKED_LOCATION, MASKED_LOCATION Area
+• Fashion-forward décor for the home and garden. High-quality products at
+unbeatable prices.
+Find us on Amazon!
+Trilogy Education
+Senior Tutor
+February 2018 - Present (2 years 2 months)
+ 
+Page 1 of 4
+
+ 
+ 
+Greater New York City Area
+• Aim to increase retention rate of students by solidifying knowledge taught in
+the data boot camp by providing constructive criticism, debugging homework
+assignments, and providing helpful insights to succeed beyond the classroom
+• Offered various alternative methods to manipulating and storing data types
+such as lists, dictionaries, and dataframes for use in data preprocessing/
+visualization
+UC Irvine
+Teaching Assistant
+September 2017 - Present (2 years 7 months)
+MASKED_NAME, CA
+• Prepared students for success within the field of data focusing on
+technologies such as Python, API Interactions, SQL/NoSQL Databases,
+HTML, CSS, JavaScript (MASKED_LOCATION, D3.js, MASKED_NAME), R, MASKED_LOCATION, Big Data, and
+MASKED_NAME with ensuring students understand the concepts through
+assignments and activities
+• Mentored students to understand how to read, organize and visualize data
+Method Data Science
+Manager - Data Science
+May 2018 - September 2019 (1 year 5 months)
+MASKED_LOCATION, MASKED_LOCATION Area
+• Managed multiple data science team leads, led weekly meetings, generated
+progress reports for executives
+• Consulted for numerous client projects such as banking, healthcare,
+insurance, and IOT technology
+• Trained resident data scientists on essential practices in communicating and
+presenting data science solutions in a clear, effective manner
+Orange County Data Science
+Data Scientist
+May 2017 - May 2018 (1 year 1 month)
+MASKED_LOCATION, CA
+• Developed a prototype machine learning model for detecting fraud using
+client’s user account data
+• Navigated through high volume data to reduce feature size and extracted
+features corresponding to fraudulent activity
+• Used statistical methods to normalize skewness of features
+ 
+Page 2 of 4
+
+ 
+ 
+Doctor's Best
+Product Analyst
+April 2017 - July 2017 (4 months)
+MASKED_NAME, CA
+• Designed tools using customer data to support sales team with deciding
+products to promote
+• Built reports for monthly analysis on new product performance for future
+implementation into Salesforce
+• Extracted product data from the ERP system to forecast sales and drive
+business decisions
+Einstein Assembly
+Data Science Intern
+August 2016 - January 2017 (6 months)
+MASKED_NAME, CA
+• Assisted in teaching students the fundamentals of data science in python and
+introducing important machine learning algorithms
+• Added assignments for MASKED_LOCATION, Pandas, Data Visualization, Natural
+Language Processing, and Classification to the Data Science Bootcamp 
+• Web-scraped horseracing data for use in the Project Based Learning
+curriculum
+USC Viterbi School of Engineering
+Undergraduate Research Assistant
+May 2015 - May 2016 (1 year 1 month)
+MASKED_LOCATION, CA
+• Designed and fabricated an adjustable, modular boundary layer in CAD for
+experimental use in the water channel
+• Measured the interactions of a flow against different porous and permeable
+surfaces for possible drag reduction applications
+• Implemented a flow visualization system using a dye injector to release
+fluorescent dye and utilizing UV technology for qualitative analysis
+Calnetix Technologies
+Manufacturing Engineer Intern
+May 2013 - August 2013 (4 months)
+Cerritos, CA
+• Studied the process in which a stator is manufactured from start to finish
+• Remodeled tools to be compatible with newer stator designs using
+SolidWorks 
+ 
+Page 3 of 4
+
+ 
+ 
+• Designed an extendable coiling table to improve efficiency in coiling the
+copper wires put into the stators as well as store all of the manufacturing
+supplies
+Education
+University of Southern California
+Bachelor of Science (B.S.), Mechanical Engineering · (2012 - 2016)
+Udacity
+Machine Learning Engineer Nanodegree  · (2016 - 2017)
+ 
+Page 4 of 4

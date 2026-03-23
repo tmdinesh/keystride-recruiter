@@ -1,0 +1,47 @@
+{
+  "resume_id": "Sravani Singirikonda_anon",
+  "skills": [
+    "python",
+    "java",
+    "javascript",
+    "react",
+    "html",
+    "css",
+    "sass",
+    "jquery",
+    "node",
+    "django",
+    "spring",
+    "express",
+    "rest",
+    "soap",
+    "sql",
+    "mysql",
+    "mongodb",
+    "oracle",
+    "cassandra",
+    "dynamodb",
+    "aws",
+    "docker",
+    "kubernetes",
+    "jenkins",
+    "ci/cd",
+    "linux",
+    "apache",
+    "git",
+    "jira"
+  ],
+  "education": {
+    "degree": "Unknown",
+    "year": "Unknown"
+  },
+  "experience_years": 8,
+  "projects": [
+    "This project involves developing a J2EE based framework to support dynamic report creation from various distributed databases. The framework supports dynamic PDF report generation using iText, an open source PDF generation library. The framework facilitates new report formats and databases by using xml configuration files. \u200b",
+    "Prepared Unit test cases for existing functionality as per the requirement and execute the same.",
+    "Involved in the Integration testing support and involved in bug fixing.",
+    "Involved in developing SQL queries, stored procedures, and functions.",
+    "Involved in tracking and resolving Production issues."
+  ],
+  "certifications": []
+}

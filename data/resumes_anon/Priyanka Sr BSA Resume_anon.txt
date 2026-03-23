@@ -1,0 +1,165 @@
+PRIYANKA                                
+Sr. Business System Analyst
+PROFESSIONAL SUMMARY:
+    Proactive, confident, goal-oriented, pragmatic and attentive Sr. Business Analyst and Business system analyst with over 8 years of experience in MASKED_LOCATION, Banking, E-commerce domains with a focus on designing, development, implementation of business processes and system solutions with the addition of an in-depth domain understanding of the entire retail business operations.
+   -Certified Scrum Master with a thorough understanding of Agile principles and Scrum ceremonies.
+   -Experienced and have detailed knowledge about Order Management System, Retail POS Applications, Customer Relationship Management (CRM i.e. Loyalty Program), E-commerce platforms.
+    -Extensive knowledge, expertise and involvement in various phases of Software Development Life Cycle (SDLC) in Waterfall, Scrum, Agile (Extreme Programming, Test-Driven Development) and MASKED_NAME and SAFe software development lifecycle environments.
+   -Skilled in conducting and facilitating Requirement Gathering Activities to gather MASKED_NAME (Specific, Measurable, Attainable, Realistic and Timely) requirements using diverse elicitation techniques including, but not limited to Interviews, Requirement Workshops, Prototyping, Survey/Questionnaire, JAD Sessions and Brainstorming.
+   -Skilled as a liaison between technical team and management, change agent and a servant leader with an ability to communicate technical information to non-technical stakeholders. Experience of mentoring the team and providing business value oriented conflict resolution.
+   -Excellent writing and documentation skills in creating, modifying and analyzing Business Requirement Document (BRD), Functional Requirement Document (FRD), System Requirements Specification (SRS), Use-Case Specification, High Level and Low-Level Documents (HLD/LLD), MASKED_NAME. 
+   -Detailed understanding of RACI Matrix (Responsible, Accountable, Consulted and Informed) and prepared Requirement Traceability Matrix (RTM) to map requirement with its origin throughout the process to verify adherence.
+   -Proficient in Requirement Management, Sprint Planning, Issue Tracking, Impediment Management, and Work Allocation using tools like JIRA, MASKED_LOCATION, and HP ALM.Helped PM in preparing various artifacts related to the Planning phase.
+   -Thorough understanding of the preparation and use of Unified Modeling Language (UML) diagrams including Process Diagram, Activity Chart, Use Case Diagram, Sequence Diagram, Data Flow Diagram and ER Diagram using MASKED_NAME and Draw.io to support system design and helped in identifying primary actors and business process flow around entities.
+   -Experienced in creating MASKED_NAME, MASKED_NAME and Mock-Up Screens to visualize Graphical User Interface (GUI) as to understand the layout of the interface using tools like Balsamiq MockUps and MockUp MASKED_NAME.
+   -Proven Track Record in conducting AS-IS and TO-BE analysis, GAP Analysis, Risk Analysis, Cost-Benefit Analysis and SWOT Analysis to assist PM in Release Planning as well as PO in setting better stakeholder expectation.
+   -Integrated Salesforce Force.com IDE platform with Amazon Web Service(AWS), Oracle Database 11g and integrated IBM Sterling Order Management System with IBM Websphere commerce using SOAP, RESTful APIs. Experienced in enhancing data warehouse with extensive knowledge of Data mapping, Dimensional Modeling, ETL jobs, OLAP operations.
+   -Experience in Service Oriented Architecture (SOAP, WSDL, REST, XML, JSON, HTTP).
+   -Well versed in writing SQL queries and SOQL queries in order to do data manipulation for analysis and reporting.
+   - Assisted Sr. Business analyst in Data Migration project where identified target driven priorities, part of data migration strategy and redefined data for migration (i.e. based on MASKED_NAME, Accuracy, Integrity, Completeness, Compliance etc).
+   -Participated in various Scrum Ceremonies including Daily Scrum, Sprint Planning, Sprint Review, MASKED_NAME and MASKED_LOCATION meeting as part of the management framework. Helped PO in maintaining information radiators.
+   -Experienced in conducting MASKED_NAME Workshops and User MASKED_NAME workshops to familiarize stakeholders with Scrum process skeleton and concept. Helped Scrum teams in User story point estimations using various techniques.
+   -Adept at handling Requirement Churns in product backlog by performing Impact Analysis as part of the change request.
+   -Well versed with backlog prioritization techniques (MoSCoW, Business Value, Kano, And Technical Risk) and estimation techniques (T-Shirt sizing, Planning Poker, Complexity buckets, value streaming and technical risk-based estimations) to help product owner in picking Product Backlog Items (PBIs) to commit to in the iterations (Sprints).
+   -Proven expertise in developing Test Cases, Test Plans, Procedures and Traceability Matrix and documenting defects using HP QC and HP ALM. Collaborated and monitored Black-Box Testing, MASKED_NAME, User Acceptance Testing (UAT) and Regression Testing.Helped testing team in understanding test-scenarios regarding Interface testing & API testing.
+   MASKED_NAME and conducted Training Sessions for the end users in the production environment once the product went live and was ready to use.
+   -Experienced in working with Three-Tier Architecture, and Client-Side Verification and Server-side Verification.
+   -Thorough understanding of Business Intelligence (BI) and experience in creating interactive, analytical dashboards using Tableau and IBM Cognos for decision making.
+MASKED_NAME: 
+-Bachelors in Technology, Computer Science, UPTU, MASKED_LOCATION, MASKED_LOCATION. 
+CERTIFICATIONS:
+-Certified Scrum master 
+PROFESSIONAL EXPERIENCE: 
+CLIENT: KOHL’s, MASKED_NAME                                                                           Jan2017-Present ROLE: Sr. Business System Analyst
+Description: The scope of the project was the two-part integration of SALESFORCE with our existing e-commerce platform. Integration of Sales cloud was to capture range of information about customers using e-commerce platform. This insight helped marketers to develop targeted promotions and offers matching customer’s personal taste. In the second part, we integrated SALESFORCE with our legacy CRM system for a complete view of customer data using different retail channels. Used Marketing cloud to plan, implement, execute, monitor and analyze campaigns across multiple channels.
+RESPONSIBILITIES:
+-SFDC requirement elicitation and coached junior business analyst in converting business requirements to technical specifications, designing the solution and work closely with Stakeholders, Architects, Developers and Deployment teams.
+-Implemented the requirements for users and customers on Salesforce’s Force.com IDE Plug-in using Eclipse.
+-Managing users, Public Groups, Profiles, and MASKED_NAME within the Salesforce CRM, this involved designating access to the applicable user within the user hierarchy.
+-Created MASKED_NAME, Validation Rules, MASKED_NAME and approvals, Process builders for the flexibility and functionality of force platform application and to help automate the different types of actions based on organization processes.
+-Worked with integrating Salesforce with 3rd party systems using web services and App exchange for greater usability.
+-Worked with integration platforms, API integrations SOAP, REST with other systems for extracting the data from the home-grown applications by using the home-grown web services.
+-Worked closely with MASKED_NAME development team in Agile Environment to build and support current dashboards and portals.
+-Supporting the Sales cloud implementation, Service cloud modules, Salesforce SF1, Client interfacing, MASKED_NAME when converting leads and dealing with cases for company-wide discussions.
+-Worked with development and deployment of code through changesets from sandbox to production environments.
+-Designed and created reports to determine most popular items by age range, geography and profession and other parameters to make informed decisions on inventory.
+-Used SOQL & SOSL Queries with consideration to governor limits for data manipulation needs of the application using platform database objects and to support various item-level analytics on database objects.
+-Hands on experience on Salesforce Lightning for Customizing Reports and Dashboards for business use.
+-Used Data Loader for insert, update and bulk import or export of data from Salesforce S-Objects Used it to read, extract, and load data from a comma-separated value (CSV) file.
+-Used Force.com developer toolkit including Apex Classes, MASKED_NAME, Visualforce pages to help in the development of custom business logic.
+-Integrated the web services by generating the necessary stubs from the WSDL files for extracting the data from the home
+ -grown applications by using the home-grown web services.
+-Designed the Test Cases in MASKED_NAME for API testing, Test Plans for all the processes using CONFLUENCE and tracked defects on JIRA, hence was part of Black Box Testing, and was part of Interface Testing, System Testing.
+-Used CUCUMBER for Behavior Driven Development and used MAVEN to build the project and connect it to MASKED_NAME.
+ENVIRONMENT:Agile-Scrum,Eclipse,Force.com IDE,MASKED_LOCATION,SOQLxplorer,MASKED_LOCATION,JIRA/Confluence,Oracle Database server11g,Amazon DynamoDB(AWS),.Net framework 4.5,Maven,Custom Import Wizard,Apex Data loader,MASKED_NAME,LINUX, Salesforce integration tools, Connect offline,MASKED_NAME,MASKED_NAME, Apex Classes/Controllers, Test Classes, Apex Triggers, Visualforce (Pages, Component & Controllers),Standard objects, Workflow & Approvals, SOQL, SOSL, Custom objects, S-Controls, Analytic Snapshots,MASKED_NAME,MASKED_NAME environments.
+CLIENT: LBRANDS, COLUMBUS-OH                                                                                        Nov2015- Jan2017     
+ROLE: Sr. Business System Analyst
+Description: Scope of the project was to integrate IBM Sterling order management system to our e-commerce platform which includes functions like accessing and updating customer orders, to provide the retailer with an operational foundation to towards seamless, integrated omni-channel solution.
+RESPONSIBILITIES: 
+-Elicited requirements together with the Product Owner to integrate IBM Sterling order management system with LBrands’s IBM WebSphere commerce platform used for a storefront for the complete view on order as well as inventory database.
+-Implemented DOM with role-based access for multiple supply chain participants, created a centralized database as single order repository to monitor complete order lifecycle (inventory availability, order routing, payment processing, shipment).
+-Integrated two systems by establishing WebSphere enterprise service bus which translated calls and services from one system to other in terms of API calls to support CRUD operations.
+-Collaborated with sales teams, independent stores, transportation partners, and customer warehouse to do Out-of-the-box configurations for seamless delivery execution and monitoring of services. 
+-Used CONFLUENCE for drafting the User stories and managing the requirements and integrating with JAMA Project Management Tool ensuring that all the teams are in sync at all times.
+-Created acceptance criteria for stories in JIRA and Participated in all Scrum Ceremonies Leading Sprint Planning session.
+-Validated completed stories that passed all the acceptance criteria on behalf of or with the Product Owner in exceptional scenarios and Production validation on behalf of or with the Product Owner/Manager. 
+-Reviewed the Processes, Tools, Techniques used by various Development & QA Teams along with Scrum Master to provide leadership and guidance for improvement with the goal to deliver high-quality Product.
+-Ensured that the Development & QA teams, based on the requirements, have completed the appropriate level of Test. 
+-Planning along with Traceability back to the requirements to ensure complete coverage of the Program increment. Worked Extensively with the Dev Ops Team for the successful implementation of the Project.
+-Helped in designing Test Cases in MASKED_NAME for API testing, Test Plans for all the processes using Confluence, hence did the Black Box Testing and was part of System Testing.Tracked the identified defects using JIRA.
+-Used CUCUMBER for Behavior Driven Development and used MAVEN to build the project and connect it to MASKED_NAME.
+-Assisted Junior Business Analysts with the development of Use Case Diagrams, Activity Diagrams, Sequence Diagrams using MS-Visio by analyzing the business processes to describe the functional requirements of the system.
+-Created and updated training manuals and Provided advanced business knowledge and technical support for business requirements development.
+-Used BI tools like MASKED_NAME for reporting and analyzing most profitable channel partners, order replenishment etc. 
+ENVIRONMENT: Agile-Scrum, IBMWebSphereCommercev7, IBMSterlingordermanagementsystemv9.3, MASKED_NAME, CONFLUENCE, MASKED_NAME, MySQL-DB, MS-VISIO, APAR fixes, JMS API, XML, MASKED_LOCATION, MASKED_NAME, J2EE, Cucumber, MASKED_LOCATION, MASKED_LOCATION.
+ CLIENT: STATE OF MASKED_LOCATION, MASKED_LOCATION-FL                                                                    Jan2014-Oct2015
+ ROLE: Sr. Business System Analyst 
+ Description: Scope of the project was to enhance existing enterprise data warehouse for agricultural department of State.
+ Improved the data definitions and logical structures related to current data-warehouse in order to increase accuracy 
+ and precision of statistical calculations done agricultural data collected through surveys. 
+ RESPONSIBILITIES:
+ -Conducted meetings and discussions sessions with stakeholders of the agriculture department of State government to elaborate on the business drivers, vision, and mission, high-level requirements and project objectives.
+ -Facilitated Joint Application Development (JAD) sessions to design Data Flow Diagrams (DFD’s) for the different phases of requirements. Acted as liaison between end users and technical team to address issues and recommend solutions.
+ -Documented workflow for each of the batch process feeding to the master database.
+ -Analyzed source database, identified cardinalities and Created conceptual, logical ER diagrams. Responsible for identifying different data sources and conducted data profiling using Informatica.
+ -Involved in identifying facts and dimensions and created data mapping document. Coordinated with database developer to create star dimension modeling and enhanced the target Datawarehouse with respect to agricultural data parameters.
+ -Analyzed ETL jobs and mappings to document the existing transformation logic and understand ETL strategies used.
+ -Assisted in developing different dimensions such as slowly changing, rapidly changing, and conformed dimensions and fact tables with facts and measures as per business requirement.
+ -Led BI and dashboards development and trained core executive users on usage of developed BI platform.
+ -Maintained metadata of the data warehouse in the CA Platinum repository by identifying different types of metadata.
+ -Assisted testing team and Responsible for creating and monitoring Requirements traceability matrix, test cases, test plans, defining User Acceptance criteria and tracking defects using HPALM.
+ -Assisted data analyst in enhancing OLAP cubes by communicating new business rules and MASKED_NAME, MASKED_NAME down, Slice and Dice operation to provide secured, timely, accurate insights.
+ -Helped to create operations document and knowledge transfer to the operations team.
+ ENVIRONMENT: Waterfall-SDLC, MS-Access, MS-Excel, MySQL-DB, MS-Office, Informatica, HPALM, PowerBI, CA Platinum Repository, Oracle Database 10g
+ CLIENT: OFFICE DEPOT, BOCA RATON-FL                                                                            Sept2012-Nov2013
+ ROLE: Business System Analyst 
+Description: Office Depot is an American office supply retailing corporation. The project consisted of designing a new in-house order management system and in-store billing application. Respective store managers and customer sales staff order the products they need from the store's system, and in 3 days they receive the products they had ordered, the project was to replace with the new order management system and in-store billing application.
+RESPONSIBILITIES:
+-Conducted feasibility analysis for new requirements, cost-benefit analysis and assisted the project manager in risk analysis. 
+-Analysed data flow and business requirements to create business requirement MASKED_NAME), functional requirement document (FRD) etc. 
+-Created Activity Diagrams, Sequence Diagrams using UML methodologies for easy understanding using MS-VISIO.
+-Created User Stories from documented FRD to be estimated in Sprint Planning and MASKED_NAME meetings. Helped Product Owner to define acceptance criteria for user stories and prioritize those user stories based on business value.
+-Responsible for implementing, coordinating and documenting all business processes for (web-based) Internet billing customers (e.g. creating invoices on a recurring basis based on pricing plan, discounts applied specifically to SKUs etc).
+-Helped the team in estimating the complexity of the user story by using Planning Poker and other estimation techniques.
+-Used JIRA for deploying task and Issue Tracking, User Story Management.Also linked the sprint burndown charts and release MASKED_NAME to the sprint in execution to track the progress of the sprint as well as a release for future planning.
+-Assisted Business Intelligence (BI) team in creating dashboards using MASKED_LOCATION as required by the end users.
+-The effort involved developing extensive SQL Queries and Procedures, utilized to perform database integrity testing, ensuring various data table entries, data validity, and data integrity w.r.t transactional data.
+-Performed logical data modeling and created ER diagrams and used SQL queries for manipulating data.
+-Prepared Requirement Traceability Matrix (RTM) report to ensure that every Business requirement is adhered to achieve the expected performance and have visibility on complete test coverage w.r.t requirements elicited.
+-Helped in development of Test Strategies and creation of Test Scenarios, Test Environment, and Test case.
+-Conducted User Acceptance Test(UAT) by setting up UAT environment utilizing HPALM.
+ ENVIRONMENT: Scrum-Waterfall(Hybrid), JIRA, MASKED_LOCATION, SQL Server, .Net framework3.5, Mock-Up Screens, UML, MSOffice MASKED_NAME, MASKED_NAME, HP-ALM.
+ CLIENT: BIG BASKET, MUMBAI-INDIA                                                                                     June2011-Aug2012
+ ROLE: Business Analyst 
+ Description: Big Basket is an Online supermarket for food and grocery. The scope of a project is to integrate and enhance the existing Web Based E-commerce platform using Microsoft Commerce server to provide MASKED_NAME, Targeting, and Profiling. The enhanced application provides utilities for selecting products, shopping cart, checkout, payment modes, and membership login for the discounts.
+ RESPONSIBILITIES:
+ -Elicitated requirements by interview, surveys, and prototyping with the stakeholders.
+ -Conducted GAP Analysis for the AS-IS and TO-BE Processes to identify and validate the requirements and then developed the strategy to close the gap as to have a better understanding of server requirements.
+ -Worked with various e-commerce modules for supply chain management, Internet marketing, online transaction processing, electronic data interchange (EDI), inventory management systems, and automated data collection systems.
+ -Conducted technology reviews of various modules for the team. Built web application prototype using iRise.
+ -Actively Participated and assisted project manager in writing Project scope statement, Work MASKED_NAME structure etc.
+ -Documented the server-based and security-related requirements within Share Point and using Windows Active Directory.
+ -Created Mock-ups and Wireframes to help facilitate the conversion of business needs into technical requirements.
+ -Prepared Functional specification document(FRD) based on the understanding of the required functionalities-entirely re-engineering the existing process to make it more efficient and accurate to deliver planned business value.
+ -Conducted Requirement Validation through requirement reviews and use of prototyping and planned how requirements should be verified by establishing Acceptance tests and ensuring all requirements supports delivery of value to the business.
+ -Designed and developed Use-case diagrams, Sequence Diagram and Activity Diagram using MS-Visio.
+ -Created Physical Inventory process (like creating barcode labels, create purchase orders, create a sales order and pick/issue along with cycle count) for e-commerce consisted of data integration and inventory processes with the third-party vendor.
+ -Planned and documented procedures for data processing and prepared data flow diagrams for the application.
+ -Designed workflows and allocated permissions within SharePoint.
+ -Assisted in Unit Testing and performed User Acceptance testing and documented detailed results.
+ENVIRONMENT: Waterfall-SDLC, MS-SharePoint 2007, Microsoft commerce server 2009, .Net framework 3.5, MS Office, SQL Server, MS Project, MASKED_NAME, Mock-up screens, iRise, MS Access.
+CLIENT: KOTAK MAHINDRA BANK, MUMBAI-INDIA                                                        Nov2010-May2011
+ROLE: Business Analyst 
+Description: Scope of the project was migrating the bank’s core legacy system (Core Banking System i.e. CBS) onto a consolidated Finacle Platform for retail banking. Legacy system was increasingly expensive to maintain and had several performance issues. Also, it lacked various vital functionalities such as NEFT/RTGS payments, FLEXI deposits, SWEEPs etc. New System brought 24x7 banking to back office, enhanced straight-through processing, reduced manual intervention which eventually reduced process time and error.
+RESPONSIBILITIES: 
+-Assisted Senior Business Analyst in Client Meetings and scribed JAD sessions to allow users/stakeholders from multiple teams to communicate and understand how many systems MASKED_NAME had to interface with and to avoid Scope creep.
+-Acted as the liaison between the Business Users and the Technical teams towards providing feedback on the implication of requests and escalating/resolving issues and conflicts. Worked with different commercial card team in knowing what exactly bank's client wants.
+-Created project artifacts like Business Requirements Document(BRD), Business Rules Spreadsheet BRS, Use Case Document, Functional Requirements Specification(FRS), Data Mapping Document.
+-Employed UML methodology and thus facilitated the creation of Use Case, Activity, Sequence and Communication Diagrams as to identify the actors (primary stakeholders) and to do behavioral modeling using MASKED_NAME.
+-Assisted the Project Managers in the development of standard project documentation like project scope statement etc
+-Created documents like the Business Glossary, Actors Catalog and Data Dictionary to facilitate the other teams in understanding client business.
+-Involved in the overall requirements management and to build the Requirements Traceability Matrix (RTM) in order to trace the origins of requirement with respect to written test-cases using HP Application Lifecycle Management.
+-Facilitated Requirements Review Sessions with the Development and Testing teams.
+-The Facilitated decision on proposed requirements changes after baseline as part of the Change Management process, thus managing Volatility and Integrity of the requirements. Also helped teams in baselining changes w.r.t business users.
+-Created UAT test case scenarios by covering all business process lifecycle functionalities of bank’s offerings together with business stakeholders. Helped QA teams in setting up UAT environment by providing data definitions for test data.
+-Reviewed Test cases, Participated in Defect-Review meetings with software developers, QA engineers, managers, suggested enhancements to the existing application from business perspectives, provided solutions to existing bugs.
+-Was part of Data Migration strategy from legacy system to Finacle, assisted Sr. business analyst and participated in Deployment Planning meeting.
+ENVIRONMENT: Waterfall SDLC, MS-Visio, MS-Office, MS-Project, HP-ALM, MASKED_NAME, MASKED_NAME, iCEDQ, SOA test, MS-SQL Server.
+CLIENT: OLX, MUMBAI- INDIA                                                                Aug2009-Oct2010                             
+ROLE: Jr. Business Analyst    
+MASKED_NAME: Olx is MASKED_LOCATION’s one of the largest companies in e-commerce. The scope of the project was to develop Payment Verification and Processing System which leads to secured payments for existing and new customers using Credit or Debit cards.
+RESPONSIBILITIES:
+-Interacted with the customers and internal stakeholders to elicit user requirement to make the existing system safer for a transaction by making it PCI DSS compliant as increase control over cardholder data and reduce credit card frauds.
+-Documented requirements using Functional Requirement Document, Business Requirement Document templates.
+-Formed a bridge between the Project Manager, Stakeholders and IT teams with effective presentations.
+-Planned and organized team engagement activities to encourage self-organization among the team.
+-Assessed business priorities and advised business units by performing Risk Analysis along with Sr. Business Analyst.
+-Created UML Diagrams like Activity diagram, Sequence diagram, Use case using MS-Visio.
+-Tracked and reported timely performance against plans and performed GAP analysis as to recommend corrective measures to improve productivity. Did Impact Analysis for change management along with project manager, stakeholders.
+-Identified the logical relationship between entities and primary keys to making every payment per transaction unique in the database. Helped data architect in database designing and other technical teams by participating in E-R modeling.
+-Participated in the development and testing of Service Oriented Architecture, REST, SOAP APIs.
+-Helped in preparation of the Test Plan with the testing team as well as ensuring testability, reliability, usability, maintainability, the performance of the application through User Acceptance Testing(UAT).
+-Involved in incident reporting and change management procedures using Use Case.
+-Maintained and shared documents using MS SharePoint. 
+-Managed test cases and logged defects using HPQC tool.
+Environment: Waterfall SDLC, HP QC, Payment Processing, Payment gateways, MS Project, MASKED_NAME, MySQL MASKED_LOCATION, SharePoint, MS Office (MS Excel, MASKED_NAME, MS PowerPoint)10, HPQC, SOAtest, MASKED_LOCATION, MS-SQL server.

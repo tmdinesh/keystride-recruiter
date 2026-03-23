@@ -1,0 +1,166 @@
+MASKED_NAME
+MASKED_PHONE
+MASKED_EMAIL
+PROFESSIONAL SUMMARY
+Certified Scrum mater with overall 11years of professional experience as Scrum Master, Business Analyst/Project Management for Application Integrations, Applications Development, Business Process Re-engineering projects in Vendor Management, Logistics and Supply Chain Management field. Have strong background in Stakeholder Management,Complete SDLC, Multiple Teams Coordination, Change Management, System Development & Testing.
+Experience in communicating with Stakeholders including Project Sponsors and Business Owners; quick decision making, complex problem-solution analysis involving CostBenefit, Risk Assessments, Budgeting, SWOT Analysis, Gap Identification and Impact Analysis.
+Expert at driving the adoption and enforcement of Scrum processes, removing impediments and fostering self-management. Capable of bringing awareness to projects, applying expert judgment to the removal of impediments, keeping teams focused and delivering success in rapidly evolving and dynamic environments.
+Expert in full lifecycle development ofWeb/ERP applications from initial conception through implementation including requirements gathering, design, development, testing, implementation and maintenance.
+Sound Project Management expertise following SDLC(Agile / Waterfall) methodologies,
+On-site/Off-shore delivery model – budgeting, time management, resource management and resource estimations.
+Controlling scope, eliciting, translating &confirming by understanding client requirements and specialized in validating current and future state by documenting use cases, creatingUML diagrams, activity and data flow diagrams, flowcharts, etc.
+Excellent Collaborative experience, organized and facilitated Joint Application Development (JAD) sessions & workshops for requirement gathering with project stakeholders.
+Experience in craft of testing (Test Plans, Test Strategies & Test Cases) and managing Functional testing & defect triaging.
+Thorough knowledge of tools / products to support ITIL processes like: IT Service Management, Service Catalog Management, Request Fulfillment, Event/ Incident / Problem Management.
+Excellent analytical and problem-solving skills, with ability to operate both tactically and strategically thus maximizing the ROI.
+Hands on experience in creating MASKED_NAME, Wireframes & Storyboards.
+Research and evaluate technology solutions, present recommendations for improved system operations.
+Expertise in designing and developing web applications in MASKED_NAME/J2ee and MASKED_NAME.Worked on end-to- end application building and enhancements project.
+Strong knowledge of SQLqueries for data analysis and testing.
+Areas of Expertise 
+Business Analysis
+Change & Release Management
+Customer Service, Support and User Training
+Cross-Functional Team Management & Development
+Development of web applications
+Employment Summary
+Currentlyworking as a Business Analyst/Onsite Project Manager at General Electrical (USA) from 14th July 2014.
+Worked as aBusiness Analyst and MASKED_NAME with TechMahindra (MASKED_LOCATION) from 2nd August 2010 to 13th July 2013.
+Worked as a Software Engineer with Tata Consultancy Services (MASKED_LOCATION) fromMarch 2007 to May 2010.
+Education
+Master of Computer Application (MCA) from Andhra University (AU), MASKED_LOCATION, MASKED_LOCATION, 2006.
+Scrum Master Certified #000727059  
+TECHNICAL SKILLS
+Programming Languages	:MASKED_NAME, J2EE,SQL, PL/SQL,.Net
+Web Technologies	:XML, CSS, JavaScript, AJAX,MASKED_NAME
+Web Frameworks	:Struts, JSF, MASKED_LOCATION, MASKED_NAME, Web Services
+Application/Web Servers:MASKED_NAME, JBoss,WebLogic 9.2,WebSphere
+Source Control Tools	:VSS,CVS,GIT,MASKED_LOCATION
+Tools				:JIRA, Service Now,Rational Requisite Pro,HP ServiceDesk(HPSD),
+				Support Central,Rally
+Database			:Oracle,MS Access, Postgres SQL
+Office				:Word, Excel, Outlook, Power Point, MASKED_NAME.
+DATA MANAGEMENT
+Excellent knowledge in Data Governance: Data Profiling, Data Analysis, Data gap analysis, Data Cleansing and Data Verification 
+Knowledge in ETL (Extract, Trans form and Load) of data into a dataware house/date mart and Business Intelligence (BI) tools.
+Collected business requirements to set rules for proper data transfer from Data Source to Data Target in Data Mapping and Management Business Intelligence Reports
+Achievements
+Received “MASKED_NAME” award for successful delivery of projects under very strict deadlines and continuousappreciations by client.
+PROFESSIONAL EXPERIENCE
+Worldwide Material Management - Logistics
+General Electric – Power, USA.				July 2014till date 
+Business Analyst & Project Management
+Project Description
+The Materials Management/eTag program provides platform of asset tracking tools and techniques to manage asset inventory, such asmaterials management is the function responsible for the coordination of planning, sourcing, purchasing,moving, storing,controlling materials and
+tracking power plant equipment from supplier to construction site. It helps to manage assets efficiently through supply chain processes.
+Contribution
+Analyze existing (AS IS) Policies, Processes and Procedures. Identified gaps and developed future (TO BE) Policies, Processes, Procedures, Standards, Guidelines and Job-Aids for effective functioning of Service Operation.
+    Work with business user, developers, data modelers to gather/define business requirements, and translating statement of work into business and functional level requirements. 
+Organized and facilitated sprint planning, daily stand-up meetings, reviews, retrospectives, release planning, demos and other Scrum-related meetings.
+ Brainstorming sessions with stakeholders and SME’s to finalize requirements.
+Working knowledge of implementing software development projects using methodologies such asAgile/Scrum.
+Manage the lifecycle of code development, from ideation to sprints to deployment.
+Experience in conducting JADsessions for requirements gathering, analysis and design. 
+Organize weekly Project Status and Task Review meetings.  
+Act as the liaison to the Business and developers to answer functional questions and ensure the approach meets Product requirements.
+Performing business impact analysis of proposed projects processes and gap analysis for new functional requirements, as well as prioritizing them based on actual business. Flagging up potential problems at an early stage.
+ Guide and work closely with QA team members in creating Test Plans, Test Cases, Test Data 
+review, system testing, UAT.
+Facilitated Risk Identification sessions. Documented the identified risks and facilitated the 
+conversations to plan the mitigation strategy.
+Documented monthly status reports for risks, issues, and dependencies to assist the project team in efficient tracking and monitoring of open issues of the project.
+Created and routed Requirement Change Notices (RCNs) and Change Control (CR) for review and approval.
+Played a key role in solving performance issues and bug fixes.
+SMF and ERP Utilities 
+General Electric – Energy, USA.				Jan MASKED_ADDRESS& Project Management
+Project Description
+SMF enables GE Energy Sourcing Vendor Management team to maintain standardized supplier data across all GE Energy Purchasing Systems. Vendor Management Team receives workflow requests of adding/modifying supplier data from ERP teams to be loaded into SMF. The workflow goes through multiple approvals and then VM team cleans the data and manually inputs the data in SMF/SAT tool. The process involved is tedious and manual. The project is to enhance SMF/SAT application to develop an interface to automate the workflow of supplier data and integrate with other GE system.
+Contribution
+Gathered requirements from owners through Requirement Gathering Techniques. Documented 
+project closing checklist.
+Prepare and presented project management documents (project plan, executive summaries,
+action items, change management logs, etc.) as needed. 
+Involved in coding and implementation of business requirements and prepared technical 
+documents based on the requirements.
+Tracked and reported on the status of the project week-on-week basis. 
+Coordinated between the teams and management through effective communication plan. 
+Prioritized deliverables, identified gaps, tracked defects, and defined software requirements for
+testing and development. 
+Documented monthly status reports for risks, issues, and dependencies to assist the project 
+team in efficient tracking and monitoring of open issues of the project.
+Created and routed Requirement Change Notices (RCNs) and Change Control (CR) for review
+and approval. 
+Handling change management during final testing and implementation, and coordinating on site 
+implementation support.
+Involved in Defect Status Meetings.
+As Project lead formulated the training program for new employees.
+Determine the metrics to judge the quality measures and performance levels.
+Draft change management strategies to help the team adjust to the dynamics of IT projects
+Responsible for all the Defects & Enhancement Requests from the time it’s created until it went 
+to production.
+Performed ad-hoc testing in the web application and discovered defects which were important 
+for the project to move in next phase.
+Incorporated Data Acquisition, Data Privacy, Data Analysis, Data Mapping and Data Compliance 
+rules in the auditing criteria.
+Analyzed, prioritize and documented risks.
+Identified Actors, Activities, Artifacts and MASKED_NAME and developed use case diagrams using MS 
+Visio and Rational Rose.
+Created Test Scenarios and Test Requirements for QA team, based on the Use Cases and Business
+Rules document.
+AP Conversions
+General Electric – Energy, USA.				Aug MASKED_ADDRESS
+Project Description
+AP Conversion is an application to migrate all GE Corporate applications to GE Energy domain. AP conversion is for purchasing of good from suppliers and payment process takes place. Analysis of the project is done how the various applications interlinked with each other and identified with that of GE Energy project.
+Contribution
+Involved in the feasibility study to register the client’s impact by the project and document the
+relevant information.
+Project Leading and Operations management.
+Analyzed, prioritize and documented risks.
+Gathering requirements from the functional team and developed technical specification for the requirements.
+Involved in Analysis of business requirements and prepared technical documents based on the requirements.
+Mapping processes GE corporate with GE Energy processes.
+Analyzed impacts of proposed solutions on technology platforms.
+Ability to document the project scope using business terminology.
+Evaluate the feasibility of implementing the IT application and its user friendliness.
+Identified Actors, Activities, Artifacts and MASKED_NAME and developed use case diagrams using
+MSVisio and Rational Rose.
+EAG J2EE Framework
+TCS – Internal Project					Aug 2009 to May2010
+Project Lead 
+Project Description
+The UltimateEAG J2EE framework is a Service-Oriented framework which provides a common infrastructure to develop applications.  It exhibits a programming model using best practices and standard design patterns which can be extended while designing and developing new applications.  It also provides a layer of black-box abstraction of common functionality which can be re-used as is or extended.
+Contribution
+Involved in Designing of workflow that are commonly used across the applications.
+Involved in coding and implementation of business requirements and prepared technical documents based on the requirements.
+Checking the Quality standards of various aspects of the project in accordance with the company Quality guidelines.
+Involved in writing test cases for Services classes.
+Bug-Fixing and incorporate the new changes for the modules.
+Responding promptly and professionally to bug reports. 
+Ensure the smooth running of our production batch jobs and backup operations.
+MASKED_NAME scripts for multiple build scenarios. Successfully delivered the bug free code with in the time lines of the project.
+Supervised the Implementation tasks on Final Production Implementation Day.
+Experience in Coordination of Emergency Releases.
+Coordinated with Configuration Management group to get track of latest versions of MASKED_NAME.
+Participated in Review Committee Approval meetings, to get approval for Go-Live.
+Participated in Infrastructure Request Meetings and track the status of readiness.
+Provide support to associates during the management of complex events and outages.
+Created all necessary documentation and worked with leads and management to get approval from the Review Committee for final project implementation.
+Coordinated with various team members to identify pre and post implementation tasks.
+Lead task list review meetings with all necessary project team members.
+Environment:JSF, PL/SQL, AJAX, JavaScript, CSS, WebLogic 9.2, VSS, TOAD, MASKED_LOCATION, MASKED_LOCATION (Workflow manager), Web Services.
+SBI Workflow & DMS
+Tata Consultancy Services				Mar2007 to July2009
+Developer
+Project Description
+As part of its BPR initiatives, SBI has centralized its non-customer transactions. To free the branch staff from back office activities and to focus on Customer Services, Marketing and improvement of business, many Central Processing Centers (CPC’s) are being setup. There are many process flows running at various locations. It is extremely important to monitor the flow of different activities as well as physical documents related to such flows. Workflow & Tracking Solution not only be easily interfaced to different systems being used by the Bank but also have the scalability in terms of the volume of work and number of users across the various CPC’s. The CPC’s are required to handle large volumes of documents for safekeeping and quick retrieval. Hence a Document Management System is also implemented along with the Workflow Tracking Software.
+Contribution
+Performed the requirement gathering for the module.
+Created detail Specification and Process documents before initiating development.
+Created business flows and developed the workflow architecture of the module.
+Followed high level architecture in this project like MVC (Model-View-Controller) architectural design pattern. Model means data, View means presentation layer and Controller works on data and representation. With this we achieved Increase object reusability, achieve design flexibility.
+Involved in developing of Action Servlets which is controller of MVC architecture. This controller processes the data which is received from JSP and again redirect to corresponding JSP.
+Checking the Quality standards of various aspects of the project in accordance with the company Quality guidelines.
+Prepared Unit and System Test cases and executed them.
+Bug-Fixing and incorporate the new changes for the modules.
+Responding promptly and professionally to bug reports. 
+Environment:Struts, PL/SQL, JAXB, HTML, XML and JavaScript, CSS,WebLogic 9.2, VSS, MASKED_LOCATION,Concordia(Workflow manager), Web Services.

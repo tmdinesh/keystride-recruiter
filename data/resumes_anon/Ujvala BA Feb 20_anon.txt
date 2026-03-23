@@ -1,0 +1,160 @@
+MASKED_NAME
+Business Analyst
+Contact no. MASKED_PHONE
+    Email Id: MASKED_EMAIL
+PROFESSIONAL SUMMARY
+Certified Agile Scrum Master and Business Analyst with 8+ years of domain experience in Financial Services, Healthcare and MASKED_LOCATION.
+Proficient decision-making, leadership, presentation, communication, problem-solving and analytical skills with ability to interact at all levels.
+Hands on experience in accomplishing outstanding results with the Business Stakeholders, Development and Quality teams.
+Tracked and effectively communicated team velocity and sprint/release progress to all affected teams and management
+Updated Agile tracking systems to provide transparency on product and sprint backlogs
+Worked with the Scrum Team and the Product Owner to negotiate the minimum viable product for delivery
+Excellent work ethics and analytical skills coupled with excellent communication, written and interpersonal skills describing a committed team player.   
+Possess thorough experience in full end-to- end SDLC, Agile methodology to manage and deliver projects.
+Experience with Data Mappings from source to destination databases with hands on requirement gathering for ETL.
+Experience in scheduled and ad-hoc report generation using MS Excel, SSRS, PowerPivot.
+Knowledge of Health Insurance Portability and Accountability Act (HIPAA) standards, Electronic Data Interchange (EDI) and ASC X12N code sets 4010/5010, ICD-9, ICD-10 and HL7.
+Possess thorough experience in full end-to- end SDLC, Agile methodology to manage and deliver projects.
+ In-Depth Knowledge in facilitating Joint Application Development (JAD) and Joint Requirement Planning(JRP) sessions, interviews, workshops and requirement elicitation sessions with end-users, clients stakeholders and development team. 
+Experience in conducting GAP analysis, Impact analysis, Feasibility study, Cost-benefit analysis, Risk analysis, Root cause analysis, Business Process Reengineering and SWOT analysis.
+Experience in Data Analysis; writing SQL queries (T-SQL & PL-SQL) especially stored procedures, joins, triggers and views. 
+A team player with experience in handling remote teams esp. managing schedules and meeting agenda.
+Experienced in creating visually attractive Reports using Excel and SQL Server Reporting Services (SSRS).
+Worked with business teams and user groups to identify, analyze, and document business Intelligence opportunities/requirements and developed functional requirements. 
+Worked with QA testing teams, while interacting with business users and gathering user’s requirements to develop necessary Test plans, Test Cases and Test script.
+Experience in designing schemas, ER diagrams, creating databases, data mapping and executing queries using SQL.
+Experienced in training users and developing training manuals
+Strong team building, conflict management, time management and escalation protocol skills.
+Organized and facilitated Scrum ceremonies including Sprint planning, Backlog grooming, daily stand-up meetings, reviews, retrospectives, Sprint and other related meetings.
+Experience in.passion for or willingness to learn about Expertise Marketing
+AREAS OF EXPERTISE
+Business Skills: Business Requirements, Business Process Analysis &amp; MASKED_LOCATION,
+Requirement Gathering, Use Case Modeling, JAD/JRP Sessions, Gap
+Analysis and Impact analysis.
+Process/Model Tools: MASKED_NAME, Rational Unified Process (RUP), Rational Rose, Rational Requisite Pro,UML, Use Case Diagrams, Sequence Diagrams, Activity Diagrams, MS Office.
+Scrum Master Process: Product Backlog, MASKED_NAME, MASKED_NAME charts, Task board, Daily Scrum, Sprint Planning, MASKED_NAME, Retrospectives & Backlog Grooming
+Test Tools : Test Director, MASKED_NAME, MASKED_NAME.
+Languages: SQL, UML, J2EE, .NET, HTML, XML, and Visual Basic 5.0/6.0
+Databases: MS Access, Oracle 8i/9i, DB2, MS SQL Server.
+Risk Management Tools: MASKED_NAME, MASKED_NAME, CAPA, JIRA Service Desk, Oracle Service Cloud, Salesforce, SWIFT,NACHA
+Requirement Management Tools: HP ALM, Blueprints, ERP, JIRA, VersionOne, TFS (Team Foundation Server), IBM Rational MASKED_NAME and MASKED_NAME.
+Operating Systems: UNIX, MASKED_LOCATION, Windows 95/2000/NT/XP, MVS, and MS-DOS.
+Office tools: MS Office 2003 (Word, Excel, Power Point, Outlook), MASKED_NAME,
+MS Project, MS Access, and MS FrontPage.
+PROFESSIONAL EXPERIENCE
+Scrum Master/Sr.Business Analyst 
+Jan 2017 to Till Date
+Blackhawk Network Holdings, Pleasanton, CA
+Project Description: The project is to being a part of the Center of Excellence (COE) team you will work alongside financial professionals and business leaders, gaining opportunities to grow and develop to build a strong FP&A foundation.  Involved in; target setting, reporting & analysis, planning and forecasting, and guiding the strategic direction across BlackHawk Network Holding’s.
+MASKED_NAME and Responsibilities:
+Acted as Scrum Master for Product teams with a focus on guiding the teams towards improving the way they  work.
+Acted as a Project Manager when necessary in communicating with IT team and stakeholders on project status including prioritization, risk management to support decision making
+Assisted team to remove impediments by having an understanding the control and release processes, business requirements (test plan). 
+Assisted with internal and external communication, improved transparency, and radiated information
+Assisted with prioritization and resolution of software defects
+Worked on payment scheme like Wires/ACH/RTP 
+Worked on payment tools like SWIFT/NACHA
+Worked with clients on assisted my team on  payment services ,positive pay, reverse pay, stop pay and security and fraud prevention
+Built relationship with Product owner and other stake holders to facilitate team's interaction with them
+Coached Product Owners in creation and maintenance of MASKED_NAME
+Coached team members on Agile principles and providing general guidance on the methodology
+Continuously learned Agile/Scrum techniques and shared findings with the team
+Engaged with other Scrum Masters to increase the effectiveness of the application of Scrum in the organization
+Facilitated getting the work done without coercion, assigning, or dictating the work
+Facilitated sprint planning, burn down charts, sprint review and sprint retrospective meetings 
+Gathered business requirements by conducting meetings with stakeholder and business users.
+ Performed GAP analysis of client requirements, generated workflows for the project.
+Analyzed and optimized the process. Prepared business requirement document.
+Documented High level and expanded Use Cases. Use Case analysis using UML, which provides the framework for potential Use Case deliverables.
+Developed an analysis model that includes Sequence diagrams, Use Case diagrams,
+Activity diagrams using MASKED_NAME that provides the development team a view of the requirements for construction phase activity.
+Completed weekly project status reports.
+Discussed the Test Cases and Test Plans and select Test Data for Software Testers.
+ Member of team responsible for evaluation, timely implementation and support of business products in the distributed computing environment.
+ Involved in analyzing risks associated in integrating the client systems located in different geographical areas.
+Involved in weekly walkthroughs to verify the status of the testing effort and the project asa whole.
+Environment: Requisite Pro, MASKED_NAME, Visual Source Safe, WinRunner, MASKED_NAME, J2EE, MASKED_NAME, XML, HTML, SQL Server 2000, Windows 2000, Ms Office.
+Scrum Master/Sr. Business Analyst
+Nov 2015 to Dec 2016
+CVS Health, Woonsocket, RI
+Project Description: CVS Health’s international health plan covers expats and their families. It also has option that covers international business travelers from 6 months up to 2 years. The Expat Resource center dashboard provides its’ members overview of access to provider (medical facilities) in destination country, news alerts, financial and employment information, general health related matters and contact details for in-country assistance. It also lists the geographical statistics of the Healthcare services in the selected destination
+Roles and Responsibilities :
+Facilitated sprint planning, burn down charts, sprint review and sprint retrospective meetings 
+Conducted meticulous GAP analysis while successfully reengineering key business processes to increase operational efficiency and alignment of business unit objectives
+Facilitated Daily Scrum Meetings and Monthly Reviews meetings. Conducted sprint retrospective and followed up on action items for continuous improvement
+Prepared extensive cost - benefit analysis to support system and process changes and information reporting/reports.
+Meticulously analyzed complex data, staffing plans and variances to recommend solutions to improve revenue per call and customer satisfaction/retention
+Developed crucial functional requirement specifications, creating detailed use cases and process flow diagrams to support functional specifications.
+Interact with business heads  to finalize the Business Requirements.
+As a Product Owner, presented new business solutions to stakeholders before initiating the project.
+Conducted GAP Analysis by creating “AS-Is” and “TO-Be” process flows and system analysis to increase operational efficiency determine if solutions meet the high-level business requirements.
+Analyzed impact of proposed solution across the business. Developed proposed statement of work(SOW) ensuring solution meets the defined technological needs and specifications.
+ Facilitate JAD sessions with the business group to gather, analyze and document business requirements and business rules.
+Decompose Business Requirements into Functional, Non-Functional and Reporting requirements..
+Document the Business Requirement Document (BRD) and the Requirement traceability matrix.
+ Created UML Models such as wireframes, Use Case Diagrams, Activity Diagrams and Flow Diagrams using MS MASKED_NAME and online UML tools.
+Implement the Agile Software Development methodology for SDLC, for tracking defects and managing the project. Participated in the Sprint Planning, Sprint Review, Sprint retrospective, MASKED_NAME up meetings and all related SCRUM ceremonies.
+ Design the User stories, facilitated story point discussions and managed them in Microsoft TFS (TeamFoundation Server).
+Ensure complete test coverage through test cases and scripts, during Integration, System, Regression and executed the UAT testing.
+Involved in writing user manuals and conducting user trainings sessions.
+Responsible for release of three important work streams. This involved coordinating with teams, documenting all issues, risks and seek a resolution so that the go live happened smoothly.
+Environment:  XML/XSD, Web Services, SQL, MASKED_NAME, Oracle, Microsoft TFS, HP Quality Center. MS SQL Server, JIRA, MS Office (Word, Excel, PowerPoint, Access), MASKED_NAME, SharePoint
+Business Analyst
+Feb 2015 to Nov 2015
+Kaiser Permanente, Pleasanton, CA
+Project Description: Kaiser Permanente as a business strategic decision to gain market advantage and be the provider of choice for home dialysis therapies.The project was to use technology solutions to add value to the Kaiser Permanente’s home therapies program and to encourage the selection of home modalities by patients and physicians. With different vendors, Kaiser Permanente developed an application called Soarians Clinical's web based/portal application. The system was developed to maintain the clinical, financial, and administrative functions.
+MASKED_NAME and Responsibilities :
+Worked with the management in assigning the project resources.
+Elicited requirements by interviewing the physicians and the pharmacists, site visits to the facilities and document those requirements.
+ Interacted with the business owner and the executives for defining the objectives
+of SDLC Process.
+Created the use cases and the process flows in MS Visio (Business ProcessModeling).
+Provided input to estimates for project management and change management activities through analysis of requirements effort, resources, and technology.
+Supported the development and training of staff & modeling the key business analyst disciplines and skill sets.
+Gathered the requirements according to HIPAA on different transaction sets.
+Coordinated and Conducted JAD Sessions for the business users.
+Gathered the utmost information from the end users while conducting the JA Decisions and meeting up with the deliverables of the session.
+Created the web scenario use cases and developed report screen mockups.
+Responsible for doing the data mappings in SQL Server 2005 and finding out the database elements to complete the Technical Specification Document.
+Involved in gathering business requirements and collaborated on creation of documents such as the Functional Specifications Document (FSD) and TechnicalSpecification Document (TSD).
+Environment: Agile, JIRA, MS Office, Lync 2013, MS Project, MS Visio 2010, MS SQL Server, ASP.net, SharePoint 2010, ServiceNow.
+Business Analyst 
+Nov 2013 to Feb 2015
+Charter Communications, MASKED_LOCATION, CT
+Project Description: The project is managing strategic company initiatives, the implementation of new marketing products, services and promos, and major IT infrastructure work/migrations, from a Revenue Assurance organizational perspective, which includes contract processing, rate entry and audit, quality assurance, production billing, custom billing, accounts receivable, collections, and customer service billing related inquiry and credit processes.
+MASKED_NAME and Responsibilities:
+Developed specs for business logic agents – components within OMS which asynchronously communicate with various systems or other BLAs to take the order to completion
+ Re-design of components to comply with new design patterns incorporated as part of and enhanced J2EE system
+Used XML to map data elements for messaging between various system components through a centralized bus
+ Acted as liaison between business users and development team to clarify requirements and problems encountered during development
+Worked with developers to make sure they understand the use cases and worked with quality control teams to develop test plans and test cases
+Assisting the PMs in setting realistic project expectations and in evaluating the impact of changes on the organization and project plans
+Participated in bug review meetings to discuss outstanding issues with QA team and developers
+Worked with UAT team to validate that the developed application will meet the business requirement
+Identifying potential problems, taking corrective measures and tracking risks to closure
+Production Support – first point of contact for trouble shooting the system
+Environment: MASKED_NAME/J2ee, HTML, UML, XML, WebMethods, SQL, PL/SQL, MASKED_NAME, Caliber RM,
+SDLC, GUI, MASKED_NAME, MASKED_NAME, MASKED_LOCATION
+Business Analyst 
+Aug 2009 to  Sept 2013
+ACC Limited, MASKED_LOCATION,  MASKED_LOCATION
+Project Description: Worked in E-Business team. E-Business project develops and supports Goodman manufacturing online web applications. Employee Net, Supplier Net and SecureNnet are the 3 projects supported by the team. Each application provides web application for different user groups like employees, suppliers and customers. All the IT development, maintenance and support are taken care of E-Business team.
+MASKED_NAME and Responsibilities:	
+Interacted with business heads to finalize the Business Requirements for the application
+Derived Functional Requirement Specifications based on User Requirement. 
+Understand and articulate business requirements from user interviews and then convert requirements into technical specifications. 
+Prioritized business requirements and segregated them into high level and low level Use Cases, Activity and MASKED_NAME according to UML methodology. 
+Coordinated between business line, operations and the technical team throughout the project.
+Experience in working on user interface (UI) screens for SharePoint system.
+Worked with the business team for the project requirement review and User Acceptance Testing (UAT). 
+Created UAT plans and several other types of test cases for each project to ensure that the system runs smoothly after the proposed enhancements.
+Created and maintained the Requirement Traceability Matrix (RTM) between the requirements and design documents and test plans.
+MASKED_NAME testing to support QA team in adjusting to agile environment.
+Managed various tests, stored test information, reviewed and analyzed test results.
+Conducted presentations of the Q/A test results with analysis to the stakeholders and users and documented modifications and requirements.
+Developed a Use Case Model ,UI using MASKED_NAME and developed a detailed project plan with emphasis on deliverables.
+Design application solutions, considering user functionality and user interface.
+Successfully conducted JAD sessions, which helped synchronize the different stakeholders on their objectives and helped the developers to have a clear-cut picture of the project.
+Involved in the application and database design Participated in Gap analysis between stakeholders and user’s needs and proposed solutions.
+Experience in analyzing data using excel and creating MASKED_NAME tables and creating reports using SQL 
+Environment: Agile, TFS,MS Office, MS Project, Rational Requisite Pro, MS MASKED_NAME, MS SQL Server,

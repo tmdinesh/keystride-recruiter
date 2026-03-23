@@ -1,0 +1,29 @@
+{
+  "resume_id": "Mohammad Resume_anon",
+  "skills": [
+    "javascript",
+    "r",
+    "html",
+    "css",
+    "spring",
+    "rest",
+    "soap",
+    "sql",
+    "oracle",
+    "aws",
+    "hadoop",
+    "tableau",
+    "power bi",
+    "jira",
+    "postman"
+  ],
+  "education": {
+    "degree": "Bachelor of Engineering (Computer Engineering) \t          University of Jammu                          May 2005- May 2009",
+    "year": "2005"
+  },
+  "experience_years": 12,
+  "projects": [],
+  "certifications": [
+    "Professional Scrum Master"
+  ]
+}

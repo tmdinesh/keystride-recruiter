@@ -1,0 +1,95 @@
+Traceback (most recent call last):
+  File "C:\Users\Dinesh.LAPTOP-OO5HEB93\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\transformers\activations_tf.py", line 22, in <module>
+    import tf_keras as keras
+  File "C:\Users\Dinesh.LAPTOP-OO5HEB93\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\tf_keras\__init__.py", line 3, in <module>
+    from tf_keras import __internal__
+  File "C:\Users\Dinesh.LAPTOP-OO5HEB93\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\tf_keras\__internal__\__init__.py", line 3, in <module>
+    from tf_keras.__internal__ import backend
+  File "C:\Users\Dinesh.LAPTOP-OO5HEB93\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\tf_keras\__internal__\backend\__init__.py", line 3, in <module>
+    from tf_keras.src.backend import _initialize_variables as initialize_variables
+  File "C:\Users\Dinesh.LAPTOP-OO5HEB93\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\tf_keras\src\__init__.py", line 21, in <module>
+    from tf_keras.src import applications
+  File "C:\Users\Dinesh.LAPTOP-OO5HEB93\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\tf_keras\src\applications\__init__.py", line 18, in <module>
+    from tf_keras.src.applications.convnext import ConvNeXtBase
+  File "C:\Users\Dinesh.LAPTOP-OO5HEB93\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\tf_keras\src\applications\convnext.py", line 26, in <module>
+    import tensorflow.compat.v2 as tf
+ModuleNotFoundError: No module named 'tensorflow.compat'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Dinesh.LAPTOP-OO5HEB93\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\transformers\utils\import_utils.py", line 2302, in __getattr__
+    module = self._get_module(self._class_to_module[name])
+  File "C:\Users\Dinesh.LAPTOP-OO5HEB93\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\transformers\utils\import_utils.py", line 2332, in _get_module
+    raise e
+  File "C:\Users\Dinesh.LAPTOP-OO5HEB93\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\transformers\utils\import_utils.py", line 2330, in _get_module
+    return importlib.import_module("." + module_name, self.__name__)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\importlib\__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "C:\Users\Dinesh.LAPTOP-OO5HEB93\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\transformers\modeling_tf_utils.py", line 38, in <module>
+    from .activations_tf import get_tf_activation
+  File "C:\Users\Dinesh.LAPTOP-OO5HEB93\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\transformers\activations_tf.py", line 24, in <module>
+    import keras
+  File "C:\Users\Dinesh.LAPTOP-OO5HEB93\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\keras\__init__.py", line 21, in <module>
+    from keras import models
+  File "C:\Users\Dinesh.LAPTOP-OO5HEB93\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\keras\models\__init__.py", line 18, in <module>
+    from keras.engine.functional import Functional
+  File "C:\Users\Dinesh.LAPTOP-OO5HEB93\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\keras\engine\functional.py", line 24, in <module>
+    import tensorflow.compat.v2 as tf
+ModuleNotFoundError: No module named 'tensorflow.compat'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Dinesh.LAPTOP-OO5HEB93\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\transformers\utils\import_utils.py", line 2302, in __getattr__
+    module = self._get_module(self._class_to_module[name])
+  File "C:\Users\Dinesh.LAPTOP-OO5HEB93\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\transformers\utils\import_utils.py", line 2332, in _get_module
+    raise e
+  File "C:\Users\Dinesh.LAPTOP-OO5HEB93\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\transformers\utils\import_utils.py", line 2330, in _get_module
+    return importlib.import_module("." + module_name, self.__name__)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\importlib\__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "C:\Users\Dinesh.LAPTOP-OO5HEB93\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\transformers\integrations\integration_utils.py", line 60, in <module>
+    from .. import TFPreTrainedModel
+  File "C:\Users\Dinesh.LAPTOP-OO5HEB93\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\transformers\utils\import_utils.py", line 2305, in __getattr__
+    raise ModuleNotFoundError(
+ModuleNotFoundError: Could not import module 'TFPreTrainedModel'. Are this object's requirements defined correctly?
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Dinesh.LAPTOP-OO5HEB93\Downloads\resume_scanner\backend\app.py", line 8, in <module>
+    from matcher import match_resume_to_jd
+  File "C:\Users\Dinesh.LAPTOP-OO5HEB93\Downloads\resume_scanner\backend\matcher.py", line 2, in <module>
+    from sentence_transformers import SentenceTransformer
+  File "C:\Users\Dinesh.LAPTOP-OO5HEB93\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\sentence_transformers\__init__.py", line 15, in <module>
+    from sentence_transformers.cross_encoder import (
+  File "C:\Users\Dinesh.LAPTOP-OO5HEB93\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\sentence_transformers\cross_encoder\__init__.py", line 3, in <module>
+    from .CrossEncoder import CrossEncoder
+  File "C:\Users\Dinesh.LAPTOP-OO5HEB93\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\sentence_transformers\cross_encoder\CrossEncoder.py", line 29, in <module>
+    from sentence_transformers.cross_encoder.fit_mixin import FitMixin
+  File "C:\Users\Dinesh.LAPTOP-OO5HEB93\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\sentence_transformers\cross_encoder\fit_mixin.py", line 19, in <module>
+    from sentence_transformers.datasets.NoDuplicatesDataLoader import NoDuplicatesDataLoader
+  File "C:\Users\Dinesh.LAPTOP-OO5HEB93\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\sentence_transformers\datasets\__init__.py", line 13, in <module>
+    from .ParallelSentencesDataset import ParallelSentencesDataset
+  File "C:\Users\Dinesh.LAPTOP-OO5HEB93\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\sentence_transformers\datasets\ParallelSentencesDataset.py", line 19, in <module>
+    from sentence_transformers import SentenceTransformer
+  File "C:\Users\Dinesh.LAPTOP-OO5HEB93\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\sentence_transformers\SentenceTransformer.py", line 36, in <module>
+    from sentence_transformers.model_card import SentenceTransformerModelCardData, generate_model_card
+  File "C:\Users\Dinesh.LAPTOP-OO5HEB93\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\sentence_transformers\model_card.py", line 26, in <module>
+    from transformers.integrations import CodeCarbonCallback
+  File "C:\Users\Dinesh.LAPTOP-OO5HEB93\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\transformers\utils\import_utils.py", line 2305, in __getattr__
+    raise ModuleNotFoundError(
+ModuleNotFoundError: Could not import module 'CodeCarbonCallback'. Are this object's requirements defined correctly?

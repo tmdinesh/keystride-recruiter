@@ -1,0 +1,53 @@
+ROLE: Entwickler:in Backend (m/w/d) in Köln oder Umgebung
+SOURCE: Arbeitnow
+URL: https://www.arbeitnow.com/jobs/companies/diepartments/entwicklerin-backend-in-koln-oder-umgebung-cologne-179799
+
+Hi, wir sind diePartments.
+
+Unser Team besteht aus erfahrenen Entwicklern. Wir bewegen uns gerne abseits ausgetretener Pfade und whlen fr jedes Projekt gemeinsam einen passenden Technologie-Stack.
+
+Wir arbeiten egenverantwortlich im Team, tauschen uns aus und lernen gemeinsam Neues.
+
+Fr unsere Kunden entwickeln wir anspruchsvolle Anwendungen, die wir langjhrig betreuen und weiterentwickeln, wodurch unsere Projekte einen Produktentwicklungs-Charakter haben. Das Vorgehen ist hierbei strukturiert aber pragmatisch genug das es uns nicht einengt und meist mit genug "Luft" geplant.
+
+Aufgaben
+
+Wir suchen eine:n Backend-Entwickler:in mit Lust, spannende digitale Produkte fr unsere Kunden umzusetzen.
+
+Wir arbeiten aktuell mit Node.js/TypeScript (Serverless Functions, NestJS), PHP Symfony/API Platform, Pimcore und dem headless E-Commerce-System Vendure. Unsere Anwendungen basieren meist auf Microservices, asynchronen Prozessen und Message-Queues  teils mit Protokollen wie MQTT, WebPush oder Server-sent Events.
+
+Qualitt ist uns wichtig: Wir entwickeln testgetrieben mit Unit- und Akzeptanztests, in einer Umgebung aus Docker, Kubernetes, GitLab, NPM/Webpack und KI-Agenten. CI/CD, DevOps und Infrastructure as Code sind fest in unseren agilen Prozessen verankert. In internen Projekten probieren wir neue Technologien aus und setzen eigene Ideen um.
+
+Qualifikation
+
+Du hast Erfahrung mit NodeJS / Nest und/oder PHP / Symfony und vielleicht auch Pimcore oder Vendure, arbeitest eigenverantwortlich mit Freude an deiner Arbeit und bist gern Teil eines erfahrenen Teams aus tollen Menschen, mit denen Du Dich austauschen und kreativ austoben kannst, um gemeinsam die beste Lsung zu finden.
+
+Benefits
+
+Flexible Arbeitszeiten & unbrokratische Urlaubsregelung
+
+Hybrid, der beste Mix aus Home-Office und Office
+
+Private Nutzung von Arbeitsgerten
+
+Teilzeit mglich
+
+Entspannter Umgang in einem tollen Team mit flachen Hierarchien
+
+fachlicher Austausch auf hohem Niveau
+
+Inhaber und Grnder sind selbst erfahrene Entwickler
+
+Lichtdurchflutetes Loft-Bro in historischem Backsteingebude in Kln-Ehrenfeld
+
+Kostenlose Getrnke und soviel Kaffee wie du brauchst
+
+Neugierig? Wir auch :)
+
+Schreib uns, damit wir uns kennenlernen knnen. Wir freuen uns
+
+auf deine Nachricht und ber kreativen Austausch!
+
+Find more 
+English Speaking Jobs in Germany
+ on Arbeitnow

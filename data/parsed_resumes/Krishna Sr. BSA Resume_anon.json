@@ -1,0 +1,31 @@
+{
+  "resume_id": "Krishna Sr. BSA Resume_anon",
+  "skills": [
+    "angular",
+    "html",
+    "css",
+    "bootstrap",
+    "rest",
+    "soap",
+    "sql",
+    "mysql",
+    "oracle",
+    "aws",
+    "jira",
+    "confluence",
+    "postman"
+  ],
+  "education": {
+    "degree": "2. Sun Life Financial, MASKED_LOCATION, MA\tBusiness Analyst/ Scrum Master\t\t\tJul 2015-Feb 2017",
+    "year": "2015"
+  },
+  "experience_years": 8,
+  "projects": [
+    "Produced visual models for the application using UML MS Visio to create Use Cases, Sequence Diagrams.",
+    "Collaborated and negotiated with stakeholders in defining project scope boundaries.",
+    "Snap Deal, Hyderabad\t\t\tBusiness Analyst\t\t\t\tNov 2010- Jan 2012",
+    "The project was to enhance the Business Process of an E-commerce website with single-click Payment Processing System.",
+    "Interacted with users and stakeholders to identify business needs, worked with SME\u2019s of diverse groups to gain detailed knowledge of E-commerce shopping."
+  ],
+  "certifications": []
+}

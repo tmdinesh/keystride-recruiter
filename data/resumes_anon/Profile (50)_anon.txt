@@ -1,0 +1,67 @@
+ 
+ 
+Contact
+www.linkedin.com/in/vladimir-
+ivanov-8a73b811 (LinkedIn)
+MASKED_NAME
+Financial Modeling
+Python (Programming Language)
+MASKED_NAMEHonors-Awards
+Winner of Brilliant.org Game Theory
+Competition "Hunger Games"
+MASKED_NAME Machine Learning Engineer
+MASKED_LOCATION, MASKED_LOCATION
+Summary
+Enjoy studying the world with the tools available -- common sense
+and machine learning. 
+Experience
+NVIDIA
+Sr. Machine Learning Engineer
+October 2016 - Present (3 years 6 months)
+Use machine learning and computer vision to improve recommendations for
+the 80
+million users of GeForce Experience
+Focus on human like behavior in video games: image perception, navigation
+and game
+playing
+Built data verification system for hardware and software tested daily on
+hundreds of
+machines
+Avicomp Services
+Machine Learning Engineer
+2016 - 2016 (less than a year)
+MASKED_LOCATION, MASKED_LOCATION
+Implemented Deep Learning models for Natural Language Processing
+Ivanov
+Trader
+2010 - 2016 (6 years)
+MASKED_LOCATION, MASKED_LOCATION
+Made 30% of trades for a top-5 futures contract in MASKED_LOCATION for a number of
+trading days
+Implemented trading systems in MASKED_LOCATION, OCaml, MASKED_NAME time series using MASKED_NAME and R
+MASKED_NAME trading servers
+ 
+Page 1 of 2
+
+ 
+ 
+Barclays
+Trader
+December 2009 - October 2010 (11 months)
+MASKED_LOCATION, MASKED_LOCATION
+Priced interest rate swaps, cross-currency swaps and FX forwards
+Managed FX fixings and positions
+Provided pricing to Reuters, MASKED_LOCATION and MASKED_LOCATION platforms
+Education
+Lomonosov Moscow State University (MSU)
+BSc, Physics · (2004 - 2008)
+New Economic School
+Master's degree, Economics · (2008 - 2009)
+Stanford University
+Stanford Center for Professional Development, Computer Science · (2016)
+Lomonosov Moscow State University (MSU)
+Language Interpretation and Translation · (2005 - 2007)
+Higher School of Economics
+Summer School, Bayesian Deep Learning · (2018 - 2018)
+ 
+Page 2 of 2

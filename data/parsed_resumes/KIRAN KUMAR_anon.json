@@ -1,0 +1,33 @@
+{
+  "resume_id": "KIRAN KUMAR_anon",
+  "skills": [
+    "java",
+    "javascript",
+    "scala",
+    "angular",
+    "html",
+    "css",
+    "bootstrap",
+    "jquery",
+    "node",
+    "spring",
+    "rest",
+    "soap",
+    "sql",
+    "mysql",
+    "mongodb",
+    "oracle",
+    "aws",
+    "jenkins",
+    "apache",
+    "git",
+    "jira"
+  ],
+  "education": {
+    "degree": "Unknown",
+    "year": "Unknown"
+  },
+  "experience_years": 8,
+  "projects": [],
+  "certifications": []
+}

@@ -1,0 +1,38 @@
+{
+  "resume_id": "vikas java_anon",
+  "skills": [
+    "java",
+    "javascript",
+    "react",
+    "angular",
+    "html",
+    "css",
+    "sass",
+    "bootstrap",
+    "jquery",
+    "node",
+    "spring",
+    "express",
+    "rest",
+    "soap",
+    "sql",
+    "mysql",
+    "mongodb",
+    "oracle",
+    "aws",
+    "kubernetes",
+    "jenkins",
+    "linux",
+    "apache",
+    "git",
+    "jira",
+    "confluence"
+  ],
+  "education": {
+    "degree": "Unknown",
+    "year": "Unknown"
+  },
+  "experience_years": 8,
+  "projects": [],
+  "certifications": []
+}

@@ -1,0 +1,46 @@
+{
+  "resume_id": "Varun_anon",
+  "skills": [
+    "python",
+    "java",
+    "javascript",
+    "ruby",
+    "r",
+    "react",
+    "angular",
+    "html",
+    "css",
+    "sass",
+    "bootstrap",
+    "jquery",
+    "node",
+    "spring",
+    "express",
+    "rails",
+    "rest",
+    "soap",
+    "sql",
+    "postgresql",
+    "mysql",
+    "mongodb",
+    "oracle",
+    "aws",
+    "jenkins",
+    "apache",
+    "git",
+    "jira"
+  ],
+  "education": {
+    "degree": "Unknown",
+    "year": "Unknown"
+  },
+  "experience_years": 8,
+  "projects": [
+    "Extensively worked in front end JavaScript frameworks like AngularJS, BackboneJS and ReactJS etc.",
+    "Involved in the design, development and implementation of a Client front end using JavaSwing.",
+    "Designed multiple screens using various Swing Components and layouts.",
+    "Involved in writing application level code to interact with APIs, Web Services using JSON.",
+    "Involved in developing API\u2019s and REST\t API proxy using APIGEE edge and for sending mobile notifications."
+  ],
+  "certifications": []
+}

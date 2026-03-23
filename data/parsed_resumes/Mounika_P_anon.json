@@ -1,0 +1,37 @@
+{
+  "resume_id": "Mounika_P_anon",
+  "skills": [
+    "python",
+    "java",
+    "javascript",
+    "typescript",
+    "swift",
+    "scala",
+    "react",
+    "angular",
+    "html",
+    "css",
+    "sass",
+    "bootstrap",
+    "jquery",
+    "node",
+    "asp.net",
+    "soap",
+    "sql",
+    "mysql",
+    "mongodb",
+    "oracle",
+    "aws",
+    "apache",
+    "spark",
+    "tableau",
+    "git"
+  ],
+  "education": {
+    "degree": "Bachelor in Computer Science",
+    "year": "Unknown"
+  },
+  "experience_years": 8,
+  "projects": [],
+  "certifications": []
+}

@@ -1,0 +1,45 @@
+ROLE: UI Engineer
+SOURCE: Synthetic
+URL: N/A
+COMPANY: CoreStack Technologies
+
+============================================================
+  UI ENGINEER
+  CoreStack Technologies
+============================================================
+
+ABOUT THE COMPANY
+----------------------------------------
+CoreStack Technologies is a leading innovator in enterprise software solutions, specializing in cloud management and optimization platforms. We empower businesses to streamline their operations and achieve digital transformation through cutting-edge technology. Our focus is on delivering scalable, secure, and user-friendly products to a global client base.
+
+RESPONSIBILITIES
+----------------------------------------
+  • Design, develop, and maintain responsive and high-performance user interfaces using Angular.
+  • Collaborate with product managers, UX/UI designers, and backend engineers to define and implement new features and functionalities.
+  • Write clean, maintainable, and well-documented code adhering to best practices and coding standards.
+  • Troubleshoot, debug, and optimize existing applications to improve performance, scalability, and user experience.
+  • Ensure cross-browser compatibility and responsiveness across various devices and screen sizes.
+
+REQUIRED SKILLS (Must-Have)
+----------------------------------------
+  ✅ Angular (v10+ preferred)
+  ✅ TypeScript
+  ✅ HTML5, CSS3 (with preprocessors like Sass/Less)
+  ✅ State management libraries (e.g., NgRx, RxJS)
+  ✅ Integration with RESTful APIs
+  ✅ Proficiency with Git and modern version control workflows
+
+PREFERRED SKILLS (Nice-to-Have)
+----------------------------------------
+  ⭐ Experience with UI testing frameworks (e.g., Jasmine, Karma, Cypress)
+  ⭐ Understanding of cloud platforms (AWS, Azure, or GCP)
+  ⭐ Familiarity with Agile/Scrum development methodologies
+
+EXPERIENCE & EDUCATION
+----------------------------------------
+  Experience: 2-4 years
+  Education:  Bachelor's degree in Computer Science or a related technical field
+
+COMPENSATION
+----------------------------------------
+  $85,000 - $125,000 USD

@@ -1,0 +1,29 @@
+{
+  "resume_id": "linsam _ CakeResume_anon",
+  "skills": [
+    "python",
+    "r",
+    "fastapi",
+    "django",
+    "redis",
+    "docker",
+    "nginx",
+    "machine learning",
+    "keras",
+    "pandas",
+    "numpy"
+  ],
+  "education": {
+    "degree": "National Dong Hwa University, Master of Science,\u00a0 Sep. 2017.",
+    "year": "2017"
+  },
+  "experience_years": 4,
+  "projects": [
+    "FinMind Open data Api",
+    "Open source \u00d5nancial data, more than 50 dataset,",
+    "provide Api. Automatic update daily by docker swarm,",
+    "distributed queue system rabbitmq and celery ( 8 cloud",
+    "800 stars on github."
+  ],
+  "certifications": []
+}

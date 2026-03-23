@@ -1,0 +1,121 @@
+MASKED_NAME Analyst
+Bellevue, WA
+Business/Systems Analyst professional with 12 years of experience with excellent communication and analytical skills, Solution Development, requirements gathering in managing projects using Agile methodologies.
+Ability to coordinate and lead cross-functional teams towards task completion.
+Ability to translate high-level business wants and needs into technical requirements including workflow diagrams.
+Participate in system design sessions and provide input to architecture
+Experience designing and authoring agile user stories based on functional analysis of epic stories and assisting developers in implementation of features.
+Knowledge of software development cycle, testing, and agile release train methodologies.
+Working with scrum master for sprint/Iteration planning activities.
+Document design specifications and other system-related information.
+Provide technical guidance or support for the development or troubleshooting of systems.
+Develop, document and revise system design procedures and review test procedures, and quality standards.
+Provide advice on project costs, design concepts, or design changes.
+Effective leadership, analytical, technical writing, and verbal communication skills.
+Experience in project management managing multiple teams concurrently.
+Technical Skills:
+Agile (Rally, TDP, JIRA),Waterfall, SDLC, QA
+MS Excel, MASKED_NAME, MASKED_NAME, Microsoft SharePoint
+Requisite Pro, Rational Quality Manager, HP QC
+Working knowledge of using SQL queries
+Design of Micro services.
+MASKED_NAME files (JSON) for APIs
+Knowledge of APIGEE proxy APIs implementation
+Work Experience
+System Analyst –I Net Soft Inc(Sept 2017 to till date)
+Project Description
+Client:T-Mobile Bellevue Washington ((Sep 2017 to till date)
+Communication product: Provide a new product to the T-Mobile for Business marketplace to support interactive unified communications and collaboration via app-based real-time voice and text, conference calling, and fax including support of a cloud PBX without the traditional barriers of the GSM network. 
+Contribution 
+As a system analyst of digital technology and development team, is responsible for:
+Communicate with client to understand the business / system specific requirements.
+Facilitating meetings for the team. This includes, preparing, moderation &post processing
+Interacting with Product owner
+Understanding the requirements and creating user stories
+Interacting with team and have them understand the functionality
+Write user stories, acceptance criteria
+Participate in grooming sessions and actively think for all requirements and capture those
+MASKED_NAME files (JSON) for APIs and communicate to development team
+MASKED_NAME end points in POSTMAN tool.
+Able to work and coordinate with other teams’ scrum master to discuss any conflicts from product integration perspective
+Helping with the release planning.
+Being familiar with the team’s work
+Keeping in touch with every stakeholder regularly
+Helping the team to continuously improve their process.
+Reflecting issues to the team through observation from outside of the team
+Business Analyst/Consultant - Tech Mahindra (Feb 2011 to Sept 2017)
+Project Description  
+Client: AT&T
+AT&T Collaborate: Middletown New Jersey ((May 2015 to Sept 2017)
+AT&T Collaborate™ offers a flexible hosted voice solution that gives you the traditional voice features you need and the collaboration tools you want, regardless of your work location.
+Contribution 
+As a system engineer of Ordering team, is responsible for  
+Perform System Engineer(T2) activities for Trinity/Hosted Communications (AT&T Collaborate) for ordering system. 
+Provide e2e knowledge and expertise, support T3 SEs in researching, tracking and writing requirement and user stories for GUI, database, and backend processing as well as Application Interface Documents.
+Support defect management process by providing support for e2e data flow and provide support for Developers and System Testers in defect calls and chats.
+Work with product team and user experience team to drive the best user experience and flow. 
+Provide impact assessments and estimates. 
+Partner with extended team members from e2e teams to ensure successful deployment.
+Requirement Analysis 
+Writing User Stories since the project is on Agile 
+Review Application Design documents and test cases to ensure developers and system testers have clear understanding of expectations  
+Designing of Architecture  
+Reviews on other Impacted applications and interfaces 
+System/Application Testing Support 
+Deployment & Support activities 
+Project Description
+Client: AT&T Noida, MASKED_LOCATION ((Feb 2014 to Apr 2015)
+GCP DPPCO: Supporting AT&T’s Target Architecture systems (Sales Express and SSDF) & FMO applications ADOPT (Design, Price, Propose, Contract, and MASKED_NAME) applications to support Sales teams in the FMO and PMO ordering flows.
+Contribution 
+As a system engineer of Sales team, is responsible for  
+Owning inventory management API
+Work with product team and user experience team to drive the best user experience and requirements analysis for Inventory API
+Writing User Stories for any code/test impact on the API   
+Designing and creation of Application Interface Document (AID) and High Level Document (HLD)  
+Reviews on other Impacted applications and interfaces 
+Support defect management process by providing support for data flow and provide support for developers and system testers in defect calls and chats.
+Project Description
+Client: AT&T, MASKED_LOCATION, MASKED_LOCATION ((Dec 2012 to Feb 2014)
+AT&T Business Manager: ABM is the front end ordering system which provides the BellSouth Large and Small Business groups a straightforward, functional interface to support the creation and modification of regional service orders.  This system provides a graphical user interface with backup data retrieval and flexible window presentation.  It provides Service Order negotiation and generation functionality for Small Business and Large Business customers in the MASKED_LOCATION region.
+Contribution
+Part of front end team, was responsible for:
+Attending the business requirement meetings.
+Creating High Level Document and Impact analysis
+Communicate with client to understand the business / system specific requirements.
+Coordinates with Client, Product Owner, Designers, Architects, and Technical Leads through regular grooming sessions to define user stories and API requirements for each technical project including acceptance criteria and traceability
+Performs impact and dependency analysis with Tech Leads and engineering stakeholders 
+Reviews on other Impacted applications and interfaces
+Participation in daily scrum meeting.
+Providing requirement and its traceability with business requirement (Waterfall Project))  
+System/Application Testing Support
+Deployment & Support activities
+Project Manager -Netwing Technologies – MASKED_LOCATION MASKED_LOCATION 
+May 2009 to Dec 2010
+Contribution
+Overall Project management by understanding the client’s requirements, delivering the quality results and reports, meeting the client deadlines in the required cost estimated.
+Analysis of the requirements provided by client
+Preparation of Business Requirement Document
+Developing project plan
+Helping the team in all technical aspects
+Preparation of RFP documents
+Vendor Management
+Senior Engineer - Independent Mobile Infrastructure Ltd, MASKED_LOCATION MASKED_LOCATION 
+Dec 2007 to Feb 2009
+Contribution
+This essential position at the state level is a key determinant of where IMIL erects its MASKED_LOCATION towers and reports to the Head of Circle Operations, with functional reporting to the GM - Operations Planning at HQ. Administrative reporting is to the Circle Head.
+As a senior engineer, was responsible for 
+Technical data analysis
+Project plan tracking with inputs from all stakeholders.
+Updating existing & planned database
+Team management
+RF Engineer – Nutek India Ltd, (Feb 2006 to Dec 20007)
+Client: Ericsson, Gurugram India
+Contribution
+GSM RF Performance maintenance, stats monitoring with trouble shooting and optimization on GSM-1800 and Frequency planning of new sites.
+As a team member, was responsible for 
+Drive Test including voice and data for GSM
+Optimize system performance based on field test data and reports
+Updating existing & planned database
+Perform frequency/carrier planning, traffic and capacity analysis
+Education
+Bachelor of Engineering – 2005 batch

@@ -1,0 +1,37 @@
+{
+  "resume_id": "sairithvik alla_anon",
+  "skills": [
+    "python",
+    "java",
+    "javascript",
+    "ruby",
+    "angular",
+    "html",
+    "css",
+    "sass",
+    "bootstrap",
+    "jquery",
+    "node",
+    "django",
+    "spring",
+    "rails",
+    "asp.net",
+    "rest",
+    "soap",
+    "sql",
+    "mysql",
+    "mongodb",
+    "oracle",
+    "aws",
+    "apache",
+    "git",
+    "jira"
+  ],
+  "education": {
+    "degree": "Unknown",
+    "year": "Unknown"
+  },
+  "experience_years": 7,
+  "projects": [],
+  "certifications": []
+}

@@ -1,0 +1,104 @@
+PROFESSIONAL SUMMARY:
+MASKED_ADDRESS working across various domains like Finance and IT.
+Extensive experience in business analysis, business processes, business process flows, gathering requirements, development and enhancement of healthcare and finance applications.
+Expertise in conducting Joint Application Development (JAD), MASKED_NAME, project meetings, reviews and walkthroughs acting as a liaison between application vendors, technical, managerial teams at various levels. 
+Hands on experience working on SDLC methodologies such as Waterfall, Agile (SCRUM) and RUP (Rational Unified Process) in MASKED_LOCATION development.
+Proficient in creating UML Diagrams and Data Analysis by writing Complex SQL Queries on various databases such as Oracle, MS SQL servers, and Ms Access.  
+Extensive experience of documenting system blueprints, business process workflows, used cases using MS Visio and Rational Rose. 
+Excellent Documentation skills to generate Business Requirement Document (BRD), Functional Specification Document (FSD), and Risk Analysis.
+Expertise in delivering Time-Sensitive information ensuring the scope & requirements of the project and tracing the deliverables from initiation to implementation via Requirement Traceability Matrix (RTM). 
+Experience in performing GAP Analysis, identifying the variances between ‘as-Is’ and ‘To-Be’ business process. Performed incremental improvements to the ‘To-Be’ process by employing Business refinement procedures. 
+Experience in developing various screen mockups and wireframes using MASKED_NAME and Dreamweaver. 
+Experience in creating Test-Cases, Test-Plans, and have hands-on experience on different QA Testing Methods including Data Testing, Integration Testing, Functional Testing, System Testing, MASKED_NAME, and UAT.
+Experience in managing testing life cycle – Prioritizing Defects and resolving Critical Issues, reporting, maintaining the issue log.  
+Strong Technical background, Analytical and Problem Solving skills, Multi-Tasking abilities, with proven experience in utilizing people and process knowledge to assist enterprises in making critical decisions.
+Technical Competencies/ Working Knowledge:
+WORK EXPERIENCE: 
+Wells Fargo Bank. 									MASKED_LOCATION, MASKED_LOCATION
+Business Analyst - Finance							(May 2017 – Present)
+The project I was involved in built data driven strategies to support business operations. The goals were to produce models, create forecasts reports, and predict trends to assist senior management for more effective decision making on consumer loan products. Often leads responsibilities related to capturing action items and tracking milestones in term project environments.
+Roles and Responsibilities as Business Analyst:
+Actively involved in conduction reviews, walkthroughs and facilitating in requirement definition workshops (JAD) to get consensus on business requirements for the project.
+Analyzed and assessed client requests to create professional, presentation quality deliverables in the form of dashboards & reports to provide additional insight to any critical indicators.
+Models using Developed UML MS Visio.
+Presented the business process workflows to business stakeholders
+Tasked with coordination, tracking and updating project issues risks and change controls that impacted the business unit.
+MASKED_NAME reports for management, as well writing SQL queries on MS SQL server MASKED_NAME and upload reports on SharePoint Site.
+Documented API, XML and BATCH file transfer process requirements to maintain information.
+MASKED_NAME term to ensure requirements are translated into executable Test Plans and strategies.
+Alignment of scope, process, skill set and KPI with market expectations.
+Development of account data (Financial/metrics) benchmark tools.
+The Vanguard Group. 							 Wayne, PA
+Senior Business Analyst									(July 2016 – April 2017)
+As a part of this project, provided support Investment Management Group and their organizational objectives and imperatives by effectively participating in defining their future state business technology solutions via leading business projects that have people, process and technology implications.
+Roles and Responsibilities as Business Analyst:
+ Identified, contributed and lead business process models, process flows and service/operating models. Identified challenges in current state business processes and provided input into potential future state solutions.
+Captured, documented, and validated business requirements for business and technology initiatives.
+Understood industry best practices and brought them to Vanguard’s investment processes and technology.
+Lead prioritization and execution of technology enhancements and maintenance activities with business and IT project managers.
+Partnered with product managers and project managers to plan, schedule and coordinate business activities and deliver business technology projects. Facilitated meetings and presentations with project clients, management team, and/or department, as needed.
+Partnered with project manager to define, plan, coordinate, and implement project plans for larger technology initiatives.
+Reviewed and inspected business test strategies and plans to ensure quality and coverage. Served as liaison between business and IT to validate test results and addressed communication and prioritization of test issues.
+Identified business production post-certification test scenarios and assist with production verification.
+Lead change management and training activities via developing training documentation and executed user training.
+Lead in post implementation reviews as required. Lead post project production support and ensured issue resolution.
+Participated in special projects and performed other duties as assigned.
+Selux corporation. 									Highland, MASKED_LOCATION
+Business Analyst									(July 2015 – June 2016)
+As part of this project, worked directly with the Project Manager, Configuration Specialist, Development, and the customer to gather and document all business and technical requirements.  Direct-to-consumer and business-to-business pricing strategies including the impact of gross margin of volume/Price/cost variables.
+Roles and Responsibilities as Business Analyst:
+Gathered requirements and prepared business requirement documents (BRD).
+Translated BRD into functional specifications and test plans. Closely coordinated with both business users and developers for arriving at a mutually acceptable solution.
+Conducted JAD sessions to define the project and to reduce the time frame required to complete deliverables.
+Performed requirement analysis including data analysis, risk analysis, impact analysis and gap analysis.
+Interacted with customers to develop an existing product.
+Developed and maintained all operational and technical flows using MASKED_NAME and Power point.
+Used MS Office Suite for creating use cases, workflows and sequence. Diagrams according to UML methodology thus defining the Data Process Models.
+Defined Use cases from requirements and helped convert them into software specifications.
+Aided in workflow analysis and process design.
+Analyzed business requirements from Black Box Testing perspective, business process and system architecture/design.
+Maintained Requirement Traceability Matrix (RTM) and requirement documents using Rational DOORS.
+Performed Regression Testing and created test scenarios for User Acceptance Testing (UAT).
+Maintained the requirement documents and other project related documents using MS SharePoint.
+MASKED_LOCATION documents for change requests and implemented procedures for testing changes.
+Accenture Services Pvt. Ltd. 						MASKED_LOCATION, MASKED_LOCATION
+Business Analyst – Finance					                      (April 2010 – Mar 2012)	
+Roles and Responsibilities as Business Analyst:
+Analyzed clients systems and business processes
+Successfully implemented modules (Customer file, Accounting, Additional agreements for accounts, MASKED_NAME, Overdrafts, Values management, Reports and print forms, User rights) of Temenos T24 banking solution system for business banking.
+Led a distributed team of 3 analysts and 5 developers during Temenos T24 implementation project.
+Acting as team leader, evaluated priorities of requirements, risks and associated costs, coordinated process of development and testing with stakeholders.
+Handled large amounts of data and built a tool to streamline the process of giving and changing user rights in MASKED_LOCATION T24 system.
+Designed, agreed and executed User Acceptance Testing (UAT) for customized modules.
+Supported the integration and migration terms during data mapping and roll-out stage for 1 branch.
+Worked as a member of L2/L3 support teams for enhancement activities and incident management for 7 branches.
+Established a Business Analysis methodology around the Rational Unified Process.
+Researched the various steps in the lifecycle and then constructed the system in a way that the high risk customers would be easily identified and monitored.
+Streamlined clerical work processes and mapped then into the new system.
+Developed project plans and managed project scope.
+Assisted in building a Business Analysis Process Model using Rational Rose and MASKED_NAME.
+Performed extensive Requirement analysis and developed use cases and workflows.
+Developed requirement reports for day to day servicing needs using Rational SODA.
+Designed and developed Use Cases, Activity Diagrams and Sequence Diagrams.
+Played a key role in the planning, User Accepted Testing, and Implementation of system enhancements and conversions
+Micro Village Communications. 					MASKED_LOCATION, MASKED_LOCATION
+Junior Business Analyst								(Sep 2008– Mar 2010)
+Roles and Responsibilities as Business Analyst:
+Analyzed operating results, explanation of variances, trend and year to date reporting.
+Prepared revenue accrual and reversing general ledger journal entries.
+Prepared and managed annual budget, quarterly outlooks and monthly ad-hoc financial reporting.
+Analyzed operating results, explanation of variances, trend and year to date reporting.
+Prepared revenue accrual and reversing general ledger journal entries.
+Conducted walkthroughs with the different department heads to have a deeper understanding of the requirements.
+Analyzed and documented the business requirements and generated reports for the Manager.
+Created the software development plan.
+Developed flow diagrams for Business process of the company using.
+Use Case Modeling using Rational Rose for preparing Functional Requirements documents
+Functioned as the primary liaison between the business, operations, and technical groups throughout the project cycle.
+EDUCATION
+Master of Science: Finance								           	May 2015
+Manhattan Ville College - Purchase, NY
+Master of Business Administration						           		July 2008
+Jawaharlal Nehru Technological University - Hyderabad, MASKED_LOCATION
+Bachelor of Commerce								             	  	April 2005
+Sri Krishnadevaraya University - Anantapur, MASKED_LOCATION

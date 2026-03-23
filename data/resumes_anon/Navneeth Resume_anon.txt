@@ -1,0 +1,166 @@
+MASKED_NAME
+project/ program manager (PMP® (1851131)
+Contact: MASKED_PHONE*202
+Email: MASKED_EMAIL
+Summary:
+PMP certified with 17+ years of rich experience in areas of software development, Product Management, I.T. Infrastructure management, production support with over 10 years in of extensive experience in Project/Program Management in Telecommunication, IT, Services, Banking and Manufacturing Organizations.
+With a development and Agile background, provided advanced project management and support for ongoing programs and for projects across numerous functional and technical units with the company. On each program/project, I had been responsible for ensuring that the program is delivered on time, within budget, at a high level of quality
+Extensive experience of successfully managing large scale and fairly complex projects performing management functions such as Project planning, Budget Confirmation, Project Estimation, scheduling, organizing, reporting, risk management and tracking processes, ensuring the feasibility of each project.
+Proven skills in all phases of PMBOK managing all the phases, design, development, testing and implementation of projects.
+Managed medium to large sized project with team size up to forty members and a budget of five million dollars. A natural team player managed using Waterfall, MASKED_NAME and Agile project management methodologies. 
+Managed projects from kick-off through closure including phases – requirements gathering & analysis, design, configure & build, test & deploy. Possess good knowledge of DevOps.
+Proficient in Global Service Delivery and client services management with extensive experience on Remote Infrastructure Management 
+Managed cloud based projects for SAAS, PAAS & IAAS on Private and Public Clouds, Virtualization of Servers and compute storage.
+Possess very strong analytical, troubleshooting, problem solving, critical and logical skills
+Excellent Co-ordination & Communication skills with ability to collaborate with all the stakeholders throughout the project life cycle.
+Strong professional with demonstrated ability to work effectively with individuals at all levels and in all functional areas.
+MASKED_NAME oriented and analytical, experienced in requirements gathering
+Highly motivated and success driven on independent and team assignments
+Extensive experience of management/development of enterprise applications using MASKED_NAME/J2EE technologies. Also have OCP (Oracle Certified Professional) and SCJP (Sun Certified MASKED_NAME).
+Experience of Database Architect/DBA experience using MASKED_NAME, DB2, MySQL & MS SQL. Also experienced in Oracle E-Business and PeopleSoft with partnership projects
+Experience in ITIL Service Delivery Using HP Service Center, Data Center Migration Business Intelligence and Data warehouse.
+Strong analytical skills to derive business requirements.
+Excellent Co-ordination & Communication skills with ability to collaborate with all the stakeholders throughout the project life cycle.
+Proven track record of scope, time, cost & risk and procurement management of medium to large sized projects/program. 
+Strong professional with demonstrated ability to work effectively with individuals at all levels and in all functional areas.
+Have successfully used Waterfall, MASKED_NAME, and Agile methods for project deliverables.
+Technical Experience
+Education:
+Bachelors of Technology from MASKED_LOCATION, MASKED_LOCATION.
+Certifications:
+Project Management Institute www.pmi.org USA 
+Project Management Professional (PMP®) (1851131)
+OCP (Oracle Certified Professional)
+SCJP (Sun Certified MASKED_NAME)
+Professional EXPERIENCE:
+GE Health Care, MASKED_LOCATION, IL                                                	                 Oct 15 – Till Date
+Project Manager
+GE Healthcare is building a hospital operations management solution referred to as a “Wall of Analytics” (WOA). MASKED_NAME is a compilation of wall display hardware and software applications that digest data, creates analytics, and displays highly valued information coming from healthcare operations source systems. Akin to a “Command Center,” executive and non-executive personnel will be presented key operational information on displays.  The information will be in the form of an analytic (key metric / performance indicators) that will be monitored for decision making and taking action.
+Working closely with the business, gathering the requirement and helping team to convert these requirements to specs.
+Collaborate with application support and IT team to provide technical expertise in various support issues and administer all contracts in assistance with production team and recommend improvements to all management processes.
+Ensuring timely execution of projects, maintaining the risk register and work with the team to minimizing the impact arising due to risks.
+Coordinating with teams to design/build the key infrastructure components, developing migration plan, infrastructure upgrade plan, vendor management, communication plan.
+Participate in project steering committee and escalate all issues to management for resolutions and prepare reports for all projects and maintain and update all portfolios for clients.
+Drafting business case analyses, reports, whitepapers, and other complex documents, mapping complex business processes and communicating process solutions to the client
+Improved product experience by collaborating with engineering to develop fixes requested by customers in the most cost effective manner, got DevOps implemented to reduce the time to market
+Managed regular scrum planning, daily stand-ups with the team to track the tasks, sprint reviews, sprint retrospective
+Evaluate team strengths and weaknesses, and identify action plans for improvement to bring the best out of the team.
+Authored Computer Validation Report, which involved extensive Research and interaction with SME’s and our clients.
+Tools: Microsoft Project Server, Microsoft Office, MASKED_NAME, SharePoint, MASKED_NAME/J2EE, MASKED_NAME, Scrum/Agile
+Rockwell Automation, Inc. MASKED_LOCATION, WI                                                       Apr 15 – Oct 15
+Project Manager
+Implementation of SDE (Secure Development Environment) to protect the IP of the organization at eight development centers globally, involves coordinating with various stakeholders to build the key infrastructure components, developing Migration plan,  infrastructure upgrade, Vendor management, Communication plan for offshore and onsite teams.
+Responsibility including Project Status reporting to client team on Project progress, risks, issues, project spend, Estimate to Complete, Cost and MASKED_NAME variances.
+It is a multi-geography project - working with team in MASKED_LOCATION, MASKED_LOCATION, MASKED_LOCATION and MASKED_LOCATION.
+Monitoring staff & team performances. Producing stage plans, highlight reports, risk logs, requests for change etc.
+Responsibility also includes working with Change Control board for Change Management activities.
+Responsibility also included tracking Project resource management, Cost management and reporting financial performance measures of the project.
+Creating Detail Project Plans for estimates above 500 hours of effort. Effort less than 500 hours was required to provide Milestone plans as per Contractual agreements. Project planning, tracking and reporting was performed using Microsoft Project
+Successfully transitioned the knowledge and development effort to outsourced partner.  Setup the expectations/processes with the partner on delivering/maintaining the Store Easy product line going forward.
+Monitoring, tracking projects with respect to day to day delivery, demand forecasts, time over-runs to ensure timely execution of projects.
+Maintaining the Risk registers and working with the team to minimizing the impact arising due to risks. 
+Managed regular scrum planning, daily stand-ups with the team to track the tasks, sprint reviews, sprint retrospective
+Evaluate team strengths and weaknesses, and identify action plans for improvement to bring the best out of the team.
+Authored Computer Validation Report, which involved extensive Research and interaction with SME’s and our clients.
+Conducted individual and group (JAD) sessions with business and technical groups.
+Gathered user/business requirements by meeting with business users.
+Prepared the Requirement Specification Document using Requisite Pro for the application based on business user information.
+Prepared functional documents based on the business requirements.
+Developed business use cases textually. Created and maintained project matrices like Traceability Matrices.
+Used Agile Methodology and created User Stories to facilitate development of software functionalities, user interfaces, and system architecture. 
+Authored Business Requirements Document [BRD] with project teams. Extracted, discussed, and refined business requirements from business users and SME’s.
+Managed Projects and People effectively to meet organizational goals.
+Managed regular scrum planning (2 weeks sprints), daily stand-ups with the team to track the tasks, sprint reviews, sprint retrospective
+Communicated and documented project status and strategic recommendations to product group, clients, team members and senior management on a regular basis; escalated issues accordingly via the appropriate channels. Managed Risks and planned for mitigation
+Worked closely with end-users to gather report requirements and ensured proper testing/validation.
+Supported user acceptance testing on production data loading and new features.
+Created scheduled ad hoc reports, and developed various reports. 
+Technologies: Microsoft Project Server, Microsoft Office, MASKED_NAME, SharePoint
+GEICO Inc., MASKED_LOCATION, MASKED_LOCATION                                                                          Nov 14 – Apr 15
+Program Manager
+Managed a project team for Office 365 Migration from Exchange 2010 using MASKED_NAME. Produce appropriate documentation to facilitate deliverables, including plans, detailed reviews and presentations.  Review documentation produced by stakeholders in the process to ensure quality and comprehensiveness.
+Monitoring, tracking projects, demand forecasts, time over-runs to ensure timely execution of projects
+Adherence and implementation of Incident, Problem and Change Management
+Maintaining the risk registers and working with the team to minimizing the impact arising due to risks.
+Defined and implemented the quality audit, mentoring project members to enable them to perform their activities effectively and improve the quality
+Keeping track of changes through change control board meetings and looking at key performance areas
+Worked with the vendors to drive excellence and mitigate risks.
+Handed over to offshore team to complete the migration after successful pre-pilot and pilot phase
+Set and Implement the process for updating CMDB and later involved in planning to automate it
+Account scorecard, weekly exceptions, Utilization report, Productivity report
+Publish account review deck with all metrics and exceptions reports.
+Developed business use cases textually. Created and maintained project matrices like Traceability Matrices.
+Worked at different stages of the Software Development Life Cycle (SDLC) with business users, developers, and stakeholders
+Used Agile Methodology and created User Stories to facilitate development of software functionalities, user interfaces, and system architecture. 
+Authored Business Requirements Document [BRD] with project teams. Extracted, discussed, and refined business requirements from business users and SME’s.
+Communicated and documented project status and strategic recommendations to product group, clients, team members and senior management on a regular basis; escalated issues accordingly via the appropriate channels. 
+Technologies: Microsoft Project, Microsoft Office, MASKED_NAME, SharePoint
+Hewlett Packard, MASKED_LOCATION/MASKED_LOCATION                 	    	           	                    Oct 07 – Nov 14
+Technical Program Manager
+Responsibilities:
+Worked on three products i.e. MASKED_NAME, AIO and Instance Generator in Information Management portfolio of Hewlett Packard. These stacks were developed on J2EE/Oracle/Microsoft/Open Source technologies.
+Responsible to define/prioritize the program backlog and to develop the user acceptance criteria
+Transitioned the teams from waterfall to Agile/Scrum methodology. Creating the backlogs, prioritizing the tasks and participating in Sprints/Scrums.
+Worked with teams for requirements gathering/analysis/design for features development and defect fixing.
+Maintained the risk register and work with the team to mitigate the risks on ongoing basis. Kept track of budget, forecasting based on EVM/Variances.
+Regular Interactions with clients, sales and other stakeholders to ensure deliverables are properly defined and roadmap is created to meet project deadlines.
+Drafting business case analyses, reports, whitepapers, and other complex documents, mapping complex business processes and communicating process solutions to the client
+Improved product experience by collaborating with engineering to develop fixes requested by customers in the most cost effective manner, got DevOps implemented to reduce the time to market
+Worked with various Data warehouse tools i.e. Informatica to make AIO compatible with the tools and generate cartridges.
+Managed cloud based projects for MASKED_NAME and IAAS based cloud models on private and public Clouds, Virtualization of servers and compute storage as a part of transformation process, integration of products with Amazon AWS.
+Worked with information architects and creative groups in detailing the wireframes and depicting GUI design.
+Assisted the database development team in data modeling, data structure and data table layouts required for consolidation of incongruent databases.
+Recruit and mentor team members, developing teams and leaders to ensure that business value is maximized and IT goals are achieved.
+Participated in program management working sessions and supporting program managers in executing day-to-day project management activities
+Worked with QA refining Regression testing. 
+Worked closely with end-users to gather report requirements and ensured proper testing/validation.
+Supported user acceptance testing on production data loading and new features.
+Prepared functional documents based on the business requirements.
+Worked with the team for performance optimization, deployment, support and customization planning of the product.
+Involved in deriving the functional requirements from the business requirements for cusomers using Business Intelligence using SSIS/SSAS/SSRS.
+Technologies: MASKED_NAME/J2EE, Data Modeling, Agile, MASKED_NAME, MASKED_NAME, MASKED_NAME, MySQL, MASKED_LOCATION, MASKED_LOCATION, DB2, Microsoft Project, SSIS, SSRS, SSAS, MASKED_NAME, Spring, Hadoop, MASKED_LOCATION, UNIX, Nagios, Git, Jenkins, puppet
+HCL (IT Project Manager) NJ, MASKED_LOCATION					       June 06 – Oct 07
+Disaster Recovery/Data Centre Migration (Client - Autodesk Inc.)
+Worked on a five phase migration including more than 250 servers. Critical success factors required a seamless transition with minimum downtime to ensure records and tools were available most of the time.  Implemented a plan that included data replication, leased transition servers and stabilization support. It involved complete Helpdesk, Services Desk, Data Center and networking tracks plan and implementation of same with consultation of all team leads/managers and ensured completion of same with end to end ownership.
+Responsibilities:
+Managing project deliverables and attending Sr. MASKED_NAME review calls.
+Defining KPIs, SLA Dashboards along with client stakeholders and creating framework to publish Dashboard results in weekly/monthly meetings.
+Scheduling for  migration events
+Active involvement in shortlisting appropriate team members and work with hiring group to bring them on board with help of robust training plan.
+Guiding and mentoring team for technical work inputs and continuous innovations.
+Motivating team towards value centricity model 
+Achieved high scalability and fault-tolerance using prototyping
+HCL (Sr. Consultant /Database Administrator)			                  June 04 –June 06
+(Clients - Renesas Technology America, Armstrong Inc., Deutsche Bank, Mindspeed Inc.)
+Managed team involved in transitioning the project from onsite to offshore.
+Responsibilities:
+Worked with the teams onsite as well as offshore involved in transitioning
+Involved in the setting up the delivery centers in MASKED_LOCATION.
+MASKED_NAME and tested storage strategies and disaster-recovery plan for large manufacturing company's operational database, delivering solution that guaranteed recovery performance and high availability.
+Managed a data-integration project for financial services firm that consolidated information from accounting applications, third-party market data and internal equities/fixed income applications.
+Regular Interaction with business requirement/sales team for continuous evaluation of milestones achieved.
+Developed features for enhancement and change request.
+Enhanced end users' understanding of database systems by conducting pre-implementation workshops, delivering group and individual training sessions and creating user-friendly training materials.
+MASKED_LOCATION project schedule, minutes and progress reports.
+Identified and managed conflict resolution between stakeholders. 
+Technologies: Oracle, AIX, HP-UX, MASKED_NAME, SQL Server, Microsoft Exchange
+Systems America (Consultant/DBA)					    Dec2000 – May 04
+Project: Mokume (eOperations)
+The system consists of distinct and modular products, which work together in tandem to allow a global business to achieve operational efficiencies throughout the enterprise. The system automates the entire business and improves operational efficiency throughout the enterprise. System provides MASKED_LOCATION, Scheduling, Tracking, On-time order delivery & management, Enhanced inventory management, Performance analysis and forecasting.
+Project- Virtual University (VU 1.0): 
+VU is a web based Knowledge Management Solution that can be used to create a comprehensive online learning environment. 
+Project: MASKED_NAME
+A critical application intended to be used to manage various application interfaces.  
+Responsibilities:
+Part of team involved in requirement analysis, coding, testing.
+Interacted with business requirement team.
+Created technical documents.
+Fixed issues, performance of the application.
+Environment: MASKED_NAME, J2EE, Oracle 8.x/8i/9i, Windows NT/2000, SOLARIS 2.6
+PurlSoft Solutions (Analyst/Developer)	      				    Jan 98 – Nov 2000
+Worked on development of products for Time Report and MASKED_NAME. The products framework focuses on e-transforming time reporting and scheduling and integrating them to an e-business organization to improve the efficiency.
+Responsibilities: 
+Design and development of Time Report and MASKED_NAME. 
+Created the work flow framework.
+MASKED_NAME screens
+Environment: MASKED_NAME, VB, Oracle 8i, Solaris, MASKED_LOCATION

@@ -1,0 +1,29 @@
+{
+  "resume_id": "Rajesh_k_anon",
+  "skills": [
+    "javascript",
+    "php",
+    "angular",
+    "html",
+    "css",
+    "bootstrap",
+    "jquery",
+    "laravel",
+    "rest",
+    "soap",
+    "postgresql",
+    "mysql",
+    "sqlite",
+    "aws",
+    "nginx",
+    "apache",
+    "git"
+  ],
+  "education": {
+    "degree": "Bachelor's Degree in Electronics and communications in engineering",
+    "year": "Unknown"
+  },
+  "experience_years": 20,
+  "projects": [],
+  "certifications": []
+}

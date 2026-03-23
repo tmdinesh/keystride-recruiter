@@ -1,0 +1,52 @@
+MASKED_NAME
+MASKED_LOCATION, TX 75201
+MASKED_EMAIL - MASKED_PHONE
+WORK EXPERIENCE
+Sr Software Engineer
+Cloud4c Services Pvt Ltd -
+2014-08 - 2017-07
+Cloud4C is a global Managed cloud services provider with presence in 15+ countries across Globe. Worked as Sr Software Engineer involved in two full life cycle projects and couple of maintenance projects.
+Developed on-demand cloud computing platform which allows the individuals, companies to create and manage cloud instance. MASKED_NAME, Vmware API's to automate the cloud instance operations. Developed scheduler module which will allow users to schedule the instance up-time on daily basis.
+Gathered requirements from the product owners and managed team- worked as a team coordinator, along with development.
+Developed Virtual machine utilization and status report and notify concerned department in predefined time intervals.
+Developed monthly, quarterly and annual Net & Gross sales reports and scheduled cron jobs to generate and list them in the application.
+Developed internal portal using QRADAR rest api's. This will provide ease of access to team in tracking and filtering the offenses/events based on domain. Provide customer specific offense summary report.
+Developed customer specific asset management portal using Laravel framework.
+Collaborated with the team by involving in daily scrum calls and weekly meetings in agile environment.
+Performing Code Review and handling SVN code repository.
+Windows, MASKED_LOCATION, PHP, MySql, PostgreSql, Apache, Codeigniter, Laravel, MASKED_NAME, JavaScript, HTML, Bootstrap, JQuery, AngularJS, Angular 2, GIT
+Sr Software Engineer
+Expos2 Inc	-	Talent, OR -
+2011-04 - 2014-08
+Expos2 Inc provides virtual expos management platform. Expos2 began producing physical conventions over 25 years ago and focused this industry experience on its virtual platform in 2005. Worked as Sr Software Engineer involved in two full life cycle projects and migration 20 years old physical expos application to PHP based application.
+MASKED_NAME and involved in all stages of physical and virtual expos software's.
+Key role in live event support and resolving issues during the live event
+Integrated Adobe Connect and WebEx meeting APIs.
+MASKED_NAME for the MASKED_NAME and flex based UI versions of virtual expos.
+MASKED_NAME migrating complete application to Codeigniter Framework to make code more manageable and ease to develop new modules.
+Worked for existing customer support management application developed using symfony.
+Written PHPUnit scripts for testing quality of programs.
+Integrated PayPal and Google Checkout payment gateways.
+Acted as build master for our MASKED_NAME repository management, and managed bi-weekly scrums which include tracking each team member's tasks.
+MASKED_NAME OSx, PHP, MySql, Apache, Codeigniter, Symfony, HTML, CSS, JavaScript, MASKED_NAME2006-11 - 2011-03
+Open Origin is software service providing company. Worked as Software Engineer and Involved in two full life cycle software development.
+Developed web based Oil marketing platform, which is marketplace to buy and sell heating oil in real-time.
+Involved in Function Requirements preparation and gathering requirements from business team members.
+Developed online shopping application by customizing the open source OSCommerce application.
+Integrated Authorize.net payment gateway.
+Deployed and customized WordPress application.
+Developed various automation jobs in PHP, to pull data from different systems and dump them into MYSQL database which allows the further analysis of data and generate reports.
+Windows, PHP, MySql, Apache, Wordpress, OSCommerce, HTML, CSS, JavaScript
+EDUCATION
+Bachelor's Degree in Electronics and communications in engineering
+MASKED_NAME
+2005
+SKILLS
+CSS, HTML, JavaScript, MySql, PHP
+ADDITIONAL INFORMATION
+Technical Skills
+Programming PHP 4, PHP 5, PHP 7, MASKED_NAME, Shell Scripting Databases MySQL, MASKED_LOCATION, MASKED_LOCATION, SQLite
+MVC Frameworks & CMS PHP: CodeIgniter, Laravel, YII, MASKED_NAME, CakePHP, Wordpress, Drupal, Smarty Template Engine.
+Web Technologies HTML, CSS, JavaScript, MASKED_NAME, AJAX, JQuery, Bootstrap, NGINX, UNIX, MASKED_LOCATION, XML, YAML, MASKED_LOCATION, Web Services (SOAP, RESTful)
+IDE's & Version Control Systems NetBeans, Sublime, Eclipse; SVC, CVS, GIT, GitHub Payment & Third Party API's authorize.net, Google Checkout, Paypal
+Operating Systems & MASKED_NAME, Macintosh, UNIX, MASKED_NAME, MASKED_NAME, AWS

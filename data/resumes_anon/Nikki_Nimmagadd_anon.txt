@@ -1,0 +1,100 @@
+Nikita
+MASKED_EMAIL
+MASKED_PHONE
+SUMMARY
+Proven success as a Business analyst for more than 7 years, providing a well-balanced understanding of business relationships, project requirements, and technical solutions.
+Experience in all phases of the GUIDe, Software development life cycle (SDLC) and worked with various methodologies like Waterfall, Agile RUP and Agile SCRUM.
+Experienced in gathering and designing Business Requirements Documents (BRD), Business Design, Business logic and translating them into Functional Requirements Documents (FRD) to meet strategic goals. Hands on experience in Quality Assurance (QA), IT Project Coordinating, by directing and monitoring the requirements, framework conditions and progress of short-term/Long term IT projects.
+Expertise in developing QA Test plans, Test scripts and Test cases. Strong experience in conducting and leading the User Acceptance Testing (UAT). 
+Hands on experience in project planning and work breakdown structures (WBS).
+Experienced in Performed Root Cause Analysis for a identifying event(s) causes, revealing problems and solving them.
+Participated in Code Reviews and proposed software solutions.
+Comprehensive knowledge in Business Process Modeling, Rational Unified Process (RUP) and Unified Modeling Language (UML), and Data Mapping including Process Flow Diagrams, Sequence Diagrams, Activity Diagrams, Use Case Diagrams.
+Experienced in conducting Project Readiness Review after performing verifications and validations to the test scripts for any releases.
+Extensively involved in Market Research, Feasibility Studies, System Analysis, Risk Analysis and GAP Analysis.
+Experienced in Handling complicated Change Requests (MASKED_LOCATION) and User Conflicts.
+Expertise in broad range of technologies, including business process tools such as Microsoft Project, MS Excel, MS Access, MASKED_NAME, technical assessment tools, and bug tracking tool like Track It and Quality Centre.
+Experienced in working with Order management Systems, CRM and Content Management.
+Experienced in testing oracle interfaces developing test scripts for Custom Trial Balance Report, MASKED_NAME report, MASKED_NAME, Purchase Invoice and MASKED_NAME conversion process for R12. Tested reconciliation of AP, AR extraction using summary and detail reports.
+Highly motivated team player with excellent Interpersonal and Customer Relational Skills, Proven Communication, Organizational, Analytical, Presentation Skills, and MASKED_NAME.
+TECHNICAL SKILLS
+Languages and Tools: UML, Rational Rose, Requisite Pro, ASP. Net, Rational Clear Case, Rational Clear Quest, MS Project, MASKED_NAME, MS Office Suite, MS Excel, MASKED_NAME, SQL, MASKED_NAME, J2EE, C#, MASKED_LOCATION, C++, Mercury Quality Center (QC), MASKED_NAME, SharePoint, Track It, Axure, MASKED_NAME, MASKED_NAME.
+BPM (Business Process Management) tools and Methodologies: MASKED_NAME, Clear Quest
+Methodologies: SDLC, Waterfall, Agile, RUP, SCRUM
+Databases: Oracle, MS SQL Server, MS Access
+CSM Certified
+EDUCATION
+Master’s in Business Administration
+Virginia International University, MASKED_LOCATION, MASKED_LOCATION (GPA: 3.89)   
+WORK EXPERIENCE
+Business Systems Analyst                                                                                               Sep 2015 – Present      
+Client: MASKED_NAME
+MASKED_ADDRESS
+Responsible for requirements gathering, analysis, detailed process flow design, user acceptance testing and rollout of new & modified feature functionality deployed on the E-commerce website applications.
+Created and maintained Work MASKED_NAME (WBS) that contributes to the development of working schedules.
+Facilitated and participated in Joint Application Development (JAD) sessions for requirements gathering, resolving open issues and change requests. 
+Actively participated in Gap Analysis in order to review the performance.
+Prepared graphical depictions of Use Cases, Use Case Diagrams, Activity Diagrams, Sequence Diagrams, Process Flow Diagrams and creation of technical design (UI screen) using MASKED_NAME.
+Worked with a team of developers, system engineers and database analysts to produce test cases and scripts for the systems functional, operations, and benchmark tests.
+Created Test Plans, Test Strategies, and Test Metrics/Logs for System Acceptance Testing, RTM in HP Quality Center 11.0. Tested, wrote and executed test plans. 
+Generated bug reports in MASKED_LOCATION, Bug tracking tool.
+Accumulated system requirements from various departments through surveys and interviews.  
+Involved in prioritizing the defects and writing business requirements to resolve them. 
+Actively led requirements analysis and program design, and took a pro-active approach to meet scalability and extensibility in implementing projects.
+Performed IV &V using manual validations.
+Experience in gathering requirements for the CF9, Oracle forms and BO applications.
+Lead the help desk for the newly built applications and enhancements.
+Assisted PM with project planning, estimating, budgeting, resource allocation, collaboration and time capture using Clarity Project Manager.
+Performed Gap analysis by identifying existing technologies, documenting the enhancements to meet the end state requirements.
+Involved in mapping the data elements from the User Interface to the Database and help identify the gaps.
+Expertise in using Data Modeling Tools for creating Logical and Physical Data Models. Understood   existing data model and documented the performance of the system. 
+Created and maintained project documentation.
+Supported PM by mentoring specific projects in application of the GUIDE methodology based on the SDLC, especially from project management, requirements and architecture perspectives.
+Worked with development and testing teams to accomplish timely release objectives. 
+Business Analyst                                                                                                       Jul2013 - Aug 2015
+Client: Cognosante
+MASKED_ADDRESS
+Gathered and validated requirements from the client, resulting in detailed business rules, functional & non functional requirements based on interactions with process owners, stakeholders and represented them in RTM using Rational Rose and created process design using RUP methodology.
+Created Test Plans, Test Strategies, and Test Metrics/Logs for System Acceptance Testing in HP Quality Center. Tested, wrote and executed test plans. MASKED_NAME between IT and business community.
+MASKED_NAME WBS for the project and contributed to the development of working schedules for estimating, prior to proposal date, which sufficiently illustrated the sequence of work activities and contract time.
+Performed requirement MASKED_NAME and participated in Joint Application Development (JAD) sessions for requirements gathering, resolving open issues and change requests.
+Improved and extended internal test frameworks and automated tests performing exploratory product testing and white box testing.
+Worked closely with developers and requirements analysts, program managers, and subject matter experts in the design and implementation of quality features.
+Performed verification and validation procedures to the test results and produced the Production Readiness Review for all the environments before the release occurs.
+Tracked the development of project reports through risk and issue logs, Evaluation and Findings Reports, Analysis and MASKED_NAME reports and presentations.
+Created and maintained EFRs for helpdesk audit and database server audit reports on the monthly basis.
+Reviewed and analyzed existing policies, procedures, and systems, and advised on their impact and made recommendations.
+Analyzed problems to identify significant factors, gathered pertinent data, and recommended solutions.
+Created and maintained IV & V process documents in the share point.
+Analyzed the findings and made recommendations to improve efficiency to senior leadership representatives.
+Developed methodologies to identify the training and operational capability gaps from Field Teams, Staff, Services, Coalition, and others.
+Worked in conjunction with the client and staff from three different contractors to plan, coordinate and conduct a variety of programmatic reviews.
+Assisted PM in developing Vision and Mission statements as an initial step in strategic planning 
+process.
+Assisted PM in conducting comprehensive portfolio reviews periodically, evaluating overall performance in light of client goals, requirements and corrections.
+Prepared graphical depictions of Use Cases, Use Case Diagrams, Activity Diagrams, Sequence Diagrams, Process Flow Diagrams and creation of Technical Design (UI screen) using Microsoft Visio for representing all the Supply Chain Management function and the MASKED_LOCATION. 
+Business Systems Analyst 				                                      Sep 2011 - Jul 2013
+Client: IBM 
+MASKED_ADDRESS
+Gathered and validated requirements from the client, resulting in detailed business rules, functional & nonfunctional requirements based on interactions with process owners, stakeholders
+Created and maintained product backlog/acceptance criteria and facilitated sprints. 
+Used agile methodologies to support the delivery of quality products that meet client specifications with minimum defects, on-time, and on-budget.
+Acted as a scrum facilitator for sprints and operated in agile methodology.
+Conducted JAD sessions with management, SME, vendors, users and other stakeholders for open and pending issues.
+Extensive experience in modeling the AS IS and TO BE ecommerce solutions.
+Experienced with elicitation techniques like interviewing the client, preparing questionnaires, brainstorming, focus groups, cost/benefit analysis and risk analysis
+Used MS Visio for Process modeling, Process mapping and Business Process flow diagrams.
+Performed manual front-end testing to check all functionalities of different modules. 
+Developed strategies with Quality Assurance group to implement Test Cases in HP ALM for stress testing and UAT. 
+Experienced in data ware housing projects
+Involved in Test Planning, Test Preparation, Test Execution, Issue Resolution and Report Generation to assure that all aspects of a Project are in MASKED_LOCATION with the Business Requirements. And also involved in MASKED_LOCATION of the Data Analysis according to the need of the clients. 
+Performed job of contact point for all stakeholders (business, legal, compliance, development). 
+Trained the future users to coordinate their activities vis-à-vis CORD system rather than ARW.
+Assisted the SA to document all custom and system modification after the SCR’s were satisfactorily solved. 
+Created and managed project templates, use case project templates, requirement types and traceability relationships and managed the concurrence of the parties involved with respect to the evaluation criterion.
+Prepared graphical depictions of Use Cases, and Mock up MASKED_NAME using Microsoft Visio. 
+Successfully conducted UAT among various projects. 
+MASKED_NAME between the business users and technical team 
+Used the Data Stage Designer to develop processes for extracting, cleansing, transforms, integrating and loading data into data warehouse database.
+MASKED_LOCATION project documentation in the tools like SharePoint.
+Environment: JSP, MASKED_NAME, HTML, XML, HPQC, Clear Case, Clear Quest, MASKED_LOCATION, MASKED_LOCATION, Rational Rose, MS Office, MASKED_NAME, RUP, UML, Agile, MS Project, SQL, MS Access, MS Excel and MASKED_NAME.

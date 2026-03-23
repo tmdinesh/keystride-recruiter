@@ -1,0 +1,26 @@
+{
+  "resume_id": "Ashok Jayakumar - PM_anon",
+  "skills": [
+    "java",
+    "r",
+    "html",
+    "sql"
+  ],
+  "education": {
+    "degree": "Bachelor of Engineering in Computer Science and Engineering from Anna University, MASKED_LOCATION, MASKED_LOCATION.",
+    "year": "Unknown"
+  },
+  "experience_years": 12,
+  "projects": [
+    "Lead the enhancements and support of the logistics portfolio of applications. Perform internal IT audits for Sarbanes-Oxley compliance check of all work done by the team. Analyze areas of improvements and start initiatives to implement them. Develop work breakdown structures and implementation schedules.",
+    "Proposed and materialized a project to automate user access to different applications.",
+    "Designed and implemented a new version of sales reports to be displayed on mobile devices with a one-page layout.",
+    "Convinced the incumbent vendor to integrate new applications with the existing user access system instead of creating a new one.",
+    "Achieved 50% system efficiency by redesigning an events recycling system."
+  ],
+  "certifications": [
+    "Perform the role of a Scrum Master for projects executed using Agile methodologies.",
+    "Scrum Master for a geographically distributed team.",
+    "Worked with the Scrum Master of a new development project to maintain the Scrum artifacts."
+  ]
+}

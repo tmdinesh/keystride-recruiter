@@ -1,0 +1,159 @@
+Tarun						   
+Sr. Business System Analyst
+PROFESSIONAL EXPERTISE
+Extensive experience of over MASKED_ADDRESS, specializing in MASKED_LOCATION, Financial Services and Investment sectors.
+A thorough understanding of the various SDLC methodologies and hands on experience working in Waterfall, Waterfall/Scrum/Kanban Hybrid and Agile-Scrum Framework with an in-depth knowledge of other industry standard SDLC methodologies such as Scrum, Kanban and SAFe 4.0. 
+Possess core leadership skills including communication, decision making, problem solving, empirical analysis, critical thinking, documentation, visual modeling, facilitation, elicitation, stakeholder analysis, issue management, conflict resolution, team building, and resource management.
+Adept at coordinating with Stakeholders, Subject Matter Experts (SMEs) and End Users to understand, analyze and gain consensus of requirements through a techniques such Prototyping, Brainstorming, Interviews, Focus Groups, Joint Application Design (JAD), Joint Application Review (JAR) sessions.
+Experience in preparing Project Deliverables such as Project Charter, Work MASKED_NAME, Business Case, Business Requirement Document (BRD), Functional Specifications Document (FSD).
+Proficient in Requirement Traceability Matrix (RTM), Data Mapping Document, RACI Matrix, Test Plans, Test Scenarios, Test Cases, Test Procedures and Test Reports.
+Deft in prototyping wireframes, mock-ups and illustrating diagrams i.e. UML Use Case diagrams, Activity diagrams, Sequence diagrams, business process flowcharts and Data Modeling diagrams such as Conceptual, Logical, Physical, and Entity Relationship diagrams.
+Expertise in performing GAP Analysis, SWOT Analysis, Cost Benefit Analysis, Risk Analysis, Feasibility Study, Fishbone Analysis, Tree Hypothesis, Benchmarking and Root-Cause Analysis 
+Adept at creating User Stories and slicing Epics into Features and using Horizontal and Vertical slices based on business value and mentored best practices of TDD, BDD and ATDD. 
+Proficient in the writing user stories according to INVEST criteria and sub tasks by following SMART criterion, Acceptance criteria, Definition of Done , and Definition of Ready in Scrum 
+Facilitated Sprint ceremonies for each sprint in Scrum Methodology as the Scrum Master and maintained Scrum artifacts such as impediments list, sprint burn-down, sprint burn-up charts.
+Experienced in Estimation techniques such as Planning poker, Bucket system, Relative Mass Valuation, T-shirt sizing; and MASKED_NAME techniques such as MASKED_NAME, Star Fish, MASKED_NAME 
+Adept in writing and executing CRUD operations and complex SQL queries including complex joins, unions, grouping, aggregation, nested sub queries, triggers & stored procedures
+Knowledge of Data Warehouse architectures - Hub and spoke, federated, independent, centralized, along with ETL process, Star/Snowflake Schema, Facts, Dimensions, OLAP, MOLAP,  HOLAP
+Adept in analytics & reporting tools like Power BI, MASKED_LOCATION, and IBM Cognos for OLAP
+In-depth knowledge of Hadoop Ecosystem including HDFS, YARN and libraries such as MASKED_NAME, Pig, MASKED_LOCATION, MASKED_LOCATION, MASKED_LOCATION, Flume, Storm, MASKED_NAME, Ambari, Mahout, and MASKED_NAME. 
+In-depth knowledge of SOA architecture , web services, APIs - SOAP, REST, XML, and MASKED_NAME.
+Experienced in supervising Black-box Testing, System Testing and User Acceptance Testing (UAT).
+Knowledge of various regulatory acts such as PCIDSS, PCISSC, PA-DSS, Bank Secrecy Act, MASKED_NAME Frank wall Street Reform and Consumer Act, MASKED_NAME, Basel I,II,III FINCEN, OFAC.
+Knowledge of Credit card Transaction Life Cycle, Card Member Management Life Cycle, Credit Card Dispute Resolution Process, Anti Money Laundering process and various AML modules such as KYC, SAR, and CTR.
+CERTIFICATIONS 
+Scrum Master Accredited Certification (SMAC) Authorized Certification Id: MASKED_PHONE1
+Google Analytics Certified Professional Reference ID: MASKED_PHONE
+Certified lean Six Sigma White Belt- Management and Strategy Institute
+TECHNICAL SKILLS
+WORK EXPERIENCE
+Sr. Business System Analyst	                                                                        July 2016 – January MASKED_ADDRESS, O’ Fallon, MO
+ Centralized Credit Card Disputes Management System 
+The project was to re-engineer company’s credit card disputes management system. It involved the design and development of performance analysis of dispute resolution including integration of cross functional platforms. The project also involved enhancement of the application for correspondence delivery.
+RESPONSIBILITIES:
+Elicited requirements from stakeholders and end clients applying Interviews and JAD techniques to gather functional and non functional requirements and reach consensus.
+Assisted Project Manager in overall scheduling, budgeting and creating Work Breakdown Structure
+Involved in Business Process Reengineering (BPR) by conducting Process modeling, SWOT analysis, Document analysis, and GAP analysis to analyze As-Is business process and the To-Be system. 
+Captured the high-level requirements in MASKED_LOCATION requirements management tool and integrated the same with MASKED_NAME and JIRA to trace epics and user stories to high level requirements
+Assisted Product Owner and tech lead in defining MASKED_NAME, DOD and DOR
+MASKED_NAME teams in creating wireframes, mock-up screens and created use case diagrams, use case documentation, sequence diagrams, data flow diagrams and Activity diagrams for To-Be system, and Reporting UIs using MASKED_LOCATION, MASKED_NAME
+Conducted business analysis workshops with the disputes management team to create a current state process model in MASKED_LOCATION VISIO depicting the process inefficiencies
+Lead business requirement meetings to create the future state process model in MASKED_LOCATION VISIO
+Created dispute resolution process workflow diagrams using BPMN 2.0 in MS MASKED_NAME
+Gathered API requirements to integrate MCCGUI, Alta’s documentation and translation console, GCM, Wisdom, Genesis with enterprise Global Disputes Management enterprise platform. 
+Worked with the Development team to integrate Alta’s REST API. MCCGUI’s Rest API and Genesis’s Rest API with the Global Disputes Manager and assisted in API Documentation
+Executed CRUD operations and other SQL queries such as joins, nested queries and functions
+MASKED_NAME testing team in testing REST and SOAP web services in MASKED_LOCATION
+Collaborated with SME’s, Compliance and Risk Experts to ensure exception handling, risk mitigation and compliances were implemented, documented and satisfied implementing marketing strategies 
+Collaborated with GCM Admins and Opsnet team to manage card holders’ and merchant’s claims
+MASKED_NAME team in the design and development of new user experience & user interface specifications
+Involved in writing test cases & test plans to test the vertical slice of functionality being delivered
+Assisted the tester in understanding various test scenarios, test scripts and underlying test steps to be followed in order to test the functionality end-to-end.
+Effectively utilized HP ALM, HP QC to manage test plans, test scenarios, test scripts and test execution.
+Supported and maintained Requirement Traceability Matrix (RTM) for requirement analysis and design
+Partnered with QA team to ensure appropriate test coverage at various release levels
+Tested the whole systems and workflows of settlements in Issuer, MASKED_NAME and merchant prospective
+MASKED_NAME, UAT, A/B testing, and wrote test cases in MASKED_NAME’s format on Cucumber 
+Generated Reports and KPI through analytics for management to inspect, adapt and measure ROI
+Coached teams to write effective user stories using INVEST criteria, and tasks using SMART criteria, defined Acceptance criterions, and Definition of Done. Used various Estimation, Planning and MASKED_NAME techniques such as MASKED_NAME and Star Fish, ORID, and MASKED_NAME.
+Prepared and delivered effective communications regarding progress and status for both internal and external stakeholders 
+Participated in Scrum ceremonies like Sprint Planning, MASKED_NAME standups, MASKED_NAME, retrospectives and Backlog Grooming sessions 
+Assisted Product owner and development team in prioritizing, slicing, and estimating the user stories
+Coached scrum team to be self-organizing, transparent, cross-functional and accountable 
+Participated in various scrum ceremonies and workshops of other team to improve the learning of my team and organized multiple team building activities to improve the team’s collaboration & productivity 
+Encouraged teams to participate in other code reviews and involve in collective learning process
+Proactively assisted scum master in identifying and removing blockers and impediments while identifying dependencies and mitigating risks and issues in sprints
+Documented all workshops, retrospective and other ceremonies notes in Confluence for transparency
+Intensive knowledge of Credit card MASKED_NAME, Card holder management MASKED_NAME and Credit card dispute resolution process and Understanding of PCISSC, PCIDSS and PA-DSS.
+ENVIRONMENT: Agile Transformation- Accompa, Confluence, JIRA (v-6.6.3), Cucumber(v-2.3.0), MS Visio(v-15.0), MS PowerPoint, MS Excel, MASKED_NAME (v-3.4), OPSnet, MCCGUI, GCM, Wisdom, MASKED_LOCATION, HPQC, MASKED_NAME, MASKED_NAME, MASKED_NAME, MASKED_NAME, Oracle DB, PL/SQL
+Business System Analyst                                                                                             January 2015 – June 2016          
+Bank of America, Pennington, NJ
+Project 1: AML Case Management
+The project was to enhance and re-platform our bank’s Anti Money Laundering case manager. The new system fully integrates modules like Know Your Customer (KYC), Suspicious Activity Report (SAR), sanction screening and Currency transaction reporting (CTR). The new case manager made it easier for financial analysts to work on each case and file the reports to various compliance institutions.
+RESPONSIBILITIES:
+Knowledge of the Dodd-Frank Act, the Bank Secrecy Act, Financial Crimes Enforcement Network (FinCEN), Office of Foreign Asset Controls (OFAC) regulations, and MASKED_NAME.
+Assisted in identifying documents needed to develop Suspicious Activity Reports (SAR) as required by Bank Secrecy Act and FINCEN for generating reports and red flags to report fraud, money laundering, patterns and inconsistencies activities.
+Integrated third party services for enhanced due diligence (EDD) on our on-boarding customers, companies and ID documentations using REST API.
+Assisted data analyst in data mapping for Enhanced Due Diligence and Further Due Diligence. 
+Integrated Red Hat open source Business Process Management (BPM) Suit that combines Business Process Management as well as Business Rule Management.
+MASKED_NAME works data platform (HDP) to migrate to Hadoop ecosystem and integrated MASKED_NAME with Storm and HBase for real time analytics on streaming data.
+Identified various data sources that have to be stored in the Hadoop Distributed File System (HDFS). Used Sqoop to transfer data between HDFS and structured data sources and Flume to load streaming data.
+Used SQL queries to retrieve data such as Select queries nested queries, Joins, Unions etc.
+Used JIRA for issue tracking, user story management and requirement traceability.
+Involved in testing activities such as test plans, test scenarios, test cases and test scripts.
+Assisted with User Acceptance Testing, developing and maintaining quality procedures, and ensured that appropriate documentation is in place. 
+Project 2: RapidPAY 
+The project involved enhancing the payment gateway by using a technology-driven approach with upgraded security measures for online banking. The key features included in this project were the secured authorization processing and enhancement of automatic bill pay options. I was also engaged in creating interfaces for Bank of America involving FOREX Module.
+RESPONSIBILITIES:
+Organized and Conducted the JAD sessions for requirement elicitation.
+Elicited demands from the stakeholders and analyzed them for consistency, completeness and flexibility.
+Interacted with SME’s, asking detailed questions and carefully recording the requirements in a format that can be understood and reviewed by both technical and business people.
+Communicated effectively across company contacts and clients including the regulatory and compliance authority, internal team about the project requirements, schedules and launches.
+Created user stories and defined acceptance criteria as conditions to satisfy the user story.
+Assisted the project manager to construct a project plan that included Project Schedules, MASKED_LOCATION tracking, and MASKED_NAME minutes using MASKED_NAME.
+Developed use case documentation and business process modeling and flows using MASKED_NAME.
+Created Wireframes and mock ups using MASKED_NAME and MASKED_NAME, to effectively communicate the user-interface platforms to the system development teams.
+Responsible for identifying and documenting business rules and creating detailed diagrams including Happy and unhappy flows and Data flow diagrams.
+Assisted QA team in performing different levels of testing including SIT, UAT, and regression testing.
+Involved in implementation by assisting in the preparation of training module. Helped the end users getting accustomed to the system by live demonstrations and system tutorials.
+Environment: Agile – MASKED_NAME (6.0), HPALM, HPUFT (11.5) UML, MS Excel (2013), MASKED_NAME (11g), MASKED_NAME (15.0), MASKED_NAME, Horton Works Data platform Balsamiq2.2, Apache Sqoop, MASKED_LOCATION, MASKED_NAME, Storm, HBase, HDFS, MASKED_NAME, Atlas
+Business Analyst		                                                                              November 2013 – January 2015
+State of MASKED_LOCATION, MASKED_NAME, WI
+The project was undertaken with the aim of creating an Enterprise Data Warehouse system to provide budget allocation, expenditure tracking and enhanced financial reporting by integrating different data sources to State Data Center. The Legacy system had non-integrated databases which were core to business processing. The new integrated system would provide ease of access, analysis, transparency and enhanced reporting capabilities.
+RESPONSIBILITIES:
+Elicited database and reporting requirements by facilitating JAD sessions, conducting Interviews, and brainstorming with the business owners, stakeholders and data warehouse team.  
+Created artifacts like Business Requirement Document (BRD) and Functional Requirements Document (FRD) to document the requirements and Data Mapping document and stored them in MASKED_LOCATION
+Involved in the process of creating data flow, E-R, conceptual and Logical Model diagrams.
+Performed Risk Analysis and created Work Breakdown Structure along with Project Manager.
+Conducted data profiling after identifying the source data source using Informatica IDQ
+Assisted database developers in normalization and transformation of data and data types, by creating Star Schema dimension modeling, enabling source to target column name and data mapping 
+Helped Data Analysts in developing rapidly changing and conformed dimensions and fact tables 
+Used Informatica Power Center in identifying business rules, and defining passive and active transformations like constant, look-up, data type conversion and data transformation
+Worked along with ETL developers using Informatica Workflow Manager, by assisting them in Extraction, Transformation, and Loading operations while documenting and monitoring ETL logs
+MASKED_NAME testing team and was responsible for creating and monitoring Requirements Traceability Matrix, test cases, test plans, defining User Acceptance criteria and tracking defects.
+Assisted in developing OLAP cubes and MASKED_NAME, MASKED_NAME down, MASKED_NAME and Dice operations
+Responsible for creating dashboards and customized visualizations to present the reports as per business requirements that helped in strategic decisions and validated reports using Power BI
+ENVIRONMENT: Waterfall, MS Office (MS Word, MS Excel, MS PowerPoint), MASKED_LOCATION, MASKED_LOCATION, MASKED_NAME, MS Project, HP ALM, Wireframes, Mock-Up Screens, SQLServer, SharePoint, UML
+Business Analyst                                                                                            April 2012 – October 2013
+BANK OF INDIA, MASKED_LOCATION, MASKED_LOCATION	
+BOI SECURE OTP
+The project dealt with the credit card transaction authorization based on mobile number and origin of the transaction. The system would be able to verify the registered number and location with the transaction details and would send one time password to approve it accordingly.
+RESPONSIBILITIES:
+Involved in Pre-Analysis of project with SME (Subject Matter Experts) and Developers
+Conducted Gap analysis to analyze the ‘as-is’ environment and to derive the To-be environment of the process to identify and validate requirements.
+Facilitated JAD sessions with SME’s and multiple teams for requirement gathering and refinement.
+Analyzed the gathered requirement and created requirement documents such as BRD and FSD.
+Created Software Requirement Specification (SRS) document to describe all data, functional and behavioral requirement of the system. 
+Used Microsoft Share point for centralized content management and document management.
+Wrote Use Case and built Use Case Diagram/ Activity Diagram using MASKED_NAME.
+Created Requirement Traceability matrix (RTM) using HP QC tool.
+Used JIRA for allotting task and issue tracking, user story management and requirement traceability.
+Worked with QA team to design Test Plan and Test Cases, Test Scripts for UAT and regression testing.
+ENVIRONMENT: JIRA (4.4), MASKED_NAME (v14.0), SQL, HPQC, MASKED_NAME (2010), MASKED_NAME (2010), SharePoint (2010), UML
+Jr. Business Analyst                                                                                              December 2010 – March 2012
+HDFC BANK, MASKED_LOCATION, MASKED_LOCATION                     
+PayZapp
+The scope of the project was to develop the core banking application for HDFC Bank India operations. Due to the myriad of advantages that comes along with core banking, the integration of various IT capabilities was critical to the success of this project. Core banking functions such as deposit accounts, loans, mortgages, and payments were implemented as part of this project. 
+RESPONSIBILITIES:
+Gathered requirements from key stakeholders and SME’s to define the scope and requirements of the online banking system.
+Worked closely with Project Manager for any change request and helped to do Impact Analysis.
+Defined the context of the system by creating various Use Cases for the development system requirements specifications encompassing Functional and Non-Functional requirements.
+Developed plans for verification and validation of requirements at all levels so that developed software successfully satisfies user expectations and business needs.
+Worked closely with the development team to verify that business needs are fulfilled and deliverables are produced within a specified budget, quality and time.
+Created Requirements Traceability Matrix (RTM) using HPQC tool.
+Developed UML Diagrams (normal flows/alternative flows) for modeling dynamic aspects of Online Banking System.
+Developed data maps for retrieval of information from existing account systems and outlined security measures for accessibility and transmission of information.
+Created ad-hoc reports using MS-Excel and MASKED_NAME tables to do the calculations. 
+Worked with the QA team to design Test Plan and Test Cases for the User Acceptance Testing (UAT).
+ENVIRONMENT: Waterfall MS Project (2010), HTML, MASKED_NAME (v12.0), MS Office (2010), XML, UML, HPQC
+Jr. SQL Developer                                                                                                August 2009 –November 2010
+MASKED_LOCATION, MASKED_LOCATION, MASKED_LOCATION                                                                                                  
+MASKED_NAME is an Indian restaurant search and discovery service.  It provides information and reviews about restaurants, including menu images for the restaurants that did not have their own website. 
+RESPONSIBILITIES: 
+Created and maintained a database of restaurants.
+Created Tables with Attributes and Constraints and inserted Data into tables.
+Converted integrity constraints - primary and foreign keys, unique and check constraints
+Created Stored Procedures to make it easier for Supervisors to view data.
+Created Triggers to make sure no duplicate records exist in database.
+ENVIRONMENT:  Waterfall MS SQL Server (v10.0), MS Office Suite (2007), SQL Server Reporting Services (2005)
+EDUCATION:  Bachelor of Science, Indira Gandhi National Open University, MASKED_LOCATION, MASKED_LOCATION

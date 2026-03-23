@@ -1,0 +1,45 @@
+ROLE: Senior Cloud Engineer
+SOURCE: Synthetic
+URL: N/A
+COMPANY: NexGen Systems
+
+============================================================
+  SENIOR CLOUD ENGINEER
+  NexGen Systems
+============================================================
+
+ABOUT THE COMPANY
+----------------------------------------
+NexGen Systems is a pioneering technology firm dedicated to building innovative software solutions and driving digital transformation for enterprise clients globally. We empower businesses to harness the full potential of cutting-edge cloud infrastructure and agile development practices, ensuring scalable, secure, and high-performing systems.
+
+RESPONSIBILITIES
+----------------------------------------
+  • Design, implement, and manage highly available, scalable, and secure cloud infrastructure within Google Cloud Platform (GCP).
+  • Develop, maintain, and optimize CI/CD pipelines for containerized applications deployed on Kubernetes (GKE).
+  • Automate infrastructure provisioning and configuration using Infrastructure-as-Code (IaC) tools like Terraform.
+  • Monitor, troubleshoot, and optimize cloud environments for performance, cost-efficiency, and reliability, implementing robust logging and alerting solutions.
+  • Collaborate closely with development teams to establish cloud-native best practices, architectural patterns, and ensure seamless application deployment and operations.
+
+REQUIRED SKILLS (Must-Have)
+----------------------------------------
+  ✅ Google Cloud Platform (GCP) services (e.g., GKE, Compute Engine, Cloud SQL, Cloud Functions, Cloud IAM, VPC, Cloud Storage)
+  ✅ Kubernetes orchestration (e.g., GKE, Helm, Kustomize, Kubernetes APIs)
+  ✅ Terraform for Infrastructure-as-Code (IaC)
+  ✅ CI/CD pipeline development (e.g., GitLab CI, ArgoCD, Jenkins, Cloud Build)
+  ✅ Containerization technologies (Docker)
+  ✅ Scripting proficiency (e.g., Python, Bash)
+
+PREFERRED SKILLS (Nice-to-Have)
+----------------------------------------
+  ⭐ Observability tools (e.g., Prometheus, Grafana, Stackdriver/Cloud Monitoring)
+  ⭐ Service Mesh technologies (e.g., Istio)
+  ⭐ Networking principles (e.g., VPC, DNS, Load Balancers, VPNs)
+
+EXPERIENCE & EDUCATION
+----------------------------------------
+  Experience: 4-6 years
+  Education:  Bachelor's degree in Computer Science, Engineering, or a related technical field
+
+COMPENSATION
+----------------------------------------
+  $130,000 - $170,000 USD

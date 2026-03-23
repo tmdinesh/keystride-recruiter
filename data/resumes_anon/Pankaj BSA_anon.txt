@@ -1,0 +1,203 @@
+PANKAJ P
+SR BUSINESS SYSTEM ANALYST
+SUMMARY
+Over 8+ Years of experience as Business System Analyst in diverse domains like Investment Banking, Loans, Automobile and Commercial Banking. Thorough knowledge of Fixed Income including Equity, Asset management, Bonds, Mutual Funds and Securities.
+In depth knowledge of Software Development Life Cycle (SDLC), having thorough understanding of various phases like requirements, analysis/design, and development and testing.
+Experience in developing UML use case diagrams, work flow diagrams, data flow diagrams, flowcharts, screen mockups and report prototypes. using tools like Rational Rose and MS Visio
+Solid understanding of gap analysis, requirements management, testing and project plans.
+Practical knowledge of Waterfall, Spiral, Agile & Extreme Programming (XP) SDLC Methodologies. 
+Excellent Business writing skills in writing BRD, Use Case Specifications, SRS, FR, NFR & BR.
+Expertise in requirements gathering using different Elicitation techniques. 
+Helped in creating a Data Dictionary having the business definition of Data Mapping to map the Logical Data elements in use cases to Physical data elements (record source).
+Experience in conducting Joint Application Development (JAR/JAD) sessions with end-users, expert team, development and QA team for resolving issues and making decisions.
+Excellent skills in analysis, design, development and implementation of ETL tools like Informatica Power-Center, MASKED_NAME and reporting tools like MASKED_LOCATION and SSRS.
+Excellent knowledge in SQL including writing Views & Joins. 
+Strong business acumen to communicate effectively with business and IT in day-to-day operations and delivery of IT services
+Experience in SQL Server Database design developing T-SQL queries, function, stored procedures, and triggers using SQL Server and used Data Adapter, Dataset, Data reader as a part of ADO.NET to access and update database in ASP.Net environment.
+Skilled with Data Analysis concepts of Data Modeling, Data Dictionary, Data Mapping and Normalization.
+Comprehensive understanding of Web-Services like WSDL, SOAP using XML and REST using internet protocol suite like HTTP under Three-Tier Architecture and Service Oriented Architecture (SOA).
+Knowledge about web servers like Apache Tomcat and Internet Information Services (IIS).
+Ability to implement Change Management and Defect Management techniques.
+Good knowledge of database relationships and concepts; worked on RDBMS like MySQL and MS SQL server.
+Expertise in creation of UAT Plan, UAT cases covering different Business, functional and non-functional test scenarios and creation of expected test results & UAT execution including defect tracking and resolution.
+Knowledge and experience with widely successful agile techniques: User Stories, Velocity, Story Points, Product/Sprint Backlog, Burndown/Burn-up Charts, Test Driven Development, Behavior Driven Development.
+Involved in data warehouse at different layers staging, integration, and access
+Experience in reviewing documentation of developed solutions and authoring of basic instructions guides and help files to assist in end user training and support.
+Exceptional communication skills aimed at conflict management and resolution.
+Experience in functional and user testing on mobile devices and browser emulator extensions.
+Domain Expertise
+In depth knowledge of Stocks, Futures, MASKED_NAME, Swaps, Options 
+Good understanding of Credit Derivatives – Credit Default Swaps, Synthetic Securities (CDO, CMO & CLO), Total Return Swaps, Credit Spread Forward and Options, Credit Linked Notes etc.
+Solid understanding of trading life cycle for different Exchange Traded and OTC Traded instruments
+Analyzed trading positions with VaR concept for Market Risk and Credit Risk 
+Excellent understanding of Bonds such as Government bond, Municipal bond, Corporate bond, TIPS and Interest rate derivatives
+Financial Tools: Balanced Scorecards, Benchmarking, ratio analysis, trend analysis, horizontal analysis and vertical analysis
+Technical Expertise
+Operating System: Windows XP/7/8/Server 2003/2008,10
+Methodologies / Frameworks: RUP, Agile/Scrum, Waterfall, Extreme Programming
+Business Analysis: Rational Suite (Requisite Pro, Clear Case, Rational Clear Quest,) MASKED_NAME, MS Project 2000, UML, MASKED_NAME, MASKED_LOCATION, MASKED_NAME
+Front-End Tools: MS Office Suite (Word, Excel, Access, PowerPoint), 
+Data Bases: Microsoft Access, MS-SQL Server 2014/2012/2008/2005, Oracle 8i/9i/10g/11g/12c, MYSQL
+Testing Tools: HP ALM 11.5, JIRA, HP Load Runner
+Project Management Tools: MS Project professional, MS Project Server, and SharePoint 2010
+Technical Tools: MASKED_NAME, MASKED_NAME, HTML, CSS, XML, J2EE, HTML, TCP/IP, REST, SOAP, SOA, Visual Studio 2012/2010/2008/2005, .Net, MASKED_NAME, SQL, MS SQL Server, MySQL, JUnit, jQuery, C, MASKED_NAME, IIS, SharePoint 2010/2007(MOSS)
+Education
+Bachelors in Electrical Engineering from Pune University, MASKED_LOCATION
+Experience
+Fiserv 
+Business  System Analyst, Alpharetta(GA)
+May 2017 – Till Date
+MASKED_NAME Next(BMX)
+BillMatrix Next gives consumers the flexibility to easily set up payments from their accounts, create and maintain digital wallets and schedule one-time, recurring and automatic payments. Consumers can access their accounts from their mobile phones, tablets, and laptops and make payments when they want, all in real-time. 
+Responsibilities
+Worked in Agile (Scrum) methodology to include the continuous change management.
+Interviewing stakeholders, gathering requirements and documenting requirements.
+Performing gap analysis, impact analysis and helping in design requirements.
+Helping to make the product backlogs in good shape and make them ready for the next sprint
+Primary liaison to QA team, create test scenarios and perform UAT.
+Helping to create turnover documents for the implementation team to facilitate setting up of clients
+Environment: MS word, MS Excel 2010, MASKED_NAME, SharePoint 2010, SQL Server 2014, Team foundation Server(TFS)
+Hyundai Auto Ever America (Kia Motors), Irvine 
+Business Systems Analyst/Scrum Master
+October 2016 – Feb 2017
+Prior Work Authorization (PWA)
+PWA system is used by the dealers to submit the claim request. Once the PWA gets approved by the DPSM/RPSM’s the dealer can go ahead and do the repair on the cars and submit the final claims.
+Responsibilities
+Worked in Agile (Scrum) methodology to include the continuous change management.
+Documented detailed functional & data business requirements, process flows, use cases, & information needs
+Interviewed stakeholders, gathered requirements and documented requirements.
+Ensured delivery of project and enhancement requirements meet the requirements defined by the business customer
+Helped to make the product backlogs in good shape and make them ready for the next sprint
+Conducted functional and user testing on mobile devices and browser emulator extensions.
+Primary liaison to QA team, create test scenarios and perform UAT.
+Created BRD, SRS along with the UAT documentation and helped with the user training manual.
+Environment: MS word, MS Excel 2010, MASKED_NAME, SharePoint 2010, SQL Server 2008 R2, JIRA
+Capital Group, MASKED_LOCATION, CA	          
+Business Systems Analyst
+May 2016- September 2016							
+Reference Data Management(RDM)
+The Relational Database Management is a system for fixed income securities. The existing system Raptor would be replaced by Aladdin. The data for the traded securities would be brought down to RDM to be available to other applications. The system previously used a custom application Raptor which got the trading data from MASKED_LOCATION which was replaced by Aladdin(Reuters). 
+Responsibilities
+Worked in Agile (Scrum) methodology to include the continuous change management.
+Performed gap analysis, impact analysis and helped in design requirements.
+Interviewed stakeholders, gathered requirements and documented requirements.
+Analyzed the market data from MASKED_LOCATION and Reuters to find the consistency and efficiency of data via data mapping.
+Build and groom product backlog(s) and Collaborate with the Scrum Master to run successful release planning and sprint planning sessions, as well as sprint reviews and retrospectives.
+Build the understanding for the compliance requirements for fixed income securities.
+Creating normalization logic for the developers to code and working closely with the Quality Analysts for testing.
+Extracted raw data from Aladdin xml into excel using MASKED_NAME and made it available to business users.
+Acted as liaison for projects with other corporate departments, including Executive, Legal and Information Services.
+Co-ordinated meetings between MASKED_LOCATION team and the Global Investment Support Office(GSO).
+Environment: Asset Control, MASKED_NAME designer 10.5, MS Excel 2010, MASKED_NAME, MASKED_NAME, MASKED_NAME, Scrum(Agile)
+SEI Wealth Management, Oaks, PA	          
+Business Analyst 
+August 2015- March 2016							
+Integrated database System
+The Integrated database for equity and derivative and risk management system for listed and OTC securities. The system enables its users to simultaneously view a comprehensive set of securities, track live P&L values report and examine exposure to shifting market prices & interest rates. The system acquired data from different sources like Bloomberg, Reuters, Moody’s, etc. The system also acquired historical financial data from organizations data warehouse. The system allows users to work in a GUI Reporting environment with smooth flow from MASKED_LOCATION.
+Responsibilities 
+Interviewed stakeholders, gathered requirements and documented requirements.
+Analyzed existing trading procedure and incorporate it into the new system with improved automation and efficiency.
+Helped in different layers of data warehouse - staging, integration, and access
+Designed and developed project document templates based on SDLC methodology.
+Adept in designing and developing Use Cases, Activity Diagrams, and State Diagrams based on UML.
+Analyzed market data from different sources like Moody’s, MASKED_LOCATION, etc.
+Extensively worked with Portfolio Managers, Experienced Traders and Compliance Manager to configure the rule-based scenarios for capturing market and credit risk, general multi-factor sensitivity analyses, and PnL. 
+Worked with managers to understand the requirements for reporting on fixed income securities
+Build the understanding the data requirements for reports on fixed income securities.
+Creating different report prototypes for fixed income securities as well as understood the source of data and how the data is processed.
+Helped in creating a Data Dictionary having the business definition of Data Mapping to map the Logical Data elements in use cases to Physical data elements (record source).
+Created Logical data models and Logical to Physical Data Mappings.
+Acquired data from different systems and worked on Data Mapping.
+Assisted Project Management in developing Scope/ Vision Documentation and Project Plan, tracking project process.
+MASKED_NAME and tracked stakeholder’s requests for enhancements and changes using Unified Change Management tool (UCM) such as Rational Clear Quest.
+Assisted with user testing of systems, developed and maintained quality procedures, and ensured that appropriate documentation is in place.
+Helped conduct User Acceptance Testing (UAT).
+Participated in developing the test conditions and test cases to be used in testing based on business requirements, technical specifications and/or product knowledge.
+Acted as liaison for projects with other corporate departments, including Executive, Legal and Information Services.
+Assisted in development of training materials for new technology and process improvements
+Environment: SQL server 2012, Visual Studio 2012, ETL-Informatica, HP ALM 11.5, MASKED_NAME, QTP 8.2, Ajax, Microsoft Office Products like Excel, VISIO, JavaScript
+MASKED_NAME, MASKED_LOCATION, FL
+EquiTrak Hedge Fund Application  
+Jan 2014- June MASKED_ADDRESS
+The project objective is to implement EquiTrak hedge fund administration for GTS team. MASKED_LOCATION is a complete Hedge Fund software solution. It meets the needs of both fund managers and fund administrators. It provides capabilities for hedge fund as well as private equity investment administration. 								
+Responsibilities 
+Working with MASKED_NAME team to understand their hedge fund requirements.
+ Participated in various stages of data and requirement analysis for project needs.
+Gathered information from hedge fund managers and prepared business requirement documents and functional required documents.
+Analyzing the accuracy of hedge fund financial calculations, business rules and transactions for the application.
+Prepared Use cases based on Business Requirements and High-Level Design using MS MASKED_NAME.
+Understanding the real end user needs and analyzing their requirements on different platforms performing a cost benefit analysis and Risk analysis.
+Analyzing the current software and hardware system and evaluating their compatibility and scalability in developing the present system.
+Developed use case scenarios, class diagrams and Sequence diagrams.
+Conducted various JAD sessions with different stakeholders to get a better understanding of ongoing activities and updating every party of their tasks and assigned duties.
+Documented business rules and business integration processes using BRD (Business Required Documentation) based on the gathered requirements.
+MASKED_NAME and Activity diagrams using Rational Rose for clear understanding of the static prototypes.
+Conducted periodic meetings with technical team to make sure that developments are adhered to the business requirements and customer’s expectations.
+Verified that the requirements are testable and involved in testing for the software implementation.
+Imparted technical experience assisting database designers in the development of current project right from the business transition phase to database design phase.
+Used SQL queries for data validation retrieving the date from the back end.
+Developed various Test Plans and Test Cases and even assisted with the black box testing.
+Verify the issues raised during the UAT testing and document them for the development team to fix them.
+Responsible for resolving the clients issue by working with Development and QA team.
+Constantly followed and reviewed SDLC methodology at every stage of software development to make sure that requirements are testable and necessary changes could be made before moving it to production.
+Preformed System Testing, Regression Testing, Functional Testing and Conducted UAT (User Acceptance Testing).
+Environment: SQL server, HPALM 11.5, QTP 8.2, .Net, MASKED_NAME, Microsoft Office Products like Excel, VISIO, JavaScript, MicroStrategy
+MYPOD
+Presidio Information Risk Management	, Pune, MH
+June 2012- Dec MASKED_ADDRESS/Scrum Master
+The system is used for internal organizational communication as well as collaborative tool. The application displays different web parts which display organizational news, employee of the month, monthly polls, company policies and other events taking place. 	
+Responsibilities 
+Technology used: SharePoint, SQL
+Interviewed stakeholders, gathered requirements and documented requirements.
+Developed used case scenarios, class diagrams and Sequence diagrams.
+Conducted various JAD sessions with different stakeholders in order to get a better understanding of ongoing activities and updating every party of their tasks and assigned duties.
+•       Attention to detail, tenacious drive for problem solving, and ability to maintain grace 'under fire' 
+Verified that the requirements are testable and involved in testing for the software implementation.
+Worked with team members to deliver new website options, widgets and applications within our product offering
+Responsible for resolving the clients issue by working with Development and QA team.
+Constantly followed and reviewed SDLC methodology at every stage of software development to make sure that requirements are testable and necessary changes could be made before moving it to production.
+Preformed System Testing, Regression Testing, Functional Testing and Conducted UAT (User Acceptance Testing).
+Environment: C#.NET, MASKED_NAME, SharePoint 2010, SharePoint Designer 2010, MASKED_NAME.Net 2008, SQL Server 2008, WCF, Business Intelligence, Excel Services, Office 2008, XML, HTML, Cascading Style Sheets (CSS), MASKED_NAME and Windows 2008 Server, MASKED_NAME, Quality Centre 10.2, Microsoft Project Manager, MASKED_LOCATION, MASKED_LOCATION, JIRA
+BlueSpire 
+Bitwise Inc., Pune, MH 
+Sept 2011 - May MASKED_ADDRESS/Scrum Master
+BlueSpire specializes in personalized engagement for life’s biggest decisions. It combines marketing strategy, technology and content to drive growth for clients in healthcare and financial services. When organizations choose MASKED_NAME, they aspire to more. That’s because today’s consumer is seeking an engaging experience that is personalized to them—and marketers require more to deliver that experience. Find just the right care when you need it with our extensive provider network.
+Responsibilities 
+Worked in Agile (Scrum) methodology as it was an ongoing project.
+Planned and conducted requirements gathering sessions with the business team. 
+Prepared data process maps and data flow charts to visually present the proposed system to project management team 
+Prepared various artifacts such as use cases, and functional requirement specifications by interacting with end users, project team and the subject matter experts 
+Performed activity-based Cost Analysis and ROI and NPV calculations.
+Daily cooperation between business people and developers and welcomed late changes into the requirement. 
+Used detailed knowledge of application features, architectures and functions to assess scope and impact of business needs throughout analysis and through the completion of all enhancement specifications. 
+Implemented repositories for the documents on which work and time has been spent for future needs 
+Developed understanding of the system components such as web services, application servers, and its architecture. 
+Lead Business user education and training sessions about the enhanced system.
+Extensively used Quality Center for recording requirements collected from business users. 
+Conducted manual testing of the application to verify the functionality and associated requirements.
+Responsible for creating the test plans and test cases for the application using Quality Center and mapped them to requirement and use case models for traceability. 
+Arranged graphs and reports of defects to the stake holder, maintained RTM to indicate the progress and status of testing process. 
+Published process documents and procedures as a graphical user guide for using Excel and MASKED_NAME. 
+Conducted JAD sessions to document visual process flow that brought transparency to organizational structure and behavior, quality control and corporate interpersonal relations. 
+Created business process flow diagrams using MASKED_NAME and developed PDF files for company wide distribution.
+Environment: Quality Centre 10.2, Java, IE. 6.0, MASKED_NAME, Microsoft Project Manager, RTM Services, XML, MS Office and MASKED_LOCATION, Rally, SharePoint
+Innovative Dashboard 
+Photon InfoTech, MASKED_LOCATION, KN          
+Jan 2010- Aug 2011
+Software Developer
+The project was for creating an application for a big financial company.  The project was to automate the process of introducing the idea for a new product. The product goes through a series of questionnaire and processes all the data and sends the idea to the manager for approval. The application provides the functionality to print the entire process data in pdf or excel format. The MASKED_NAME also gives the manager the capability to view the product statistics in different continents.
+Responsibilities:
+•     Technology used: Server Side .Net, JavaScript, SharePoint, SQL
+•     Writing cross-browser compliant HTML, CSS & JavaScript
+•     Developing multi-user applications within a (SOA) service orientated architecture.
+•     Expanded knowledge of .Net in-house Development system 
+•   Contributed software engineering expertise in the development of products through the software lifecycle, from requirements definition through successful deployment.
+•   Facilitated customization of systems by encouraging software engineering team to adopt emerging standards for software application development architecture and tools.      
+•     Worked with talented MASKED_NAME to create elegant, modern, and user-friendly websites 
+•     Advising customers and clients on the limitations of systems and website functionality.
+•     Attention to detail, tenacious drive for problem solving, and ability to maintain grace 'under fire'
+•     Changing the code, software or graphics of existing websites.  
+•     Continually enhance my development skills and learned about architecting web solutions/technologies 
+•     Worked with team members to deliver new website options, widgets and applications within our product offering 
+•    Keep abreast of the latest technologies and techniques within the web development and design fields by working with team members, mentors and by prototyping solutions
+Environment: C#.NET, MASKED_NAME, MOSS 2007, SharePoint Designer 2007, MASKED_NAME.Net 2005, SQL Server 2005, WCF, Business Intelligence, Excel Services, Office 2005, XML, HTML, Cascading Style Sheets (CSS), MASKED_NAME and Windows 2003 Server

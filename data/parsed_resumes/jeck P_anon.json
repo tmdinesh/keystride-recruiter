@@ -1,0 +1,40 @@
+{
+  "resume_id": "jeck P_anon",
+  "skills": [
+    "python",
+    "java",
+    "javascript",
+    "php",
+    "angular",
+    "html",
+    "css",
+    "bootstrap",
+    "jquery",
+    "node",
+    "spring",
+    "express",
+    "asp.net",
+    "rest",
+    "soap",
+    "sql",
+    "mysql",
+    "mongodb",
+    "oracle",
+    "aws",
+    "ansible",
+    "jenkins",
+    "linux",
+    "apache",
+    "spark",
+    "hadoop",
+    "git",
+    "jira"
+  ],
+  "education": {
+    "degree": "Unknown",
+    "year": "Unknown"
+  },
+  "experience_years": 15,
+  "projects": [],
+  "certifications": []
+}

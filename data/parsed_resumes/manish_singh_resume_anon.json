@@ -1,0 +1,29 @@
+{
+  "resume_id": "manish_singh_resume_anon",
+  "skills": [
+    "java",
+    "r",
+    "html",
+    "css",
+    "sql",
+    "oracle",
+    "tableau",
+    "jira"
+  ],
+  "education": {
+    "degree": "MBA from MASKED_LOCATION University- ND, USA- 2011",
+    "year": "2011"
+  },
+  "experience_years": 8,
+  "projects": [
+    "TTK CPD Business Process",
+    "SOFTWARE & ENVIRONMENTS:",
+    "Conducted User interviews and documented their queries, business analysis & reporting needs",
+    "Gathered requirements from Business users & teams and translated the business requirements into Functional requirements & specifications",
+    "Involved in defining the scope of the project, gathering business requirements and documenting and managing them using Rational rose and Rational Requisite Pro respectively."
+  ],
+  "certifications": [
+    "EPIC Certification in Claims and Contract",
+    "EPIC Certification in Tapestry Core"
+  ]
+}

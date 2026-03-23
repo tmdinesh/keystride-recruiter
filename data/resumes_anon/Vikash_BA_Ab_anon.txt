@@ -1,0 +1,125 @@
+TE                                                                                                                                                                                       
+Venkata Vikash
+SR. Business Analyst/Certified Scrum Master
+MASKED_PHONE | MASKED_EMAIL |
+Professional Summary:
+Around 9 years of IT and management experience in Software Development Life Cycle (SDLC) and Project life cycle working as a Business Analyst, Business System Analyst in manufacturing, finance, HR, Payroll, accounting, e-commerce and Supply chain sectors.
+Extensive exposure to Rational Unified Process (RUP), Agile, and Waterfall Methodology. 
+Self-starter and able to work interactively and independently with stakeholders. Expertise in managing multiple projects and teams with an excellent track record. 
+Facilitate face to face interview, teleconference and web-conference meetings to gather business and functional requirements. 
+Extensive experience in Gathering and Analyzing Requirements, Modeling Business Process Flows, writing high level documents, Business Requirements Document (BRD), Use case Specifications, Functional/Systems, Design/Systems Requirements Specification (SRS), Transactional Data Dictionary, Business Continuity Plan (BCP), MASKED_NAME and using UML, RUP, Agile and Six Sigma methodology. 
+Strong experience in creation of BRD's, FRD's, RTM's and translation/ simplify requirements to assist development and testing teams. 
+Proficient in developing process workflows, activity, use cases, sequence diagrams in MS VISIO. 
+Experience with SQL queries to perform data analysis, data mapping and data validation of the transformed data output.
+Experience with Retrofit/ Data Conversions, Root Cause Analysis, BI Reporting, structure and mapping.
+Prepared and contributed in test scenarios and test cases for testing the functional and non-functional aspects. Defects analysis to determine business and technical impact and providing input on the priority of fixing the defects.
+Conduct walkthrough of deliverables with Business to obtain signoff/ approval. Develop Project plan, Level of effort, MASKED_NAME and assist multiple Project Managers throughout delivery execution on multiple releases at a time.
+Good experience in Production Support, identifying root causes, trouble shooting, performed in depth analysis. Advanced proficiency in Microsoft, particularly Word, Excel, Power Point and MS Project. 
+Experience in Optimal Trace, Caliber RM, Rational Rose, Rational Requisite Pro, Rational Clear Case, Rational Clear Quest, JIRA and Application Lifecycle Management (ALM).
+Hands-on experienced in Project Plan, Project Milestone, Issue and risk assessment, value/benefit realization and project management documents.
+Expertise in preparing Test Plan, Test Cases, Test scripts and Traceability Matrix with extensive experience in manual and automated testing. 
+Experience in conducting various tests such as functional, regression, integration, back end testing, system testing and User Acceptance testing. Expert in conducting UAT.
+Proficient in tightly coupled architecture, loosely coupled architecture (including SOA), web services and web methods.
+Comprehensive understanding of Web-Services (and their documentation) like REST and SOAP (and involved in their testing using SOAP UI) using XML, WSDL and UDDI, using internet protocol suite like HTTP under Three-Tier Architecture and Service Oriented Architecture (SOA).
+Exposure to Client, MASKED_LOCATION and Database validations and scripted XML for request and responses of web methods to web services using XMLSpy to assist the development team.
+Experienced in Onshore Offshore coordination, Walkthroughs, Defect Reviews, Change and Enhancement Request Management, Strategy Planning, Go No-Go meetings.
+Flexible and enthusiastic to travel. Possess good communication skills, self-motivated, proactive, task and idea oriented and can quickly adapt to new technologies/processes/ methodologies.
+Skills & Technologies
+Work Experience
+Barclay’s, DE 
+Business Systems Analyst                                                                                                         	Jan 2017 – Present
+Conducted GAP Analysis to identify enhancement opportunities and inclusion of additional functionalities for the new application.
+Utilized requirement elicitation techniques such as brainstorming, interviews and Joint Requirements Planning gather, refine and validate requirements.
+Interacting with the SME's and stakeholders to get a better understanding of client business processes and gather Business Requirements. 
+Create requirement documentation; reviews with user representatives, recommend priorities and obtain user signoff. 
+Facilitated Joint Application Development (JAD) sessions for communicating and managing expectations with SME's and to understand thoroughly the business process and User interface UI requirements, which need to be incorporated in the application. 
+Create Use Cases, Use Case Diagrams and Process Flow diagrams using Microsoft Visio to support software development projects and verifies the accuracy of the specified business processes. 
+Worked with Sr. Business Analyst to document functional specifications (SRS and FRS).
+Assisted the Project Manager in creating the Work Breakdown Structure (WBS) for the project.
+Performed numerous data pulling requests using Teradata SQL for analysis. Wrote hundreds of DDL scripts to create tables and views. 
+Proficient in importing/exporting large amounts of data. Designed and developed weekly, monthly reports related to the marketing and financial departments using SQL 
+Coordinated with marketing department to finalize the list of individuals to whom the loan can be forwarded so that targeted campaign can be launched. 
+Developed Macro programs to clean, validate and update to perform data analysis and generate reports. Modified existing datasets using Set, Merge, and Sort, formats, functions and conditional statements. Debugged, created maintained and documented adhocs reports on demands.
+Performed QA audits to ensure that all delivered files were validated by matching the output results to the business requirements. MASKED_NAME workbooks, dashboards using stack bars, Pie charts, bar graphs, scatter plots, geographical maps, MASKED_NAME charts.
+Tested Web Services /XML / SOAP and RESTFul services using MASKED_NAME tool. Involved in creating a detailed System Test Plans, Test Cases and Test Scripts for different modules in the Application according to the Business Requirements and performed automation testing.
+Importing/exporting large amounts of data from files to MASKED_LOCATION and vice versa. 
+Utilized ODBC for connectivity to Teradata & MS Excel for automating reports and graphical representation of data to the Business and Operational Analysts. 
+Created various types of MASKED_NAME reports, List Reports, MASKED_NAME, Chart Reports using Cognos.
+Generated various MASKED_NAME reports, List Reports, MASKED_NAME, Chart Reports using Cognos.
+Analyzed Business Requirement Document LLDs and HLDs of both clients systems from technical and business perspectives. 
+Project Environment:   MS Project, MASKED_NAME, MS-Office, MASKED_NAME, HTML & CSS, MASKED_NAME, Crystal Reports, HPQC/HP-ALM, MASKED_NAME, SAS, SAS SQL, and Teradata SQL in a UNIX environment with Oracle, Informix, and MASKED_LOCATION relational databases.
+SEI, PA                                                                                                                                                   June 2015 - Dec MASKED_ADDRESS
+Project: The application was developed as a product to capture, analyze, calculate and report risks for all asset classes traded by the client bank. The asset classes included equities, bonds, commodities/metals, ABS, MASKED_NAME, derivatives. With the risk methodology, it can generate paths, exposures and stress scenarios so that trade can be valued against various scenarios and benchmarks. It also allows traders to perform what-if analysis and stress test. The product also allows for adding different asset classes at different stages. The system also allowed timely report generation based on the format specified by the SMEs.
+Responsibilities: 
+Drives integrated teams to deliver technology solutions in support of key product initiatives by working closely with product owners, architects, engineers, and quality assurance. 
+Maintains dependency plan between planned sprints across engineering, infrastructure, and third parties. 
+Breaks down barriers and shields the team from impediments precluding engineers from making progress against sprints and deadlines. 
+Worked within and across business units to prioritize, plan, and execute the development schedule for major product releases. 
+Managed and tracked team velocity, financials, and other KPIs in relation to the plan and published progress reports. 
+Assigned development resources to activities, and monitors performance across resource channels. 
+Organized and facilitated daily stand-ups and retrospectives at the end of each sprint, and creates an environment in which the team is continuously learning from the past. 
+Engaged with Product Owner, MASKED_NAME, and delivery team to understand Business needs and identify appropriate solutions. 
+Applied judgment and discretion on when to raise issues versus work through issues with the team. 
+Facilitated discussions and looks beyond the obvious for continuous improvement opportunities. 
+Performed hands-on reviews of product backlog, test scripts, and results as needed in addressing delivery impediments or product quality issues. 
+Identified, described and used a range of planning, analysis, design, build, test configuration and maintenance tools normally employed within the organization and industry sector for carrying out application development activities as appropriate for a particular platform or platforms. 
+Identified, defined and engineered components for relevant systems and platforms based on identified specifications. 
+Described key issues relating to the environment in which the platform or system is required to operate, key modes of operation and typical architectural design solutions. 
+Identified and described key requirements and the main functional components that make up the relevant platform or system. 
+Successful in facilitation, coaching, and mentoring of highly matrixed, distributed, cross-functional, and offshore software development team(s). 
+Facilitated release planning, Scrum of Scrums, product and sprint backlog grooming, sprint planning, estimating sessions (relative and t-shirt), daily stand-ups, retrospectives, and sprint reviews.  
+Improved management and maintenance of Rally for portfolio and program reporting, capacity and task management, and relevant metrics (velocity, capacity, burn down and burn up charts, etc.), including dashboards for each project. 
+Chartered Communications, MASKED_LOCATION                       	                                                           August MASKED_ADDRESS
+Project: To define, design and develop the data integration processes needed to populate data warehouse and
+its associated customer reporting data mart tables to understand its overall exposure. The data generated would then be used to improve overall quality and productivity of existing processes, deploying reliable and accurate information, generate reports, monitor performance and to reduce overall risk and cost associated in the services processing by means of business intelligent tools.
+Assisted stakeholders and PMO to create Business Requirement Documents by identifying functional and non-functional requirements. Acted as an interface between Project Managers, Subject Matter Expert's (SMEs), Developers and QA Team on requirement gathering. 
+Product Development process used for designing the application that included making Use Cases & Use Case Diagrams. 
+Involved in creating and analyzing current state flow diagrams of processes & UML Diagrams using MASKED_NAME. Thereby, depicting the future state flow diagrams using MASKED_NAME by interviewing various SMEs and feedback from IT solution architects. 
+Worked on iRise for creating stimulations along with MASKED_NAME. 
+Conducted Requirement gathering sessions with various SMEs located at the different company locations across MASKED_LOCATION related to assigned tasks. 
+Managed clients contact management including monitoring and recording interactions and communications through CRM (Customer Relationship Management). 
+Involved in documenting Functional Requirements in Functional Requirements Definition Documents (FRD) for Vendor selection, MASKED_NAME, skip tracer and Recovery processes. 
+Depicted User Requirements, Change Management, and Dependencies between other assignments within the project as well as other applications interacting with the assigned application and other possible risks. 
+Scripted business rules for the web service, and assisted in drafting agreements for various web methods in XML.
+Documented the technical specifications of the web service for use in the binding template of the service UDDI.
+Prepared the documentation for the RESTful APIs and SOAP web service i.e. the methods its exposing, URIs and description of each method.
+Documented sample requests, depicting the format of the calls to and from the web service.
+Created the future state screen shots in Power Point to represent to the business for final validation and signoff. Reviewed Test Scripts, did UAT and a part of Manual Testing 
+Actively involved in walkthroughs and meetings with Project Team members including other Business analysts assigned within the same application and team lead to discuss related issues. 
+Environment: MS Office Suite (Word, PowerPoint, Access, Excel, Outlook), MS Project, MS SharePoint, MASKED_NAME, MS SQL, Business Objects, Quality Center, Rally.
+T-Mobile, MASKED_LOCATION, WA                                                                                                                         Jan 2013 - July MASKED_ADDRESS
+Project: (Operations Delivery Management) is an end-to-end infrastructure project designed to address holistic management capabilities. It will deliver value by enhancing the effectiveness and efficiency of advocates in helping to holistically coordinate services for the individual across programs, reducing operating costs and legacy system maintenance, increasing productivity of the sellers, generating revenue growth and continued penetration in the marketplace. 
+Responsibilities: 
+Responsible for identifying and documenting requirements via multiple JAD discussions with SME's from Customer service, vendor relations, billing, finance and accounting.
+Act as a liaison between Business and technical teams. Provide walkthrough of the business requirement document (BRD) to architects, dev and QA teams using Joint application design (JAD) sessions. 
+Review progress and evaluate results for accuracy and efficiency during system integration testing (SIT). Write SQL queries to perform data analysis and prepare data mapping documents explain the transformation rules from source to target tables.
+Responsible for leading efforts to review the Requirements Traceability Matrix, Test Case documentation with the onside and offshore teams.
+Created test plans, test cases and scripts for the consolidated applications in development, testing and production environment. Performed unit testing, functional testing, user interface testing and negative testing.
+Demonstrated use of Use Cases, UML, Context diagrams, MASKED_NAME diagrams, Data Flow diagrams etc. Work with Business to complete User acceptance testing (UAT). Work with PMO and release team for production deployment. 
+Manage change control process to make sure changes are captured properly, impact analysis, coordinate with all the teams for change implementation and perform data validation. 
+Developed user manuals and training guides for the Supplier Portal. Experienced in using HP's Application Lifecycle Management (ALM) software for defect tracking and triages. 
+As part of the systems design worked on developing mockup screens and created interactive versions of the mockup screens using Axure for demonstration purpose.
+Coordinate with the team members to make sure there is no block in the progress of the project
+Environment: Rally, JIRA, Quality Center, ORACLE, MASKED_NAME.
+ZenTech Technologies, MASKED_LOCATION, MASKED_LOCATION							July 2010 - Dec MASKED_ADDRESS                         					                          Budget - $1.1 Million
+Project: The project involved creating an intranet application that would assist the HR personnel in maintaining, updating and managing employee related information. The module was a part of the enterprise level Human Capital Management System.
+Responsibilities:
+Acted as a primary lead and elicited and gathered business requirements through brainstorming and prototyping. Conducted feasibility study and GAP and Impact analysis for the proposed state. 
+Conducted JAD sessions to allow different stakeholders to communicate their perspective with each other, resolve any issues and come to an agreement quickly. 
+Created use case scenarios and documented workflow and business processes. Prepared Business Requirement Document (BRD) and Functional Specification Document (FSD). Conducted daily scrum calls and maintained impediment log.
+Organized sprint planning, user story grooming, sprint demos and Converted Business requirements and design documentation into test design products: Test Scenarios, Test Cases and Test Scripts.
+MASKED_NAME out the formal Change Management Process to handle MASKED_NAME. Involved in Complete System Integration Testing of new features added to the system. Coordinated the defect management process using Quality center. 
+MASKED_NAME, Usability, Cross-Platform and Regression Testing during different stages of the application development 
+Tracked and communicated team status and progress via burn-up and burn-down charts in MASKED_LOCATION, as well as other information radiators, to the team, management, and stakeholders  ensuring it accurately reflects current state.
+Encouraged and helped to achieve transparency between Team and Management. Conducted Collaboration meetings to resolve impediments. Participated in scrum of scrum to identify dependencies and mitigate risk exposure
+Environment: MS Office Suite (Word, PowerPoint, Access, Excel, Outlook), MS Project, MS SharePoint, MASKED_NAME, SCRUM, MS SQL, Business Objects, Quality Center, MASKED_LOCATION
+HDFC Bank, MASKED_LOCATION, MASKED_LOCATION				                                           		July 2009 - June 2010
+Business/Quality Analyst                                                                                     	 
+Project: The project involved building an online banking system combining quick and easy installation and automatic system upgrades with custom reporting and 24/7 access to real time account information. The system would be specifically accessible to corporate businesses to streamline their financial and administrative operations that are associated with travel, purchases and other expenses for their employees.
+Responsibilities:
+Lead the cross functional teams of sales, Marketing and IT in both onshore & offshore for revamping the LOS. Involved in Gap and ROI Analysis of existing LOS management system with partner systems.
+Reported impediments of the Product to senior management and negotiated solutions. Sat on interviewing stakeholders to elicit their requirements for the new system. 
+Involved in JAD sessions with management, team and stakeholders to refine the requirements and freeze them. Involved in creating Software Requirement Specifications (SRS) and Functional Specification Documents (FSD). Created business process flow diagrams and charts using MS-Visio.
+Worked on Wireframes and Mock ups for the UI/UX designers to aid in visualization. Involved in project management, developing project plans and project deliverables. Assisted in Work Breakdown Structure to monitor activity planning 
+Played a key role in planning User Accepted Testing and implementation of system enhancements and resolving any user related queries. Wrote SQL queries to access the data from the database. Worked on product documentation, including user manual and training materials
+Environment: Rational Requisite Pro, Rational Rose, Clear Quest, RUP, UML, Win runner, MASKED_NAME, MASKED_NAME, SQL, MS Office, MS-Project, MS MASKED_NAME and Windows7.

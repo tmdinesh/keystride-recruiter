@@ -1,0 +1,32 @@
+{
+  "resume_id": "Amar Sr BSA_anon",
+  "skills": [
+    "angular",
+    "html",
+    "css",
+    "bootstrap",
+    "jquery",
+    "express",
+    "soap",
+    "sql",
+    "oracle",
+    "aws",
+    "apache",
+    "tableau",
+    "jira",
+    "confluence"
+  ],
+  "education": {
+    "degree": "Unknown",
+    "year": "Unknown"
+  },
+  "experience_years": 8,
+  "projects": [
+    "The project was aimed at creating Enterprise Data Warehouse system to provide budget allocation, expenditure tracking and enhanced financial reporting by integrating different data sources to Enterprise Data Center. Legacy non-integrated databases are a core to business processing. Integrated system would provide ease of access, analysis, transparency and enhanced reporting capabilities.",
+    "Key Responsibilities:",
+    "Understood state of art processes by interacting with stakeholders and analyzing the available documents.",
+    "Facilitated JAD sessions as a Moderator and conducted interviews with various Subject Matter Experts (SMEs) and stakeholders, process reviews and policy & procedure reviews to elicit requirements.",
+    "Conducted Gap Analysis to identify missing data attributes from source system coordinating with database team."
+  ],
+  "certifications": []
+}

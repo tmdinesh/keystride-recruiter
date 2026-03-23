@@ -1,0 +1,32 @@
+{
+  "resume_id": "Sahithi K_anon",
+  "skills": [
+    "java",
+    "javascript",
+    "angular",
+    "html",
+    "css",
+    "bootstrap",
+    "jquery",
+    "spring",
+    "rest",
+    "soap",
+    "sql",
+    "mongodb",
+    "oracle",
+    "aws",
+    "ansible",
+    "ci/cd",
+    "apache",
+    "git",
+    "jira",
+    "swagger"
+  ],
+  "education": {
+    "degree": "Bachelor of Technology in Computer Science, MASKED_NAME, MASKED_LOCATION.",
+    "year": "Unknown"
+  },
+  "experience_years": 8,
+  "projects": [],
+  "certifications": []
+}

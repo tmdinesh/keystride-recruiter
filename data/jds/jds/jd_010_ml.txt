@@ -1,0 +1,16 @@
+ROLE: Senior Data Engineer
+SOURCE: RemoteOK
+URL: https://remoteOK.com/remote-jobs/remote-senior-data-engineer-federato-1130607
+
+Federato
+ is on a mission to defend the right to efficient, equitable insurance for all. We enable insurers to provide affordable coverage to people and organizations facing the issues of today - the climate crisis, cyber-attacks, social inflation, etc. Our vision is understood and well funded by those behind Salesforce, Veeva, Zoom, Box, etc.
+Federato is the only AI-native platform that spans the full policy lifecycle and changes the way insurance work gets done. Better decisioning is built-in, not bolted on: insurers' unique portfolio goals, strategies, rules, and appetite are part of the workflow so underwriters win the right deals, faster. From the moment a submission hits an underwriter's inbox, AI is put to work, triaging submissions with a focus on high-appetite business, delivering real-time feedback on the portfolio, and consolidating workflows into a single proven system. Federato drives better business outcomes.
+Role Overview
+You'll be joining a small, high-impact data engineering team within Federato's AI/ML organization. Our focus is on building the infrastructure and internal frameworks that empower machine learning engineers to develop, deploy, and iterate on AI-powered features ranging from prompt-based LLM workflows to more traditional model-driven systems. We collaborate closely with ML, analytics, and product teams to ensure data and tooling are reliable, scalable, and aligned with the needs of our AI-native platform.
+
+What You'll Be Doing
+:
+
+Collaborate with Data Science, Product Managers and Software Engineers to build robust ETL pipelines that enable the Product Support team to deliver compelling user-facing features
+
+Contribute to architecture decisions, observability tooling, and dat

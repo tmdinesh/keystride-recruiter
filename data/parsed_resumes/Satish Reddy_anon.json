@@ -1,0 +1,40 @@
+{
+  "resume_id": "Satish Reddy_anon",
+  "skills": [
+    "python",
+    "java",
+    "javascript",
+    "ruby",
+    "scala",
+    "react",
+    "angular",
+    "html",
+    "css",
+    "bootstrap",
+    "jquery",
+    "node",
+    "spring",
+    "express",
+    "rest",
+    "soap",
+    "sql",
+    "postgresql",
+    "mysql",
+    "mongodb",
+    "oracle",
+    "dynamodb",
+    "aws",
+    "apache",
+    "machine learning",
+    "spark",
+    "hadoop",
+    "jira"
+  ],
+  "education": {
+    "degree": "Unknown",
+    "year": "Unknown"
+  },
+  "experience_years": 9,
+  "projects": [],
+  "certifications": []
+}

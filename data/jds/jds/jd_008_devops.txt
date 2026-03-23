@@ -1,0 +1,42 @@
+ROLE: Technical Support Engineer EMEA
+SOURCE: RemoteOK
+URL: https://remoteOK.com/remote-jobs/remote-technical-support-engineer-emea-chainguard-1130613
+
+The role in a nutshell:
+
+Were looking for a 
+Technical Support Engineer
+ whos equal parts problem-solver, translator, and customer hero. Youll be the go-to person when customers hit snags with Chainguard Images, digging into technical mysteries, keeping folks informed, and partnering with Engineering to squash bugs before they cause chaos. This isnt just reset the password and move on support: youll work on real, complex issues with modern tools (Docker, Kubernetes, GitHub, Helm charts, Terraform, etc.), make customers feel like superheroes themselves, and help shape how Chainguard delivers world-class support. Serious work, fun team, big impact.
+
+What youll do:
+
+Be the frontline agent
+: Triage, investigate, reproduce, manage, and annihilate complex customer issues involving Chainguard Images.
+
+Escalate wisely
+: Engage the Engineering team when things get spicy.
+
+Communicate like a pro
+: Keep customers (and your SLAs) happy, informed, and impressed.
+
+Bridge the tech lingo divide
+: Explain things clearly to both code whisperers and non-tech humans.
+
+Document like a librarian
+: Create detailed write-ups of new issues and throw helpful Knowledge Base nuggets into the mix.
+
+Channel your inner detective
+: Prioritize your own queue, drive clarity in communication, and proactively guide issues to resolution.
+
+Speak up smartly
+: Push bugs, feature requests, and hidden gremlins up to Engineering and GTM teams.
+
+Learn, teach, repeat
+: Seek new challenges, share wisdom, and maybe teach someone your favorite GitHub ninja trick.
+
+Be there when it counts: 
+Participate in an on-call rotation for after-hours, weekend, and holiday support.
+
+What we're looking for:
+
+Youve spent 3+ years suppor

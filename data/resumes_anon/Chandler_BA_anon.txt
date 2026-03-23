@@ -1,0 +1,134 @@
+MASKED_NAME Analyst 
+6539 MASKED_LOCATION | Apt# MASKED_ADDRESS MASKED_LOCATION, MASKED_LOCATION 50266 | MASKED_PHONE | MASKED_EMAIL
+Overall 12 years of IT experience in Business Analysis, Project Management and Business Development.
+A Thorough Understanding of Software Development Life Cycle (SDLC). Hands on Experience in various SDLC Methodologies such as Waterfall, Agile, SCRUM and JAD.
+In-Depth Knowledge and Experience in Web Applications, Web Design and Mobile Applications development life cycle.
+Hands on Experience in managing the project End to End from Requirements Gathering to User Acceptance Testing.
+Solid Experience in Requirements Management including Gathering, Analyzing, Detailing and Tracking the Requirements. Skilled in Documenting Requirement using UML, User stories and Wireframes.
+Consistently delivered projects and releases on time by coordinating effectively with the stakeholders and development team.
+Outstanding experience in Creating Project Plan, MASKED_NAME, project cost.
+Sound Experience in being a SCRUM Master.
+Handled Healthcare applications, Ecommerce applications, MASKED_NAME and IOS Apps projects.
+Conducting Training sessions throughout the project life cycle to both team and the end users.
+Sound Understanding in Quality Analysis procedures.
+Sound knowledge and experience in HIPAA security standards, HITECH compliance healthcare systems.
+Expertise in handling Provider Billing and Medical/Health Insurance applications.
+Strong Understanding and Experience in Documenting Reports using MASKED_NAME like WORD, Excel, PPT, VISIO and MS Project.
+Highly motivated team player with excellent analytical, problem solving, interpersonal and communication skills.
+Leverage Technical, Business and Financial acumen to communicate with Clients and their teams.
+Skills Summary
+Microsoft Tools		: MS Project, MASKED_NAME, MS Office
+Software Engineering Tools	: MASKED_NAME, Pencil, PMB, MASKED_NAME, MASKED_NAME
+SDLC Methodologies		: Waterfall, Agile
+Database		    	: MySQL, Microsoft SQL server 2014
+Querying Language		: MySQL, MS SQL, PL/SQL
+Web Technologies		: HTML, CSS, PHP, SMARTY, MASKED_NAME		: Mantis, Bugzilla
+Web & Application Server	: Apache, IIS6.0
+Operating Systems		: Windows 2000/XP/Vista/MASKED_DOB, MASKED_LOCATION, Android, IOS
+Agile Methodology		:  Scrum Master – MASKED_NAME – MASKED_NAME
+Conduct Scrum Ceremionies –  MASKED_NAME, MASKED_NAME tracking, Monitoring sprint health, Capacity and sprint planning, Backlog prioritization, Stakeholder Management, Retrospectives and MASKED_NAME.
+			   Coaching the team and Plan Releases. 
+Domain Expertise		 : Healthcare, Ecommerce, B2B, B2C, MASKED_LOCATION, Supply chain, Finance
+Mobile Application		 : MASKED_NAME, IOS apps
+Professional Experience
+       Weso Infotech - Business Analyst
+                         Client: Malvern Institute(Rehabilitation Hospital), MASKED_LOCATION                            Jun 2016– Till Date
+Business Analyst
+ROC Application Automation
+Facilitate elicitation with the operation representatives of differing levels in MASKED_LOCATION to identify the business objectives.
+Develop initial business cases and conduct feasibility studies for possible automization of Manual work flows.
+Contribute and Maintain work flow diagrams as a base to aid future development work.
+Support project proposals by generating reports from existing system.
+Created product backlog with project proposals for prioritization.
+Produced detailed user stories and acceptance criteria for IT team in MASKED_LOCATION and MASKED_LOCATION.
+Designed web UI Prototypes using MASKED_NAME and MASKED_NAME.
+Collaborated with QA team construction of test scenario to ensure sufficient testing coverage.
+Verify solution demo by development team.
+Performed UAT upon completion of development.
+Trained first batch of staffs and Produced detailed user guide upon completion.
+Integration of Medical billing (Medicare, Medicaid and Q2) with the application.
+Grouping and SMS
+Proposed and implemented successfully a new Grouping feature and SMS option in existing  ROC Application.
+Collaborated with the representatives and end users to find feasible solutions to ensure the new features in fulfilling their demands.
+Facilitated the negotiation with Nexmo SMS team in getting the required package customized to user needs and development team.
+Acted as a SCRUM Master.
+Other projects with this client: ROC IOS APP, MASKED_LOCATION FORMS, MALVERN BILLING & SAFETY FORMS
+Environment: PHP, MySQL, HTML5.0, CSS, ASP.NET, MSSQL, PL/SQL, JIRA, BALSAMIQ, AGILE, SCRUM, IOS, Healthcare, HIPAA, HITECH
+Client: Peertasker, MASKED_LOCATION						      Aug 2015- MASKED_NAME MASKED_ADDRESS
+Peertasker Application
+Conducted walkthroughs and acted as a bridge between business users, stakeholders and the team to do requirements, quality and risk analysis.
+Involved extensively in the inception phase for better understanding the scope of the project, feasibility of the implementation and define the risk factors involved in the project.
+Gathered business requirements through JAD sessions and analysis by interviewing users.
+Analyzed business requirements and assigned appropriate priorities.
+Produced and Documented Use cases, Use case diagrams and Activity Diagrams.
+Created user stories, prototype screens.
+Effectively maintained the requirements and requirement change requests during various phase of project life cycle.
+Monitored sprint health and ensured Backlog has been prioritized.
+Trained Technical Teams to have better understanding of the Requirements.
+Addressed requirements with in timeframe, feedback on project status.
+Weekly status updates to the project manager and the stake holders.
+Conducted UAT sessions and trained the end users.
+                          Other projects with this client: Peertasker IOS APP    
+                          Environment: PHP, MySQL, MASKED_NAME, MASKED_NAME, CSS, AGILE, JIRA, IOS, SKETCH
+Client: Expert Appointment, MASKED_LOCATION, MASKED_LOCATION				 Feb 2012- Aug MASKED_ADDRESS & Project Manager
+Real-time Voice, Video communication with PCPs and Specialists
+Performed as a business analyst throughout this enhancement.
+Proposed and integrated the real time video communication feature to the existing application.
+Collaborated with the Expert Appointment representatives to ensure all the objectives are collected. Coordinated with the SMEs in meeting the demands of end users.
+Produced use case diagrams, user stories.
+Regular meetings with development teams and stake holders in facilitating the feasibility study. Produced regular reports to evaluate the performance.
+Monitored the UAT and Trained the end users in using the application.
+Implementation of Expert Appointment in Johns Hopkins Medical University
+Performed as a business analyst.
+Facilitated JAD Sessions with the JHM University representatives to record the business requirements using Agile SCRUM.
+Produced Detailed user stories and submitted the backlog to the steering committee.
+Collaborated with the team and customer in implementing the feature enhancements and expected security enhancements by JHMU.
+Produced and maintained status reports.
+Verified solution demo by the development team. 
+Performed UAT upon implementation.
+MASKED_NAME workshop to the JHMU staffs and usability of application.
+Responsible for the PCP and specialist reimbursement feature (fee for service, capitation MASKED_LOCATION payments). Medicare, Medicaid and MASKED_NAME.
+Handled the integration of Medical claims and benefits application.
+Expert Appointment Application
+Played the role of business analyst and project manager
+Defined Project  plan, scope and derived budget for the application.
+Conducted sessions with the development team in finding out the risks and its possible solutions.
+Produced and MASKED_LOCATION project schedule reports.
+Collaborated with cross functional team across the development life cycle.
+Monitored the project activities and produced Status reports.
+Managed QA testing and UAT. 
+Worked closely with the end users and Conducted Demos to ensure the objectives are met.
+                          Environment: PHP, MySQL, MASKED_NAME, CSS, PENCIL, MS VISIO, AGILE, SCRUM, JIRA, Healthcare,   
+                                                   HIPAA, HITECH
+Client: Recovery Maps Inc, MASKED_LOCATION				Dec 2010- Mar MASKED_ADDRESS
+Requirements Elicitation with the stakeholder.
+Develop and documented Feature document, Use cases and wireframes.
+MASKED_NAME Use case Diagrams and Activity Diagrams.
+Produced User stories in product backlog, MASKED_NAME points and Capacity planning.
+Developed user acceptance criteria.
+Responsible for Daily stand up meetings, monitoring sprint health and sprint retrospective meetings.
+Interacted with QA team in delivering the sprint as per the scheduled. 
+Prioritizing the backlog in next sprints.
+Performed UAT upon completion of development.
+Involved in installation of the application to various hospitals and clinics.
+                            Environment: PHP, MySQL, MASKED_NAME, CSS, PENCIL, MS VISIO, HEALTHCARE, HIPAA, HITECH
+Client: Marvel Interiors Inventory Application				Jan 2010- Dec 2010
+Project Manager
+Defined Project  plan, scope and cost benefit analysis for the application.
+Conducted sessions with the development team in formulating the risk mitigation plans.
+Produced and MASKED_LOCATION project schedule reports.
+Documented Status reports and submitted to upper management.
+Managed QA testing and UAT. 
+                            Environment: PHP, MySQL, MASKED_NAME, CSS, MS PROJECT, SUPPLYCHAIN
+Other projects  handled
+ Idhunammakadai MASKED_NAME App(Ecommerce) , Idhunammakadai IOS App (Ecommerce), Idhunammakadai POS Software(Ecommerce), Yardsale IOS App(Ecommerce), Weso Accounting Application(Finance), Skin Interiors Ecommerce application, Tradespotters Ecommerce application, Teeday wholesale (Ecommerce), Canada Pharmacy (Ecommerce) etc., 
+MASKED_NAMECognostek, MASKED_LOCATION, MASKED_LOCATION as a Project Manager from Dec 2008 – Dec 2009
+Responsible for Project Initiation, Scope definition, execution, monitoring and close reporting to top Management, budgeting and closure of all projects. Responsible for Business analysis techniques such as Requirements Elicitation and Requirements  Documenting & Management.
+Gants Software Solutions, MASKED_LOCATION, MASKED_LOCATION as a Project Manager from Oct 2005 - Nov 2008
+Managed lot of web applications in both PHP and ASP.NET. Responsible in managing project s in Waterfall. Involved in project initiation, planning, monitoring, Budgeting, Team mentoring, MASKED_NAME, Stakeholder discussion, Coordinating with business development team, reporting to top management on weekly basis. Responsible in Requirements gathering, Requirements documenting and management.
+Dotcom Infoway, MASKED_LOCATION, MASKED_LOCATION as a Customer Support Executive from May 2005 - Oct 2005  
+Responsible for placing the project proposals, preparing proposals and chat support in generating the leads.
+Education & Certifications
+Masters in Business Administration(MBA), Madurai Kamaraj University (MASKED_LOCATION, MASKED_LOCATION), Jan 2012 - Dec 2013
+BSc in MASKED_LOCATION.Physics,  The American College (MASKED_LOCATION, MASKED_LOCATION), MASKED_NAME
+DNIIT program in NIIT , NIIT (MASKED_LOCATION, MASKED_LOCATION), 2003

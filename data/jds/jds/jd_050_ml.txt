@@ -1,0 +1,57 @@
+ROLE: Machine Learning Engineer - Automotive Unit
+SOURCE: Arbeitnow
+URL: https://www.arbeitnow.com/jobs/companies/simi-reality-motion-systems-gmbh/machine-learning-engineer-automotive-unit-unterschleissheim-24530
+
+ZF LIFETEC is one of the world's leading suppliers of passive safety systems. As Simi Automotive, a global innovation leader for motion capture software and complete systems for recording and analyzing human movements and a subsidiary of ZF LIFETEC, we contribute our experience with camera-based systems to developing solutions for vehicle interior monitoring and occupant safety. We are working on adaptive restraint systems with our colleagues at ZF LIFETEC.
+
+Tasks
+
+We are seeking a highly skilled and motivated ML Engineer to join our AI team. As an ML Engineer, you will work on a variety of exciting projects in the domain of vehicle interior monitoring and production quality monitoring. You will collaborate with the software developers and data engineers to design, train, deploy, and evaluate state-of-the-art ML algorithms for our automotive demonstrators.
+
+Responsibilities
+
+Train and evaluate state-of-the-art deep neural networks for tasks including image-based classification, detection, segmentation, and pose estimation.
+
+Implement well-structured and documented code for training pipeline, data pipeline, qualitative analysis, and performance evaluations.
+
+Deploy models on embedded/restricted hardware.
+
+Data sampling and analysis for specific ML tasks.
+
+Analyzing and documenting the quantitative and qualitative performance of ML models.
+
+Providing valuable feedback and recommendations for the data collection and labeling for ML tasks.
+
+Analyzing model performance in real-life demonstrations in vehicles.
+
+Requirements
+
+Requirements
+
+Master's degree in computer science or similar (Please send your detailed diploma).
+
+Experience in Machine learning projects during (student) job, internship or thesis
+
+Profound knowledge in machine learning, deep learning, and computer vision.
+
+Profound programming skills in Python, and its packages including PyTorch, Tensorflow, openCV, etc.
+
+Knowledge of neural network model porting to embedded systems.
+
+Good to have
+
+Research paper implementation and personal GitHub page
+
+Knowledge of state-of-the-art neural network model architectures.
+
+Data distribution understanding and its correlation to training.
+
+Experience with synthetic data generation techniques, e.g, diffusion models, variational autoencoders, GANs, etc.
+
+Experience with model optimization techniques for embedded hardware, e.g, quantization, pruning, etc.
+
+We offer the opportunity to take on responsibility and make a difference, flat hierarchies and flexible working hours. In addition to working in our new, modern office in Unterschleiheim, it is also possible to work from home part of the time. A highly motivated team of software developers and machine learning experts who work together with the target to make driving even safer is looking forward to meeting you!
+
+Find more 
+English Speaking Jobs in Germany
+ on Arbeitnow

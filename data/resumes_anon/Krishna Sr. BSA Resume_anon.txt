@@ -1,0 +1,129 @@
+MASKED_NAME Business Systems Analyst
+MASKED_EMAIL       Phone : MASKED_PHONE	
+SUMMARY  
+IT professional with over 8+ years of Industrial experience in Insurance, E-commerce and Digital Marketing. Possess effective Communication, analytical and problem-solving skills with Creative Implementation Techniques.
+Highly skilled professional with industrial experience on standard Software Development Life Cycle (SDLC) methodologies like Waterfall, MASKED_NAME, Kanban and Waterfall-Scrum Hybrid and have decent understanding on Rational Unified Process.  
+Proficient in Stakeholder Analysis, Impact Analysis, Risk analysis, Change Management, Dependency Management, Conflict Management Cost-Benefit Analysis and Gap Analysis includes AS-IS and TO-BE analytical techniques. 
+Seasoned in facilitating Scrum Ceremonies including User Story Workshops, Daily Scrum, Sprint Planning, Sprint Review, MASKED_NAME and MASKED_LOCATION meeting. 
+Performed Business Process Modelling (BPM), Analysis & Re-engineering and providing solutions for issues relating to Risk management and Solution Management processes for better and efficient decision making in time.
+Expertise in designing, MASKED_NAME, Wire Frames, MASKED_NAME and Power Point Presentation.
+Expertise in gathering and managing MASKED_NAME and tracked defects working with Jira, Rally (CA Agile), SharePoint Enterprise 2016, HP Application Lifecycle Management (HPALM) and HP Quality Center (HPQC).
+Proficient in conducting and facilitating Joint Application Design (JAD) sessions and interviews, brainstorming sessions, questionnaire, Document analysis, focus group, workshops, and Status Demo sessions. 
+Proficiency in gathering requirements and transforming them into MASKED_LOCATION and Non-Functional specifications.
+Proficient in Object Oriented Analysis (OOA) and well acquainted with workflows and Unified Modeling Language (UML) diagrams including Use Cases, Activity charts, Sequence diagrams, ER diagrams and Data flow diagrams (DFD’s) using Rational Rose and MS-Visio thus assisting development team in preparing Business Process Model. 
+Extensive experience in drafting and analyzing Request for Proposal (RFP) and Request for Information (RFI), Business Requirements Document (BRD), Functional Specification Documents (FSD), Software Requirement Specifications (SRS), Use Case documentation and Requirement Traceability Matrix (RTM)
+Acquainted with Relational Database Management systems (RDBMS), Meta Data Analysis programmed SQL Queries, business logics, Stored Procedures and exposure to various databases and modelling techniques. 
+Expertise in creating ER Diagrams with Conceptual Data models, Physical Data models by capturing the requirements.
+Extensive knowledge on Data Warehousing architecture, Implementation approaches, schemas, dimensional modeling, Data Marts, MASKED_NAME and MASKED_NAME, OLAP Cubes operations, and able to perform Reverse Engineering Analysis interpreting the business requirements and identify the source systems.
+Proficient in drafting Data Dictionaries, Data Mappings and identifying various MASKED_NAME ensuring the Data Integrity.
+Extensive experience over ETL (Extract Transform Load) process in Data Integration, Data Migration and Data Warehousing using Informatica Power Centre, IDQ (Data Quality) and SSIS-SSAS-SSRS with planning strategies and Management.
+Comprehensive understanding of Three-Tier Architecture and Service Oriented Architecture (SOA), Web Services, APIs, REST & SOAP using XML, JSON, WSDL and UDDI, with internet protocol suites like HTTP/HTTPS and FTPS.
+Decent exposure with Administration, configuration, Implementation, and Data Loading process, Application Integration in Salesforce CRM, SOQL and SOSL querying and Application development with MASKED_LOCATION and visual force.  
+Extensive experience in Declarative approach of Development by designing Custom Applications, Objects, MASKED_LOCATION, Access Matrix ensuing the Data Security ( at Object level, Field level and Record level), Org Wide Default (OWD) rules,  profile management,  page layout, search layout, Import wizard, ER diagramming and Dependency identification, licensing, Permission Sets, MASKED_NAME, Automation  of Outbound Message and emails, Role Based Page Layouts, MASKED_NAME and Actions, Validation Rules, Approval Processes, Field mapping, MASKED_NAME, MASKED_NAME, Report Extractions to various formats, Audit Trail, Snapshots, Dashboards , MASKED_NAME.
+Proficient in Technical Writing and API testing using SOAP UI 4.5, MASKED_NAME and Postman 4.8.0.
+Collaborate with Quality Assurance Team and well versed in conducting various testing like Functionality testing, System Testing, Performance Testing and User Acceptance Testing (UAT) and helped in developing test plans & test scenarios.
+Expert in preparing MASKED_NAME manuals, Project Implementation Materials and Standard Operating Procedures.
+TECHNICAL SKILLS
+EDUCATION 
+Bachelors of Technology - Jawaharlal Nehru Technological University
+PROFESSIONAL EXPERIENCE 
+1. Germania Insurance, MASKED_NAME, TX		Sr. Business Systems Analyst			Feb 2017- Till date 
+The aim of the project to develop an Enterprise Level Information Intelligence System and there by integrate with Duck Creek Suit (Insights)  and Salesforce CRM , which enables Risk Management Team, Actuaries and Decision Support Systems to perform Consolidated Geo-Special Analysis which helps in Managing the Risk in multiple line of business like Life Insurance, P&C Insurance  for both Personal and Commercial policies and taking appropriate decisions in time further provides competitive advantages in Policy Pricing, Underwriting, Risk Exposure management, Catastrophic management, financial survival and Reinsurance Planning.
+Assisted the project managers in developing project plan that included Project Schedules, MASKED_LOCATION tracking, and MASKED_NAME minutes using MS Project.
+Created Business Process Workflow diagrams of Current and Expected System, using MASKED_NAME and makes sure that both business and technical teams understand the process.
+Elicited business requirements by conducting JAD sessions, Interviews, Focus Groups and Brain Storming sessions.
+Drafted and Managed Business Requirement Document (BRD) and Functional Requirement Specifications (FRS) in Share Point Enterprise 2016 and led the Requirement Workshops where the specifications get converted into User Stories. 
+Created and maintained Requirement Traceability Matrix (RTM) correlating the system requirements to functional- nonfunctional requirements and then to test cases.
+Worked closely with Data Analyst Team and assisted in assuring the integrity of the collected data.
+Analyzed and drafted Service Detailed documents from Web Service Description Language (WSDL).
+Co-ordinated the Quality Assurance teams in Application Programming Interfaces (APIs) testing using Postman 4.8.0 and assisted in Technical Writing Workshops.
+Proactively defined Reporting-Business Rules for Business Intelligence Analysts to expand on KPI metrics. 
+Worked on Relational Database Management systems (RDBMS), programmed SQL Queries, MASKED_NAME and documented Data Dictionaries and Data Mapping Artifacts.
+Assisted Quality Assurance Team with Test Plans, Test scenarios and Test cases.
+Involved in System Integration Test Planning, Test Preparation, Test Execution and Issue Resolution and Report Generation to assure that all aspects of a Project are in compliance with the Business rules.
+Facilitated the Pre UAT (User Acceptance Testing) and UAT; assisted in testing and maintaining quality procedures such as Black box and Regression testing; created all the relevant documents for appropriate users.
+Created User Manuals with detailed list of parameters and system responsive screen shots. 
+Environment: Waterfall-Scrum Hybrid, Duck Creek Suit, TDD, Eclipse Mars 4.7, ArcGIS Enterprise 10.3, Share Point Enterprise 2016, JIRA, MASKED_NAME, MS Project, SOA, RESTful, MASKED_NAME, XML, Informatica Power Centre, IDQ, Postman 4.8.0 - API Testing, Oracle 11g, AWS, MS Office tools (MASKED_NAME, MS PowerPoint), MySQL MASKED_LOCATION.
+2. Sun Life Financial, MASKED_LOCATION, MA	Business Analyst/ Scrum Master			Jul 2015-Feb 2017
+The project was to completely migrate the Legacy CRM Application on the MASKED_LOCATION to the Salesforce CRM to reduce its footprint and overhead costs that comes up with infrastructure maintenance. As part of this vision, the organization wanted to integrate the migrated Application with the Enterprise Service Bus(ESB) with in a Service Oriented Architecture (SOA). 
+Elicited business requirements for the project using interviews, document analysis, surveys, site visits, use case scenarios and used standard template of the organization to develop requirements.
+Gather the acceptance down time windows from System Traffic Reports and assist the project management team in Batch processing and Migration Strategy.
+Responsible for Stakeholder Analysis, Managing the requirements creating UML diagrams (Use Cases, Activity Diagram and Class Diagram) to capture and represent the dynamic behavior of different applications.
+Provided Administrative Support and created Custom objects, fields- Leads, Marketing, Campaign, MASKED_NAME, Sales, and Account for Salesforce. Configured security and organizational hierarchy for sales for salesforce implementation.
+Involved in MASKED_LOCATION and development of Workflows rules, Testing, triggers, validation rules and customizations with Salesforce, Configured Reports for custom objects and associated them to MASKED_NAME.
+Customized page layouts for Salesforce standard and customized workflows, Approval process, objects, MASKED_NAME, Out bound messaging services, Exception to OWD (Org wide Defaults) as per the requirement.
+Drafted Data Dictionaries, Data Mappings Artifacts and identified various MASKED_NAME required. 
+Involved in the System Integration Testing (SIT), and perfumed Work Flow- Functionality testing validated Test reports.
+Worked on API Documentation and Technical Writing and supported ESB Integration Team on SOA. 
+Facilitated the Pre UAT (User Acceptance Testing) and UAT; assisted in testing and maintaining quality procedures such as Black box and Regression testing; created all the relevant documents for appropriate users.
+Environment: Waterfall-Scrum hybrid, JIRA, Confluence, MS project, MASKED_LOCATION office MASKED_NAME (Word, Excel, PPT and MASKED_NAME), MASKED_NAME, APEX, Data loader, Visual force, Webservices, Force.com IDE, MASKED_NAME soft ESB, SOA, MASKED_NAME, XML, WSDL, SOQL.
+3. MASKED_LOCATION DOLWD, Anchorage			Sr. Business Systems Analyst			Feb 2014-Jun 2015
+The aim of project was to build an upgraded Data Warehouse System for Workforce Development Department, by extracting data from heterogeneous databases. The resulted data system comprised a single repository for data records spanning the full range of workforce systems, including unemployment insurance, apprenticeship training and the One-Stop Career Centers, enabled with better enhanced analysis, financial surveillance, budget allocation, expenditure tracking and consolidated reporting capabilities.
+Perused and finalized the ready ness of Request for Proposals (RPF) and assisted the Project Management Team in creating Response Documentation, Project Charters. 
+Facilitated JAD sessions as Moderator and conducted interviews, focus groups with various Subject Matter Experts (SMEs) 
+and stakeholders, process reviews and policy & procedure reviews to elicit requirements.
+Proactively participated in LAND SCAPE Analysis to identify the GAP between the current and expected system.  
+Prepared Business Requirement Document (BRD/HLD) and assisted preparation of System Requirement Specification (SRS). MASKED_NAME, modified and validated requirement artifacts. 
+Used Reverse-Engineering techniques to be identified the missing sources and attributes.
+Created Business Use Cases and built Use Case Diagram and Activity Diagram using Smart Draw.
+Collaborated with the Data Architects in Designing & Modelling the Targeted Data Bases.
+Highly involved in Dimensional Analysis, Meta Data Analysis, System Catalog Analysis and created Data Dictionaries.     
+Assisted Data modeling process by creating conceptual and logical ER diagrams and designing database schemas to help development of an accurate Data Warehouse Structure.
+MASKED_NAME in Source Data Analysis and Extraction Strategy using SSIS as an extraction and integration platform. 
+Created Data Dictionaries and Data Mapping Documents (S2T Artifacts) with all the required transformation logics.  
+Worked with QA team to design and develop Test Plan and Test Cases to perform User Acceptance Testing (UAT), Functional Testing and Regression Testing.
+Assisted in Strategical Planning for Data Integrity, Data quality and adding Data Verification and Validity to maintain accuracy and effectiveness of data.
+Involved with Business Intelligence (BI) team creating report catalogs and required parameters as per the requirements.
+Query Multiple Data bases MASKED_LOCATION, MS SQL with SQL queries and documents the analysis reports.
+Collaborated with in Test Planning, Test Preparation, Test Execution and Issue Resolution and Report Generation to assure that all aspects of a Project are in MASKED_LOCATION with the Business Requirements
+Experienced in MASKED_NAME and tracking the defects using HP Quality Center. Created an error repository and managed the testing process with the QA team
+Worked with BI team in creating the Training Manuals with Standard Operational Procedure. Helped the end users getting accustomed to the system by live demonstrations and system tutorials.
+Environment: Waterfall, MS Office suit, SSIS_SSAS_SSRS, MS VISIO, MS Project, MS TFS, DWH Architecture, SharePoint, MASKED_NAME 9.5, MS SQL, POSTGRE SQL, Main frames. 
+4. Grange Insurance, MASKED_LOCATION, OH		Business  Systems Analyst			Nov 2012-Dec 2013 
+The client is one of the leading providers of MASKED_LOCATION and life insurance service. The project was about creating an application on the salesforce platform that tracks the customers interests searches on the Enterprise web site and connect it to CRM System data, so that the Marketing Management Team can pay attention to their prospect’s interests.
+Interacted with users and stakeholders to identify business needs, evaluated solutions for business problems.
+Conducted Joint Application Development (JAD) sessions and Requirement Workshops (RW) with Subject Matter Experts. 
+Configured Data security and Organizational hierarchy for Org salesforce implementation.
+Customized page layouts, custom objects, fields, MASKED_NAME, Sales, and Account.
+Involved in MASKED_LOCATION and development of Workflows rules, triggers, validation rules and customizations with Salesforce.
+Administered Salesforce CRM applications for Sales, Marketing and Support Departments.
+Responsible for all the activities related to configuring Import Wizards, Data Loader.io, uploading data in CSV files into salesforce.com, checking for integrity of the data. Set up visibility securities like roles, profiles, field level securities.
+Created and maintained Data Mapping Documents and Data Lineage Designs in MS Excel and MASKED_NAME.
+Designed and developed all Use Cases and UML models using MASKED_NAME.
+Assisted in designed Test Plans, Test Cases for Functional Testing, Load Testing and User Acceptance testing (UAT) and assisted Quality Assurance Teams in tracking the issues.
+Provided the sophisticated user manuals and training material to the marketing team to create MASKED_NAME videos.   
+Environment: MASKED_NAME, Guidewire Insurance Suit, SOA, MASKED_LOCATION project, MS office Suit, MS Project, MASKED_NAME, Angular JS (SPA), IBM Web Sphere (MASKED_NAME application), Eclipse IDE MASKED_NAME, MASKED_NAME 11.5, MASKED_NAME, Apex Data Loader, Workflow Approvals.
+5. MASKED_NAME, Hyderabad		Business Systems Analyst			Feb 2012-Oct 2012
+The project was to develop Highly Responsive Pages (HRP) and mount them on the Enterprise website with detailed demos of Improved Business Process of an Insurance Company. And further location of Visitors and details are tracked and connected to the existing CRM system which helps the Organization to transform their Prospects into Potential customers. 
+Worked with Subject Matter Experts, Digital Marketing Analyst, Project Managers and Business Owners to understand the business process gather Business Requirements and identified enhancements. 
+Conducted various sessions like JAD Sessions, MASKED_NAME and Focus Groups for eliciting pragmatic requirements.
+Drafted and Managed User Stories and Features and Create User story Dependency Matrix and MASKED_NAME mapping artifacts.
+Developed Mock Screen and Wire Frames and presented as MASKED_LOCATION session to the Primary Stakeholders.
+To automate Cross Browser and Cross Platform testing used Selenium Testing Framework for automated Web application 
+testing and auto scripting. 
+Responsible for meetings with users and stakeholders to identify problems, resolve issues and improve the process to 
+ensure the system meets all the goals of the project.
+Produced visual models for the application using UML MS Visio to create Use Cases, Sequence Diagrams.
+Collaborated and negotiated with stakeholders in defining project scope boundaries. 
+Environment: SCRUM, MASKED_NAME, MS Office Suite, MASKED_NAME, Selenium Testing Framework, POSTGRE SQL, MASKED_NAME, CRM Systems.
+6. Snap Deal, Hyderabad			Business Analyst				Nov 2010- Jan 2012
+The project was to enhance the Business Process of an E-commerce website with single-click Payment Processing System. 
+Interacted with users and stakeholders to identify business needs, worked with SME’s of diverse groups to gain detailed knowledge of E-commerce shopping.
+Conduct JAD sessions authored functional MASKED_NAME (FRD).
+Understood 3-Tier Architecture, Service Oriented Architecture, Data base to applications connective MASKED_NAME, Web Services, MASKED_NAME, API, Web Servers.  
+Created Stake Holder’s Matrix, Mock Up screens. And Assisted UI team in MASKED_LOCATION with HTML, CSS, JS, bootstrap.
+ Drafted Traceability Matrix for tracking the requirements aligned with the test cases.  
+Identified all necessary Business Use Cases from requirements, created UML Diagrams 
+Worked as a team with other business analysts to make an object-oriented model and created use cases.
+Analyzed Business Requirements Document (BRD) and used Microsoft Project to manage schedules, deadlines, and resources and collaborate on the project.
+Environment: Waterfall-Scrum Hybrid, MS Office, HTML, CSS, JS, MS Project, MASKED_NAME, UML, Test, SQL version 2012.
+7. Myntra, Hyderabad				UX Designer					Aug 2009 – Oct 2010  
+The scope of the Project is to enhance the application for Ecommerce Platform for an online apparels and accessories.
+Translate concepts into user flows, wireframes, mock-ups and prototypes that lead to intuitive user experiences.
+Served as a liaison between business team and the UI team by assisting the business in identifying, understanding their intended look and Design of the Pages.
+Used Photoshop and Balsamic extensively to develop Designs and frames models.
+Collect and manage User Experience Reports/feedbacks of the former and competitor UX reports.
+Prepare Customer Analysis Reports based on the Targeted Demographics and Previous Transactions.
+Communicating scenarios, end-to-end experiences, page layouts and Screen Designs with Cross Functional Teams.
+Conduct usability tests on each independent page on the website and show case the reporting to the stakeholders.
+Environment: Agile- KANBAN, Adobe Photoshop, Balsamic, MS EXCEL, MASKED_NAME, MS PowerPoint.

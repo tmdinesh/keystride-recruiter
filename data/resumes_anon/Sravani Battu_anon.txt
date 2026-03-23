@@ -1,0 +1,83 @@
+Sravani B 											     Full Stack Developer
+PROFESSIONAL SUMMARY:
+6 years of experience in all phases of the software development life cycle (SDLC) starting from requirement gathering to software design, development & implementation, delivery, test planning and production support. 
+Involved in implementation of various web based, multi-tier applications using MASKED_NAME/J2EE. 
+Experience in MASKED_NAME based technologies, which include MASKED_NAME, JSP, MASKED_NAME, Restful Web services and frameworks such as MASKED_NAME, Spring-Boot. 
+Hands on experience in Project Planning, MASKED_LOCATION solving, tracking to resolve long-pending issues encountered during projects.
+Experience in designing, developing and implementing Multi-tier, Client/Server, Enterprise and Web applications using MASKED_NAME/J2EE.
+Extensive experience in working with MVC Architecture, MASKED_NAME and MASKED_NAME.
+Extensive experience with MASKED_NAME ORM tools.
+Very good understanding of web-based technologies such as JSP, JSF, HTML, CSS, PrimeFaces and JavaScript.
+Expertise in developing and implementing web applications using MASKED_NAME and J2EE Technologies includes MASKED_NAME, MASKED_NAME and JSP.
+Experience in configuring, and troubleshooting MASKED_NAME, MASKED_NAME and HTTP adapters.
+Strong knowledge in Object Oriented Programming concepts.
+Extensive knowledge in MASKED_NAME, Collections API and Multithreading.
+Excellent skills in creating and accessing various databases using SQL Queries, MASKED_NAME, Postgres,
+H2 in-memory MASKED_LOCATION, PL/SQL on various databases like MySQL, MASKED_NAME 10g/11g.
+Extensive experience in programming, deploying, configuring, fine-tuning middle-tier J2EE Application using Apache Tomcat 6.x/7. x.
+Hands on experience IDE’s like IntelliJ and Eclipse.
+Highly result oriented and pro-active, proven abilities to learn new technologies quickly and implementing them successfully in production.
+Strong Inter personal communication skills & ability to work independently as well as in a group.
+Experience working on Hadoop, Spring-XD, MASKED_NAME, MASKED_NAME and Spark.
+SKILLS:
+PROFESSIONAL EXPERIENCE:
+Equifax, MASKED_LOCATION, GA								                                  Jan 2016 – present
+Full Stack Developer
+Description: The project Talon is a platform being developed for Equifax customers to track their consumers against a high-risk list of individuals or entities while on-boarding. It provides a Search/match feature to the customers as a core capability and interacts with a third party Informatica tool to score and categorize an individual or business against a compliance database to perform MASKED_NAME.
+The project follows a 2-week agile model of implementation based on Scrum. I have contributed for major modules of the core capabilities. The core implementation revolves around Spring Boot, MASKED_LOCATION, MASKED_NAME, Postgres, in-memory H2 and developing User Interface for case management and search-match using MASKED_NAME, JSF PrimeFaces, MASKED_NAME.
+Responsibilities:
+Developed multi-tier J2EE application for the important modules of the project like Screening, Matching, MASKED_NAME and set up customer and business Configurations using MASKED_NAME, MASKED_LOCATION. 
+Experience working on Hadoop, Spring-XD, MASKED_NAME, MASKED_NAME and Spark.
+Used JPA for database persistence, Postgres PGAdminIII, H2 in-memory database, MASKED_NAME database to store and retrieve customer and business hit records. 
+Produced and MASKED_NAME (JAX-RS) Web Services using Postman Rest Client, MASKED_NAME, to interact with different applications from Informatica and third-party tools. 
+Performed unit testing using JUnit, test functional behavior and performance using JMeter.
+Have been a responsible Scrum Master for a few sprints.
+Installing, configuring and maintaining Continuous Integration, Continuous Deployment, Automation and Configuration Management tools.
+Expertise in deploying enterprise applications on WEB /Application servers like Apache Tomcat.
+Interacted with customers to compile MASKED_NAME and other design document. 
+Coordinated test plans and build for System testing, UAT, Pilot with QA. 
+Experience in Chef Management tool.
+Experience in XML related technologies like XPath.
+Involved in peer code reviews.
+Environment: JDK 1.7, Agile Development Process, JSF, Spring 3.0, Web Services, Spring-boot, Hibernate 3.0, JMS, JSP, HTML, CSS, JSF, XML, XPath, LOG4J,MASKED_LOCATION, JavaScript, MASKED_NAME, JMeter, MASKED_NAME, MASKED_NAME, Postgres, Oracle, H2 in-memory MASKED_LOCATION, Hadoop, Spring-XD, Apache-Kafka, MASKED_NAME, Ambari, MASKED_NAME, Chef, MASKED_LOCATION, SonarQube, MASKED_NAME, Intelij-IDE .
+Wells Fargo, MASKED_LOCATION, GA	                                                                                      	                   Jan 2015 – Dec 2015
+Application Developer
+Responsibilities:
+Gathered system requirements for the application and worked with the business team to review the requirements and went through the Software Requirement Specification document and Architecture document.
+Designed and developed web-based software using Spring MVC Framework and MASKED_NAME.
+Worked on the JAVA Collections API for handling the data objects between the business layers and the front end.
+Using Agile methodologies to plan work for every iteration and used continuous integration tool to make the build pass before deploying the code to other environments.
+Involving in design, development, testing and implementation of the process systems, working on iterative life cycles business requirements, and creating Detail Design Document.
+Used Spring ORM module to integrate with MASKED_NAME.
+MASKED_NAME framework to connect to database and mapping of java objects to database tables.
+Involved in writing the Maven build file to build and deploy the application.
+Worked on GIT version Control Systems.
+Designed the user interface of the application using MASKED_NAME, CSS3, JSF 2.1, JavaScript.
+Used Log4J to capture the logging information and JUnit to test the application classes.
+Designed and developed Web Services to provide services to the various clients using Restful.
+Prepared Unit and System Testing Specification documents and performed JUnit and System testing of the application.
+Reviewed the code for ensuring adherence to MASKED_NAME coding standards.
+Developed Functional Requirement Document based on user’s requirement.
+Environment: JDK 1.7, Agile Development Process, JSF, MASKED_NAME, Web Services, MASKED_NAME, JMS, JSP, HTML, CSS, JSF, XML, LOG4J, JavaScript, SQL, Postgres, MASKED_LOCATION, MASKED_NAME, Eclipse-IDE.
+Synctra Solutions, MASKED_LOCATION									             Jan 2011 - July 2013
+Application Developer                                                                                                   
+Responsibilities:
+Involved in various phases of SDLC such as requirements gathering, modelling, analysis, design of application using SCRUM AGILE methodology.
+Designed and implemented application using JSP, Spring MVC, Spring IOC, Spring Annotations, Spring AOP, MASKED_NAME, MASKED_NAME.
+MASKED_NAME build tools to build jar and war files and deployed war files to target servers.
+Have worked on Oracle 10g database for storing and retrieving the application data.
+Created connections to database using Hibernate Session Factory, using MASKED_NAME APIs to retrieve and store data to the database with MASKED_NAME transaction control.
+Wrote multiple SQL queries.
+Experience creating multiple types of joins.
+Involved in Web Administration like setting up Data Sources, deploying applications.
+Used MASKED_NAME integration tool MASKED_NAME for deploying the project.
+Utilized various JavaScript and jQuery libraries bootstrap, AngularJS for form validation and other interactive features.
+Used putty to connect to different environments of the application.
+Wrote Unit test cases using Junit
+Worked closely in scrum agile environment.
+Environment: JDK 1.7, Spring Framework, MASKED_NAME, MASKED_NAME, SQL, JavaScript, jQuery, Junit., Eclipse IDE, MASKED_NAME.
+EDUCATION:
+Western Michigan University, Kalamazoo, MI, USA 					             Aug 2013 – May 2015              
+Master of Science, Electrical and Computer Engineering
+Jawaharlal Nehru Technological University, MASKED_LOCATION, MASKED_LOCATION				             Sep 2008 – May 2012
+Bachelor of Technology in Electrical and Electronic Engineering 

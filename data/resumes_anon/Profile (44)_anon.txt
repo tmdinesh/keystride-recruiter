@@ -1,0 +1,84 @@
+ 
+ 
+Contact
+www.linkedin.com/in/virajdeshwal
+(LinkedIn)
+virajdeshwal.github.io (Personal)
+MASKED_NAME
+Natural Language Processing
+Data Analysis
+Certifications
+Deep Learning and Neural Network
+✔Cisco Certified Network Associate 
+Complete Guide to TensorFlow for
+Deep Learning with Python
+Artificial Intelligene Nanodegree
+Viraj Deshwal
+Machine Learning Software Engineer
+MASKED_LOCATION, MASKED_LOCATION
+Summary
+MASKED_NAME | MASKED_NAME | Computer Vision | Deep
+Reinforcement Learning
+Experience
+TensorIoT Inc.
+Machine Learning Software Engineer
+July 2019 - Present (9 months)
+MASKED_LOCATION, MASKED_LOCATION
+- Working with AWS Professional Services Team for creating
+end-to-end pipeline for production ready Machine Learning models in AWS
+Sagemaker environment.
+- Working with AWS Research & Development team in optimizing and
+deploying machine learning models on the edge devices such as NVIDIA
+Jetson Tx2, nano, MASKED_LOCATION etc.
+- Responsible for building Proof-of-Concept for client in rapid prototype
+development environment and educate customer over the architecture,
+solution and requirements."
+MASKED_NAME
+Machine Learning Software Engineer
+May 2018 - June 2019 (1 year 2 months)
+MASKED_LOCATION, MASKED_LOCATION
+- Worked as a Machine Learning Consultant and build MASKED_NAME-Of-
+Concept for clients.
+- Deployed Machine learning models in the Production
+environment using AWS Sagemaker.
+- Build and debugged the API for end-user to interact with ML
+models.
+California State University, MASKED_NAME
+Graduate Teaching Assistant
+January 2018 - June 2019 (1 year 6 months)
+MASKED_NAME
+ 
+Page 1 of 2
+
+ 
+ 
+✔Prepared the course for Machine Learning and MASKED_NAME @California
+State University,         Fullerton. 
+✔Guest Instructor for Deep Learning practicals and MASKED_NAME for CPSC
+481(Artificial Intelligence) 
+and CPSC 131(Data Structure).
+Udacity
+Artificial Intelligence Guest Speaker
+February 2018 - June 2018 (5 months)
+Greater Los Angeles Area
+Appeared as a Guest Speaker for Udacity Artificial Intelligence Conference in
+MASKED_LOCATION.
+Elitify E-commerce
+Machine Learning Engineer
+May 2016 - August 2017 (1 year 4 months)
+MASKED_LOCATION, MASKED_LOCATION
+- Worked as a Machine Learning Software Engineer to learn
+existing systems and implement machine learning solutions
+using libraries such as scikit-learn, MASKED_NAME, Numpy etc.
+- Build API and user-interface for ML models using Framework
+such as MASKED_NAME, MASKED_LOCATION and AWS services.
+Education
+California State University, MASKED_NAME
+Master of Science - MS, Computer Science · (2017 - 2019)
+Hemwati Nandan Bahuguna Garhwal University
+Bachelor of Engineering (B.Eng.), Computer Science · (2012 - 2016)
+Seventh day adventist inter college
+Intermediate, Computer Science · (2011 - 2012)
+Masters in Computer Science at California State University
+ 
+Page 2 of 2

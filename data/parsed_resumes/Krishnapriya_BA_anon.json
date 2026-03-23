@@ -1,0 +1,27 @@
+{
+  "resume_id": "Krishnapriya_BA_anon",
+  "skills": [
+    "javascript",
+    "html",
+    "css",
+    "sql",
+    "oracle",
+    "git",
+    "jira"
+  ],
+  "education": {
+    "degree": "Master of Computer Application (MCA) from Andhra University (AU), MASKED_LOCATION, MASKED_LOCATION, 2006.",
+    "year": "2006"
+  },
+  "experience_years": 11,
+  "projects": [
+    "As part of its BPR initiatives, SBI has centralized its non-customer transactions. To free the branch staff from back office activities and to focus on Customer Services, Marketing and improvement of business, many Central Processing Centers (CPC\u2019s) are being setup. There are many process flows running at various locations. It is extremely important to monitor the flow of different activities as well as physical documents related to such flows. Workflow & Tracking Solution not only be easily interfaced to different systems being used by the Bank but also have the scalability in terms of the volume of work and number of users across the various CPC\u2019s. The CPC\u2019s are required to handle large volumes of documents for safekeeping and quick retrieval. Hence a Document Management System is also implemented along with the Workflow Tracking Software.",
+    "Performed the requirement gathering for the module.",
+    "Created detail Specification and Process documents before initiating development.",
+    "Created business flows and developed the workflow architecture of the module.",
+    "Followed high level architecture in this project like MVC (Model-View-Controller) architectural design pattern. Model means data, View means presentation layer and Controller works on data and representation. With this we achieved Increase object reusability, achieve design flexibility."
+  ],
+  "certifications": [
+    "Scrum Master Certified #000727059"
+  ]
+}

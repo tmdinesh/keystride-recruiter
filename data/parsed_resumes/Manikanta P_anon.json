@@ -1,0 +1,33 @@
+{
+  "resume_id": "Manikanta P_anon",
+  "skills": [
+    "python",
+    "java",
+    "javascript",
+    "react",
+    "angular",
+    "html",
+    "css",
+    "jquery",
+    "node",
+    "spring",
+    "rest",
+    "soap",
+    "sql",
+    "mysql",
+    "oracle",
+    "aws",
+    "apache",
+    "spark",
+    "git"
+  ],
+  "education": {
+    "degree": "Unknown",
+    "year": "Unknown"
+  },
+  "experience_years": 8,
+  "projects": [
+    "The project involves creation of a single, integrated system which executes the calculation of sales and compensation for both External and Internal producers and suppliers."
+  ],
+  "certifications": []
+}

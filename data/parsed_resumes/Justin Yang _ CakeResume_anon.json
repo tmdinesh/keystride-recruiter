@@ -1,0 +1,29 @@
+{
+  "resume_id": "Justin Yang _ CakeResume_anon",
+  "skills": [
+    "php",
+    "node",
+    "django",
+    "flask",
+    "machine learning",
+    "deep learning",
+    "nlp",
+    "pytorch",
+    "keras",
+    "pandas",
+    "numpy"
+  ],
+  "education": {
+    "degree": "Master in Department of Computer Science, NCKU",
+    "year": "Unknown"
+  },
+  "experience_years": 4,
+  "projects": [
+    "The extracted QA pairs were released in PTT-Gossiping-Dataset, a",
+    "widely-used Chinese chit-chat corpus.",
+    "NCKU Smart-Life LineBot",
+    "The dialogue system is based on LUIS for intent classi\u00d5cation.",
+    "The backend was built with Django / Flask (new version) and host on"
+  ],
+  "certifications": []
+}

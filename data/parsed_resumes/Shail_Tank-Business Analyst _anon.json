@@ -1,0 +1,25 @@
+{
+  "resume_id": "Shail_Tank-Business Analyst _anon",
+  "skills": [
+    "javascript",
+    "c#",
+    "html",
+    "asp.net",
+    "sql",
+    "oracle",
+    "jira"
+  ],
+  "education": {
+    "degree": "New York Institute of technology (N.Y.I.T), Master of Business Administration (MBA) May 2016",
+    "year": "2016"
+  },
+  "experience_years": 4,
+  "projects": [
+    "Create project and product definition documents; such as functional specifications.",
+    "Followed entire SDLC life cycle in this project from Requirement, Design, Coding, Testing and implementation.",
+    "Extensively worked on Web Services in order to make phone calls using our website.",
+    "Extensively worked with Data Grid, Data List and Repeater to populate data with different templates",
+    "Performed unit testing by assigning the bugs to tester using Defect Tracking Systems (DTS)."
+  ],
+  "certifications": []
+}

@@ -1,0 +1,25 @@
+{
+  "resume_id": "Murali_Project Manager QA_anon",
+  "skills": [
+    "java",
+    "php",
+    "html",
+    "jquery",
+    "sql",
+    "mysql",
+    "jira"
+  ],
+  "education": {
+    "degree": "MBA in International Business (2010) through distance learning from Pondicherry University, MASKED_LOCATION.",
+    "year": "2010"
+  },
+  "experience_years": 4,
+  "projects": [
+    "Call Forwarding sub-features \u2013 Providing Call Forwarding variations tailoring for BBG usage.",
+    "Intercom Dialing Expansion \u2013 Allowing 3-5 digit extension dialing, where the extension number needs not be aligned with the PSTN Direct Dialed address.  Currently, the CSX system supports 4-digit extension dialing, where the MASKED_ADDRESS four digits of the PSTN DDD address.",
+    "Assume Dial \u20189\u2019 options to \u2018escape\u2019 to PSTN dialing.  In this case, special prefixes are assumed for Intercom Dialing.",
+    "Variable length Inter-Digit Timing \u2013 Accommodating \u2018slow-dialers.\u2019",
+    "Increased number of lines per BBG system \u2013 Extending the BBG capacity to allow up to 1,000 subscriber lines per BBG."
+  ],
+  "certifications": []
+}

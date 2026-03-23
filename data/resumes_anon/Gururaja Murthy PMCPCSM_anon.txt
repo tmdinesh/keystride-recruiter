@@ -1,0 +1,227 @@
+Professional Summary                                          
+MASKED_NAME
+Profile: Project Manager /Agile Scrum Master/QA Leader
+An Experienced and Certified IT Professional with extensive 18+ years of experience in Product/Project Management, Agile Scrum Master ,QA Test Management , Defect Management, Release Management, People Management , Outsource management and Client Management in Multi-Million Dollar Software Development Applications for Industries as Banking Financial Insurance Mortgage, Health Care & Life Science Management, Security, ERP,Airline, Logistics Telecom , Supply chain Management, Manufacturing, Automobiles, Manufacturing and Retail/E- Commerce.
+Education and Credentials
+Master’s in Computer Application – First Class 
+Project Management Certification - Kent State University (PMP) 
+Certified Scrum Master from MASKED_LOCATION – CSM
+Certified Product Owner -CSPO
+Key IT Projects/Solutions Delivered for Global Fortune Customers – MASKED_LOCATION, MASKED_LOCATION, MASKED_LOCATION, MASKED_LOCATION, MASKED_LOCATION, MASKED_LOCATION, MASKED_LOCATION and MASKED_LOCATION.
+PROFESSIONAL EXPERIENCE
+Project Experience Highlights: 
+MINDTREE Limited –       Project -Test Manager/Scrum Master
+Feb 2016-Present (USA)
+MASKED_NAME 	:  Fortune listed BFSI client – MASKED_LOCATION
+Description 	:  Life, RPS and Annuity Insurance applications (IOS, Android, Web Platform)
+Responsible for Creation of the Project plan and Test plan
+Responsible for People Management; Responsible Scheduling, Tracking and Reporting; 
+Responsible for Resource allocation (people, hardware, software, and facilities); 
+Responsible for Metric Preparation and Reporting; 
+Responsible for Managing, supervising, and assessing team performance 
+Responsible for Defining project scope, goals and 
+MASKED_NAME that support business goals in collaboration with senior management and stakeholders; 
+Responsible for Liaising with project stakeholders on an ongoing basis & ensuring Customer Satisfaction; 
+Responsible for reports publishing with upward management 
+Agile Project Track: Helping team regarding MASKED_NAME of user stories and Estimation (JIRA, Scrumwise, Confluence).
+Use Product Backlog and come up with a release plan & Sprint plan during Sprint 0.
+Sprint Planning and MASKED_NAME decision using pocker card with the agile team.
+Daily Scrum call/Stand-ups with the Agile team to identify any blocker/impediment.
+MASKED_NAME/issues immediately collaborating with required interface team/stakeholders.
+Continuous Integration and Delivery: DevOPS, Automation testing. Daily status updates.
+Sprint Review at the last day of the sprint with the MASKED_LOCATION to demo the shipped product.
+Conduct Sprint Retrospective post the completion of the sprint. Come up with action items.
+Effectively use of Collaborative tools and JIRA/Confluence tool for Agile process, time tracking, metrics.
+Mphasis Limited- An HP Company: Agile Scrum Master|Project Manager| QA-Test Manager.                  
+March 2010-Feb 2016 (MASKED_LOCATION and MASKED_NAME)     
+Project Name	:  Sigma BI for AIG
+Technology		:  IOS and MASKED_NAME, Business analytics-IBM Data Stage, DB2, Informatica,
+                                               MASKED_NAME, MASKED_NAME, IOS and Android app.
+Project Name 	:  American Airlines SABRE- Trip case; 
+Role			:  Project Manager /Scrum Master
+Roles and Responsibilities Accomplishment: Software Development Track
+Sprint Release planning, MASKED_NAME meeting, Problem solutions, Sprint Demo and Retrospective 
+Facilitating Scrum of Scrum for offshore Scrum teams in MASKED_LOCATION and MASKED_LOCATION 
+Managing the overall performance and delivery of cross-functional 
+Facilitating sprint planning as Scrum master for multiple Scrum teams 
+Publicizing the team's progress and successes to make sure they are highly visible 
+To product owner’s/ stakeholders. Ensuring the team together till the release completion
+Ensuring the transition of Projects from Waterfall to Agile
+Maintenance Projects/Testing Projects Track
+Responsible for Creation of Project plan and the Test plan
+Responsible for People Management; Responsible Scheduling, Tracking and Reporting
+Responsible for Resource allocation (people, hardware, software, and facilities)
+Responsible for Metric Preparation and Reporting; 
+Responsible for Managing, supervising, and assessing team performance 
+Responsible for Defining project scope, goals and MASKED_NAME that support business goals in collaboration with senior management and stakeholders
+Responsible for Liaising with project stakeholders on an ongoing basis & ensuring Customer Satisfaction 
+Responsible for automation using Ranorex version 5.0
+Responsible for Set up and manage project expectations with team members and other stakeholders
+Hiring and retaining talent into the organization and projects; 
+Responsible for Coaching, mentor, motivate and supervise Project team members and influence them to take positive action and accountability for their assigned work
+Develop and deliver progress reports, proposals, requirements documentation and presentations
+Responsible for proactively managing changes in project scope 
+MASKED_NAME potential crises and devise contingency plans
+Responsible for Defining project success criteria and disseminate them to involved parties throughout Project life cycle and Delivery
+Project Name		: MASKED_NAME for Charles Schwab Corporation
+Technology	               : Microsoft team foundation server; Microsoft Integration services, Microsoft     reporting services; Actuate Reporting system, MASKED_NAME.
+Role			: Test Manager/Leader
+Description		: Schwab Retirement planning application
+Roles and Responsibilities Accomplishment
+Reaching agreement with client about the assignment and expectations
+Ensuring test infrastructure is available on time
+Keeping the issue administration continually updated
+Responsible for end to end delivery from offshore team.
+Responsible for planning, execution and reporting of test
+Conducted Security testing & Performance testing.
+Project Name		: CAFÉ – Customer Automation for Future Endeavour for FedEx
+Technology		: HP ALM, Business process testing, quick Test Pro 
+Roles and Responsibilities Accomplishment
+Responsible for the team of 30 testing resources
+Responsible End to end testing delivery to the customer 
+Responsible for the team appraisals
+Responsible for defect analysis and management 
+Responsible for the process management
+Responsible for the customer management
+Responsible for both offshore delivery teams in MASKED_NAME and Mangalore
+Marlabs Software (P) Ltd - Project Leader /Release Manager                                                                                 (Aug 2008 – March 2010)  
+Project Name	: In-Flight Exchange (IFX4) ™ Product suite = Supply chain management 
+                                              for Air line services for gate gourmet Customers
+Technology		: SAP R/34.MASKED_ADDRESS Acceleration and Optimization, Quality center, Loadrunner
+Client			: Gate Gourmet Inc. MASKED_LOCATION
+Roles and Responsibilities Accomplishment:
+Responsible for application test management for multiple projects
+Managed team of 18-MASKED_ADDRESS team using MASKED_NAME
+Reported QA team status to executives
+Managed defects using MASKED_NAME for testing during testing QA, UAT and Production environment.
+Standardize QA standards and practices for the project teams
+Coordinated for tool evaluation and POC (Proof of Concept)
+Collection of Metrics and Reporting to the Management.
+Working closely with Business development team to articulate Business value through 
+Testing solutions and help them to close new accounts (Proposals and SOW’s)
+Tratum Technologies Pvt. Ltd - QC lead
+(Dec 2007 –  Jul 2008)
+Project Name		: Prepaid and Post-Paid Billing Systems for British Telecom 
+Client			: British MASKED_LOCATION - MASKED_LOCATION
+Roles and Responsibilities Accomplishment:
+Day to day test management, reporting and defect management 
+Prepared status reports for management and drafted Test Completion Report.
+Member of SEPG
+Ensuring a test infrastructure is available on time.
+Allowing use of all agreed test methodologies
+Support in the Test project proposal creation, MASKED_NAME and roadmap for transition
+Coordination and participation in the client application portfolio assessment & estimation
+Managed, planned and allocated test resources for projects.                                                                                                                                      
+Mphasis – An EDS Company - Test Lead
+(Jan 2006 –  Jul 2007)
+Project		: CRM package
+Client		: MASKED_NAME financial corporation          
+Duration	: 01/2006 - 12/2006
+Project		: Auto-write off
+Client		: Xerox Corporation                         		      
+Duration	: 01/2007 - 07/2007     
+Roles and Responsibilities Accomplishment:
+Process Improvement
+Prepared requirement clarification tracker to manage requirements.
+Authored gap analysis tracker to manage gap between wire frames
+        And functional specifications.
+Authored release management process for testing team.
+Wrote and maintained Master test plan, Estimations, risks, issues, templates, Review Reports and Test Reports.
+Ensuring adherence to software quality process
+Test Management 
+Test planning, scheduling and monitoring
+Test estimation using industry standard estimation models.
+Resource recruitment and management
+MASKED_LOCATION point of contact for testing teams both at MASKED_NAME and Chennai.
+The team establishes testing processes, testing standards, test case designs, defects, and reviews, test reports.
+Migrated several applications from onsite to offshore.
+Managed all types of testing such as Functional, System, Reliability, Performance,
+Load, Usability, Security, Compatibility, Acceptance, Regression using Manual and
+Automation Techniques
+Responsible for Defect Tracking and Defect Management.
+Client Management
+Regular communication with customers
+Relationship management.
+Reporting the QA status to onsite executives on regular basis
+Providing solutions 
+Publish software test deliverables identified during each control point of SDLC, including Test plan, Test cases, Defect and Test reports.
+Support in Test project proposal creation and roadmap for transition
+People Management
+Control and Monitor the team by giving specified inputs
+Encourage team members to attend training program at least once in MASKED_LOCATION management white papers
+Submitted QA handbook to organization
+Member of Testing Competency Interviewer’s panel.
+Authored testing process for onsite-offshore delivery model.
+Commerce Velocity (India) Pvt. Ltd - Test Lead
+(Aug 2005 – Jan 2006)
+Project	Name		: Credit Quality Decision Suite this is an integrated solution for Mortgage banking
+Client			: Mylor financial services, Funding America Wilmington financial services, Bear Stearns, Green light, NRT, Zero Down Mortgage, AHL, FNLC, VERITAS, Option One.
+Roles and Responsibilities Accomplishment:
+Managing Multiple leading clients such as Mylor financial services, MASKED_LOCATION
+Wilmington financial services, Bear Stearns, Green light, NRT, Zero Down Mortgage, AHL, FNLC, VERITAS, Option One.
+Leading a team of 10 resources.
+Managed creation of process for testing
+People management and test management, resource allocation & planning.
+Value add: Test repository creation and management
+Values add: Provide training guidance and growth opportunities for growing staff.
+Values add: improved communication between QA and MASKED_NAME team.
+Author Release Notes for each deployment of software.
+Provide test results to be used by management as criteria for migration into Production environment(s).
+Test planning and tracking and monitoring.
+Co-coordinating with onsite/client
+Handles all critical issues and reviews with QA Analyst
+IBM GLOBAL SERVICES PVT. LTD - Test lead
+(Jul 2004 – Aug 2005)         
+MASKED_NAME			: PBM – Pharmaceutical Benefit Management system for Merck fortune pharmaceutical company
+Client				: Merck & Co., Inc
+Roles and Responsibilities Accomplishment: 
+Leading team of 9-MASKED_ADDRESS engineers.
+Report QA team status to Onsite Executives 
+Responsible for Test data creation
+Responsible for multiple applications on MASKED_NAME and Web.
+Development of testing strategy and work assignments among team members.
+Designing of test plans, test cases, reports and its maintenance using Test 
+        Management Tool (MASKED_NAME tool)
+Designing of various templates according to customer specifications
+Responsible for Performance appraisal to team members
+Training the testing team before putting them on production on testing methodologies.
+Hiring resources. – Member of the project recruitment team for testing resources.     
+Interviewing and scheduling the client interview and member of IBM testing 
+       Competency Interviewer’s panel.
+Mentored team members in use of Merant PVCS tracker for Defect tracking 
+Develop documentation in PPS and Excel to track deliverables
+Interviewed all QA resources and recommended to Dept. Manager and testing
+        Competency R.D.M on hiring.
+Defect tracking and MASKED_NAME found for developers using Merant PVCS Tracker  
+Signing off the Quality Gates (Delivery to the customer)
+Microcon International Ltd – Senior Test Engineer                                                      
+(Feb 2002 - Jun 2004)                                                                      
+Project Name		: HMS version 1.0
+Hospital Management system; 
+Client			: Parkway Group
+Roles and Responsibilities Accomplishment:   
+Supervise 4-MASKED_ADDRESS Plan, Test cases execution reports, Defect reports
+Mentored team members in use of Multi-site Rational Clear Quest for Defect Tracking.
+Monitor schedules
+Lead the Quality Review Process Group within the Team
+Knowledge Transfer to new hired employees to assume QA roles.
+MASKED_LOCATION project statistics, such as defect rate and severity, milestones met.
+Implement Automated Testing Methodology and best practices for QA Team
+        Using Rational Testing suites.
+Developed Modularized Rational Robot automated test scripts for Web and
+Client/Server Applications
+Aid in design and implementation of Load Testing using Rational Load test.
+Utilize Clear Quest for Manual and Automated defect tracking, and MASKED_NAME.
+Ensure defects of unit testing and integration testing been closed before
+        Carrying out system testing.         
+ADS Technologies Pvt. Ltd – Test Engineer	                          
+(Sep 98 – Dec 2001)                       
+Product		: IBS Versions 1.2 and 1.2
+Technology		: Integrated Business solution – End to end ERP solutions for Retail Industries.      
+Roles and Responsibilities Accomplishment:   
+Manual testing. Prepared test cases and test data generation
+System testing and functional testing, Usability testing. 
+MASKED_NAME found in the Application were entered in MASKED_NAME.
+Filing of System test error logs and defining error priorities in test error reports.
+Executed, analyzed and evaluated test results, conducted validation and verification of 
+Software

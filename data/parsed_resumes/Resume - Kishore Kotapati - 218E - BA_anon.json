@@ -1,0 +1,24 @@
+{
+  "resume_id": "Resume - Kishore Kotapati - 218E - BA_anon",
+  "skills": [
+    "html",
+    "css",
+    "sql",
+    "oracle"
+  ],
+  "education": {
+    "degree": "Bachelor of Science(B.Sc) in Computers, Electronics & Mathematics from Sri Venkateswara University, MASKED_LOCATION.",
+    "year": "Unknown"
+  },
+  "experience_years": 15,
+  "projects": [
+    "Development of the new programs.",
+    "Customizations/Modifications of existing programs.",
+    "Testing the programs to meet the client\u2019s quality.",
+    "Preparing the Documentations.",
+    "Tracking the data in the database."
+  ],
+  "certifications": [
+    "SCRUM\u00a0Master - running the daily standups and solve the blocking\u00a0issues"
+  ]
+}

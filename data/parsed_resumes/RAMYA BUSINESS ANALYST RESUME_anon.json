@@ -1,0 +1,25 @@
+{
+  "resume_id": "RAMYA BUSINESS ANALYST RESUME_anon",
+  "skills": [
+    "javascript",
+    "html",
+    "css",
+    "sql",
+    "oracle",
+    "tableau",
+    "jira"
+  ],
+  "education": {
+    "degree": "02/16-Present \tMaster card, MASKED_LOCATION",
+    "year": "Unknown"
+  },
+  "experience_years": 3,
+  "projects": [
+    "Concentrated and involved more in System Integration testing.",
+    "Reviewed Business requirements, IT Design documents and prepared Test Plans for all assigned project releases.",
+    "Using Excel pivot tables to manipulate large amounts of data in order to perform data analysis.",
+    "Manage and maintain spreadsheets to ensure accurate data availability for managers and decision-makers",
+    "VLOOKUP formula development, Pivot Table generation, and Pivot reporting. Modify spreadsheets to achieve analytical goals."
+  ],
+  "certifications": []
+}

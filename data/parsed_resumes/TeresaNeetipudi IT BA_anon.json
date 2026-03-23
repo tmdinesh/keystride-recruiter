@@ -1,0 +1,20 @@
+{
+  "resume_id": "TeresaNeetipudi IT BA_anon",
+  "skills": [
+    "sql",
+    "jira"
+  ],
+  "education": {
+    "degree": "Post Graduate Diploma in Business Management (PGDBM), Osmania University, Hyderabad India.",
+    "year": "Unknown"
+  },
+  "experience_years": 8,
+  "projects": [
+    "Participate in design reviews to ensure adherence to the organization\u2019s standards, and requirements traceability matrix maintenance.",
+    "Participated in the Requirements gathering sessions; Rewrote the existing requirements as a result of identified backlog issues/glitches which came in via Service Management.",
+    "Converted these rewritten Business Requirements into functional and technical requirements and created the Functional Specifications, and managed the entire functional requirements life cycle using AGILE.",
+    "Experience with the Project Management Tool, JIRA to develop Epics ad User Stories from the functional requirements.",
+    "Create application test data as needed to validate assigned requirements in support of API realization testing activities, where applicable."
+  ],
+  "certifications": []
+}

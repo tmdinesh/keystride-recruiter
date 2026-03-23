@@ -1,0 +1,162 @@
+MASKED_NAME QA AUTOMATION ENGINEER - BofA
+MASKED_LOCATION, NJ 07306
+MASKED_EMAIL - MASKED_PHONE
+Experience in working with Software Development life cycle (SDLC) and Software Testing Life Cycle (STLC) models - Waterfall, Agile/Scrum.
+Expertise in various aspects of the Software Development Lifecycle including Requirements Analysis, Test Planning, Test Execution and MASKED_NAME.
+Expertise in various types of testing like Automation Testing, Manual Testing, Integration Testing, System Testing, MASKED_NAME, JUnit Testing, Black box Testing, MASKED_NAME, GUI Testing, Web / UI and User Acceptance Testing (UAT).
+Extensive experience in preparing documentation on Change Control, Quality Control, Risk Management, QA Status Reports, QA Summary Reports, QA Test Logs, Issues Report, Defect Control.
+Expertise in Automation Testing of Web Applications and an end to end testing using MASKED_NAME, Selenium Grid, JAVA, Ruby, TestNG, Maven, Apache POI.
+Extensive experience in Quality Assurance using Manual and automation tools which include Selenium RC/ IDE/WebDriver/Grid, Quality Center, MASKED_LOCATION, MASKED_LOCATION, MASKED_LOCATION, SOAP UI and TestNG.
+Expertise in documenting defects with the high level of detail, accuracy, and informative recreation steps using Quality Center, JIRA, TFS, Rally, Bugzilla etc.
+Executed Selenium test scripts on different browsers like MASKED_NAME, IE, Chrome & Safari and operating systems like Windows, Linux using TestNG, MASKED_NAME, and Selenium.
+Used selenium WebDriver and TestNG to automate parallel testing.
+Implemented batch run of desired test cases using TestNG annotations like Groups, Parameter, and Data Provider.
+Maintained Selenium & JAVA automation code and resource in source controls SVN, GitHub, over the time for improvements and new features.
+Experience working on XPath for handling complex and dynamic elements in Selenium using different methods in XPath such as Contains, Starts-With.
+Designed, implemented automation frameworks Keyword Driven framework, Data Driven framework, and Hybrid framework.
+Using Cucumber developed Features, MASKED_LOCATION, and Step Definitions for Behavior Driven Development (BDD).
+Worked on Appium to develop Automation Testing scripts for native and MASKED_NAME for mobile devices. Work experience in integrating Automation scripts (Selenium MASKED_NAME) on Continuous Integration tools Hudson/Jenkins for a nightly batch run of the MASKED_LOCATION.
+Experience in creating MASKED_NAME (Behavior-Driven Development) framework and automating BDD scenarios in Eclipse using MASKED_NAME. Experienced in automating web services like SOAP and REST using MASKED_NAME and Groovy.
+Experienced in Web Services testing using MASKED_NAME. Validated request and response SOAP and RESTFUL Web service call with Assertions. Experienced in Web Services Testing using MASKED_NAME and MASKED_NAME tools. Validated request and response SOAP and RESTful Web service calls.
+MASKED_NAME framework from scratch using Selenium Web Driver. Developed Test Scripts to implement MASKED_LOCATION, MASKED_LOCATION, and Step definitions for BDD (Behavior Driven Development), TDD (Test Driven Development) using MASKED_NAME in MASKED_NAME format.
+Experienced in using HP Quality Centre/Application Lifecycle Management (ALM), MKS Integrity, APPM, and JIRA for Test Cases design, defect tracking and management. Have knowledge of Rational Clear Quest, Bugzilla defect management tool.
+Experience in working with cross-functional groups, different levels of management and liaison between system users, company management, and development team.
+Strong understanding of Web technologies and Programming languages, The Web, Database and Application Servers and N-Tier Architectures.
+Experience in reviewing the deliverable and conducting QA review meetings. Experienced in all aspects of quality testing including process design and standards, effort estimation, resource forecasting and fulfillment, and task and risk management, functional, performance, regression and roll-back testing.
+Willing to relocate: Anywhere
+Authorized to work in the MASKED_LOCATION for any employer
+WORK EXPERIENCE
+SENIOR QA AUTOMATION ENGINEER
+BofA	-	MASKED_LOCATION, MASKED_LOCATION -
+2016-01 - Present
+WORKING
+Developed the automated test script for regression test suite in an application using Selenium tool.
+Created automation framework using Hybrid framework -- Data Driven and Page Object Model (POM) to test web application. Worked on Selenium Grid for automation script in MASKED_NAME for cross browser testing. Used TestNG annotations to group the test methods for functional testing.
+Developed test scripts to automate the process of testing in Selenium WebDriver. Developed Selenium scripts to find, verify, select, edit and perform various operations on web elements. Used Select class to perform operations on the drop-down list.
+MASKED_NAME scripts to get the data from the web page by using the methods like getUrl, getTitle, MASKED_NAME, getText. Developed scripts to navigate to various iframes and to handle multiple windows and performed operations on the web elements.
+Dealt with Accessing Links & Tables using Selenium WebDriver and Ajax call in Selenium Web Driver. Performed operations on the database using MASKED_NAME APIs.
+MASKED_NAME tag values after generation of XML when web service calls w.r.t to the DB values stored in MASKED_LOCATION (SQL). Involved in writing SQL queries to span database for required result
+Performed Structural Testing, Functional Testing and Non-functional Testing Database Testing Used Selenium WebDriver API with TestNG to automate tests on cross browser and cross platform environment.
+Setting the priority to the test cases using the TestNG framework.
+Used various TestNG annotations like @Test, @BeforeSuite, @AfterSuite, @BeforeTest, @AfterTest, @BeforeClass, @AfterClass, @BeforeMethod, and @AfterMethod.
+Performed browser (IE, FIREFOX, MASKED_NAME, MASKED_NAME) and platform (Windows 7/8/XP) compatibility testing in a virtual machine environment. Wrote Selenium script for taking a screenshot and also used Actions class to perform mouse and keyboard events. Involved in automating the popups using the MASKED_NAME interface. MASKED_NAME build job for continuous MASKED_LOCATION and for Regression Testing.
+Involved in using Maven build tool to manage framework dependency jar files. Used Apache POI to read data from external sources and provide them as a parameter to the locators in the test script.
+Generated test logs using Log4j for various log levels. Created .au3 files using AutoIt to interact with the desktop windows to upload files.
+Used SVN to maintain and manage the build scripts, test data used, and other documents related to the project.
+Implemented selenium synchronization by conditional synchronization using the sleep method and unconditional synchronization using the implicitWait and explicitWait methods.
+Used Rally to track and resolve defects.
+Used MASKED_NAME by creating the Features and Step Definition files in java to execute test scripts.
+Tested, resolved and documented the issues in the Test environment and ensure the software is working while producing a high-quality final product. Deploy the application out of the test phase to be released into Stage environment.
+MASKED_NAME and Restful Web Service Testing using MASKED_NAME and validated response using Assertions.
+Regression testing, rollout planning. Solution release & Post-release Production maintenance.
+MASKED_NAME and prioritize work and plan a sequence of testing activities that accomplish the planned targets. Set priorities and provide reports to the management.
+Involved in MASKED_LOCATION testing for Oracle Server.
+MASKED_NAME tag values after generation of XML when web service calls w.r.t to the DB values stored in MASKED_LOCATION.
+Involved in writing SQL queries to span database for required result.
+Mentored team members in design and analysis activities.
+Assisted in the training and orientation of other staff and end users.
+Environment: MASKED_NAME, Selenium WebDriver, TestNG, MASKED_NAME, MASKED_LOCATION, Jenkins, Eclipse, MASKED_NAME, SVN, Cucumber, MASKED_LOCATION, AutoIt, MASKED_NAME, Apache POI, MASKED_LOCATION.
+SENIOR QA AUTOMATION ENGINEER
+ST JOSEPHS HEALTH SYSTEMS -
+2013-12 - 2015-11
+Reviewed design documents & business requirements to learn the function and scope of the application.
+Analyzed the SRS (System Requirement Specifications) and developed Test Suites to cover the overall quality assurance testing.
+Involved in complete QA Life Cycles and in writing and implementation of the Test Cases.
+Used HP performance center for analyzing and validating application with business requirements.
+Documented Test Cases for Functional Testing and Backend Testing.
+Unit testing documentation developed using Excel. Artifacts were created and listed for UAT validation. Writing/validating Use Case Documents
+Conducted Functionality testing during various phases of the application. Performed integration and functional testing for different applications.
+Created manual Test Cases in HP QC/HP ALM for various User Stories.
+Developed automated test cases for all manual tests cases provided.
+Implemented automation using Selenium WebDriver, JAVA, TestNG, and MASKED_LOCATION.
+MASKED_NAME with Accessing Links & Tables using Selenium WebDriver and Ajax call in Selenium Web Driver.
+Wrote Selenium script for taking a screenshot and also used Actions class to perform mouse and keyboard events.
+Implemented the selenium synchronization using the wait and sleep methods.
+Performed operations on the database using MASKED_NAME APIs.
+Updated Framework functions when needed, executed them and generated reports.
+Did MASKED_NAME coding extensively for Data Driven framework and Keyword Driven Framework by using TestNG framework along with Selenium, Maven.
+Used various TestNG annotations like @Test, @BeforeSuite, @AfterSuite, @BeforeTest, @AfterTest, @BeforeClass, @AfterClass, @BeforeMethod, and @AfterMethod.
+Expertise in implementing the hybrid selenium automation framework using MASKED_NAME, Object Identification technique, Data-driven technique.
+Proficient in Using Apache POI to drive data from excel files to run the test cases.
+Performed continues the integration of the test cases periodically using MASKED_NAME and configured it to email reports during a build failure.
+Managed the testing process, schedule batch tests, log and track defects using HP quality center.
+Developed SQL queries to test the data after executing transactions like upload processing and check Processing in batches. Used SQL and Crystal Reports for querying underlying database tables.
+Expertise in POM.xml to get required dependencies from a central repository, add plugins, ran scripts using pom.xml file, grouped test suites by assigning profile ids.
+Developed associated project documentation, schedule, design specifications, test plan, test scenarios/ scripts, performed gap analysis, and test tracking reporting/monitoring for all phases of testing including B2B user acceptance testing.
+Environment: MASKED_NAME, Selenium WebDriver, Selenium IDE, TestNG, Apache POI, Extent Reports, MASKED_NAME, Eclipse, Windows, Oracle, MASKED_LOCATION, SQL server
+QA ANALYST
+WALMART	-	Bentonville, AR -
+2011-01 - 2013-09
+Reviewed and analyzed Business Requirement Documentation (BRD) to gain an understanding of POS implementation.
+Reviewed Functional requirement and Use Cases documented in MASKED_LOCATION.
+Worked on POS self-checkout. POS QA Testing was involved in the setting of QA Test environment with simulated POS test environment. Created manual Test Cases in HP QC/HP ALM for various User Stories based on Release and Sprint Plan.
+Created test scenarios and test cases based on functional documents and User stories.
+Involved in End to End test of whole application. Used SQL queries to retrieve the data from the database and validate the data by comparing source with targets
+Tested different functions of the POS system like scanning, payments, and returns. Moreover, make sure that the system met the requirements and expectations. Performed data validation testing using POS system.
+Created test strategies to detail testing activities from requirements gathering through defect management through UAT promotion to production.
+Executed test cases and test scripts for manual and automation testing. Defects are raised in the HP Quality Centre/HP ALM for logging, tracking and reporting bugs in the application.
+Involved in End to End Validation of Point of Sale (POS) application and Managed and closely participated in the Project Management of POS Initiatives.
+Setting Test plan and Test Lab in the Quality center for the projects to create and access requirements, defects, test cases and reports for the status. Involved in UAT of the applications by providing users with test cases and scenarios, and guiding them through the testing process.
+Created and executed detailed test cases with step by step procedure and expected results and maintained the test logs, test reports, test issues, defect tracking using Quality Centre. Used Selenium for regression testing and running the automation suite.
+Responsible for software QA and analysis, with emphasis on performance testing and functional decomposition of web-based (SOA) and legacy systems architecture.
+Conducted test case reviews and presented the test cases/test scenarios to the team members for all iterations.
+Inserted checkpoints where needed, to compare the current behavior of the application being tested to its behavior in the earlier version using MASKED_NAME.
+Executed SQL queries to verify the database for the relevant test cases. Documented the defects in Quality Centre and assigned them to relevant developer.
+Environment: HP Quality Centre, Selenium, ALM, JavaScript, MASKED_NAME, HTML, DHTML, UAT, CSS, IBM WebSphere, RAD, DB2.
+SOFTWARE TEST ENGINEER
+TNS INDIA -
+2009-08 - 2011-11
+Analyzed business requirements and functional documents, created the test strategy document that define the test environment, phases of testing, entrance and exit criteria into different phases of testing and resources required to conduct the effort.
+Drafted test plan which included testing objectives, testing phases, scenarios and test environment after a thorough analysis of the business rules.
+Created manual test cases, reviewed with different stakeholders to validate the functionality.
+Coordinated with different MASKED_NAME to prepare user guide and knowledge acquisition of the system.
+Wrote PL/SQL Queries to retrieve the data from various Tables and to test the database.
+Performed the Back-End integration testing to ensure data consistency on front-end by writing and executing SQL statements.
+Conducted backend testing using SQL queries to validate data for database.
+Developed descriptive programming and maintained local and global Object Repository in QTP.
+Involved in manual testing and automated test scripts by using QTP.
+MASKED_NAME and worked on Object Repository by using QTP.
+Performed Data Driven test for backend testing using with QTP.
+Gathered the Business Requirements and maintained them in MASKED_LOCATION.
+Analyzed and assigned defect to responsible team in MASKED_LOCATION.
+Reported, logged and tracked defects using Quality Center.
+Coordinating with Business users/ UAT Testers during UAT phase, providing them with UAT guidelines, supporting and attending user's queries on the application.
+Conducted and coordinated integration and user acceptance testing (UAT) prior to the release of new data feeds into production.
+Interacted with the development team to fix the defects as per the defect report.
+Attended meetings involving Developers, DBAs and Analysts, Project Manager for tracking changes and change management.
+Delivered test results in appropriate format for approval of the project team.
+Participated in daily status meetings with testing team and providing the necessary feedback.
+Provided weekly status to the project manager as well as users.
+Reported the status of testing activities to the teams and management as necessary.
+Environment: Manual Testing, Quality Center, QTP, UNIX, VBScript, MASKED_NAME, SQL, PL/SQL, Contact Center Operations, MASKED_NAME.
+EDUCATION
+Bachelor's
+SKILLS
+SQL, MASKED_LOCATION, INTEGRATION, INTEGRATOR, ORACLE
+ADDITIONAL INFORMATION
+Methodologies
+Agile (Scrum), Waterfall, SDLC, STLC
+Languages
+Java, HTML, XML, MASKED_NAME, C, Restful, Soap, WSDL
+IDE
+Eclipse, SQL Developer
+Test Framework
+Keyword Driven, Data Driven, Hybrid, Page Object Model (POM)
+Web Debugging Tool
+XPath, Fire path, Firebug
+Utilities
+Auto IT, Wget
+Build Tool
+Ant, Maven
+Bug Tracking Tools
+JIRA, Quality Centre
+Operating Systems
+Windows (XP, Vista & 7, 8, 10), MASKED_NAME, MASKED_LOCATION, Unix
+Test build, Integration Tools
+Maven, ANT, MASKED_LOCATION, SVN, Git
+Databases
+SQL Server, MS Access, MASKED_NAME, MySQL.
+MS Office tools
+Outlook, Word, Excel, PowerPoint.
+MASKED_NAME
+Internet Explorer, Mozilla Firefox, Google Chrome, MASKED_NAME

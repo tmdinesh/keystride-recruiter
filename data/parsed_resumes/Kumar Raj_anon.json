@@ -1,0 +1,38 @@
+{
+  "resume_id": "Kumar Raj_anon",
+  "skills": [
+    "python",
+    "java",
+    "javascript",
+    "php",
+    "ruby",
+    "scala",
+    "angular",
+    "html",
+    "css",
+    "jquery",
+    "spring",
+    "rails",
+    "rest",
+    "soap",
+    "sql",
+    "mysql",
+    "mongodb",
+    "oracle",
+    "cassandra",
+    "elasticsearch",
+    "aws",
+    "docker",
+    "jenkins",
+    "linux",
+    "apache",
+    "hadoop"
+  ],
+  "education": {
+    "degree": "Unknown",
+    "year": "Unknown"
+  },
+  "experience_years": 9,
+  "projects": [],
+  "certifications": []
+}

@@ -1,0 +1,120 @@
+Amrinder MASKED_LOCATION	                                                                                              Employer Details
+Mail: MASKED_EMAIL                           Mail: MASKED_EMAIL 
+	                                                                  Phone: MASKED_PHONE
+Senior Business Analyst
+Summary:
+Around 10 years of experience in Business process analysis, Business modeling and Business requirements gathering.
+Extensive experience with Banking and Mortgage clients.
+Expert in creating diagrams (Use case diagrams, flow charts, activity diagrams, sequence diagrams), use case document, test plans and test case documents.
+Worked closely with project Stakeholders, SMEs, staff to understand requirements and specifications for new applications along with re-engineering the existing application.
+Experience in interacting across the hierarchy from architects, to data modelers, underwriters and risk analyst.
+Experience in iterative agile project management methodology with MASKED_NAME to manage the software development life cycle (SDLC).
+Used MS Project to manage schedules, meet deadlines and plan resources in line with triple constraint. Followed up with weekly Project Status and organized Task Review meetings. Conducted status meetings, managed deadlines, and facilitated prioritization discussions.
+Writing skills in preparing business requirements documents (BRD), system requirements specifications (SRS) and technical design document (TDD) and defining project plans then translating business requirements/user expectations into detailed specifications employing UML.
+Performing GAP analysis to check the compatibility of the existing system infrastructure with the new business requirements, 
+Conducting User Acceptance Testing (UAT) verifying performance, reliability and fault tolerance issues. Also familiar with testing tools (QC) to design as well as develop test plans and test scripts. 
+Authored business and system requirements analyses and functional specifications with supporting business process flows (data modeling), Traceability matrices, risk analysis and concept of operations for systems utilizing company standards, processes, and procedures.
+Expertise at using MASKED_NAME, MS Project, MS Excel, PowerPoint, and SharePoint.
+Good understanding of software development methodologies such as RUP, JAD, and RAD and hands on experience in formulating JAD sessions. 
+MASKED_NAME:  
+Education:Bachelors in Applied Sciences and Engineering, Michigan State University, GPA– 3.56
+Professional Experience:
+Fifth Third Bank, MASKED_LOCATION, OH                                                                      Mar MASKED_ADDRESS/QA Lead
+Fifth Third Bank is one of the nation’s largest diversified financial services organizations providing retail and banking; residential mortgage banking. 
+Worked on implementing the IDS Rapport Solution to provide a front-end workflow processsing system integrating with the existing IDS Infolease solution. This solution was used to create contract documents and eliminated the need for several Access database and Excel spreadsheet solutions that existed. This solution aslo integrated with iLien solution for UCC filing. The product increased the efficiency of transactional submittals and documentation and booking functions.
+Responsibilities:
+Implemented Traceability Matrix and User Requirement Specification Document (URS) to verify the functionality coverage. 
+Extensive use of MS Project, MS SharePoint (used as the library for Project documentation and the communication of Project information).
+Created Mortgage Service Platform (MSP) diagram in MS MASKED_NAME to understand the big picture of the project.
+Facilitated and managed meeting sessions with committee of SME from various business areas including Mortgage Servicing, Loan Monitoring and Asset Management.
+Responsible for working with product management to translate business objectives into functional requirements, and great user experiences for our customers.
+Created detailed Test plans to check the functionality of Application.
+Participated in QA team and MASKED_NAME tracking or Defect Review meetings.
+Designed and Developed front end and Back end Test scenarios and Test cases
+Performed manual testing on different MASKED_NAME of the Application by executing the Test Cases.
+Coordinate with all project team members to ensure project needs are clearly understood and supportable.
+MASKED_NAME and remove or mitigate obstacles and risks to projects.
+Conducted peer review meetings periodically to keep track of the project’s milestones.
+Assisted the Project Manager with creating detailed project plans and also in developing, scheduling and tracking project timelines.
+Conducted GAP Analysis of current state (As-Is) and proposed state (To-Be) situations and represented in MS MASKED_NAME. 
+Facilitated JAD sessions with the business team and technology team.
+Responsible for leading all aspects of projects from start to finish, including project team definition, resource allocation decisions.
+Developed high level design of new processes and graphically presented along with text based requirements.
+Experience in creating wireframes.
+Created Activity Diagrams, and Sequence Diagrams using UML in MS MASKED_NAME.
+Conducted Previews and User Acceptance Test (UAT) sessions.
+Environment: MASKED_NAME, MASKED_NAME
+Mississippi State Division of Medicaid, MASKED_NAME, MS            May 2013- Feb 2015
+Sr. Business Analyst 
+Mississippi Division of Medicaid’s Management Information System (MMIS) had to comply with the CMS mandated Health Insurance Portability and Accountability Act (HIPAA) requirements. Project was to analyse system impact and perform GAP between current HIPAA 4010 and compliance HIPAA 5010 for state Medicaid Management Information System.
+Responsibilities:
+Actively worked on Business requirement gathering, analysis and Data analysis
+Facilitated JAD sessions to collect User Requirements, Business Requirements and Functional Requirements.
+Created Business/User/Functional document using MS Project, MS Word and MS Visio that provided appropriate scope of work for technical team to develop prototype of the overall system.
+Gathered requirements from the administrative staff and business rules for determining member eligibility and successfully converted them into functional requirements for the developments team.
+Created Use Cases, various UML Diagrams and Data Flow Diagrams to determine the data flow via various systems
+MASKED_NAME and maintained the Requirement Traceability Matrix (RTM) for the project deliverables.
+Proposed the change and reengineering of the ‘AS IS’ Business processes into the ‘TO BE’ process flow
+Involved in the day-to-day implementation of the agile methodology of application development with its various work flows, Artefacts and activities.
+Created Business Rule Comparison (BRC) documents using 4010 / 5010 implementation guides for X12 transactions 
+Extensively involved in HIPAA 5010 User Acceptance Testing (UAT). Defined and maintained Test Cases for EDI transactions.
+Thoroughly studied the inherent systems to have a clear understanding of the business processes and associated system workflow.
+Used HP Quality Centre for error reporting and communicating between developers, product support and test team members
+Recommended corrective actions, if necessary, along with the progress against Development/Action Plan routinely to the Project Manager.
+Used MS Share point for sharing documents, calendars and other data between users in different locations.
+Wrote test cases and test plans for the related and assigned scripts according to the test strategies defined in the project and testing team guidelines in Quality centre.
+Assisted in regression testing and did UAT to improve overall quality of the Application.
+Environment: UML, Windows, Agile, MASKED_NAME, SQL, ETL, Data warehouse, Microsoft Office, Test Director, MMIS, MS Access, HTML, XML, MASKED_NAME, MASKED_NAME, ASP, DB2.
+Dept of Health, MASKED_NAME						May 2012 - April 2013
+Sr. Business Analyst
+I worked as a business analyst in the project intended to make the existing application comply with HIPAA 5010 standards. I was involved in the analysis of EDI transactions 834 and 837I, 837Pbased on HIPAA 4010 and mapping them in order to make the application comply with HIPAA 5010 standards. The module that I worked on allowed the agents to track and manage the status of health benefit claims. My daily responsibilities included performing typical BA duties and additionally included doing QA work such as coordinating the testing process during the testing and UAT phase of the application. I was also responsible in maintaining the application during the “warranty period” and making sure all the issues were solved.  
+Responsibilities:
+Coordinated with the developers, testers and users on verifying, documenting and addressing any issues with the newly implemented HIPAA 4010 to 5010 conversion at the time.
+Created and maintained data mapping document(s) in reference to the HIPAA mandated transactions834 and 837I, 837P.
+Independently studied the changes being made and helped them implement in the application.
+Conducted and participated in meetings for requirement elicitation and documentation. 
+Worked with end users, SMEs, and stakeholders to fully understand issues with the older application and the requirements of the new application being built.
+Interviewed business users to gather requirements and analyzed the feasibility of their needs by coordinating with the project manager and the technical lead.
+Conducted and participated in JAD sessions with the system architect, Subject Matter Experts (SMEs) & the project sponsor for fast & effective system requirement development.
+Used Customer Relationship Management (CRM) in order to meet customer expectation.
+Identified and gathered the data requirements and wrote SQL queries using tools such as My SQL Workbench and Aqua Data Studio.
+Wrote very detailed BRDs and FRDs based on the requirements gathered.
+Used MS MASKED_NAME to create flow charts, use case diagrams, activity diagrams to illustrate business rules and process flows required for the BRDs and FRDs. 
+Wrote test cases for testing the migration of EDI 4010 to 5010 and the processing of EDI transactions 820, 834,837I and 837P.
+Helped coordinate the testing process by helping the QA team prepare for the testing requirements such as environment, writing instructions, organizing walkthroughs, selecting the test groups, etc.  
+Used Waterfall methodology throughout the development process and was extensively involved with developers on every stage of the application development.
+Environment: Waterfall, SQL, MASKED_NAME, MS Excel, MS Project, MASKED_NAME, BRDs, FRDs, Quality Assurance, UAT
+Prime Therapeutics, MASKED_NAME, MN					Jan 2011 - Apr MASKED_ADDRESS
+Prime therapeutics is leading Pharmacy benefit Management Company. I worked with member marketing/customer experience team where I was required to work on all the correspondence materials sent out to the existing members for various reasons. I as primarily focus on Prime mail, Guided health and MASKED_NAME.
+Responsibilities:
+Worked as a liaison between technology and the business clients to improve business processes and support critical business strategies.
+Utilized industry knowledge to provide executive management with the development and implementation of interactive business tools and strategic analysis.
+Setup and manage inter-departmental status meetings, often including off-shore development and QA teams.  
+Scheduled review presentation meetings with developers, System Analysts (SA) and business owners for project completion and approval using Adobe Connect.
+Understood the Business Logic, User Requirements & developed Design & User Interface Specifications
+Worked with the stakeholders to understand the features they wanted to be implemented in the new version such as new notification options, account features, better sorting of the transaction list, preferred UI changes, etc.
+Worked with SMEs, business users and technical leads in understanding and documenting issues with the older version of the application.
+Wrote SQL queries for database inquiries whenever needed. Worked with System Admin for any database related task such as creating production scrubs, database access for team members, any issues, etc. 
+Used Agile methodology throughout the project and extensively involved in all stages of development.
+Helped update MASKED_NAME whenever needed and also created Sprint logs by working with the team lead.
+Conducted multiple meetings in the middle of the sprint to solve any issues encountered during the sprint.
+Logged issues and presented them during the sprint reviews for discussion.
+Designed and finalized mockups using Axure. This helped the team in better understanding proposed changes.
+Helped in coordinating UAT phase for every sprint.
+Involved in logging post-deployment issues and making sure they were addressed as per their urgency and priority.
+Successfully completed the project within time and budget despite having a very tight schedule. 
+Environment: Agile, SCRUM, MASKED_NAME, MS Project, Axure, SQL, My SQL Workbench. HEDIS, Lotus notes
+PNC Bank, MASKED_LOCATION, PA                                                                              Oct MASKED_ADDRESS
+The project was aimed at successfully implementing a system that provides an integrated, shared view of the customer across the enterprise that enforces and encourages consistent customer data. The goal was to increase efficiency and customer service through the development of a user-friendly, web-based banking information system, which will allow for maintenance of a centralized database for the managers of Bank. 
+Responsibilities:
+Conducted GAP Analysis to identify key areas of concern and addressed them with the Business team. Documented the AS-IS and TO-BE processes.
+Actively engaged client and third party integration partners in requirements gathering and validation. 
+Developed business Use Cases using UML for new product functionality after conducting requirements elaboration sessions with client teams.
+Used Rational Unified Process for the Software Development Life Cycle of this project. 
+Documented business and functional requirements
+Provided assistance in reviewing, analyzing and evaluating business requirements, user needs and functions with the objective of improving business processes and procedures.
+Generated process flow diagrams
+Maintained an issue log and driven issues to closure
+Worked closely with the development team to make sure all the requirements were covered.
+Maintained versioning in requirements
+Environment: MASKED_NAME, Rational Requisite Pro, Quality Center

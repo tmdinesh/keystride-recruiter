@@ -1,0 +1,24 @@
+{
+  "resume_id": "Sahas BA Resume_anon",
+  "skills": [
+    "node",
+    "sql",
+    "oracle",
+    "tableau",
+    "git",
+    "jira"
+  ],
+  "education": {
+    "degree": "Unknown",
+    "year": "Unknown"
+  },
+  "experience_years": 8,
+  "projects": [
+    "Project Management entails developing user specifications, requirements gathering, resource planning, project plan and time line, initial testing and coordination of user testing. Evaluation of possible solutions and software to fit user\u2019s needs. This included working with 3rd party vendors.",
+    "Organized and facilitated meetings with the management and the development team, conducting requirements gathering sessions with the purpose of defining the functional business and system requirements.",
+    "Conducted benchmarking activity for reward and recognition programs based of which made recommendations and developed 'as-is' and 'to-be' workflow diagrams.",
+    "Created Business Requirements Documents (BRD) and Functional Requirements Specifications (FRS) documents.",
+    "Facilitated the transfer of service functionality from legacy systems to the ServiceNow service"
+  ],
+  "certifications": []
+}

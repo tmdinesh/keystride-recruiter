@@ -1,0 +1,35 @@
+{
+  "resume_id": "Praveen T_anon",
+  "skills": [
+    "java",
+    "javascript",
+    "scala",
+    "react",
+    "angular",
+    "html",
+    "css",
+    "bootstrap",
+    "jquery",
+    "node",
+    "spring",
+    "rest",
+    "soap",
+    "sql",
+    "mysql",
+    "mongodb",
+    "oracle",
+    "cassandra",
+    "aws",
+    "jenkins",
+    "apache",
+    "spark",
+    "jira"
+  ],
+  "education": {
+    "degree": "Used Bootstrap library to quickly build project UI's and used AngularJS framework to associate HTML elements to models.",
+    "year": "Unknown"
+  },
+  "experience_years": 8,
+  "projects": [],
+  "certifications": []
+}

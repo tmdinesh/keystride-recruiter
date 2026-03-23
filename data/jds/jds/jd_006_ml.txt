@@ -1,0 +1,45 @@
+ROLE: ML Engineer Intern
+SOURCE: Synthetic
+URL: N/A
+COMPANY: Apex Digital
+
+============================================================
+  ML ENGINEER INTERN
+  Apex Digital
+============================================================
+
+ABOUT THE COMPANY
+----------------------------------------
+Apex Digital is a cutting-edge technology firm dedicated to delivering innovative data science and machine learning solutions. We empower businesses across various sectors by transforming complex data into actionable insights and intelligent systems. Our mission is to drive progress through advanced analytics and AI, creating significant value for our clients worldwide.
+
+RESPONSIBILITIES
+----------------------------------------
+  • Assist in the collection, cleaning, and preprocessing of large datasets for machine learning model development.
+  • Implement, train, and evaluate machine learning models using Python and the scikit-learn library.
+  • Contribute to feature engineering efforts to improve model performance and generalization.
+  • Participate in the deployment and monitoring of machine learning models in a production-like environment.
+  • Document experiments, code, and model performance results for team knowledge sharing and future reference.
+
+REQUIRED SKILLS (Must-Have)
+----------------------------------------
+  ✅ Python programming (intermediate proficiency)
+  ✅ Scikit-learn library (practical experience with core functionalities)
+  ✅ Data manipulation libraries (e.g., Pandas)
+  ✅ Numerical computing libraries (e.g., NumPy)
+  ✅ Understanding of fundamental machine learning concepts (e.g., regression, classification, clustering, model evaluation metrics)
+  ✅ Version control systems (e.g., Git)
+
+PREFERRED SKILLS (Nice-to-Have)
+----------------------------------------
+  ⭐ Experience with cloud platforms (e.g., AWS Sagemaker, GCP AI Platform, Azure ML)
+  ⭐ Exposure to deep learning frameworks (e.g., TensorFlow, PyTorch)
+  ⭐ Knowledge of MLOps principles or tools (e.g., MLflow, Docker)
+
+EXPERIENCE & EDUCATION
+----------------------------------------
+  Experience: 0-1 years
+  Education:  Currently pursuing or recently completed a Bachelor's or Master's degree in Computer Science, Data Science, Electrical Engineering, or a related quantitative field.
+
+COMPENSATION
+----------------------------------------
+  $25 - $40 per hour

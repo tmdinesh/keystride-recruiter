@@ -1,0 +1,111 @@
+ 
+ 
+Contact
+www.linkedin.com/in/
+antarabhowmick (LinkedIn)
+MASKED_NAME
+C++
+Python
+Machine Learning
+Languages
+English (Native or Bilingual)
+Hindi (Native or Bilingual)
+Bengali (Native or Bilingual)
+Certifications
+Machine Learning
+VTC Online Training on AngularJS
+Honors-Awards
+Amazon Alexa Prize 2018 Winner
+Publications
+Analyzing Population Data to Predict
+the Literacy Rate in Tamil Nadu
+BugSwarm: Mining and Continuously
+Growing a Dataset of Reproducible
+Failures and MASKED_LOCATION
+MASKED_NAME Alexa Prize '18 Winner | Actively seeking full time
+opportunities | MS CS @ MASKED_NAME, MASKED_LOCATION
+Summary
+I'm pursuing a Master's degree in Computer Science at the
+University of California, MASKED_NAME and looking for full time opportunities
+in Software Engineering and Data Science from June '19. 
+I'm currently working as a researcher with Dr. MASKED_NAME,
+on problems in static program analysis and error propagation in MPI
+libraries. I also worked on the classification pipeline of MASKED_LOCATION,
+a toolkit which enables the creation of a scalable, diverse, realistic
+and continuously growing dataset of reproducible failing and passing
+versions of open-source projects. 
+Additionally, I participated in (and won!) the Amazon Alexa Prize
+2018 competition as a member of our UC Davis team, MASKED_NAME.
+My main contribution was the animal/pets sub-system, which
+was consistently in the Top MASKED_ADDRESS popular topics and garnered
+good user ratings throughout the competition. The project was
+implemented using Docker, AWS and Python, and we followed an
+Agile development pattern.
+I have also previously interned at Medyug Technologies as
+a Machine Learning Engineer, where I worked on extracting
+information from electronic health records using Natural Language
+Programming, and used that information to populate patient record
+databases. The majority of this work was implemented using Python,
+Stanford's CoreNLP libraries, and OpenCV.
+My main areas of interest are machine learning and data science,
+and I'm looking for full time opportunities from June '19 which allow
+me to explore more in these fields. 
+Experience
+ 
+Page 1 of 3
+
+ 
+ 
+University of California, MASKED_NAME
+2 years 3 months
+Graduate Student Researcher
+June 2018 - Present (1 year 10 months)
+Working with Dr. MASKED_NAME on
+- Development of an automated classification system for real bugs mined from
+open-source projects.
+- Program analysis to detect error propagation bugs in MPI Libraries
+Teaching Assistant
+January 2018 - June 2018 (6 months)
+Teaching Assistant for ECS30: Programming and MASKED_NAME for Winter
+'18 (Jan-Mar) and Spring '18 (Apr-Jun) 
+Responsibilities included:
+• Conducting weekly discussion sections for students
+• Holding weekly office hours 
+• Grading homework assignments and exams
+• Holding interactive grading sessions
+Medyug Technology Pvt Ltd
+Machine Learning / Natural Language Processing Intern
+January 2017 - April 2017 (4 months)
+MASKED_LOCATION, MASKED_LOCATION
+Worked on entity extraction from EHR (Electronic Health Records) using
+Image Recognition and Natural Language Processing. 
+Technologies used: Python, OpenCV, CoreNLP 
+The Climber
+School Relations Manager
+February 2015 - March 2016 (1 year 2 months)
+Ranked by MASKED_NAME as the best student run Start Up in BzzWings 2015,
+The MASKED_NAME is a start up that helps students to follow their passion. 
+I managed a team of 11, and coordinated with 6 schools to organise the event
+‘I’ for high school students
+National Informatics Center
+Software Development Intern
+June 2015 - June 2015 (1 month)
+MASKED_LOCATION, MASKED_LOCATION
+ 
+Page 2 of 3
+
+ 
+ 
+Built an application which allows administrator to add, delete or modify clients
+of a local intranet system. 
+Developed using MASKED_NAME, MySQL for backend and HTML/CSS/JQuery for
+frontend. 
+Education
+University of California, MASKED_NAME
+Master of Science - MS, Computer Science · (2017 - 2019)
+SRM University
+Bachelor of Technology (B.Tech.), Computer Science · (2013 - 2017)
+Amity International School, NOIDA
+ · (1998 - 2013)
+ 
+Page 3 of 3

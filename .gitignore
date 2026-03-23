@@ -1,0 +1,18 @@
+# Environments
+.env
+
+# Dependencies
+node_modules/
+__pycache__/
+*.pyc
+env/
+venv/
+.venv/
+
+# Uploads
+uploads/
+backend/uploads/
+
+# OS generated files
+.DS_Store
+Thumbs.db

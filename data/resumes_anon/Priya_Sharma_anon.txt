@@ -1,0 +1,111 @@
+MASKED_NAME
+MASKED_PHONE
+WORK EXPERIENCE
+Senior IT Project Manager
+MSR Online  -  MASKED_LOCATION, Gauteng - 2016-04 - 2017-08
+Managed IT projects estimated > $65 million+ annual budget that supported multiple high-profile and complex projects. Held dual accountability for managing complex large-scale corporate IT Projects with top-notch companies like MASKED_LOCATION, Huawei, Wipro, MTN (Mobile Telephone Network) and leading the organization’s IT process improvement practice, overseeing a team of 10 to deliver IT Transformation, process management, IT Governance, application development and service management projects.
+Project SPOC for all external customers and partners as well as internal project team members on projects being managed 
+Develop business relationships with client stakeholders and gain client confidence by demonstrating knowledge of Telecommunication’s Professional Services offerings, and how the custom solution meets the client business requirements 
+Directed all phases of the software test management life-cycle, from inception through completion, delivering goals on time, within budget, and to specification Successfully managing test data, bill to bill, performance and integration testing teams 
+Coordinated the efforts internally and with 3rd party vendor of the projects 
+Worked on Ericsson Billing platforms with emphasis on scripting to address gaps in vendor delivery of services and functionality. Operational process development for optimizing data within billling accuracy such as such as rate plan migrations, data correction, and promotional support 
+Developing project plans, schedule, estimating cost, planning budget Project milestone tracking based on the planned schedule and cost 
+Collaborated with Compliance and Information Security (Infosec) for Risk Assessment, Vulnerability scans/ Application Penetration Tests Conducted Steering Committee periodic performance reviews with senior management, sponsors of the projects Collaborated with senior level business and IT resources to ensure the project's strategy, planning and delivery approach will achieve the desired end results 
+Utilized change management and change control process to ensure any changes to project scope were controlled and coordinated to minimize increase to project cost, disruption to effective utilization of resources, and progress with implementing the project scope. Headed multiple projects concurrently, led cross functional teams, prioritized project work to meet business goal. Managed and tracked program risks and assessed and prioritized issues by mitigating solutions and/or resources to minimize, monitor and control impact to project scope, schedule, cost and quality Successfully managed, software upgrades, periodic releases in multi-tenant environment 
+Created Microsoft Visio Network Diagrams for clients 
+Assisted in writing and responding to RFP/RFQ's 
+Retained current clients through strategic project design, development and presentation 
+Created EBFs (Electronic Billing Files) from carriers' raw billing data to one simplified, frontend, customer-facing database 
+Provided comprehensive technical support for clients as needed 
+Built Microsoft Access databases for organizations to provide a complete inventory of all their telecom equipment and expenses 
+Project Manager
+Ernst & Young LLP (E&Y)  -  MASKED_LOCATION, Haryana - 2015-12 - 2016-01
+Project I: Reliance Telecommunications 4G – Project Manager (MASKED_LOCATION, MASKED_LOCATION)
+MASKED_NAME and launched formal PMO, rolling out new process improvement solution to help IT organizations achieve CMMI level 5. Designed and implemented Transformation Incident Management Support Desk and documented all Service Management Processes. Worked with internal stakeholders and diverse external vendors such as SAP, MASKED_LOCATION, IBM, TechMahindra and Wipro.
+Provided project status updates and project readouts to client leadership at the MASKED_LOCATION level 
+Overseeing end to end Project Delivery and management of the delivery with the project budget 
+Tracking project risks and issues, including escalations as required 
+Lead project resources to ensure timely completion of Project tasks and deliverables. Initiated and implemented new strategic initiatives, focused on improvement in productivity, Operational efficiency. 
+Impact Analysis and Value mapping of the processes executed in each cycle 
+Developed, managed and maintained ongoing work plan and coordinated schedules and activities. Ensured all milestones, financial targets and success metrics are met 
+MASKED_NAME and executed audit plan as per process delivery and clients’ expectations 
+Project II: MTN, IT Shared Services Hub – Quality Assurance Manager (MASKED_LOCATION – MASKED_LOCATION, MASKED_LOCATION, MASKED_LOCATION and MASKED_LOCATION)
+Oversee, define and review the end to end quality of processes around the delivery of VAS services and solutions. Supervised MASKED_ADDRESS managers to setup project schedules and managed completion of tasks through regular status reporting.
+Collaborating with cross-functional teams across multiple geographies and ensuring the successful delivery of projects 
+Day to day Co-ordination & Correspondence with the vendors( Ericsson, Huawei, Wipro, TechMahindra, Technotree) 
+Vendor performance management and reporting. Strong orientation to Quality Control 
+Process Monitoring, MASKED_NAME management, Governance meetings and improvement planning 
+Set up project governance structure and prepare an integrated view of progress against the plan and highlighting risks 
+Organizing status meetings and sending the status report (Daily, Weekly etc.) to the client & release management Peer reviews, coordination with external team & UAT teams 
+Managing CAPEX (Motivations, PO's, Reallocations, Commitment and Capitalization) 
+Communication on the change management and achievements in analytical manner 
+Performed Gap Analysis to identify the deficiencies of the current system and to identify the requirements for the change in the proposed system. 
+MASKED_NAME automation suite using QTP/ Quality Centre 
+Review of HLD, Test Strategy documents prepared by design team 
+Involved in Test Strategy Specifications & Traceability Matrix as per functional specifications 
+Coordinated in setting up the test environments (instances) with LS-TEM team 
+Oversee Sanity, System, Functional and Regression testing 
+• Reporting and tracking the detected defects through MQC
+Project Manager
+Sapient Global Markets  -  MASKED_LOCATION, Haryana - 2014-03 - 2014-12
+Project: Chevron ATLAS R4 - Objective of MASKED_NAME program was to implement trading and risk management tool SolArc RightAngle for MASKED_LOCATION business of Chevron
+System Study, Detailed Requirements gathering, Gap Analysis, Configuration, Build/Customization, Testing, Data Migration, Simulation and Go-live 
+MASKED_NAME, Risk and Change Control; drawing contractual documents, Statement of Work (SOWs), commercials 
+Creating High Level plan and MASKED_LOCATION project plan (Including peripheral systems and external dependencies) using MS Project and XL 
+Base lining and managing the scope and estimates for the Business Design, QA, Architecture and Cutover tracks 
+Defect-tracking, Root Cause Analysis, recommendations to prevent re-occurrence and monitoring effectiveness 
+Facilitate the team in developing the Steps of Doneness for maintaining traceability of overall doneness of scope 
+Review the base-lined scope matrix along with other artifacts such as plans and SOD with the project architects and leadership 
+Document assumptions, dependencies and risks affecting the plan and review with Project Leadership 
+Monitor the progress towards phase/project completion using MLP and SOD. Manage Issues and Risks 
+Preparing the weekly status report/dashboard for the track and review with the project leadership 
+Mentoring people through strong interpersonal skills and empowering team in decision-making 
+Project Manager
+Mahindra Comviva  -  MASKED_LOCATION, Haryana - 2011-11 - 2014-03
+Provided full life-cycle Program / Project Management for IT. Program management of multiple complex projects as part of Delivery & Program Management team, spanning all facets of work. Responsibilities included; financial plans, risk analysis, change management, cross-project impact analysis, monitor and control, project planning, and development of project schedules.
+Worked as an Associate Project Manager for high care customers in MASKED_LOCATION, MENA and MASKED_LOCATION regions to deliver products end to end in the MASKED_NAME and VAS segment 
+Participated as a MASKED_LOCATION in Steering Committee meetings on regular basis to track ongoing projects 
+Responsible and accountable for the coordinated management of multiple related projects 
+Responsible for financial reporting to the interested stake holders; Programme Director, Step Change Governance Board and Finance Team 
+Oversee product releases by coordinating MASKED_NAME, Software Quality Assurance, Technical Communications, Knowledge Management, Internal Compliance, Application Support, Delivery Services, Operations, Sales, Marketing, Reporting, and Technical Communicators 
+Provide Project Profitability - Revenue Forecasting (Project Level). Assist in preparation, data gathering, presentation and analysis of all capital forecast including, quarterly, annual and long term forecasts 
+Prepared various reports to Management which gives overview on historical trends, forecasts, project roadmap, Project Traffic Light, Staffing plans, utilization, Time sheets, CAPEX/OPEX status, new initiatives etc 
+Software Developer
+Dazines UK Ltd.  -  MASKED_LOCATION, MASKED_LOCATION 2010-01 - 2011-11
+Worked closely with various project stakeholders, SMEs and staff to understand and document business requirements, functional requirements and design specifications and translate business ideas into technological solutions using needs analysis methods, information architecture, and wireframing techniques 
+Designed the UI architecture, interface, and interaction flow of applications and experiences. Developed conceptual diagrams, wireframes, visual mockups, click-through, and prototypes 
+Designed and documented functional specification requirements such as GUI (Graphical User Interface) designs, and input and output device requirements 
+Worked as an interface between the clients, development team and the development support team 
+Used MS MASKED_NAME to create project process flowcharts and workflow Diagrams 
+Developed Use Case diagrams, business flow diagrams, Activity/State diagrams, Sequence diagrams, Logical Models, Process Flow Diagrams, Report Specifications, Data Mapping & Flow Diagrams to help business users and developers better understand the process 
+Intern Web Developer
+University of London  -  MASKED_LOCATION, MASKED_LOCATION 2009-10 - 2010-01
+Maintained University of London intranet and internet websites 
+Designed Online marketing material, applications and blogs 
+Performed weekly assessments of all websites and software to look for potential problems or crashes 
+Fixed bugs and implemented enhancements that significantly improved web functionality and speed 
+Web Developer
+Red Chilli Media  -  MASKED_LOCATION, MASKED_LOCATION - 2009-01 - 2009-08
+Worked for a web hosting firm; developed websites for clients using various CMS solutions including MASKED_NAME, Drupal and Wordpress, depending on the client's needs 
+Usability testing and reporting for a variety of client websites 
+Assisted in usability pilot and field tests to further the development of user interaction and wrote extra documentation 
+Site creation included use of Java, PHP, CSS, HTML, JavaScript, My SQL, MASKED_NAME, PHP, Pay pal, and form processing 
+Designed, created, and assembled web graphics, logos, and advertisements along with other media graphics using Photoshop and Illustrator 
+EDUCATION
+University of London 2009-11 - 2010-01
+Master's in Software Engineering
+University of London, Queen MASKED_NAMEMASKED_LOCATION
+2010
+Bachelor of Technology in Computer Science & Engineering
+Maharishi Dayanand University - Delhi, MASKED_LOCATION 2009
+SKILLS
+Microsoft Project Server, MASKED_NAME, MASKED_NAME, MASKED_LOCATION, PHP, MS Project, JIRA, Rally, MASKED_NAME
+ADDITIONAL INFORMATION
+IT Strategy & Planning Project/Program Management PMO Set-up and Management Enterprise Implementations Agile/Scrum Methodologies Offshore Development Budgeting & Forecasting Systems Development Executive Presentations
+Program Governance & Execution Conflict Management RAID Management Process Improvements Product Roadmaps Team Building & Leadership Technical Product R&D UX/UI Design Go-to-Market Launch Plans
+Technical Skills
+Project Management:MS Project Enterprise, MASKED_NAME, MASKED_LOCATION, MS Excel, JIRA, Clarity, Team Dynamix, Microsoft PPM, MASKED_NAME Windows, Unix, Sun Solaris, Mac OS X, iOS 
+Programming Languages: C, MASKED_NAME, MASKED_NAME, PHP 4/5, JavaScript, MASKED_NAME, jQuery, VBScript, Spring MVC, HTML, XML, CSS 
+Software: MASKED_NAME (Dreamweaver, Photoshop, Illustrator, Indesign), Content Management Systems, Visual Studio, Eclipse, 
+SAP ABAP applications, MASKED_NAME, IBM Connections Suite 
+Database: MASKED_NAME 11G, Microsoft SQL(MySQL, Postgres) and Access, DB2, NoSQL (MongoDB) 

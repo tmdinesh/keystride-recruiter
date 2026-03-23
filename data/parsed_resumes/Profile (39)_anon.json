@@ -1,0 +1,31 @@
+{
+  "resume_id": "Profile (39)_anon",
+  "skills": [
+    "python",
+    "scala",
+    "r",
+    "flask",
+    "sql",
+    "mongodb",
+    "elasticsearch",
+    "aws",
+    "azure",
+    "kubernetes",
+    "linux",
+    "machine learning",
+    "tensorflow",
+    "pytorch",
+    "keras",
+    "scikit-learn",
+    "pandas",
+    "numpy",
+    "spark"
+  ],
+  "education": {
+    "degree": "Master's degree,\u00a0Molecular and Cellular Biology\u00a0\u00b7\u00a0(2015\u00a0-\u00a02016)",
+    "year": "2015"
+  },
+  "experience_years": 2,
+  "projects": [],
+  "certifications": []
+}

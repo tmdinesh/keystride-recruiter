@@ -1,0 +1,102 @@
+MASKED_LOCATION
+MASKED_EMAIL 
+ Mobile: MASKED_PHONE
+  SUMMARY
+Business Analyst/SME with over 9 years of experience in analysis, requirement management, design and implementation of business applications for Banking, MASKED_LOCATION, MASKED_LOCATION and Financial domains. 
+Experienced in both waterfall and agile/scrum methodologies.
+Experienced in gap analysis, risk and impact analysis, SWOT analysis, and contributed towards project planning.
+Experienced in selecting and executing elicitation techniques such as interviews, document analysis, exploratory prototypes, focus groups, observation, user task analysis, and surveys and overall process re-engineering.
+Facilitated the scrum ceremonies such as sprint planning, daily scrum, mid-point review, backlog refinement and retrospectives.
+Contributed to the vision of product backlog for a product and worked to prioritize requirements, define and manage scope and sprints for a project. 
+Fluent in defining the user stories and establishing the acceptance criteria.
+Helped with iteration planning, acceptance testing, team demos and retrospectives. 
+Served as the customer proxy and interfaced with internal and other contractual staff to ensure successful delivery of units of work 
+Also experienced in systems documentation including high level system design, system mapping, detailed functional and technical design, test plans, test cases for UAT.  
+Experienced in problem analysis, identification of trends, and remediation from incident tickets, monitoring, and proactive identification of possible problems.
+Experience in data management including data analysis, gap analysis and data mapping.
+Excellent technical and analytical skills with clear understanding of design goals of ER modeling for OLTP and dimension modeling for OLAP.
+Focused on reporting using BI tools to help define the base data elements of a to be data-warehouse and simplified ad-hoc reporting capability.
+Proficient in designing business models using UML diagrams such as use case model, class diagrams, activity diagrams and sequence diagrams.
+Experience in conducting JAD sessions with end-users, expert team, development and QA team for project meetings, walkthroughs and customer interviews.
+Delivered user training and provided technical support, maintained user documentation. Created and maintained training plans, curriculum and training material.
+   Experience:
+Chicago Board of Options Exchange(CBOE), MASKED_LOCATION, IL                                                  July 2013 – Present
+Project involved Surveillance designed to detect violations of exchange trading rules, possible manipulation and violation of other SEC rules and further investigation of matters deemed to be problematic.
+Role: Business Analyst
+Was responsible for the development and deployment processes of Web based Surveillance applications (Market Integrity, Agency Obligations, Positions and Exercises.) in the DevOps environment.
+As a business analyst transformed rough feature requests into detailed business requirements and user stories to meet the product roadmap.
+Worked closely with product owner to prioritize the backlog and get approval to begin development. Maintained and updated the user stories, the acceptance criteria and tasks as per client request.
+Worked with teams to prioritize and groom product backlog according to business value.
+Updated Agile tracking systems to provide transparency on product and sprint backlogs
+Documented user stories and facilitated story point discussions to analyze the level of effort on project specifications.
+Facilitated sprint backlog, sprint planning, sprint retro meetings and daily standup meetings and promoted guidelines of regression testing with automation.
+Facilitated Data source review meetings with DW team, DA, users and SMEs of the application to discuss details of data sources, their attributes and any data constraints.
+Created Mapping Specification document to outline mapping data from source systems to the target data warehouse.
+Wrote SQL queries using joins, sub queries and performed integration testing to check the validity of the data at each stage.
+Created SQL scripts to perform data profiling and data validation testing.
+Conducted use-case reviews and identified gaps, leading to improvements and enhancements in the same.
+Tracked and managed sprint backlog, burn-down metrics, velocity, and task break-down. 
+Created and maintained the project documents such as Project Charter, Impact Analysis, Rollback and Verification, in confluence and tracked the progress via JIRA.
+Facilitated scrum-of-scrum meetings with off shore team to provide visibility of team's work and facilitated cross-team dependencies.
+Tracked and effectively communicated sprint/release progress to all affected teams and management.
+Coordinated UAT testing of the user stories for accuracy and compliance to ensure undisputed acceptance and validation of stories.
+Conducted grooming of requirements / user stories before and after each sprint and prioritized requirements during each sprint.
+TD Bank, MASKED_NAME, NJ 				              		                                                                             May 2011 – May 2013
+An internal ovation project designed to service the customers in maintaining the accounts, day to day   operations as well as the international and business transactions
+ Role: Business Analyst
+Provided business analysis and systems support for the application process by a) Working with the project stakeholders to define the project scope, b) Identify and conduct Stakeholder analysis, c) Prepare and manage requirements traceability matrix (RTM) d) Requirements elicitation through joint application development (JAD) sessions and user group interviews, e) Gap analysis.
+Identified and documented business and customer requirements using tools and defined application’s functional requirements.
+Created user stories, test cases and work flow diagrams during agile methodology.
+Led daily stand-up meetings and assisted with coordination issues hindering completion of user stories.
+Participated in daily scrum meetings and take the initiative to prepare for and organize other necessary meetings and agile ceremonies such as Sprint Planning.
+Produced key product requirements document including use case diagrams and scenarios that provide detailed explanation of what is to be delivered and the priority of each request.  
+Conducted brainstorming sessions to aid high level analysis to identify key actor roles and functions and documented use case diagrams.
+Worked with DA on detailed data requirements and involved in construction of data flow diagrams and documentation of the processes.
+Created ER diagram for the current application as well as data mapping and data dictionaries.
+Worked with SQL queries for validating the data against different kinds of reports.
+Removed roadblocks for successful sprints, which led to the transition of releases on time. 
+ MASKED_LOCATION, MASKED_LOCATION, MA                                                                                                       Apr 2009-May 2011
+An architectural and security model gateway project, integrated portal administration of MASKED_LOCATION with its business partners.
+ Role: Business Analyst
+Coordinated end to end processes for various business portals to provide user authentication, authorization and application entitlements.
+Analyzed Business requirements, performed gap analysis and segregated them into high level and low-level use cases, activity /state chart diagrams using tools.
+Created relationships in Requirement Traceability Matrix linking Business Requirements to Functional requirements and Functional Requirements to Systems Requirements
+Involved in preparing Test Plans based on user requirements document (URD) and prepared the Test cases and Test procedures. 
+Wrote functional test cases for the clients to perform UAT to ascertain the GUI performed as per the business requirements.
+Performed tasks like data extraction from flat files, data transformations into various file formats and validations.  Also performed loading of data and checked for any data integrity errors.
+Participated in ETL requirements process during data transition from source systems to target systems. 
+Created ER diagrams for the current application as well as data mapping and data dictionaries.
+Improved existing process, by helping create and transition legacy reports to self-service tool to an in-house application
+Involved in data dictionary management, extraction, transformation and loading ETL of data from various sources. 
+Wrote the SQL queries on data staging and data warehouse tables to validate the results.
+Assisted with change, issue, quality and risk management activities. Generated management reports on weekly and monthly basis. 
+Coordinated the COTS issues and training on day-to-day basis, during the UAT phase.  
+     Sears, MASKED_NAME, IL                                                                                           Oct 2007 – Mar 2009
+Authorization at POS to accept open to buy modifications for returns, payments, sales adjustments and third-party credit cards.
+     Role: Business Analyst
+Involved in GAP analysis during the identification of business rules, business and system process flows, user administration, requirements and assumptions.
+Assisted in the product planning and development cycles: from gathering requirements to writing specifications and shaping the software development process. 
+Participated actively in requirement and design reviews and followed the UML based methods. 
+MASKED_NAME and delivered project documentation for major and minor release items. Documentation includes:  BRS, SRS, FDS, use cases, process flows, system and user acceptance test plans, test scripts, traceability matrices, and end user training documentation.
+Developed use case diagrams, business flow diagrams, activity/state diagrams and sequence diagrams so that developers and other stake holders can understand the business process.
+Assisted Walkthroughs with end users, developers, managers and other analysts. 
+Assisted the development team with design and development of the application, provided usability metrics collected from user surveys. 
+Acted as liaison between the senior management and different teams with effective presentations. 
+Executed the ETL jobs in MASKED_LOCATION environment to load data from files to the database tables and validate the data load as per requirements.
+Created and debugged ETL processes using T-SQL queries, functions.
+Tracked any additions, deletions or changes in scope on the test plan including efficient tracking of defects. 
+Attended and coordinated change review meetings and Go/No-Go meetings.
+Environments:
+Operating Systems: Windows, UNIX/Linux.
+MS Office MASKED_NAME:  Word, Excel, Power Point, Project, MASKED_NAME.
+Version Control Systems: CVS, SVN, GIT, MASKED_NAME.
+Build Tools: ANT, Clearmake.
+CI/CD Tools: Jenkins, MASKED_NAME.
+Project and Collaboration tools: MASKED_NAME, ServiceNow, MASKED_NAME, Confluence, ALM, SharePoint, ClearQuest.
+Testing Tools: QTP, Selenium.
+Development Languages and Tools: MASKED_NAME, .Net, SQL, HTML, XML, ASP.net, JSP, MASKED_NAME, VB Script.
+Databases and MASKED_NAME: Oracle, DB2, SQL Server, MY-SQL, MASKED_LOCATION, MASKED_NAME, Cognos, Crystal Reports. 
+Methodologies, MASKED_NAME and MASKED_NAME: Object Oriented, ITIL, Waterfall, DevOps, JAD, RUP, Agile.
+Certificates: ITIL.
+Education: Master’s in MASKED_LOCATION.	
+Legal Status: US Citizenship.

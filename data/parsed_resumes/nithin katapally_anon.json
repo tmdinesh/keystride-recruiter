@@ -1,0 +1,42 @@
+{
+  "resume_id": "nithin katapally_anon",
+  "skills": [
+    "java",
+    "javascript",
+    "react",
+    "angular",
+    "html",
+    "css",
+    "bootstrap",
+    "jquery",
+    "node",
+    "spring",
+    "express",
+    "rest",
+    "soap",
+    "sql",
+    "mysql",
+    "mongodb",
+    "oracle",
+    "cassandra",
+    "aws",
+    "azure",
+    "jenkins",
+    "ci/cd",
+    "apache",
+    "jira"
+  ],
+  "education": {
+    "degree": "Education:   Bachelor\u2019s in Computer Science from Osmania University                                   June 2004 \u2013 April 2008",
+    "year": "2004"
+  },
+  "experience_years": 8,
+  "projects": [
+    "Designed, implemented and deployed J2EE web application using Struts 1.3and Spring IOC.",
+    "Deployed project war files on JBOSS server on the AWS cloud for the Go-live.",
+    "Wrote SQL commands and Stored Procedures to retrieve data from Oracle database",
+    "Produced SQL queries to provide data as requested by clients from MySQL database.",
+    "Deployed web applications on Tomcat and JBoss server."
+  ],
+  "certifications": []
+}

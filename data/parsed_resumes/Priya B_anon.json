@@ -1,0 +1,30 @@
+{
+  "resume_id": "Priya B_anon",
+  "skills": [
+    "java",
+    "javascript",
+    "typescript",
+    "react",
+    "angular",
+    "html",
+    "css",
+    "bootstrap",
+    "jquery",
+    "spring",
+    "rest",
+    "soap",
+    "sql",
+    "mysql",
+    "mongodb",
+    "oracle",
+    "aws",
+    "apache"
+  ],
+  "education": {
+    "degree": "Unknown",
+    "year": "Unknown"
+  },
+  "experience_years": 9,
+  "projects": [],
+  "certifications": []
+}

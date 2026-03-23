@@ -1,0 +1,44 @@
+ROLE: Data Analyst II
+SOURCE: RemoteOK
+URL: https://remoteOK.com/remote-jobs/remote-data-analyst-ii-computercare-1130490
+
+ComputerCare has spent more than 20 years building something rare in the IT world: a company where technical excellence and genuine human connection are valued equally. We're the trusted partner that IT leaders turn to when technology can't afford to fail. As a woman-owned business serving innovative companies worldwide, we combine certified technical expertise with a human approach. Whether it's managing complex device lifecycles for global teams or performing authorized repairs for Apple, Lenovo, HP and Dell devices, our work directly impacts how thousands of people stay productive every day. We never outsource our work because we believe in accountability, quality, and building lasting relationshipswith our clients and as a team. 
+If you're passionate about technology, take pride in solving real problems, and want to be part of a company that values both technical excellence and the people behind it, ComputerCare is where you belong.
+Come join us in our mission of being the Human Side of Hardware!
+Were looking for a 
+Data Analyst II
+ to serve as a key point of contact and subject matter expert for data-related requests and system updates. Youll analyze, extract, and interpret data from multiple systems, including SQL databases and reporting tools, and implement data solutions that support business workflows and decision-making. 
+If you enjoy solving complex problems with data and making an impact, we want you on our team!
+\n
+What You'll Do: 
+Assist in designing and structuring database architecture to support scalable data storage, efficient querying, and optimized performance.
+Demonstrate understanding of relational databases, including tables, schemas, indexing, normalization, and relationships.
+Help build and maintain data pipelines to move and transform data between systems while ensuring accuracy and reliability.
+Create dashboards, reports, and visualizations using SQL, Excel, Tableau, Power BI, or Looker Studio to communicate findings clearly to stakeholders.
+Analyze large datasets to identify trends, patterns, correlations, and actionable insights that support business decisions.
+Collect, organize, and maintain data from multiple sources while ensuring data integrity and accuracy.
+Write, maintain, and optimize SQL queries for reporting, analysis, and data extraction.
+Clean, preprocess, and transform raw data using SQL and Python to prepare it for analysis and reporting.
+Work with cross-functional teams to understand business requirements, define KPIs, and translate them into analytical solutions.
+Identify inefficiencies in data processes and implement automation using SQL, Python, or ETL tools to improve workflow and data quality.
+What You'll Bring: 
+Bachelors degree in Computer Science, Information Systems, Statistics, Mathematics, or a related field.
+25 years of experience in data analysis, reporting, or database management.
+Experience working with SQL databases and writing complex queries.
+Experience with Python (pandas, NumPy) and other scripting languages for data manipulation.
+Experience with data visualization tools (HEX, Tableau, Power BI, Excel dashboards).
+Perks and Benefits: 
+Comprehensive Medical, Dental, and Vision plans to keep you feeling your best
+401(k) with employer matchbecause your future matters
+Company-paid Life Insurance, plus HSA & FSA options
+Employee Assistance Program (EAP) for real support when you need it
+Adoption Assistance to help grow your family
+Commuter Benefits for an easier ride
+Free Coursera Professional Certifications to level up your skills
+Generous vacation & sick time, plus paid time off to give back to your community
+\n
+$80,000 - $115,000 a year
+\n
+If you get to this point, we hope you're feeling excited about the job you just read. Even if you don't feel that you meet every single requirement, we still encourage you to apply. We're eager to meet people that believe in ComputerCares mission, core values and can contribute to our team in a variety of ways  not just candidates who check all the boxes.
+At ComputerCare, we welcome passionate individuals who have the unrestricted right to work in the United States, including natural citizens and Green Card holders. 
+ComputerCare is proud to be an Equal Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, transgender status, sexual stereotypes, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics. We also consider qualified applicants with criminal histories, consistent with applicable federal, state and local law.

@@ -1,0 +1,127 @@
+MASKED_NAME
+MASKED_PHONE
+MASKED_EMAIL
+SUMMARY:
+Over 7+ years of experience as Senior Business Analyst working in diverse work environment within the Healthcare industry. Excellent communication, writing and presentation skills. 
+Experience in Business analysis, specializing in requirement management, uses cases and project coordination. Skilled in eliciting user demands, managing user requirements and translating them to functional and design specs.
+Strong expertise as an Analyst in Health Insurance, Mortgage, Health Care & Medical and Financial domains. Proficient in creating Requirement traceability matrix, workflow diagrams and UML based documentation. Knowledge of ICD 9, ICD 10, NCPDP and HIPAA EDI transactions (4010, 5010).
+Has (3+) years of experience in EDI/HIPAA and Facets (benefits enrollment, claims processing etc.,)
+Experience working with Stakeholders, Business Owners and Senior Management. Hands on experience in analyzing the business needs, gathering requirements, identifying opportunities for improvement, and designing systems and application for various organizations.   
+Solid knowledge and understanding about phases of Software Development Life Cycle (SDLC) including several MASKED_NAME like Waterfall, Agile, Spiral, RUP, and SCRUM. 
+Highly skilled and experienced with gathering requirements, well acquainted with use of several elicitation techniques like JAD, Brainstorming, Focused Group and MASKED_LOCATION.
+Experienced in developing UML use case diagrams, work flow diagrams, data flow diagrams, flowcharts, screen mockups and report prototypes using dynamic UI with HTML, MASKED_NAME.
+Hands on experience in research article review, data analysis and statistical analysis through computerized medical databases such as PUBMED, MEDLINE, COCHRANE, CINAHL. 
+Experienced in capturing of client's business/high-level/functional requirements and business processes from different categories of internal as well as external stakeholders like business, SMEs, process heads, Real-time or field service user and project managers.
+Experienced in creating requirement artifacts, Business Requirement Document (BRD), System Requirement Specification (SRS), Use Case, Functional Requirement Documents (FRD), and Change Request Planning (CRP). 
+Strong project management skills like Planning, Budgeting with requirement analysis, GAP Analysis, SWOT, Risk Analysis & Risk Management. 
+Creative thinker, excellent communicator, strong team player and an organized professional.
+Expert level skills in MS Office products and other tolls including MS Project, MS Word, MS Power Point, MASKED_NAME, MS FrontPage, MS Excel.
+Well versed with testing methodologies and performing Gap Analysis. Dynamic and Assertive team player with excellent written and communication skills.
+TECHNICAL SKILLS:
+Software Development Life Cycle principles (SDLC) – Agile, SCRUM, MASKED_NAME.
+MS Office Suite, RTM, UML, SWOT, Gap Analysis, Risk Analysis & JAD.
+EMR & HER systems (NextGen, EPIC systems, RPMS, Dentrix, BMW, Athena) 
+Databases: MS SQL, MS Access, MASKED_NAME.
+SKILLS HIGHLIGHTS:
+Knowledge of HMOs, Medicare, and Medicaid
+Electronic Medical Record (EMR) software’s
+Knowledge of ICD-9 and ICD-10 codes
+MASKED_NAME and hands on experience with Electronic Health Records (EMR)
+Knowledge of HIPPA Standards, Healthcare Claims Processing, Reimbursement
+Strong knowledge about health insurance policy pricing, eligibility, benefits & authorization
+Well acquainted with concepts like Coordination of Benefits (COB), Co-insurance, Explanation of Benefits (EOB), In & Out of network benefits
+PROFESSIONAL EXPERIENCE:
+ Billing Service,                                     	       Oct’2016– Current
+Sr.Healthcare Business Analyst
+Description - This Project is about to implement the Automated Adjudication System, which deals with different phases of claim process such as Intake Phase, Adjudication Phase and Reporting Phase. Implementation of ACAS (Automated Claim Adjudication System) must have to comply with HIPAA Rules and Regulation of privacy and security. Implementation of ACAS to generate automated MASKED_NAME, Processing and creating a report.
+Responsibilities:
+Participated in Business Modeling by understanding the needs of the business, and also documenting Business Use Cases as well as System Use Cases.
+MASKED_NAME and documented the proposed additional extension to the existing HIPAA application.
+Facilitated Joint Application Development (JAD) sessions with the Management, MASKED_NAME and HIPAA team to make sure everyone is coordinated with the business requirement processes.
+Worked on HIPAA Transactions 270, 271, 276, 277,834, 835 and 997.
+Involved in HIPAA 5010 gap analysis of ANSI X12 4010 and ICD 10 initiatives.
+Used MS MASKED_NAME to create Use Cases and Sequence Diagrams.
+Accomplished experience through whole SDLC from requirement analysis till deployment, using highly efficient RUP process of Software development.
+Assisted development team to translate requirements into technical specifications.
+Liaised and Coordinated in resolving EDI mapping issues arising from data transfer process from EWM to ACAS and third-party systems.
+Analyzed mandatory and the situational fields and compared with the user manuals for EDI.
+Worked closely with the host (Main frames support person) and helped him understanding the process and in the creation of the match, input and the delete files.
+MASKED_NAME and Maintained the Requirement Traceability Matrix (RTM).
+Initiated Test Plans, developed and executed test cases and scenarios, worked with users to develop specific acceptance criteria, and prepare test exhibits.
+Conducted User Acceptance Testing (UAT) sessions with business users and prepared document for enhancements and bug fixes.
+Used Test Director and  to report any bugs found and communicate to the developers and product support team.
+Analyzed and evaluated User MASKED_NAME, Technical Design Documents and Quality Assurance Test condition the performance of the application from various dimensions.
+Helped create the ‘Business Glossary’ to facilitate efficient understanding of the Business process amongst the other teams.
+ Environment: MASKED_NAME, MS Project, WIN XP, HIPAA, MS Office Suite, Quality center, RUP & UML, MASKED_NAME, Medicare, Medicaid. 
+CIGNA Healthcare,                                                               Sep’2015-Aug’2016
+Sr. Business Analyst 
+Description: The project objective is building fully insured on MASKED_LOCATION to deliver a common solution set i.e., simplify our message with a product offering that best meets the needs for the Select segment and delivering a core administrative system that can prioritize deliverables for MASKED_LOCATION with reduced costs and cycle times. This involves enhanced quoting capabilities and customer presentation packages.
+Responsibilities: 
+Determined what information is needed to support the organization's business activities and to measure its performance.
+Formally documented requirements what the business users require from the system or application to meet the business objective and to solve business problem. 
+Responsible for determining requirements specific to the project deliverables.
+Requirements once agreed upon are tracked throughout the life cycle of the project.
+Followed Basic Waterfall Methodology in the implementation of various phases in the SDLC.
+Defined business requirements to address competitive gaps in our current quoting process and customer presentation package. Scope includes: quote turnaround time and the ability to allow sales and the broker to rapidly adjust defined benefit features to meet client needs/desired price point.
+Worked on FACET claim processing system.  Worked on FACET modules such as pricing, payer, eligibility under claims processing system.
+MASKED_NAME to enhance front end benefit design/quoting capabilities i.e., customer presentation quote package include ASO and fully insured new and renewing business.
+Documented High-level requirements from requirements gathering sessions that are essential to dive deeper in gathering detail level requirements.
+Worked with the Product Manager and requirements analyst to detail the specification of project deliverables throughout the project lifecycle.
+Attended Steering Committee meetings to estimate the Impact and necessity of the scope of the project.
+Facilitated daily Stand-Up meetings to ensure that right requirements are being analyzed, gathered, documented, and implemented as per the business rules.
+Conducted meetings with developers, and testers to collaborate resource allocation and project completion tasks.  Active participant in discussions, solution creation and risk assessment.
+Responsible for clarifying/refining business requirements created by MASKED_LOCATION. 
+Gathered existing end-to-end business workflows so you can pinpoint what Fully Insured could do to change those.
+Reviewed and prioritized requirements that occur internally within track.
+Actively participated in MASKED_LOCATION review session – with all members of track one that occur every week.
+Created a Requirements Template using Microsoft Visio which provided a format for our teams to document the requirements.
+Created a draft version of the Fully Insured PRD for our and other team members to review.
+The solution implemented provided the level of automation that is at least as good as current state.
+Environment: SDLC, MS Office tools, MS Project & MS Visio, Facets 4.81 & Facets interfaces (IFOX).
+
+DuPont,                                                                          		Dec’2014-Aug’MASKED_ADDRESS
+Description: DuPont is one of the world's most innovative companies. DuPont offers a wide range of innovative products and services of which Medical Device Materials is one of them. DuPont products advance better health care by helping protect people improving their health with medical and pharmaceutical devices. The featured applications include flexible and durable design, complex part design, and precision molded parts. A web Application was developed to assist the personnel in collecting the information from the system out of materials provided.  
+Responsibilities:
+Lead Business requirements sessions by conducting meetings with stakeholders and business users. 
+Performed GAP analysis of client requirements and generated workflows to assist with TO-BE design.
+Study and analysis of the mapping document indicating the source tables, columns, data types, transformations required, business rules to be applied, target tables, columns, and data types.
+Extracted data from multiple sources which include relational sources and flat files.
+Documented High-level requirements and developed use cases. Performed use case analysis using UML, which provided the framework for potential use case deliverables. 
+Developed an analysis model that included use case diagrams, and activity diagrams using Microsoft Visio that provided development team a view of requirements for construction phase activity. 
+Created Screen Layouts utilizing the MS Power Point by specifying what the existing and final screens look like because of this project.
+Produced database design which includes the creation of Entity-Relationship diagrams and traceability matrices.  Involved in Creating New Enhancements through Change Control.
+Discussed test cases and test plans to select test data for software testers. 
+Tracked all the UAT Defects utilizing the  tool.
+Participated in various meetings and discussed Enhancement and Modification Request issues.
+Proactively involved in analyzing challenges associated in integrating the client systems located in different geographical areas. 
+Created complex and sophisticated Reports that had drilldown, slice and dice features using Cognos Report Net.  Involved in UAT to validate the functionality with the requirements.
+Environment: MS Office Suite, GAP Analysis & UAT & Cognos.
+Sutherland Global Services,                                                                     May’2010-Nov’2014
+Sr. Business Analyst
+Clients: St. Mary’s Hospital (MASKED_LOCATION, KY), Wake Forest Hospital (MASKED_LOCATION, MASKED_LOCATION) and Massachusetts General Hospital (MASKED_LOCATION, MASKED_LOCATION).
+Description: Sutherland Global Services is an innovative leader in the health and well-being industry. The project dealt with enhancements to the Healthcare Payment EDI transaction set to generate a payer level containing payer specific information. Implementation of the Automated Clearing House Origination software to generate NACHA compliant files that adhere to all NACHA standard entry class codes at a multi payer level to further penetrate the provider market with electronic payments and statements. 
+Responsibilities:
+Worked with Business users and technical lead for gathering requirements and data transaction information.
+Worked in a team for Claims processing and was involved in prioritized claims, identified problems, prepared an action plan, implemented the solution, identified claims outside the benchmark.
+Created the business process model using MASKED_NAME and present it to SME’s for validation and getting the sign-offs. Document testing process flows using MASKED_NAME flow-charting.
+Gathered requirements and analyzed requirements for documenting reports which MASKED_LOCATION’s performance.
+ Identified Claims Management work flows, business rules and developed flow charts and activity diagrams.
+ Participated in Billing System Process Flow analysis and identified revisions to the billing system documentation.
+Performed data quality analysis on data by writing queries to ensure data integrity across tables in DB2 database environment.
+Documented System Design Documentation (SDD) describing the systems requirement, operating environment, files and database design, input format, output layout, detailed design.
+Analyzed customer needs and existing functions in HIPPA transactions to determine feasibility, consistency with the established scope of work.
+ EDI experience with X12 transaction sets 835, 837, 270/271.
+Responsible for mapping of ICD9 to ICD10 and did testing for 270/271, 837I/P/D, 835R transactions to migrate to HIPAA 5010.
+Configured FACETS to adhere to customers work flow for claims processing, claims automation and group administration.
+Worked on Medicare, Medicaid, HMO, Workers Compensation, and commercial insurance claims. 
+Performed insurance pre-certification, pre-authorization, and verification. 
+Researched and resolved incorrect payments, EOB rejections, and other account issues. 
+Submitted secondary claims. Insurance follow-up and resubmission.  Knowledgeable in timely filing rules. Met or exceeded productivity and the quality goals.  Team management, work assignment and monitoring.  Developed strategies for insurance A/R reduction.
+Identified trends in insurer payment delays to improve follow-up methods.
+Induction of new staff and integrated them into the project team. 
+Trained individuals/team on new procedures, new systems, plus remedial training.
+Worked with EPIC, Envision Meditech, PATCOM, Eagle and other hospital systems. 
+Audited accounts for team members.
+Environment: FACETS, Facets extensions, MASKED_NAME, MASKED_LOCATION, ICD10, HIPPA, Claims Processing, EOB, COB, AR
+EDUCATION:
+ (2010) 

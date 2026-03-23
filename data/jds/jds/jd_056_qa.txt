@@ -1,0 +1,35 @@
+ROLE: Backend Developer (Billing Team)
+SOURCE: Arbeitnow
+URL: https://www.arbeitnow.com/jobs/companies/tripleten/remote-backend-developer-billing-team-berlin-185691
+
+*TripleTen
+ is a service that empowers individuals, regardless of their prior experience, to embark on the exciting and challenging journey of mastering IT professions such as software engineering, data science, business intelligence analytics, and QA engineering in a feasible and accessible way, ultimately leading to employment opportunities.*
+Our mission is to ensure that every student has the opportunity to master a new profession successfully and become a valuable member of the IT industry. We are successfully producing highly desirable tech professionals in the most competitive EdTech market in the world  the US market.
+In this role, you'll enhance learning experiences at TripleTen, focusing on service development and platform improvement for global expansion.
+What you will do: 
+Build and improve internal tools for the payment operations team
+Integrate and maintain external systems and providers for payments, taxes, and financial reporting
+Develop and evolve the billing system to make it easy to scale and adapt to new product requirements
+Tech stack:
+Python, FastAPI, LangChain, Golang
+Postgres, Kafka
+Kubernetes, Helm
+GitLab CI
+What we can offer you: 
+Fully remote and full-time collaboration with professional freedom and minimal micromanagement;
+Dynamic Team: Join a diverse, global team with experience across tech, ed-tech, and various industries;
+We use digital tools like Miro, Notion, and Google Workspace for seamless collaboration;
+*At this time, we are unable to offer H-1B, L-1A/B sponsorship opportunities.
+**This job description is not designed to contain a comprehensive listing of activities, duties, or responsibilities that are required. Nothing in this job description restricts management's right to assign or reassign duties and responsibilities at any time.
+
+**TripleTen is an equal employment opportunity/affirmative action employer and considers qualified applicants for employment without regard to race, color, religion, sex, national origin, age, religion, disability, marital status, sexual orientation, gender identity/expression, protected military/veteran status, or any other legally protected factor.
+Requirements
+Experienced in any of Python, Golang, C#, Java, Kotlin;
+Experience applying DDD and Clean Architecture in real projects and/or willingness to learn;
+High performance of writing high-quality, well-documented code;
+Write unit and integration tests, experience in TDD is advantage;
+Willingness to work in a team and invest in team processes;
+Knowledge and acceptance of Agile principles.
+Find more 
+English Speaking Jobs in Germany
+ on Arbeitnow

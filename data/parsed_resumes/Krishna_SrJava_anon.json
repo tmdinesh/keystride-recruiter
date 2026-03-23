@@ -1,0 +1,35 @@
+{
+  "resume_id": "Krishna_SrJava_anon",
+  "skills": [
+    "java",
+    "javascript",
+    "r",
+    "angular",
+    "html",
+    "css",
+    "bootstrap",
+    "jquery",
+    "spring",
+    "rest",
+    "soap",
+    "sql",
+    "postgresql",
+    "mysql",
+    "oracle",
+    "apache",
+    "jira"
+  ],
+  "education": {
+    "degree": "Bachelor\u2019s in computer science,Acharya Nagarjuna University, MASKED_LOCATION, MASKED_LOCATION, MASKED_LOCATION.",
+    "year": "Unknown"
+  },
+  "experience_years": 8,
+  "projects": [
+    "Understand and write unit tests in a Test-Driven Development (TDD) Environment.",
+    "Duration\t: Jan 14 \u2013 Sep 14",
+    "Plan and execute phases of the software development lifecycle utilizing agile methodologies to achieve end-to-end development of web-based applications.",
+    "Involved in getting the business requirements from the client and reviewing those with business team to help them in drafting Business Requirement Specification (BRS).",
+    "Designed class diagrams, sequence diagrams using UML and prepared high level technical documents."
+  ],
+  "certifications": []
+}

@@ -1,0 +1,166 @@
+Mahesh 
+Project Management
+Phone: MASKED_PHONE
+E-Mail: MASKED_EMAIL
+An accomplished professional, aiming for challenging middle / senior level assignments in Product/ Program Management, Quality Assurance, People management with an organization of high repute in IT industry
+PROFILE SNAPSHOT
+A dynamic professional with 17 years of experience in:
+ ~Program Management  		             ~Software Testing 			~Project Management
+~Quality Assurance 			             ~Client Relationship Management	~Liaising & Coordination
+Proficient in planning and executing projects with a flair for adopting modern methodologies in compliance with the quality standards
+Expertise in creating and sustaining dynamic environment that fosters development opportunities and motivates high performance amongst team members
+Resourceful in analyzing valid test conditions, design & documents, relevant test scenarios and test cases to effectively execute the software 
+Efficient in assessing resource requirements and preparing logical set of prioritized test breakdown for test execution
+Interfacing and mapping requirements of clients & Suggesting most viable Solutions/ Products thereby cultivating relations with them for maximum retention
+An effective communicator with strong negotiation, team management and analytical skills 
+CORE COMPETENCIES 
+Implementing quality standards for various Operational areas and ensuring high-quality customer experience
+performing entire gamut of tasks right from planning, monitoring & controlling phases of project lifecycle and resource planning
+Handling Risk and Change Management, Reflection, Processes, Agile/ Waterfall Development & Scrum Methodologies.
+Identifying & analyzing defects, questionable, functions, errors, inconsistencies in software programs by performing Root Cause Analysis and troubleshooting the same to avoid further escalation
+Ensuring establishment of environments, necessary connectivity & data for testing
+Assessing &mapping client’s requirement, Translating them Into Techno – functional specifications and designing customized solutions for the same
+Creating& monitoring database backups and ensuring smooth operations 
+Expertise:
+Good knowledge in Configuration and Change Management
+Strong Project Management, Program Management and Client Interaction skills
+Experience in Requirements Gathering, Developing Statement of Work & Change Requests, Automation Test Framework, Developing Test strategy, Defining Defect Management processes, Test Effort Estimation, Test Schedules, Traceability Matrix, Test Design, Manual & Automation test scripts, Test Execution & Metrics Reporting
+Experience in Leading Manual, Automation & Performance testing projects
+Experience in MASKED_LOCATION and Implementing Quality Assurance Processes
+Expertise conducting analysis of the various paths a software program can go and develop a software testing strategy that addresses all possibilities 
+Hands on Experience in Coordinating between cross functional teams across the globe
+Involved in all phases of SDLC and good knowledge in Agile Methodologies like SCRUM and Test-Driven development etc.
+Experienced in complete project life cycle development including Analysis, Design, Coding, Unit Testing, Integration Testing, System Testing, UAT & Maintenance.
+Highly proficient in using the defect-tracking tools like HP Quality Center, HP ALM and Rational Clear Quest
+Involved in creating Project Software Process Handbook, Risk Plan, Task Tracking, Project Status reports (Daily, Weekly and Monthly), Training Plan, Resource Plan and Project Metrics.
+Strong problem solving, judgment and decision making skills
+Experience in Documentation of testing procedures using 
+Excellent organizational skills, ability to prioritize and work independently on multiple ongoing tasks
+ORGANIZATIONAL EXPERIENCE
+Mar’17 – till date	NICHE Software Solutions INC. Texas USA
+May’10 – Mar’MASKED_ADDRESS Software India Pvt. Ltd., MASKED_NAME as QA Manager (Project, Program and People) @ USA
+Oct’05 – May’10	IBM India Pvt. Ltd. (ISL), MASKED_NAME
+Growth Path:
+Oct’05 – Apr’08	QA Lead
+Apr’08 – May’10	QA Manager (People & Project) 
+Jul’01 – Oct’05	IBM, MASKED_LOCATION, USA 
+Growth Path:
+Jul’01 – Sept’03	Software Engineer
+Sept’03 – Oct’05	Senior Software Engineer
+Jan’01 – Jul’01		INFORMIX Software Inc., MASKED_LOCATION, MASKED_LOCATION as Software Engineer
+Nov’99 – Jan’01		INFORMIX Software India Pvt. Ltd., MASKED_LOCATION as Software Engineer 
+Key Result Areas:
+Performed functional testing of the new features of DB2
+Handling automation of the installed scenarios
+Conducted analysis of the customer encountered defects and coming up with new scenarios based on this input and creating customer like setup in the Lab
+Highlights:
+Successfully maintained MASKED_NAME in the team for MASKED_ADDRESS for Zero Attrition in the team in HP Software
+Appreciation from senior management on the GUI portion automation for IDS installation in IBM Lenexa
+Appreciation from the manager during the Install Automation / Testing in IBM Lenexa
+PROFESSIONAL QUALIFICATION
+1996	B.E. in Electrical and Electronics Engineering from Malnad College of Engineering, MASKED_NAME, MASKED_LOCATION, University with 1st Class (Achieved Distinction)
+CERTIFICATION
+Certified Scrum Master Training from Good Agile Pvt. Ltd.
+IBM- certified DB2 DBA
+Completed Basic Blue for New Leaders Certification from IBM 
+TRAININGS 
+Completed:
+4 days training in Leader MASKED_NAME, Online SimPm and SWG MASKED_NAME from IBM
+Bullet Proof Manager MASKED_NAME from Crest Com
+IT SKILLS
+Languages		:	'C', Shell & Perl Scripting
+RDBMS			:	Informix Dynamic Server (IDS) Internals, DB2 Internals.
+Operating System	:	UNIX (MASKED_LOCATION, HP-UX, AIX, MASKED_LOCATION, NCR, ZLINUX) Windows, DEC ALPHA, zOS
+Tools                              :	ClearCase, ClearQuest, Debugger, MASKED_NAME, 2gen tools, Rational Functional Tester, Automated Test Manager, rtest infrastructure, Product Tracking System, HP Quality Center, HP Application Life Cycle Management (ALM)
+~ANNEXURE~
+PROJECTS HANDLED
+Title 		:	Application and Performance Monitoring
+Organization	:	NICHE Software Solutions INC. Texas USA
+Designation	:	Project Manager and QA Manager 
+Period		:	Since March ’17 till Date 
+Description       :	The project involved an application and performance Management Software for facilitating Administration Work. 
+As a QA and Project manager I Extensively used HP Application Lifecycle Management (ALM) on a daily basis for Project Planning, Traceability of requirements and defects, Quality Assurance, Release and cycle management. We followed agile methodology, tracking of the release is managed using ALM. As a QA manager I used to generate these metrics and present to various stakeholders on regular basis. 
+Role		:
+Leading QA Team of 8 Members with multiple projects getting executed in parallel.  
+Business Use case Analysis and creation followed by FSD formulation in DevOps life cycle.
+Day to day interaction with various functional teams, developing design document, performing debug and mainline build and   release activities.
+Working with Scrum teams to manage product backlogs and user stories for monthly build and release testing.
+Participating in velocity estimation and actively monitoring projects using Scrum methodologies.
+Defect status and triage with cross functional teams on regular basis
+Mentoring the new team members
+Title 		:	HP OM Smart Plug-Ins and Operations Bridge Reporter - QA
+Organization	:	HP Software India Pvt. Ltd., MASKED_NAME ( Onsite, MASKED_LOCATION)
+Designation	:	Manager (Program, Project and People)
+Period		:	May’10 – Mar’ 17
+Description:	The project involved an application and System Management Software for facilitating Administration Work. It is installed on OM Server and deployed to managed nodes and uses Agent for communicating between MASKED_LOCATION and MASKED_LOCATION. Alerts for fault, performance, security, availability issues and reports in the form of messages, reports, graphs, service navigator and helps to configure the application. It efficiently monitored distributed enterprise-wide applications/system environments from a central, best-in-class console. The SPIs helpedin increasing availability and performance, visualize capacity shortages & trends and lower the overall cost of maintaining environments. HP Operations Manager has the capability to monitor the application/system performance.
+Role		:
+Leading QA Team of MASKED_ADDRESS plan and strategies
+Defining the scope of testing within context of each release
+Monitoring the current project Quality Status by getting all the Quality Metrics and presenting the data in Program meetings and communicating to all stakeholders
+Communicating allrelated risks and devising mitigation plan for the same while updating the progress to all stakeholders
+Collaborating with the Cross Functional Teams (Development, Documentation and other teams)
+Performing Individual Development Planning for employees
+MASKED_NAME. 
+Examples of the Smart Plug Ins (SPIs):
+Database SPIs (Oracle, MS SQL, DB2, Sybase & Informix)
+J2EE SPIs (Web Logic, Web Sphere, JBOSS, JMX and Web Server)
+SAP SPIs (SAP)
+MS SPIs (MS Active Directory, Exchange, MASKED_NAME, Biztalk & Lync)
+System Infrastructure SPIs (AIX, Windows, HPUX, Linux & Solaris)
+Cluster Infrastructure SPIs (MCSG, HACMP, VCS)
+Virtual Infrastructure SPIs (Vmware Vma, HPVM, MASKED_LOCATION, IBM Lpar/Wpar, MASKED_LOCATION HyperV, KVM & XEN
+Title 		:	Common Application Development QA
+Organization	:	IBM India Pvt. Ltd. (ISL) Bangalore
+Designation	:	Manager (People and Project)
+Period		:	Apr’08 – May’10
+CLI: DB2 Call Level Interface (DB2CLI) is IBM's callable SQL interface to the DB2 family of database servers. It is a 'C' and 'MASKED_NAME' application programming interface for relational database access that uses function calls to pass dynamic SQL statements as function arguments. CLI in the end is a driver and almost all tools use this to connect to DB2.
+JCC: MASKED_NAME driver is a JDBC driver which connects to multiple IBM data servers including DB2 on LUW, DB2 on zOS and IDS
+CLPPlus: MASKED_NAME based command-line Tool
+Client Optimizer: Component Captured static information and binding then executing queries statically to gain performance
+Role		:
+Handled QA Team and recruited 6 engineers (total team size 11)
+Owned FVT for new features, Regression and installedtesting for 4 client components of DB2 for Fixpacks and new releases. (CLI, JCC, MASKED_NAME and CLPPlus)
+Collaborated with development team and release management team from ISL, Toronto Lab and SVL during each phase of the MASKED_NAME and Release
+Managed project and resource planning of the QA Team
+Coordinated with partner labs on status update, updating on the issues and resolution of the issues
+Ensured timely completion of all the Fixpack and Release deadlines and quality of the client components handled is improved from one release to another
+Title 		:	DB2 Kernel FVT
+Organization	:	IBM India Pvt. Ltd. (ISL) Bangalore @ USA
+Designation	:	Staff Software Engineer (Team Lead) 
+Period		:	Oct’05 – Mar’08
+Description:	The project involved LIs FVT for DB2 server version 9, 9.5 and 9.7
+Faster Redistribute
+Optimistic Locking
+Schema Evolution
+Role		:
+Owned FVT for new features in DB2 kernel area starting from external review, test planning, high level design reviews, test spec, creation of test cases and execution across multiple platforms and raising and following up on defects found
+Reviewed work and guided the team for various problems
+Performed RCAs and field problem analysis and got tests included in the regression suite 
+Title 		:	IBM Informix Dynamic Server QA
+Organization	:	Informix Software Inc & IBM-INFORMIX Software (Lenexa)  
+Designation	:	Software Engineer
+Period		:	Jan’01 – Oct’05
+Description:	The project involved Informix 7x, 9x and 10x Online Server QA. Scope included execution and analysis of failures for Server tests and enhancing the test-suite for new feature development along with pointers from code-coverage and RCA and field problems.
+Role		:
+Handled critical cases with very tight schedules and meeting critical milestones. 
+Raised the Defects found during the testing immediately, so that it gets fixed quickly. 
+Involved in the triages deciding Severity and fix precedence of the Defect and deciding how critical this Defect is from customer point of view
+Fixed test case related defects during all the releases due to change in behavior of MASKED_LOCATION and automated Final QA to make the release process fast. 
+Gained understanding of different tracking tools (MASKED_NAME, IRIS, PTS, ATM and RTS) and all processes
+Performed test-spec, test cases and execution on multiple platforms for new features in IDS server, also handled IVT, media validation and regression analysis for IDS
+Executed responsibilities under the components related to ONUTILS (MASKED_NAME, MASKED_NAME, MASKED_NAME, Onspaces) and DBUTILS (Dbexport, Dbimport) and Loader & HPL utilities (Onload, Onunload, Ontape, Onpload) which were utilities of Informix Dynamic Server
+Features worked on:
+Tapesizezero feature for 9.40 Server.
+Single User Mode feature for 10.00 Server.
+Automation of Install Scenarios for IDS Install testing on UNIX. 
+Automation of the GUI portion of install testing using Rational Functional Tester.
+Title 		:	Interim Patch Release, Online Server and Client-SDK Maintenance
+Organization	:	Informix Software (MASKED_LOCATION) Pvt. Ltd.
+Designation	:	Software Engineer
+Period		:	Nov’99 – Jan’01
+Description:	Online 5x server was first Informix server with client-server architecture available on all UNIX platforms of that time (SUN, HP, AIX, MASKED_LOCATION, DEC, etc.) and Client - SDK is Software development MASKED_NAME to connect to Informix Servers containing ESQL/C and various drivers.
+Role		:
+Addressed customer requests for Interim and Patch releases of Online 5x and CSDK
+Performed Defect Fixing, verification and creation of new test cases
+Ported activities including platform specific merging, builds, QA and defect fixing and verification and making it EGA
+Involved in GLS testing and code cleanup.

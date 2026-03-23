@@ -1,0 +1,39 @@
+{
+  "resume_id": "Achyuth Resume_8_anon",
+  "skills": [
+    "python",
+    "java",
+    "javascript",
+    "r",
+    "html",
+    "css",
+    "bootstrap",
+    "jquery",
+    "spring",
+    "rest",
+    "soap",
+    "sql",
+    "mysql",
+    "mongodb",
+    "oracle",
+    "aws",
+    "google cloud",
+    "docker",
+    "apache",
+    "git",
+    "jira"
+  ],
+  "education": {
+    "degree": "Unknown",
+    "year": "Unknown"
+  },
+  "experience_years": 8,
+  "projects": [
+    "Provided Technical support for production environments resolving the issues, analyzing the defects, providing and implementing the solution defects.",
+    "Client: State Farm\t\t\t\t\t\t\t\t\t\t                 Jan 16 \u2013 Feb 17",
+    "Involved in SDLC requirements gathering, analysis, design, development and testing of application developed using AGILE methodology.",
+    "Consumed Web Services to interact with other external interfaces to exchange the data in the form of XML and by using SOAP.",
+    "Extensively used HQL and SQL for querying databases."
+  ],
+  "certifications": []
+}

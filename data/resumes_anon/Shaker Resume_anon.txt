@@ -1,0 +1,129 @@
+B Shaker                                                                             
+Business Systems Analyst/Scrum Master 
+Email: MASKED_EMAIL Phone no: MASKED_PHONE
+INTRODUCTION
+9+ years of experience in the field of business and data analysis supporting software solutions and analyzing business operations on various domains such as Banking,  Finance and Insurance. Worked in various software development environments including waterfall and agile methodologies including Scrum, Kanban, XP and SAFe. Implemented multiple projects in SOA architecture and dealt with APIs, SOAP and RESTful Web Services. Worked in the capacity of a certified Scrum Master by facilitating all scrum ceremonies, resolving Impediments and dependency issues. Proficient in data analytics – SQL querying, MASKED_NAME report generation using tools like IBM Cognos BI and MASKED_LOCATION.
+PROFESSIONAL SUMMARY
+Possess excellent business writing skills required for documenting, Business Requirements, Functional Requirements, Non-Functional Requirements and System Requirements Specification.
+MASKED_NAME skills in handling multiple teams and Offshore teams and ability to effectively communicate with senior management, third party vendors, technical staff and Business users to improve business value.
+Experience in conducting GAP analysis, Impact analysis, Feasibility study, Cost-benefit analysis, Risk analysis, and ROI analysis.
+Good Exposure in Mortgage domain and the acts like CFPB (Consumer Financial Protection Bureau), TILA (Trust in MASKED_LOCATION), MASKED_NAME (Real-Estate Settlement Procedure Act), and TRID (TILA-RESPA Integrated Disclosure).
+Strong experience in all the phases of SDLC Life Cycle such as Analysis, Design, Development and Testing and UAT.
+Knowledge on UI development languages such as HTML5, CSS3, AJAX and MASKED_NAME languages.
+Comprehensive knowledge of SOA related concept such as APIs, SOAP and RESTful Web Services, web methods, XML, MASKED_NAME, XSD, WSDL, URI and web architecture, business engines and web orchestration.
+Extensive implementation knowledge of MASKED_LOCATION, Data table structures, Data warehousing, MASKED_LOCATION, Data Marts, OLAP operations like drill Through, slicing/dicing using BI tools.
+Extensively interacted with the designers, developers to ensure functional implementation of business requirements and the QA team in executing Test Plans, Test Case scenarios, Test Logs, Test Objectives and Test Automation.
+Hands on experience in Master Data Management (MDM), managing Data and ETL processes to support solution needs. 
+Proficient in writing user stories (INVEST format) and handling the requirement churn. Efficient at facilitating Estimation techniques such as Planning Poker, T-shirt sizing, Relative Mass Valuation and Prioritization techniques such as MASKED_LOCATION and WSJF methods. 
+Experience in maintaining Scrum Artifacts like MASKED_NAME, MASKED_NAME, Burn down and MASKED_NAME up charts.
+Hands on various tools such as MASKED_NAME, MS Excel, MS PowerPoint MS Visio, MASKED_NAME, Rally, Team Foundation Server (TFS) and MS Project Professional for planning, tracking and managing projects.
+Experience in creating SQL queries/ SQL scripts for data analysis including triggers procedures.
+Technical Skill Stack:
+Farm Credit bank of MASKED_LOCATION                                                                                             
+Business Systems Analyst/Scrum Master                                                                                    Sep 2016 – Present
+MASKED_NAME, TX
+Project: Mortgage Loan Origination System
+Project Description: Scope of the project was to provide business users with a unified and integrated web based application for Mortgage Loan Origination and Processing. The application will be used from the initial contact with customer through the final closing documents. The system performs all the Business functions of the loan process such as set-up Accounting formation, New Loan set-up, the Appraisal, credit, and income. This is built to maximize loan efficiency, maintain current staffing levels and double production volume within the current fiscal year.
+ My Roles & Responsibilities:
+Used various Elicitation techniques like Document analysis, Group Discussion, requirement workshop, JAR session.
+MASKED_NAME and Activity diagrams for better understanding of the process using UML tools.
+Worked with SMEs and Developers to develop and design the GUI of the system by using MASKED_NAME.
+Supported multiple Scrum teams by tracking inter-team dependencies and ensuring those were being mitigated by working with the Product Owner by maintaining a risk log and creating a plan.
+Used SharePoint to store the all the artifacts such as BRD, SRS, Communication plan and Traceability matrix (RTM) etc.
+MASKED_NAME and UX team in creating MASKED_NAME and Wireframes.
+Assisted in creating WebPages with the help of HTML5, CSS 3, AJAX and MASKED_NAME.
+Used UDDI to identify relevant web services. Created Stub data for web service testing.
+Successfully transitioned Agile scrum team from Waterfall to Scrum and implemented Scaled Agile Framework (SAFe).
+Involved in the Train Planning Event(PI) and team breakout sessions to groom features for each increment.
+Facilitated Scrum Daily Stand-ups, Sprint Planning, Sprint Review, MASKED_NAME and Sprint Retrospectives and efficiently time-boxed the events.
+Led story writing sessions with an aim of decomposing the scope into epics and user stories with product owners. Also, worked on the acceptance criteria for the above developed user stories.
+Ensured that every task is tracked and updated in JIRA tool by the team and regularly monitored the progress.
+Assisted the Product Owner and the MASKED_NAME team in prioritizing product backlogs using MoSCoW technique and in estimating effort through Planning Poker. 
+Utilized Rally for metrics/reports, user stories and defect tracking.
+Closely worked with upstream and downstream dependency scrum teams to resolve the dependency issues. 
+Worked on Mulesoft ESB in terms of mapping the web serives and APIs
+Involved in the development of APIs and web services along with MASKED_LOCATION tier developers also involved in developing the web orchestration for loan underwriting process.
+Worked on designing the request and response of web methods and test those in SOUP UI.
+Assisted the Web service team in defining the business rules in Business Rule Engine as per the Mortgage programs and rates.
+worked with end to end SOA teams and tested SOAP and RESTful web services using MASKED_NAME.
+Created Requirement Traceability Matrix (RTM) to make sure all the requirements are covered with test cases.
+Facilitated UAT sessions for end users and collaborated with business team to get UAT sign offs.
+Closely worked with database developers and ETL developers in terms of data modeling and data mapping while migrating the data from source systems to target systems.
+Expertise in writing the SQL quires like Update, Create, Select, joins.
+Facilitated triage calls between development team and QA team for resolving issues.
+Environment: SAFe, Scrum, MASKED_NAME, CSS3, AJAX, node.js, MS Office suite 2013, MS Visio 2013, MASKED_LOCATION, MASKED_NAME, Informatica Power Center 9.6, Cognos BI 10.4, SQL, MASKED_NAME 11g, Sharepoint2013, MASKED_NAME, HP Quality Center, Teradata.
+JPMC                                                                                                                                              
+Business Data Analyst/Scrum master                                                                                   Feb 2015 – Aug 2016
+MASKED_NAME, DE         
+Project: Data Warehouse
+Project Description: The project specifically aimed to develop a data warehouse on MASKED_NAME assets for internal business analysis which helps in generate complex reports by using business Intelligence tool such as Cognos BI for better strategic decision making and Develop the Dashboards as per business requirements.
+ My Roles & Responsibilities:
+Coordinated with business owners to Identify operation data sources(ODS) like mainframes, OLTP systems, CSV files.
+worked with Database architects to understand the Data flow in Data warehousing.
+Closely worked with Data Analysts/Developers to understood the database schemas of multiple operational databases.
+Participated in developing user stories along with MASKED_NAME, MASKED_NAME lead and QA lead.
+Acted as a liaison between management and Data Warehouse management team. Involved in Project Management activities like managing project scope, schedule management, creating project plans, project status and deliverables.
+Responsible for writing user stories in JIRA for each iteration based on the Charter and Epics.
+Extensively interacted with data analysts during the ETL operations in identifying the source databases from OLTP systems and implementing the transformation logic for achieving data uniformity in operational data store (ODS).
+Performed Data mapping and logical data modeling also prepared ER diagrams for the system.
+Experienced in developing conceptual, logical models and physical database design for OLTP, OLAP systems and Master Data Management (MDM).
+Closely monitored burn down charts to keep track of outstanding work and tracked the velocity and capacity.
+Conducted user sessions and created user stories based on the requirements gathered in sessions.
+Resolved impediments during the collaboration meetings discovered in daily standup meetings.
+Coordinated with the Cognos BI developers in building packages and developed various reports like MASKED_NAME, Master MASKED_NAME and different charts including Line, Column, Area, and Pie Charts for analysis.
+Used MASKED_NAME to prepare Use Case, business process flow (BPMN), sequence and activity flow diagrams.
+Used various SQL commands like Create, Delete, Update, and Inner, Outer, Left, and Right Joins to update the database and retrieve data for data analysis and validation along with creation of stub data.
+Coordinated the execution of Unit Testing, Data Migration Testing, Performance & Service level testing and User Acceptance Testing (UAT).
+Environment: Scrum, HP ALM, MS Office Suite, Rally, MS MASKED_NAME, SQL Server Services, Cognos BI, Informatica, Oracle
+Fiserv                                                                                                                                   
+Scrum Master                                                                                                                                   May 2013 – Jan 2015
+MASKED_LOCATION, GA 
+Project: Wealth Management System
+Project Description: The idea was to develop a fully-featured software application, a Wealth Management System, as a single solution that would replace the Excel spreadsheets, CRM functions, calendar requirements, treasury services etc. The application includes a cock-pit like UI functionality for the advisors to have a 360-degree view of the investment instruments along with vast analyses and reporting functionalities.
+My Roles & Responsibilities:
+Gathered Business requirements by conducting JRP session, One on One interview and Group sessions with Stakeholders and business Users
+Involved in Developing asset allocation models diversifying risk by researching funds using fundamental analysis.
+Facilitated sprint planning meetings, daily standup meetings, sprint review, sprint retrospectives.
+Closely monitored burn down charts to keep track of outstanding work and tracked the velocity and capacity.
+Shadow and assist some of the Product Owner activities by providing high level estimates, prioritizing stories for the sprint and maintaining backlogs and release plans. 
+Resolved impediments for scrum team members by facilitating collaborative meeting.
+Facilitated Sprint review meeting to demonstrate potentially shippable product to stakeholders.
+Facilitated Sprint retrospective meetings to gather feedback. Made sessions interactive using Idea boards.
+Proficient in MASKED_LOCATION for defect, task tracking.
+Facilitated Scrum of Scrums to resolve dependency issues between different teams.
+Manage the assignment of user stories to relevant BAs based on the feature and process expertise. 
+Suggested several process improvements within the ratings process and suggested solution options to automate manual data entry tasks performed by Data Managers.
+performed manual testing in each sprint and recorded the Test Status and raised  the tickets on Defects by using HPALM.
+Environment: .Net, MASKED_NAME, HP ALM ,Windows (98/XP/7/Vista/8), MS Office Suite, MASKED_NAME, , SQL, MASKED_LOCATION, MASKED_LOCATION, HTML, CSS, MASKED_NAME, XML, MASKED_NAME, HP ALM, MASKED_NAME,
+Factset Research Systems, MASKED_LOCATION, MASKED_LOCATION                                                                                 
+Business Analyst                                                                                                                              Feb 2010 – Nov 2012
+Project Description: Scope of the project was to develop a intranet application to maintain and tack the tickets raised by the Factset Economics from the different team like production, Validation, QA/Monster. 
+My Roles & Responsibilities:
+Collected and documented business processes as well as business rules and MASKED_NAME analysis.
+Participated in the identification, understanding, and documentation of business requirements, including the applications capable of supporting those requirements. 
+Researched and assessed client systems and business processes.
+Translated the business needs into system requirements, communicating with the business on a non-technical level, and with the System Analyst on a more technical level. 
+Involved in walkthroughs with business team, architects and developers to refine the requirements.
+Generated use-case diagrams using UML.
+Implemented Traceability Matrix and User Requirement Specification Document (URS) to verify the functionality.
+Streamlined clerical work processes and mapped to the automated system.
+Involved with the Software Quality Assurance (SQA) Team to develop Test plans.
+Environment: MASKED_NAME, UML, SQL Server, SQL, MS Office and Windows MASKED_ADDRESS, MASKED_LOCATION, MASKED_LOCATION
+Business Analyst                                                                                                                               June 2008- Jan 2010
+The scope of the project was to create a single, integrated system that will execute the calculation of sales compensation, for both external producers, based on consistent and reliable information captured from pre-determined data sources, improving business processes and controls, ensuring compliance and flexible reporting capabilities.
+My Roles and Responsibilities:
+Interfaced with subject matter experts (SMEs) and users to gather business requirements.
+Communicated project status regularly to key business stakeholders and lead UAT testing activities coordinating with users.
+Successfully conducted (JAD) Joint Application Development sessions with the cross-functional team members for discussing various shared issues to ensure that business requirements are met and requirements are understood at all levels.
+Improved efficiency within the team by redesigning work flows and business processes.
+Prepared use case documents using MASKED_NAME and UML.
+Executed and designed SDLC cycle from inception to deployment (Requirement Analysis, Test Planning, Test Cases, Script Development, Test Execution, Test Reporting, Test Result Analysis and Defect Retesting).
+Developed complex SQL scripts to validate data integrity in the application.
+Developed test cases and test scripts and performed testing using HPQC.
+Environment: Waterfall, SQL, MASKED_NAME, MS Project, MS Office Suite, HP ALM, Teradata
+Education Details:
+Bachelors in Mathematics from Osmania University, MASKED_LOCATION, MASKED_LOCATION.
+Masters in Computers Information Systems from California University of management and Sciences. 
+Certifications:
+Scrum Master Certification from International Scrum Institute
+Professional Scrum master I (PSM I) Certification

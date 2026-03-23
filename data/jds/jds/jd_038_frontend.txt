@@ -1,0 +1,147 @@
+ROLE: Senior Java Developer / Java Architekt (m/w/d)
+SOURCE: Arbeitnow
+URL: https://www.arbeitnow.com/jobs/companies/collaboration-betters-the-world-gmbh/senior-java-developer-java-architekt-frankfurt-am-main-265446
+
+Willkommen bei CBTW! Wir sind ein innovatives Team mit ber 3.000 Mitarbeitern in 21 Lndern und fhrend in den Bereichen Strategie & Governance, Software-Engineering, Datenanalyse & KI und mehr.
+
+Als Mitglied unseres Teams bei CBTW arbeitest Du in einem inspirierenden Umfeld an anspruchsvollen Projekten. Wir frdern die Entwicklung der Experten von morgen und schtzen Deine Ideen. Wenn Du bereit bist, die Zukunft der datengetriebenen Transformation mit einem hochmotivierten Team zu gestalten, bewirb Dich jetzt bei CBTW! Zusammen schaffen wir Groartiges.
+
+Aufgaben
+
+Du konzipierst und entwickelst 
+skalierbare Softwarearchitekturen
+ fr komplexe Enterprise-Anwendungen im Java-Umfeld.
+
+Du programmierst anspruchsvolle Anwendungen mit 
+Java / J2EE, Spring oder Spring Boot
+ und nutzt moderne Entwicklungsstandards.
+
+Du analysierst fachliche Anforderungen unserer Kunden und bersetzt diese in 
+technische Architektur- und Lsungsdesigns
+.
+
+Du entwickelst neue Features und Plattformlsungen zur Umsetzung komplexer Kundenanforderungen.
+
+Du evaluierst neue Technologien, Frameworks und Tools und bringst diese aktiv in unsere Projekte ein.
+
+Du bernimmst eine 
+technische Fhrungsrolle
+ in Projekten und untersttzt Entwickler:innen bei Architekturentscheidungen und Best Practices.
+
+Du arbeitest eng mit Kund:innen zusammen, analysierst Anforderungen und bertst zu technologischen Lsungen.
+
+Du bist das 
+Bindeglied zwischen Business und IT
+ und sorgst dafr, dass technische Lsungen echten Mehrwert fr unsere Kunden schaffen.
+
+Qualifikation
+
+Abgeschlossenes Studium in 
+Informatik, Wirtschaftsinformatik, Wirtschaftsmathematik
+ oder einer vergleichbaren Studienrichtung.
+
+Mehrjhrige Erfahrung in der 
+Java-Softwareentwicklung
+, idealerweise auch in einer 
+Senior- oder Architekturrolle
+.
+
+Fundierte Kenntnisse in 
+Java, J2EE, Spring / Spring Boot
+ sowie modernen Softwarearchitekturen.
+
+Erfahrung mit Frameworks und Technologien wie 
+Hibernate, Angular oder vergleichbaren Frontend-Technologien
+ von Vorteil.
+
+Erfahrung mit 
+SQL- und NoSQL-Datenbanken oder Streaming-Plattformen
+ (z. B. PostgreSQL, MongoDB, Apache Cassandra, Apache Kafka).
+
+Erfahrung mit 
+Microservices-Architekturen, Cloud-Umgebungen oder containerisierten Anwendungen
+ ist ein Plus.
+
+Sehr gute analytische Fhigkeiten und eine strukturierte Arbeitsweise.
+
+Verhandlungssichere 
+Deutsch- und Englischkenntnisse
+.
+
+Es ist unwahrscheinlich, dass jede:r Kandidat:in all diese Anforderungen erfllt. Wenn Deine Erfahrungen anders sind und Du glaubst, dass Du einen Mehrwert fr die Position bieten kannst, lass uns gerne darber sprechen!
+
+Benefits
+
+Bei CBTW erwartet Dich mehr als nur ein Job  wir bieten Dir ein Umfeld, in dem Du wachsen, mitgestalten und ganz Du selbst sein kannst. Unsere Kultur lebt von Vertrauen, Eigenverantwortung und echter Zusammenarbeit  egal ob remote oder vor Ort. Wir treiben Innovation gemeinsam voran, feiern Erfolge und leben Vielfalt. Dass wir bereits fnf Jahre in Folge als Top Company von kununu ausgezeichnet wurden, besttigt uns in unserem Weg.
+
+Das erwartet Dich bei uns:
+
+ 
+Onboarding & Teamspirit
+
+Willkommenstag, Hello Drink & Newbie Lunch
+
+Mentoring-Programm fr Deinen idealen Einstieg
+
+Afterwork-Events, Summer-Tech-Event & festliche Weihnachtsfeier
+
+Gemeinsames soziales Engagement bei Spendenaktionen
+
+ 
+Entwicklung & Karriere
+
+Individuelle Karrierepfade & regelmige Feedbackgesprche
+
+Vielfltige Inhouse-Trainings, Online-Kurse & externe Weiterbildungen
+
+Internationale Zusammenarbeit mit Kolleg:innen aus ganz Europa
+
+ 
+Work-Life-Balance & Flexibilitt
+
+Remote Work & Workation  innerhalb der EU und darber hinaus
+
+Sabbatical-Mglichkeiten & flexible Arbeitszeitmodelle
+
+Feiertagskalender Baden-Wrttemberg plus die Feiertage Deines Bundeslands  doppelter Benefit
+
+30 Urlaubstage im Jahr
+
+ 
+Ausstattung & Mobilitt
+
+Guthaben zur Ausstattung Deines mobilen Arbeitsplatzes
+
+Deutschlandticket oder Fahrradleasing  Du hast die Wahl
+
+Optional: BahnCard fr noch mehr Reise-Flexibilitt
+
+ 
+Sicherheit & Vorsorge
+
+Untersttzung bei Altersvorsorge & Vermgensaufbau
+
+Vielfltige Optionen zur finanziellen Absicherung
+
+ 
+Wellbeing & Gesundheit
+
+Zugang zum Employee Assistance Program (EAP)  auch fr Angehrige
+
+ 
+Weitere Goodies
+
+Prmien fr besonderes Engagement
+
+Exklusive Vorteile ber unsere Corporate Benefits-Plattform
+
+Unsere CBTW-Spotify-Playlist fr einen musikalischen Eindruck vom Team 
+
+Jetzt fehlst nur noch Du  wir freuen uns darauf, Dich kennenzulernen!
+
+ Schau Dir unsere CBTW-Spotify-Playlist an: 
+CBTW auf Spotify hren
+
+Find more 
+English Speaking Jobs in Germany
+ on Arbeitnow

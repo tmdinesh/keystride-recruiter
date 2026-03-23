@@ -1,0 +1,33 @@
+{
+  "resume_id": "Naveen Arora_anon",
+  "skills": [
+    "java",
+    "javascript",
+    "angular",
+    "html",
+    "css",
+    "jquery",
+    "spring",
+    "rest",
+    "soap",
+    "sql",
+    "mysql",
+    "oracle",
+    "jenkins"
+  ],
+  "education": {
+    "degree": "Unknown",
+    "year": "Unknown"
+  },
+  "experience_years": 0,
+  "projects": [
+    "JUnit and JMock used for writing unit test cases.",
+    "Software Technology Park of India (STPI)\t\t\t\t\tAug\u2019 06 \u2013 Feb\u2019 08",
+    "Networking Consultant",
+    "Provide software and network consultation providing networking consultancy and last mile connectivity to STPI. Management of network bandwidth using CISCO router and switches.",
+    "Microsoft India                                                                                            Jun\u2019 05 \u2013 Jun\u2019 06"
+  ],
+  "certifications": [
+    "Oracle Certified Business Component Developer"
+  ]
+}

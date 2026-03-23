@@ -1,0 +1,91 @@
+ROLE: Senior Software Engineer eCommerce (Magento 2) (m/w/d) - Vollzeit | Remote (DE) oder Hybrid (Berlin/Xanten)
+SOURCE: Arbeitnow
+URL: https://www.arbeitnow.com/jobs/companies/mb-outdoor-gmbh/senior-software-engineer-ecommerce-magento-2-vollzeit-remote-de-oder-hybrid-berlin-xanten-166921
+
+ber uns
+
+Wir sind eine E-Commerce-Unternehmensgruppe mit Sitz in Berlin und Xanten. Wir entwickeln Mbelmarken, gestalten Produkte und betreiben internationale Onlineshops. Unser Schwerpunkt liegt auf Outdoor-Living, Kinderzimmermbeln und Lifestyle-Segmenten.
+
+Team MB verbindet Designkompetenz, Markenfhrung und digitale Handelssysteme zu einem integrierten Unternehmensmodell. Wir entwickeln Produkte selbst, steuern Marken operativ und expandieren ber eigene Shops in europischen Mrkten. Technologisch setzen wir auf Magento2.4 mit Hyv-Frontend und eine AWS-Cloud-Infrastruktur.
+
+Deine Rolle
+
+Als Senior Software Engineer arbeitest du im Kernteam gemeinsam mit einem weiteren Entwickler und koordinierst die Zusammenarbeit mit mehreren externen Agenturen. Du bernimmst End-to-End-Verantwortung fr Features  von der Anforderungsaufnahme mit den Fachbereichen ber die technische Konzeption bis zum Deployment. Dabei stimmst du Anforderungen, Prioritten und Timelines eigenstndig mit den internen Stakeholdern ab (auf Deutsch) und steuerst die Umsetzung mit den Agenturen (auf Englisch). Du arbeitest eng mit dem CTO zusammen, treibst Architekturentscheidungen voran und siehst den direkten Business-Impact deiner Arbeit an eigenen Produkten.
+
+Aufgaben
+
+Anforderungen mit Fachbereichen aufnehmen, technisch bewerten und realistische Timelines abstimmen
+
+Steuerung und Qualittssicherung der Zusammenarbeit mit externen Entwicklungsagenturen, Code-Reviews durchfhren, Ergebnisse abnehmen
+
+Entwicklung und Pflege von Magento-2-Modulen und Shop-Features ber mehrere Magento-Instanzen und Lnder hinweg
+
+Architektur- und Designentscheidungen fr skalierbare, wartbare Codebasen
+
+Untersttzung bei der internationalen Expansion (Multi-Store, Multi-Language, Multi-Currency, lnderspezifische Steuer- und Versandregeln)
+
+Etablierung und Nutzung von AI in Entwicklungsprozessen
+
+Qualifikation
+
+Must-haves:
+
+Mindestens 3Jahre Erfahrung in der Softwareentwicklung, vorzugsweise im eCommerce
+
+Fundierte PHP-Kenntnisse und sichere objektorientierte Programmierung
+
+Tiefes Verstndnis des Magento-2-Modulsystems
+
+Kommunikationsstrke: Du kannst technische Sachverhalte fr nicht-technische Stakeholder verstndlich aufbereiten und Anforderungen eigenstndig mit Fachbereichen abstimmen
+
+Sehr gute Deutschkenntnisse (mind. C1) fr die Kommunikation mit internen Fachbereichen und Geschftsfhrung
+
+Gute Englischkenntnisse in Wort und Schrift fr Ticketing und die Zusammenarbeit mit externen Agenturen
+
+Nice-to-haves:
+
+Erfahrung mit dem Hyv-Theme (Alpine.js, Tailwind CSS)
+
+Erfahrung mit AWS-Services (EC2, RDS Aurora MySQL, CloudFront, WAFv2) sowie Infrastructure-as-Code (Terraform/Terragrunt)
+
+Erfahrung mit OpenSearch im Magento-Kontext
+
+Erfahrung in der Steuerung externer Dienstleister oder Agenturteams
+
+Erfahrung mit Performance-Profiling (New Relic, Xdebug)
+
+Adobe Commerce / Magento-Zertifizierung
+
+Benefits
+
+Eigene Produkte statt Agenturprojekte  du siehst den direkten Impact deiner Arbeit auf Umsatz und Kundenerlebnis
+
+Direkter Einfluss auf Architekturentscheidungen und den Technologie-Stack
+
+Ein abwechslungsreiches Multi-Brand-Umfeld mit mehreren Shops, Technologien und Mrkten
+
+Flache Hierarchien und enge Zusammenarbeit mit dem CTO
+
+Modernes Tooling: Jira, Bitbucket, AWS, automatisierte Deployments und Claude Code
+
+Langfristige Perspektive in einem Unternehmen mit aktivem europischem Expansionskurs
+
+Unser Tech-Stack
+
+Backend: Magento 2.4 (Open Source), PHP8.x
+
+Frontend: Hyv (Alpine.js, Tailwind CSS)
+
+Infrastruktur: AWS (CloudFront, WAFv2, ALB, EC2 Autoscaling, RDS, ElastiCache, OpenSearch), Terraform, Terragrunt
+
+CI/CD: Bitbucket Pipelines
+
+Projektmanagement: Jira (Atlassian)
+
+Interesse geweckt?
+
+Du findest dich nicht in allen Punkten zu 100% wieder? Kein Problem  bewirb dich trotzdem! Wir wissen, dass Stellenbeschreibungen selten perfekt auf jemanden passen. Wenn du Leidenschaft fr E-Commerce und Magento mitbringst und Lust hast, gemeinsam mit uns zu wachsen, finden wir sicher einen Weg.
+
+Find 
+Jobs in Germany
+ on Arbeitnow

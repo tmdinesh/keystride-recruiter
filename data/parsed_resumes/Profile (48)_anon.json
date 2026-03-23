@@ -1,0 +1,33 @@
+{
+  "resume_id": "Profile (48)_anon",
+  "skills": [
+    "css",
+    "mysql",
+    "mongodb",
+    "dynamodb",
+    "aws",
+    "gcp",
+    "docker",
+    "kubernetes",
+    "linux",
+    "nginx",
+    "machine learning",
+    "deep learning",
+    "spark",
+    "hadoop",
+    "airflow"
+  ],
+  "education": {
+    "degree": "Unknown",
+    "year": "Unknown"
+  },
+  "experience_years": 9,
+  "projects": [
+    "The Development and Application of",
+    "Real-Time Deep Learning Models to",
+    "Drive Directional Drilling Efficiency",
+    "Development and Application",
+    "of a Real-Time Drilling State"
+  ],
+  "certifications": []
+}

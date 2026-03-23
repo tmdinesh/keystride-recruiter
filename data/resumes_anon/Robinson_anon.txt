@@ -1,0 +1,199 @@
+MASKED_NAME
+Business Analyst/Consultant
+Highly accomplished Business Analyst / Consultant with proven track record of managing complex IT projects and exceeding expectations. Practiced in clarifying business requirements, performing gap analysis between goals and existing procedures/skill sets and designing process and system improvements to increase productivity and reduce costs.
+SYNOPSIS
+Diligent and Result driven MCA professional with more than MASKED_ADDRESS / Consultant
+Domain Experience: Banking, Payments & Supply Chain Management.
+Analyse and document the business process flows and high level scenarios by interacting closely with Customers
+Prepared detailed Functional requirement document(FRD) based on the Business requirement MASKED_NAME) along with the coordination of Design Team for accounting systems
+Support the Project managers in Estimations, Test Planning and Test Strategy.
+Project Scheduling, Resource pooling and conduct meetings with stakeholders for project implementation
+Prepared Gap Analysis where Functional and domain gaps are identified and advised.
+Process Maps and Requirement Documentation based on User Inputs.
+Validation of Data using SQL queries and Analysis of data post migration
+Involved in preparation of User Manuals & provided training for the technical & bank users
+Worked on Testing Projects and has gained good knowledge of SDLC.
+Planning and organizing Test Team during Preparation and Execution Phases.
+Handled the testing team in preparing and reviewing the scenario & test cases and also clarifying the queries related to functional requirements. Core competence includes depth knowledge in Finacle & Global Pay Plus (GPP)
+Triage defects to review the validity and business severity to Manage defect delivery
+Updating customers periodically and escalating Issues and Risks to ensure the test schedule is on track
+Produce functional UAT Business scenarios and review SIT and UAT test cases
+MASKED_NAME (CR) document preparation and impact analysis for the same and provided Estimation of Cost and Effort
+Knowledge of Behavior Driven Development (BDD)
+Played the role of a System & Audit Analyst in Retail Banking for ICICI Bank & Dhanlaxmi Bank, expertise includes in depth knowledge of Branch operations, KYC, AML, Audit & Compliance and Risk analysis
+Achievements include nomination for Leadership Program by MASKED_NAME head and preparation & execution of Live Project in MASKED_LOCATION service (FOCUS) by meeting the customer and gather requirements and providing a new process and implement the same to increase the customer service. 
+Played the role of a EDP Analyst in Paper & Medical Industry which involves Interaction with the user and the management and provide feasible solution & customized reports based on the requirement in an ERP Application
+Possess strong leadership, interpersonal, decision-making, critical thinking, problem solving and communication skills used to foster positive relationship with management, internal staff, and clients, honed through extensive experience as MASKED_NAME lead and handling upto 15 members very well towards the project delivery.
+Areas of Expertise
+Expertise in End to End Testing of Banking and Financial Services Applications
+Expertise in MASKED_LOCATION testing of web based applications
+Expertise in defining defect management process
+Expertise in translating Business requirements to understandable systems requirements.
+Expertise in Functional Test scenarios, Test Execution and MASKED_NAME reporting
+Expertise in Managing status reports, analysis and decision-making for a change request. 
+Good domain knowledge of Core Banking Modules especially Retail Banking & Payments
+Expertise in analysing the Functional requirement & Business Rule document.
+External certification
+ISTQB Certified
+Technical Skills
+Methodologies				: SDLC, MASKED_NAME, Agile / Scrum
+Databases				: MS Access, SQL
+Business Process Modeling Tools	: MS VISIO
+Quality Management			: HP Quality Center, JIRA, Rational Clear quest, Red mine
+GUI/Tools				: MS Word, MS Excel, SnagIt, Photoshop
+Documentation Tool			: SharePoint, MS Office Suite (Word/Excel/Power Point)
+Languages				: C, JAVA
+Application				: Finacle, MASKED_NAME, Flexcube, MASKED_NAME
+Experience Sum	mary
+IT World Build, MASKED_LOCATION							         Apr MASKED_ADDRESS
+Finance & Inventory Application
+Project Description:
+This application is developed to run a small business and manage both the financial and Inventory. The application includes business functionalities such as Accounting, Finance, MASKED_LOCATION, Sales, Purchase, Point of Sales, Payroll, reports and Branch Management.
+Responsibilities:
+Analyzed the overall system/application and gained an overview of its functionalities
+Collaborated closely with stakeholders and cross functional groups to gather, analyze and document Business and Functional Requirements (BRD and FRD)
+Followed Software Development Life Cycle (SDLC) using Agile methodology
+Obtained Business Signoff for the deliverables after detailed reviews by the stakeholders, project manager and business system analyst
+Assisted the project manager in creating project plans and scheduling and tracking project timelines
+Worked as a primary liaison between the business users and the developers throughout the project cycle
+Planned and attended SCRUM meetings 
+Conducted Functional Requirement Walkthrough sessions with the business and development teams
+Developed test scenarios and implemented test plans
+Performed User Acceptance Testing (UAT), Integration testing and Regression testing
+ENVIRONMENT: JIRA, MS Office, Agile/Scrum, ERP, SQL
+Barclays Bank, MASKED_LOCATION								         Jun MASKED_ADDRESS
+Project: Masspay – Global Payments
+Project Type: Implementation – System Testing & System Integration Testing
+Project Description:
+Barclays an International bank with a strong European presence is implementing SEPA with MASKED_NAME application for MASKED_NAME
+Responsibilities:
+Understanding the Business requirements, Functional specification documents, Functional requirement document and Interface requirement document.
+Analysis of Requirement and providing domain guidance to the team
+Understanding the Business Requirement Document and involved in Preparation & Review of Functional Requirement Document
+Preparation and Review of Testware - Test Scope, Test Scenarios, Test conditions, Data Guidelines and Run Plan within the timelines
+Collected the related data guidelines and ensured the same is updated in the system by the business to perform the UAT
+Prepared Requirement Traceability Matrices (RTM) and managed every change requests effectively throughout the software development life cycle.
+Mapping the business rules to the requirement associated with it and ensure that the same is triggered during execution
+Validate the data for the reports at the backend using SQL queries
+Created Change Request (CR) Documents. Analyzed the change request and co-ordinate the changes required with the development team and business users
+Co-ordination/MASKED_NAME between the Client and the testing team.
+Review and Analysis of Testware.
+Review clarifications raised by testers and facilitate closure
+ENVIRONMENT: QC 10.0, MASKED_NAME 3.4, MS Office, XML, Agile/Scrum
+The Housing Bank for Trade & Finance (HBTF), Jordan				Jan MASKED_ADDRESS
+Project: Implementation of Core Banking System 
+Project type: Implementation – Systems Integration Testing & User Acceptance Testing
+Project Description:
+HBTF a leading commercial bank in MASKED_LOCATION wanted to replace its legacy system with Finacle V10.3.6 (CBS) for its banking operations.
+Responsibilities:
+Understanding the Business requirements and Functional specification documents.
+Preparation of Testware - Test Scope, Test Scenarios, Data Guidelines & Run plan
+Guided and facilitated the team by answering queries promptly especially during UAT execution.
+Co-ordination/MASKED_NAME between the Client, Development team and the testing team.
+Performed data analysis using SQL queries.
+Involved in migration of Data from one DB to another DB
+Performed GAP Analysis by comparing the existing system to the future system to create “AS-IS” and “TO-BE” flow charts and generated impact and risk involved.
+Responsible for efficient document management and Version Control using MS SharePoint and to update the document and transmit the information to the management
+Review and Analysis of Testware.
+Defect Analysis, Co-ordination and involved in Defect meeting with developers & business users
+Involved in preparation of Functional Analysis
+Review of Hold case analysis and Deferred case analysis
+Review clarifications raised by testers and facilitate closure
+ENVIRONMENT: Rational clear quest, Red Mine, Finacle 10.3.6, CRM, SQL, Waterfall
+Ratnakar Bank Ltd, MASKED_LOCATION							May MASKED_ADDRESS
+Project: Implementation of Core Banking System
+Project Type: Implementation – Systems Integration Testing & User Acceptance Testing
+Project Description:
+Ratnakar Bank Ltd, a bank in MASKED_LOCATION which is having more than MASKED_ADDRESS a new Core Banking system for its banking operations.
+Responsibilities:
+Understanding the Business requirements and Functional specification documents.
+Preparation of Testware - Test Scope, Test Scenarios, Data Guidelines & Run Plan
+Guided and facilitated the team by answering queries promptly especially during UAT execution.
+Co-ordination/MASKED_NAME between the Client, Development team and the testing team.
+Performed data analysis using SQL queries.
+Involved in migration of Data from one DB to another DB
+Coordinated tasks with multiple systems and departments to successfully complete the UAT effort
+Planned and facilitated AS-IS Business process and workflow models to create TO BE Business scenarios. 
+Created Non Functional Requirements (NFR) with the inputs from Technical Architects 
+Review and Analysis of Testware.
+Defect Analysis and Co-ordination.
+Created Change Request (CR) Documents. Analyzed the change request and co-ordinate the changes required with the development team and business users
+Prepared the User Manuals and provided training for the technical and bank users
+Equipped in learning cross-functional modules to understand the system better and provide alternate solutions
+Assisted Project manager on  preparing  the Business Proposals
+ENVIRONMENT:  JIRA 5.0, Finacle 10.2.9, CRM, MS-Office, SQL, Waterfall
+Dhanlaxmi Bank Ltd, Chennai							Sep 2011 till Apr 2012
+System & Audit Analyst
+Retail Banking
+Responsibilities:
+Managing a team of 10 members and taking care of the operations.
+Examining the current system of the Bank
+Interacting with users to gather business and technical requirements
+Identified opportunities for Business Process Improvement and initiated efforts to make improvements.
+Analyse requirement to provide solutions satisfactory to the Bank, taking into account established standards and guidelines
+Translating business requirements to functional specification document
+Identifying the impact and risk for the new or modified system
+Liaising with developers and testers to support implementing the new or modified system
+Conducting due diligence for the Account opening forms.
+Monitoring registers such as cash, security items, deliverables, inward, outward, key movement & gold loan registers.
+Monitoring dormant, deceased claim, MASKED_NAME documents of the customers
+Monitoring AML (Anti Money Laundering) such as high value transactions, genuine of cash transactions above 10 lacs and reviewing transactions in new accounts.
+Ensure that the daily CRL (Cash Retention Limit) is maintained and surprise cash verification being conducted randomly.
+Ensure that gold loan packets, deliverables, kits and security items are in dual custody.
+Ensure that all RTGS & NEFT transactions are successful.
+Monitoring routing accounts on a daily basis and suspense account on monthly basis.
+Generating & validating daily reports such as Cash, Authentication, Batch Journal and exception reports.
+Review of requests lodged in E-tracker for customer requests and account opening forms.
+Checking of all vouchers for the day and review for correctness of authorization.
+Ensure updation of lockers issued in online module and locker access register.
+ENVIRONMENT:  Flex cube, Windows 95/98/NT/2000, MS-Office, MASKED_LOCATION
+ICICI Bank Ltd, Chennai								Jan MASKED_ADDRESS
+Retail Banking
+Responsibilities:
+Managing a team of 21 members and taking care of the entire branch 
+Analysing the current system and understanding the operations of the Bank
+Interacting with the users and gather requirements
+Provide specifications for new or modified systems
+Worked with Business Users and Stakeholders if there were requirement changes to be on the same page.
+Performed end to end testing of the new functionality designed before it went for the release
+Liaising with IT staff such as programmers to produce new systems
+Monitoring of various Registers such as Cash, MASKED_NAME, Inward, Outward, Key movement and Fake notes register.
+Submission of various reports to Corporate office such as CAT1, CAT2, MASKED_LOCATION, CAT5, COMP1, COMP2, PFORM and MASKED_LOCATION.
+Monitoring of Office Accounts.
+Generation of Exception, Irregularity, Mitra, Service Wait time reports and unresponded entries on a daily basis
+Reconciliation of reports such as Inventory status, Gold coin, locker, Deliverables, Travel Cards and I-KITS on a fortnightly basis
+Monitoring of KYC & AML transactions.
+MASKED_NAME service meet on monthly basis and submitting the same to Regional office.
+Submission of Self Audit MIS and MASKED_NAME on a monthly basis. 
+Preparation of SOAX report for the branch on a Quarterly basis
+Reconciliation of Fixed Asset list for the branch on a Quarterly basis
+Internal Audit Compliance
+People Management and Time Management
+Scrutinizing the documents pertaining to Trade Finance and FOREX such as Outward Remittances, Import payment, MASKED_NAME and Sale of Foreign Currency.
+ENVIRONMENT: Windows 95/98/NT/2000, MASKED_NAME, MASKED_NAME, Finacle CRM, Finnone, MS-Office, QC
+Johnson & Johnson Ltd, Chennai					Jun MASKED_ADDRESS 
+Supply Chain – Material Management, Logistics, Reports
+Responsibilities:
+Working in an ERP Environment - JD Edwards (MASKED_LOCATION)
+Inspected existing system and documents, and reviewed new Business Requirement Documents
+Conduct Requirement Walkthrough Sessions with Technical & QA teams to analyse on the management reports.
+Record the desired reports in Excel with sample data and presented to the Development and Business users for sign-off
+Maintaining Stock Inward & Stock Outward register and preparing reports on a monthly basis.
+Performing Inventory count and preparing accuracy report.
+Interaction with the user and Customers over phone as well as through MASKED_NAME and gathering requirements
+ENVIRONMENT:  Windows 95/98/NT/2000, MASKED_NAME, MS-Office
+South India Paper, Chennai					Jul MASKED_ADDRESS
+Supply Chain – Inventory Control, Invoicing, Logistics, Sales & Distribution, Reports
+Responsibilities:
+Placing indent on Manufacture & Arranging for clearance. 
+Goods Receipt Note Preparation & Invoicing. 
+Inventory Control & Stock Reconciliation. 
+Preparing Credit Notes / Debit Notes. 
+Generation of Various Reports (Weekly, Monthly & Yearly). 
+Preparing Trial Balance, MIS, Balance sheet and Profit & Loss account. 
+Document the requirements gathered from the users and management 
+Providing the customized reports based on the requirement
+ENVIRONMENT:  Windows 95/98/NT/2000, MASKED_NAME, MS-Office.
+Educational qualifications
+Masters of Computer Application (MCA) – Madras University, MASKED_LOCATION, MASKED_LOCATION. (2005).
+Bachelors of Computer Science (BS) – Madras University, MASKED_LOCATION, MASKED_LOCATION. (2000).

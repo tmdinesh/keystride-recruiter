@@ -1,0 +1,46 @@
+{
+  "resume_id": "Dave_anon",
+  "skills": [
+    "python",
+    "java",
+    "javascript",
+    "php",
+    "ruby",
+    "r",
+    "react",
+    "angular",
+    "html",
+    "css",
+    "bootstrap",
+    "jquery",
+    "node",
+    "spring",
+    "rails",
+    "asp.net",
+    "rest",
+    "soap",
+    "sql",
+    "mysql",
+    "oracle",
+    "azure",
+    "jenkins",
+    "linux",
+    "apache",
+    "hadoop",
+    "git",
+    "jira"
+  ],
+  "education": {
+    "degree": "Unknown",
+    "year": "Unknown"
+  },
+  "experience_years": 9,
+  "projects": [
+    "Optimized UML design using patterns like DAO, Factory, Service Locator and Business Delegate",
+    "Prototyped and implemented Cloud based Service Bus on WSO2 for engaging stakeholders in the initial SOA discussions.",
+    "Configure external JMS Server like IBM MQ Series.",
+    "Development for both backend and front end applications. Extensive Programming by using PHP.",
+    "Roles & Responsibilities:"
+  ],
+  "certifications": []
+}

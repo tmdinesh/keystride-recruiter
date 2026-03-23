@@ -1,0 +1,48 @@
+{
+  "resume_id": "Siddhartha Gandroju_anon",
+  "skills": [
+    "python",
+    "java",
+    "javascript",
+    "scala",
+    "react",
+    "angular",
+    "html",
+    "css",
+    "sass",
+    "bootstrap",
+    "jquery",
+    "node",
+    "spring",
+    "express",
+    "rest",
+    "soap",
+    "sql",
+    "mysql",
+    "mongodb",
+    "oracle",
+    "cassandra",
+    "aws",
+    "azure",
+    "docker",
+    "kubernetes",
+    "ci/cd",
+    "apache",
+    "spark",
+    "hadoop",
+    "jira"
+  ],
+  "education": {
+    "degree": "Unknown",
+    "year": "Unknown"
+  },
+  "experience_years": 9,
+  "projects": [
+    "Client:\tSynchrony Financial, NY                                                                              Nov' 11 \u2013 Aug' 13",
+    "Involved in developing of design documents with UML class diagrams.",
+    "Involved in JavaScript coding for validations, and passing attributes from one screen to another.",
+    "Applied client side validations using JavaScript and jQuery.",
+    "Created Graphic User Interface (GUI) and applied to web site."
+  ],
+  "certifications": []
+}

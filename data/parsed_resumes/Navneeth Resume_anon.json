@@ -1,0 +1,30 @@
+{
+  "resume_id": "Navneeth Resume_anon",
+  "skills": [
+    "spring",
+    "sql",
+    "mysql",
+    "oracle",
+    "aws",
+    "jenkins",
+    "hadoop",
+    "git"
+  ],
+  "education": {
+    "degree": "Unknown",
+    "year": "Unknown"
+  },
+  "experience_years": 17,
+  "projects": [
+    "A critical application intended to be used to manage various application interfaces.",
+    "Part of team involved in requirement analysis, coding, testing.",
+    "Interacted with business requirement team.",
+    "Created technical documents.",
+    "Fixed issues, performance of the application."
+  ],
+  "certifications": [
+    "project/ program manager (PMP\u00ae (1851131)",
+    "Project Management Professional (PMP\u00ae) (1851131)",
+    "OCP (Oracle Certified Professional)"
+  ]
+}

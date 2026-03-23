@@ -1,0 +1,76 @@
+ 
+ 
+Contact
+www.linkedin.com/in/michael-
+MASKED_NAME (LinkedIn)
+MASKED_NAME (Programming Language)
+MASKED_NAME data engineer with passion in big data, data analysis,
+machine learning, and programming
+MASKED_LOCATION, MASKED_LOCATION Area
+Summary
+Experienced Big Data Engineer/Scientist with a demonstrated
+history of working in the internet industry. Skilled in Python,
+MASKED_NAME, TensorFlow, Data Analysis, and MASKED_NAME. Strong
+communication, problem solving, and project management skills.
+Experience
+Hulu
+Big Data Engineer
+May 2019 - Present (11 months)
+MASKED_LOCATION
+*       Performed data transformation, analysis, and validation using Python,
+Presto, Hive, Snowflake, and MASKED_NAME, serving internal teams at Hulu
+* Successfully finished the project of personal information nullification across
+over 100 tables in big data database
+* Created new pipelines and maintained current pipelines to satisfy different
+business needs including ads, subscription, revenue, etc.
+* Served internal teams for ad-hoc requirements including updating business
+logic in pipelines, investigating discrepancies in data tables, etc.  
+MASKED_NAME
+Chief Scientist
+October 2016 - December 2018 (2 years 3 months)
+MASKED_LOCATION
+* Led a team of 5 engineers on developing MASKED_ADDRESS
+and ion-cutting processes
+* Extensive experience in managing multiple projects and cross-functional
+teams
+* Created company roadmap and worked with CEO on fund raising from
+private investors and public 
+MASKED_NAME, LLC
+Sr. Engineering Manager 
+ 
+Page 1 of 2
+
+ 
+ 
+April 2009 - October 2016 (7 years 7 months)
+Torrance
+* Oversaw all aspects of new product development and engineering including
+design, simulation, prototyping, validation, pilot production, and parts sourcing/
+supplier development
+* Routinely collected, transformed, and analyzed various data from experiment
+and manufacture 
+* Created a non-linear regression model to predict energy generation for solar
+project development
+* Automated statistical analysis and anomaly detection of real time data from a
+40MW solar power plant
+* Created pre-failure detection method to identify problematic systems through
+data analysis and mining
+* Built a physics-based parametric model to predict electro-optical and thermal
+performance of solar cells
+* Achieved the solar module efficiency world record through design
+optimization and innovation  
+* Established relational database to link fabrication and testing data for data
+analysis using MS Access
+* Frequently presented data analysis and innovation progress to executives,
+investors and industry peers
+* Held progressive roles from Head Process Engineer to Sr. Manager 
+Education
+University of Virginia
+Doctor of Philosophy - PhD, Electrical and Electronics
+Engineering · (2006 - 2008)
+The University of Texas at Austin
+Master's degree, Electrical and Electronics Engineering · (2002 - 2005)
+Peking University
+Bachelor's degree, Physics · (1998 - 2002)
+ 
+Page 2 of 2

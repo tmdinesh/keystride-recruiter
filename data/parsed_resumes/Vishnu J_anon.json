@@ -1,0 +1,31 @@
+{
+  "resume_id": "Vishnu J_anon",
+  "skills": [
+    "java",
+    "javascript",
+    "angular",
+    "html",
+    "css",
+    "jquery",
+    "spring",
+    "asp.net",
+    "rest",
+    "soap",
+    "sql",
+    "oracle",
+    "apache",
+    "git",
+    "jira"
+  ],
+  "education": {
+    "degree": "Bachelor\u2019s in MASKED_LOCATION, JNTUK University, MASKED_LOCATION",
+    "year": "Unknown"
+  },
+  "experience_years": 16,
+  "projects": [
+    "Extensively worked on Transact-SQL in SQL Server 2000 database wrote stored procedures, triggers and also involved in database design.",
+    "Involved in creation of Web Services methods for the web client.",
+    "Involved extensively using Web and HTML controls while developing the code."
+  ],
+  "certifications": []
+}

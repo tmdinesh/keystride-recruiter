@@ -1,0 +1,27 @@
+version: '3.8'
+
+services:
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    ports:
+      - "8000:8000"
+    extra_hosts:
+      # Allows the docker container to access Ollama running on the host machine
+      - "host.docker.internal:host-gateway"
+    environment:
+      - OLLAMA_HOST=host.docker.internal
+    volumes:
+      - ./backend/uploads:/app/uploads
+      
+  frontend:
+    build:
+      context: "./frontend v2"
+      dockerfile: Dockerfile
+    ports:
+      - "5175:5175"
+    environment:
+      - VITE_API_URL=http://localhost:8000/api
+    depends_on:
+      - backend

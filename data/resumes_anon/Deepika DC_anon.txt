@@ -1,0 +1,167 @@
+Deepika							
+MASKED_PHONE
+MASKED_EMAIL
+SUMMARY OF QUALIFICATIONS: -
+MASKED_NAME is an experienced Project Manager and MASKED_NAME database Administrator –which includes PMP, ITILV3 and OCP Certifications in Health Care, Brewing, and Oil Industries. 
+Ensured project delivered and met client expectations. Excelled at gathering feedback and requirements; communicating needed changes to development team; and overseeing seamless, high-quality rollouts to on-time and on-budget conclusion.
+Lead teams across broad technical, financial and business disciplines. Focused teams on business objectives and tracked progress to ensure project milestones were completed on time, on budget and with the desired results.
+Mitigated risk factors through careful analysis of financial and statistical data. Anticipated and managed change effectively in rapidly evolving global business environments.
+Defined processes and tools best suited to each project. Moved between agile and waterfall approaches depending on project specifics and client goals, creating detailed project road maps, plans, schedules and work breakdown structures.
+Project-managed large-scale initiatives involving the transition of programs to new platforms and the merger of disparate systems from acquired client companies.
+Ensured products met or exceeded client expectations. Excelled at gathering feedback and requirements; communicating needed changes to development team; and overseeing seamless, high-quality rollouts to on-time and on-budget conclusion.
+Having very good MASKED_NAME on Micro Soft Office Product.
+Scored a band of 7.5 in IELTS for communications.
+Handled Change management , Incident and Problem Management
+Good knowledge on Service now, Remidy,Manage now and cherwing native tools for monitaring the tickets.
+Provided technical support for various databases and Applications to assure ongoing 24/7 fully operational conditions.
+Worked on Ops View alerting tool, SCCM, Nexpose Security Tools. 
+Good in managing Onsite and Offshore teams and Communications 
+Experience as On-Call 24x7 production DBA and application/development DBA and Oracle Support processes for technical requests through MASKED_LOCATION and other Support Procedures.
+Good at managing Oracle DBA , SQL DBA and Golden gate .
+Installed and configured Golden Gate 11.2.0.4
+Used PL/SQL to create stored procedures with the help of tokens to replicate data across multiple databases.
+TECHNICAL SKILL SUMMARY: -
+PROJECTS INVOLNED
+Client: CDPHP (Capital District Physicians' Health Plan)-Albany, NY;Health Care Domain
+Role: Project Manager 						
+Duration: April 2017 - Present
+CDPHP is a leading health insurance company which was award MASKED_NAME power award for 2017 year in MASKED_LOCATION NY.  MASKED_LOCATION believe that high-quality health care should also be affordable and easily accessible. In fact, they are so committed to delivering the best care at the lowest prices mission to set a new industry standard. As health insurance provider, they promise to look out for Act with integrity at all times and situations, Ensure access to high-quality care, improve the ease and efficiency of clinical practice
+Day-to-Day Activity: -
+Meet with clients to discuss and fine-tune project expectations Responsible and accountable for the coordinated management of multiple related projects directed toward strategic business and other organizational objectives.
+Monitored projects on an ongoing basis, evaluating progress and quality, managing issue resolution and taking corrective action as necessary.
+Maintain continuous alignment of program scope with strategic business objectives, and make recommendations to modify the program to enhance effectiveness toward the business result or strategic intent.
+Maintaining the security team handshake on the process and procedure of the project
+Present periodic MASKED_NAME reports on the current program, future opportunities, and client issues.
+Direct the coordination of all implementation tasks involving third party vendors as well as provide consultation to clients on system implementation.
+Week end support for monitoring the Patches and progress when ever required and guiding the team at offshore on the step to be taken when issues occur
+Managed and perform the process of Statement of Work and contract creation to secure new and follow-on work.
+Monitored project activities and advised staff of issues due to resource availability.
+Documented and standardized web deployment and post deployment procedures, reducing deployment cycle 10%.
+Worked with change management and transition teams to implement training and integrated legacy systems with new systems and processes
+Validated inventory records and contracts against legacy data for accuracy and liaised with service providers regarding the transition process and helped track the terms for termination for each account
+Provided program and project status reports to the project team and company
+Ensure the process developed and agreed is followed across the team and have a hand shake by the security team.
+Creating the requests, Incidents and changes and following up for approvals as per need and managing documentations.
+Sending High level project progress to the Board Members on regular basis.
+Client: MASKED_NAME account MASKED_NAME, NJ
+Role: Sr. Oracle & SQL Database Administrator and Project Transition Manager					
+Duration: July 2016 – March 2017
+The Miller Brewing Company is an American beer brewing company owned by SABMiller. Its regional headquarters is located in MASKED_LOCATION, MASKED_LOCATION and the company has brewing facilities in MASKED_LOCATION, MASKED_LOCATION, MASKED_NAME, MASKED_LOCATION, MASKED_LOCATION, MASKED_LOCATION, Irwin dale, MASKED_LOCATION, MASKED_LOCATION, MASKED_LOCATION; and MASKED_LOCATION, MASKED_LOCATION. On 1 July 2008 the Miller Coors company was formed as a joint venture with rival MASKED_NAME to consolidate the production and distribution of its products in MASKED_LOCATION, with each parent company’s corporate operations and international operations remaining separate and independent of the joint venture.
+Day-to-Day Activity: -
+24x7 Oracle Production Database Administration
+Transistion  of the account to an other Company with out escalations 
+Documaentation and securing in team room for futhur use 
+Change managemnet, Incident Managemnet and MASKED_NAME
+Regular meetings with MASKED_LOCATION and third party vendors 
+Leading the team of MASKED_ADDRESS legacy data for accuracy and liaised with service providers regarding the transition process and helped track the terms for termination for each account
+Provided program and project status reports to the project team and company
+Monitored projects on an ongoing basis, evaluating progress and quality, managing issue resolution and taking corrective action as necessary.
+Production Support:
+Working on ISM ticketing tool supporting over TB 24*7 remote supports and on call for Production databases and supporting developers & end-users.
+Created and managed database objects such as tables, indexes, partition tables and views.
+Performed capacity planning, security review and database design review for several OLTP applications and data warehouse.
+Reviewed with development team in optimizing queries for the data warehouse and OLTP database environments.
+Security User Management, Privileges, Roles, Profiling, OS Authentication.
+ 
+Client: RSA(Royal and sun Alliance) -India
+Role: Sr Oracle Database Administrator and Project Work Load Manager
+Duration: Nov 2012 - June 2016
+RSA Insurance Group plc (trading as MASKED_NAME, formerly Royal and Sun Alliance) (LSE: MASKED_NAME) is a multinational insurance company headquartered in MASKED_LOCATION, MASKED_LOCATION. RSA operates in 28 countries and provides insurance products and services in more than 140 through a network of local partners. It has 17 million customers.[2] MASKED_NAME was formed by the merger of Sun Alliance and Royal Insurance in 1996.
+Day to Day Activity: -
+Maintaining SAP applications and configuring oracle databases.
+Maintaining the shifts and resources MASKED_NAME and evenly distribution
+Bucketing the inflow of incidents and requests as per skill and assigning them to the resources
+Routing the tickets to the other team and proper MASKED_NAME as per the base line and Project scope  
+Managing TSM session’s availability to trigger backups on oracle databases using BR Tools.
+Managing PROLE user to access backup scripts with proper permissions.
+Conduct internal audits periodically in conjunction with security to ensure compliance with internal security policies and industry regulations
+Involved in the process of tuning and refining queries of various applications.
+Implemented DR activity on two SAP applications and Two SAP databases.
+Involved in Production Data Center Migration
+Involved in administration of Oracle instances
+Worked on OLTP and OLAP database systems
+Manage passwords for default accounts including default Oracle Database Vault Accounts Administrator and Security Administrator
+Oracle Database 11.0.1.6 Installation and Patch Set Installation.
+RMAN full backup and Incremental Backups using offload server and BR tools
+Database Cloning using RMAN full backup.
+Logical Backups like Export and Import or Data Pump.
+Performing role transition as required and troubleshooting data guard/standby issues.
+Executing application scripts in databases as requested application team.
+Restore and Recovery of databases using BR tools.
+Killing prole and reset password for prole with the help of TSM Team
+Configuring Listener and TNS Configuration in Oracle Client, MASKED_NAME databases
+Monitoring Production databases OLTP and OLAP.
+MASKED_NAME reports and SQL query Plans, SQL query tuning.
+Optimization and tuning SQL queries using TKPROF, EXPLAINS PLAN, SQL TRACE.
+Actively involved in monitoring the lock processes, releasing locks in case of resource blockage and gathering statistics.
+Creating tables, procedures, functions as per the requirement.
+Defragmenting tables, indexes and database storage areas.
+Tables and Indexes stats gathering in production databases on weekly basis.
+Performed Cloning Activity for databases from production to testing environment.
+Plan database space needs and growth analysis, and future disk need analysis by adding or resizing Data files in the tablespaces.
+Setting up new users managing/ user responsibilities.
+Client: MASKED_NAME coors- MASKED_LOCATION
+Role: Oracle & SQL Database Administrator						
+ Duration: Jan 2012 - Nov 2012
+The Miller Brewing Company is an American beer brewing company owned by SABMiller. Its regional headquarters is located in MASKED_LOCATION, MASKED_LOCATION and the company has brewing facilities in MASKED_LOCATION, MASKED_LOCATION, MASKED_NAME, MASKED_LOCATION, MASKED_LOCATION, MASKED_LOCATION, MASKED_LOCATION, MASKED_LOCATION, MASKED_LOCATION, MASKED_LOCATION; and MASKED_LOCATION, MASKED_LOCATION. On 1 July 2008 the Miller Coors company was formed as a joint venture with rival MASKED_NAME to consolidate the  production and distribution of its products in MASKED_LOCATION, with each parent company’s corporate operations and international operations remaining    separate and independent of the joint venture. 
+
+Database Implementations:
+Manage Oracle Database Vault: create realms, command rules, and factors and manage their authorizations.
+Work with business owners to authorize exceptions and enable monitoring
+Actively involved in strategic MASKED_LOCATION, Restore and Recovery using RMAN for complete recoverability. 
+Used Flashback Technology-Query on Database to undo specific transactions, provided point-in-time recovery of database objects, recovered database objects and ‘rewind’ entire database to a particular time. 
+Configured DATA GUARD to provide high availability by implementing physical stand-by database and worked with various MASKED_NAME 11g features: 11g Grid Control and Automatic Storage Management (ASM).
+Day-to-Day Activity: -
+Monitoring Service now ticketing tool on daily basis, dispatching and resolving tickets within SLA.
+Pulling Morning coffee report and resolving backup issues, monitoring scheduled batch jobs.
+Monitoring and administering RAC databases and node elements using srvctl & crsctl utilities.
+Coordinated with Application team and SQL developers to design the flow of operations to ensure proper synchronization between the database and the front end in both connected and disconnected modes.
+Creating, monitoring and managing locally Managed & Dictionary managed tablespaces for distributed databases.
+Managing, troubleshooting and resolving oracle database, RAC and applications issues.
+Performing the daily MASKED_NAME tasks and interacting with Oracle Customer service when required.
+Expertise in implementing cron jobs and task schedulers.
+MASKED_LOCATION and Handling Scheduled System & Database Maintenance.
+Created database objects and managed the permission access on the objects with necessary security.
+Using Golden Gate data selection and filtering for replication and making use of SQLEXEC to interact with database.
+Start Replicat process, Configure Replicate to handle collisions between changes and the Initial Load data.
+Regular Health Check of the Database.
+Physical Db Backup & Recovery (hot and cold backups), Logical Backup and Recovery using Import & Export.
+Establish Standards for Implementing and Maintaining Database Security.
+Client: MASKED_NAME
+Role: Oracle Database Admin
+Duration: March2009 - Jan 2012
+Irving Oil Ltd. is a gas, oil and natural gas producing and exporting company. The company is privately owned by MASKED_NAME and his family. It is considered part of the Irving Group of Companies .Irving Oil operates the MASKED_NAME, MASKED_LOCATION's largest refinery, as well as a network of gasoline stations, a fleet of oil tankers, real estate and other related assets.
+Database Implementations: -.
+Monitoring database growth and security audits using OBACKTRACK on quarterly basis.
+Resolving any projects specific issues/requirements which were assigned.
+Built new Databases on new servers from the scratch.
+Installation and configuration of Oracle 11g databases
+Upgraded the databases from 10.2.0.4 and 11.2.0.2 to 11.2.0.4.
+Applying regular PSU patches.
+Creating Backup schedules and taking periodic backups both offline and online using RMAN and SQLBACKTRACK.
+Configuration of standby database for production database.
+MASKED_NAME and regular Production, Staging and Integration Releases and database changes.
+Created Table partitions and purging non- required partitions based on application demands.
+Used the standby database for doing different operations like taking MASKED_NAME, collecting statistics and running various reports without
+disturbing the production database.
+Executing application scripts in databases as requested application team.
+MASKED_NAME and TNS Configuration in Oracle Client, MASKED_NAME databases
+Taken care of Table space re-organization.
+Writing shell scripts, setting up Corn Jobs to MASKED_NAME reports and Database status to various users.
+Day to Day Activities: -
+Responsible for configuring database memory structure, managing storage allocation, creating user accounts, roles and privileges for DB operations and security maintenance.
+Implemented Oracle security features and audit mechanisms for Fine grained access control.
+Taken care of backups and recoveries using RMAN.
+Applied necessary CPU and PSU patches to Oracle Databases.
+Performed performance tuning and SQL tuning using AWR utilities.
+Performed daily database monitoring and general space check.
+Given Support for application users in solving their database issues.
+Deployed and trouble shoot database change requests.
+Involved In query optimization and using rule based optimizers.
+Monitoring alert log file for chronological errors like ORA-600.
+Collecting all important log files at cluster and db level using diagcollction.pl script.
+MASKED_NAME report and analyzing the top events and other.
+Databases Health checks.
+Database Security Administration using Roles, Profiles and Privileges.
+Cloning databases with various strategies like RMAN/Logical Refresh.
+Used MASKED_NAME pack for MASKED_NAME and analysis.

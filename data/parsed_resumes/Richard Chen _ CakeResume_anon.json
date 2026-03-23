@@ -1,0 +1,27 @@
+{
+  "resume_id": "Richard Chen _ CakeResume_anon",
+  "skills": [
+    "python",
+    "r",
+    "sql",
+    "mysql",
+    "mongodb",
+    "aws",
+    "gcp",
+    "docker",
+    "machine learning",
+    "deep learning",
+    "spark",
+    "hadoop",
+    "tableau"
+  ],
+  "education": {
+    "degree": "University of Illinois, MBA, Finance & Marketing, 2009 ~ 2011",
+    "year": "2009"
+  },
+  "experience_years": 16,
+  "projects": [
+    "machine learning, deep learning, transfer learning, and so"
+  ],
+  "certifications": []
+}

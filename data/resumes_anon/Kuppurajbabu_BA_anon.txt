@@ -1,0 +1,155 @@
+Professional Summary
+A highly Competent, Focused, Result Oriented & Certified Business Analyst and Project Coordinator with strong written and verbal communication skills and possess a strong ability to function with both technical and non-technical resources. Also, having extensive experience in functional testing across domain and involving clients across globe
+An accomplished and qualified, Engineering and Master of Business, IT professional with Over 10+ years of experience across diversified domain and technologies
+6+ years of experience is in Health Care industry, Finance industry, and Insurance industry as Business Analyst, Quality Analyst, and Project Coordinator 
+Extensive experience in Business Analysis, Requirements Management, and Document Processing
+Ability to interact with SMEs and experienced in conducting walkthroughs, interviews, Joint Requirements Planning (JRP) and Joint Application Development (JAD) sessions
+Extensive experience in developing Business Requirement Documents (BRD), Software Requirements Specification (SRS), MASKED_NAME, and Requirements Traceability Matrix (RTM) 
+Identified testing dependencies and risks, ensuring that they were effectively managed and mitigated 
+Performed Feasibility Analysis, Impact Analysis, Cost/Benefit Analysis, Gap Analysis, and Risk Analysis 
+Recommend time lines, roles and responsibilities appropriate to the application(s)/ project(s) assigned 
+Proficient in preparing UML diagrams: Use Case Diagrams, Activity Diagrams, and  Data Flow Diagrams
+Worked closely with project management team as a part of project coordination initiatives
+Assisted Project Manager in coordinating day to day activities
+Ability to use MS Project for scheduling, task delegation and status tracking
+Extensive experience working in all stages of System Development Life Cycle (SDLC)
+Liaised with clients, project managers, vendors and/or peers to arrange test lab(s) 
+Developed QA documentations (Test Plan, Test Scenarios, Test Cases, and Traceability Matrices)
+Coordinated for the test environments, defect analysis throughout test cycle
+Planned, executed and accomplished UAT and application deployment
+Extensive exposure on FACETS in MASKED_LOCATION and Claims Sub areas 
+MASKED_NAME of HIPAA EDI - 834, 835, & 837 transactions, and Source to Target Mapping
+Exposure to FACETS’ Member/Subscriber, Plan/Product and Benefit/ Claims data model
+Excellent knowledge of various SDLC methodologies; Waterfall, and Agile / Scrum
+Education
+Master of Business Administration (Major: Project Management and Finance), UDM, MI (2013) 
+Electrical and Electronics Engineering - University of Madras, MASKED_LOCATION (2000)
+Diploma in Networking Technology, MASKED_LOCATION (2000)	      
+Technical Skills
+Management Tools		JIRA, HP ALM (Quality Center), Rational DOORS, and SharePoint 
+SDLC Techniques		Waterfall, Agile, MASKED_NAME, and MASKED_NAME methods
+HealthCare Technologies	Facets 4.31, EDI 837, 835, 834 transactions
+Microsoft Tool			MS-Visio, MS-Project, and MS-office		
+Standards			ITIL and PMI
+Database			SQL 2012, RDBMS – MASKED_NAME 10g/12c
+Certifications
+ITIL Foundation Level
+Microsoft Certified System Engineer (MCSE)
+Cisco Certified Network Associate (CCNA)
+Professional Experiences
+UBS Financial Services, Troy, MI								            Oct’16 – Present 
+Sr. Business Analyst/Project Coordinator
+Project: Risk management application used to assess market risk involved in performing any primary and secondary market transactions including buying and selling of stocks, bonds and other financial instruments. The risk management application had various modules including market analysis through MASKED_LOCATION feed, past and future trend analysis, graphs, Identify Liquidity Risks, Counterparty Risk, Market Risk, and Credit Risk associated with capital market instruments. The project also involved a data warehouse initiative wherein the data elements in source databases of multiple applications were loaded into data warehouse. 
+Responsibilities: 
+Facilitated JAD sessions, brain storming sessions with the Business and the Technology teams
+Designed and coauthored Business Requirement Documents (BRD), Functional Specifications Documents and Technical maps for MASKED_LOCATION terminal
+Had responsibilities for translating BRD into functional specifications and test plans 
+Recognized all market risk categories: credit, liquidity, operational, compliance, reputational and Counterparty
+Prepared Graphical depictions of Narrative Use Cases, and created UML Models such as Data Model, Use Case Diagrams, and Flow Diagrams using MS – Visio
+Closely worked with Project Manager in assessment of logical sequence of activities 
+Participated in estimation of resource activity and estimation of activity duration
+Assisted PM in scheduling project in MS-Project, and risk management with uncertainty in the schedule
+Involved in Business Meetings to discuss requirement, design, and planning on different levels of Testing 
+Assisted in preparing stakeholder register and controlling stakeholder engagement
+Documented the Requirement Traceability Matrix (RTM) and analyzed test data
+Used SharePoint to store the documents and review the documents with different user groups
+Administered development and test environment for ongoing system modification 
+Assisted in Test Plans for UAT testing and authored User Training Documentation 
+Environment: MS Project Plan, MS Office, VB, HTML, JavaScript, MASKED_NAME, SQL, and HP ALM
+Coast Healthcare, MASKED_LOCATION, CA									Apr’15 - Oct’16	             
+Sr. Business Quality Analyst									            
+Project: Coast Healthcare developed a software suite to equip partners and providers with the tools they needed to care effectively and efficiently for their members. The ultimate purpose of this software was to improve quality of care, reduce cost of care, identify problems and automate the preventive care planning, and enhance the experience of the members. Some of its main modules were: Disease Management (DM), Case Management (CM), Utilization Management (UM), population health management, and Medication Therapy Management (MTM). Also, the Reporting Tool was used to query, print, list the patient-care information, and display tracking reports.
+Responsibilities:
+Organized workshops with Subject Matter Experts to obtain domain level information 
+Developed a vision plan that define the primary goals and objectives of the project
+Identified actors and use cases to create use case diagrams to describe the behavior of the system
+Collected functional requirements from system users and prepared business requirement documents 
+Created data, functional and quality requirements
+Supported to encounter business doubts all phases of both SDLC and STLC
+Involved in version control management for storage and distribution of documentation 
+Prepared Timeline Charts, RTM, and DTM (Deliverables Traceability Matrix)
+Documented workflow of the application with various Screenshots 
+Validated technical designs created by technical teams against functional specifications
+Reviewed system-testing results with the project and technical teams
+Provided support to the business during the User Acceptance Testing (UAT)
+Reviewed the UAT Results to identify defects and enhancement request from the Users
+Environment: MS Project Plan, MS Office, VB, HTML, JavaScript, MASKED_NAME, SQL, and HP ALM
+Health Plus, MASKED_LOCATION, NY 									              Aug’14 – Apr ’15
+Sr. Business Analyst/Project Coordinator 							          
+Project: CSP project was an effort to integrate and consolidate the Medicaid business for UnitedHealth, which currently was spread across various platforms. All the current and new Medicaid business was being brought under one standard Facets platform
+Responsibilities:
+Used different elicitation techniques to interact with business users and SMEs 
+Translated business requirements into functional specifications: HIPAA transactions 
+Analyzed trading partner specifications and created 834 transaction mapping guidelines
+Analyzed respective companion guides/sample data files, and referred 834 & 837 EDI implementation guides to understand incoming data elements, segments, and loop structure
+Assisted PM in project plan using MS Project and tracked the progress 
+Coordinated work plans between project manager and client 
+Acted as a liaison between  Project Management and IT groups to create planning, and sizing
+Assisted PM in re-baseline the project plan to execute the approved changes
+Prepared test data to test various scenarios in creating groups, subscribers and dependents 
+Used SQL queries to perform sample data and created reports  
+Used Requirement Traceability Matrix to manage test cases  and requirements relationship
+Participated in daily defect meetings and coordinate the User Acceptance Testing (UAT)
+Reviewed and logged critical defects in HP Quality center and communicate to the related teams
+Environment: Facets 4.7, Sybase, HP – ALM, Oracle 11g, Project, MS Office - 2013, MASKED_NAME, SharePoint 2013.
+Arch Insurance Group Inc, MASKED_LOCATION, NJ 								Mar’13 – Jul’14
+Sr. Business Systems Analyst									              
+Project: Arch Insurance offers a wide range of healthcare, property, casualty and specialty Insurance for business and professional firms.  In a few Short years, Arch Insurance has made a real impact in the corporate Insurance arena, offering important capacity and equitable market pricing in various product lines. The Project involved with building intelligent and user-friendly web enabling healthcare claims processing to outcome the struggle with insurance claims processing. The aim of the project is to build a high efficient and productive environment by reducing the high error rate in claims processing and implementing HIPAA Compliance
+Responsibilities:	
+Conducted JAD sessions to gather and document new business requirements,  process and  specifications 
+Managed functional requirements elucidation, and direct the design and development of process 
+Participated in High Level Design reviews to find the solution approaches and plausible changes 
+Prepared process flows diagrams for MASKED_ADDRESS common understanding and accurate communication
+Broke down the requirements in to sub-processes in order to efficiently build the new system
+Accomplished experience through entire SDLC while using highly efficient Agile methodology
+Worked on the EDI 834, & 837 files and validated the functionality according to the new changes
+Co-coordinated UAT  and validate the business requirements 
+Environment: Facets 4.31, SQL, MS Excel, MASKED_NAME, MASKED_NAME, SharePoint, and MASKED_NAME, and Office.
+MASKED_NAME, MASKED_LOCATION, PA								             May’12 – Jan’13
+Sr. Business Analyst										             
+Project: Electronic Medical Record Management System: A Physician Support System was built to capture the out patients clinical data using an Electronic Medical Record Management System. The purpose of this system was to have a Paperless Medical Record and instant retrieval of data by the doctors
+Responsibilities:
+Interviewed SMEs and stakeholders and carefully recorded the requirements in a format that can be reviewed and understand by both business people and technical people 
+Participated in functional requirement gathering and produced initial requirement data to create User Interface and Business Process Requirements  
+Created, reviewed, and organized several  diagrams: Interface Diagram, and Data Flow Diagram
+Worked as an interface between users and different teams involved in the application development for the better understanding of the business and IT processes
+Was jointly responsible for monitoring the progress of the development and QA team
+Assisted in creating UAT Approach, UAT Scenarios and UAT Test cases for the release
+MASKED_NAME all UAT test cases in the Quality Center 
+Performed End-to-End test to validate all the business processes and its variations in the releases
+Created RTM with Business Requirements, System Test Cases and UAT Test Cases
+Prepared status report, charting out schedules, allocation and management of technical and human resources 
+		Environment: Visual Studio 2010, MS SQL – 2008, MASKED_NAME, HP ALM 11.0, loadrunner, MS Office – 2010.
+NC Mutual Life Insurance, Durham, NC								             Mar’11 – Apr’12
+Business/Quality Analyst 								                           
+Project: NC Mutual Life Insurance was developed a new MASKED_NAME based web app to manage online life insurance Quotes. This request process involved various screens, various product choice, and combination of static and dynamic data selection options. User has to full fill all the required data along with the combination options in the process of request.  
+Responsibilities:
+Participated in functional requirement discussions and identified functional issues during analysis phase
+Prepared test data, test scenario and test cases for SIT and UAT 
+Had done testing for numerous changes from field changes to consolidation of screens 
+MASKED_NAME, GUI, Integration, Functional and Regression Testing 
+Created Test cases for Verification of the different Pages and objects, Object, GUI, Text and Bitmap. 
+Verified the attributes and exception handling for graceful behavior of the pages 
+Performed compatibility checking: Tested Web performance and security, Involved in testing the application against different browsers Netscape Navigator and Internet Explorer
+Validated each and every field that the application was processing with the data in the SQL database to make sure whether the application was pulling the correct data or not
+Created and executed various SQL queries for data and table structure changes 
+Involved actively in creation of Regression Test Case suite and Build Acceptance Test Case suite
+logged the defects in QC ALM and participated in defect triage meeting 
+Environment: MASKED_NAME, J2EE, HTML, IIS7.5, MS SQL 2008, HP ALM, MS Office, MASKED_NAME and Project.
+Other IT related experience 
+JR Technologies, Southfield MI									          Mar’08 – Feb’11
+IT Operations In-Charge 									         
+Responsibilities:
+Analyzed Information system and current working model to optimize its functionalities 
+Worked with stakeholders to develop the project plans, workflows, and procedures 
+Developed “As - Is” and “To - Be” model to explain the current and proposed processes and functionalities 
+Customers call waiting time was reduced by 7% and it led $100k+ additional revenue 
+Attended the server faults, analyzed the faults through RCA and suggested appropriate technical solutions
+Used Microsoft backup tools to schedule backups on MASKED_LOCATION, ADC, SQL servers 
+Other information
+Co-Authorship
+A research paper – RFID Adoption Trend in Healthcare Industry
+A journal article – Driving Factors behind the RFID Technology Adoption in Healthcare Industry 
+Honors and Awards
+Member of the International Honor Society in the Decision Sciences and Information Systems
+Member of the Global Jesuit Business Student Association Honor Society

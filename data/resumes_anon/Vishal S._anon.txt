@@ -1,0 +1,105 @@
+MASKED_NAME 
+MASKED_PHONE
+Infrastructure Project Manager
+An Innovative and solutions-focused IT Manager with over 14 years in servers and network infrastructure experience. Over 11 years of senior–level leadership spanning IT Infrastructure, Data Center migration, infrastructure build-out with Windows OS upgrade, COTS and Business Users application & SQL database migration for production, pre-production, disaster recovery environments, IT operations and service support management. Drive product from concept/ideation stage through the product development governance process with Agile and Waterfall SDLC practices. Infrastructure project management methodologies-ITIL, ITSM based Service Delivery.
+Professional Experience
+S&P Global, MASKED_LOCATION              					                               May 2017 to Present
+Sr. Technical Project Manager
+Internal cloud infrastructure scanning for Threat and Vulnerability management
+Users migration from One Drive, Google Drive to cloud-based Box
+Active Directory Domain Controller Server upgrade across the globe – Servers refresh and OS upgrade to MASKED_LOCATION.
+Encase Forensic Agent application installation on servers & workstations
+O365 migration & IDM workday connector enhancement project.
+MASKED_NAME 7 to MASKED_LOCATION OS upgrade across all S&P domain.
+Responsibility and Duties
+Direct multiple S&P Information Security projects and technical activities in support of multimillion-dollar S&P global infrastructure program. 
+Collaborate with 3rd party IT Service & Vendors to deliver business-driven projects and initiatives.
+Lead high performing technical team of Field Engineers, Security Engineers, and Systems Integration Specialists. Develop and implement standard operating procedures. Assisting in the resolution of Incident and change tickets to support infrastructure (Servers, Storage, networking, cloud based instances, etc.).
+Work with business stakeholders and Technical (Dev and QA) across the SDLC lifecycle to proactively drive the project deliverables and help set expectations to deliver on time.
+Use of project management tools like JIRA to Create and maintain project documentation, dependency-based schedules, status reports, tracking logs, scope documents, contributor to executive communications.
+Forecast Project budget and track monthly spend throughout the lifecycle of the project. Ensure the project stays on track and within projected budget.
+MASKED_NAME monthly report on KPIs of security operations including security event monitoring, incident investigation and response, vulnerability scans and risk assessments.
+Provide regular communication to the leadership team. Coordinate projects meetings as required. Serve as the day-to-day point of contact that will drive work streams to meet deliverables.
+Conduct vendor evaluation, gather project requirement and document it as SOW, MSA, and MASKED_NAME...etc.
+Procurement process in MASKED_LOCATION for Purchase Orders, Hardware/Software Capital & Expense monitoring.
+Identified unique assets with naming conventions; ensures that staffs comply with identification standards; Update hardware and applications assets and their status in Service now CMDB for all S&P Infrastructure on regular basis to adhere ITIL guidelines using Service Now tool. 
+Metropolitan Transportation Authority (MTA), MASKED_LOCATION                              Dec 2016 – May 2017
+IT Project Manager 
+5 Data center migration and Infrastructure consolidation.
+Project planning for MTA Subway department for WI-FI Design and heat mapping on 5 locations.
+Project planning of MTA NYPD for PSIM (Physical security and Information management) project to extend support contract and software maintenance and licensing
+Responsibility and Duties
+Audit all MTA HQ datacenters in MASKED_LOCATION and gather assets information to define the scope of the project.
+Collaborate with IT team to deliver business-driven projects and initiatives, new capabilities and infrastructure enhancements.
+Present findings and direction, defend and justify conclusions and recommendations to Executive Management i.e. IT Directors of various departments in MTA IT & MTA HQ.
+Architect new solutions for optimizing existing servers, networks, layouts and applications.
+Design and planning for Data Center modernization, transformation services involving mainframe, midrange technologies and data engineering, data integrity, data quality, reporting and predictive analytics.
+Collect, collate and organize technical information needed for future procurement solicitations.
+Conduct vendor evaluation, gather project requirement and document it as SOW, RFP, Memo and Exhibits...etc. Procurement Process in PeopleSoft for Purchase Orders / Commitments, Hardware/Software Capital & Expense monitoring.
+Perform data analytic and spend analysis to determine savings opportunities, contract compliance, and data center consolidation and demand management opportunities.
+Review technical decisions and articulate pros/cons of technology options based on experience, industry knowledge, and best practice.
+Plans population of the asset DB; manages the asset DB, central libraries and tools; ensures regular monitoring and updating Assets status in CMDB of Asset Manager MASKED_NAME.
+Build strong relationships with suppliers, internal clients (e.g. IT, LOB Project Managers, Senior Management) and business partners (e.g. IT, Legal, Finance/Planning).
+Thomson Reuters, MASKED_LOCATION 2014- Nov 2016
+System Solution Engineer /Infrastructure Manager
+Development datacenter migration and Virtualization of multiple key COTS and business user applications from MASKED_LOCATION to New Jersey & Texas.
+Build a new staging infrastructure for running on Windows / IIS /.Net / SQL Server environment.
+Win2003 Server to 2008/2012 OS upgrade, Tech-refresh (Hardware Upgrade), Database refresh (Storage and Disk expansion).
+Responsibility and Duties
+Served as Project Manager and Lead Systems Designer for multiple high profiles, large scale network and IT Infrastructure projects. Designed and implemented Microsoft infrastructures, VMware, and NetBackup.
+MASKED_NAME the efficient implementation of new technology solutions to various internal business units; identified project requirements and provided exceptional support.
+Discuss project plan with internal and external stakeholders to analyze information needs and functional requirements for products and services. Capture and process the customer information to build a solution that addresses the requirements while considering the solution’s efficiency, flexibility, scale-ability, reliability and availability.
+Implement IT infrastructure datacenter migration steps & communicate status of migration plans. Follow System Development Life Cycle (SDLC) models in Agile (SCRUM, KANBAN) methodologies.
+Produce architectural documentation and technical specifications from engineers and architectures to present the proposed solution to the customer and answer any questions, concerns that may arise.
+Develop & monitor metrics and operating results, and take steps to ensure that our clients’ ability to deliver service as expected to the business is maintained and improved.
+Process documentation to initiate Installation and configuration of new/existing servers, storage and networking in both physical and virtual environment in accordance with standards and project/operational requirements.
+Procurement Process for Purchase Orders / Commitments, Hardware/Software Capital & Expense.
+Support and Lead Program Change Management/Change Control Processes to adhere ITIL guidelines for Asset, Incident, Problem and Change Management & Service Management using HP Service Manager tool.
+Worked as ITSM process champion to support transition of existing business Asset and Service Management CMDB to new Service now tool from HP service and Asset Manager
+Use JIRA tool for Story, Epic or bug reporting for Service request management.
+Provide support to all data center operations and processes (production operations, network, change control, DR/Business recovery, helpdesk, systems management, and facilities) with a focus on application, server, storage, and database technologies in 24 x 7 environments.	
+Thomson Reuters, MASKED_LOCATION – Sept 2014
+Infrastructure Service Manager
+Production Datacenter migration from MASKED_LOCATION to MASKED_LOCATION and MASKED_LOCATION. 
+Tech-refresh project - replacement of hardware, upgrade Windows OS and SQL databases for business COTS and GOTS applications hosted on 400 legacy servers.
+Built new virtual Infrastructure for Production and Pre-Production environment running on Windows / IIS /.Net / SQL Server environment.
+Responsibility and Duties
+Provide system engineering, project management nd 3rd level support to production, pre-production environment and spanning 3 geographical locations.
+Project Manager and team member for several infrastructure architecture projects including migration of Windows 2000 to 2003 OS servers and workstations from MASKED_LOCATION to windows 7.
+Evaluate and design new virtual server infrastructure consisting of VMWARE ESX server environment residing on 32 x HP ProLiant servers connected to over 16 TB capacity.
+Consolidate physical servers to Virtual servers with VMware Converter P2V and procures new hardware and upgrade DAS Storage.
+Configure RAID and MASKED_NAME on HP Servers and Storage Works using MASKED_NAME based Utility to maintain system redundancy & configure NIC TEAMING to provide network resiliency.
+Apply security patches, firmware and device drivers upgrade using WSUS.
+Asset Management for data Center build and transformation as per scope of the work.
+Developed and document windows 2003/2008 server standards including server builds, security and hardening principals.
+Capsilon Technologies, MASKED_LOCATION, India                                                                            May 2006 – Nov 2007
+Technical Support Engineer
+Responsibility and Duties
+Administration for Server and network infrastructure
+Server installations, upgrades, routine maintenance and administer MASKED_NAME on Windows 2003
+Install and configure FTP and Internet Information Services, (IIS 5/6)
+Troubleshoot group policies, configurations and applications to resolve incompatibilities.
+Administration of Microsoft Exchange server
+vCustomer Services Pvt. Ltd., MASKED_LOCATION, India                                                               Aug 2004 – May 2006
+Technical Support Engineer
+Responsibility and Duties
+Provide technical support to maintenance and administration of MASKED_LOCATION, workstations & networks.
+Preventive maintenance and configuration of hard drives, storage devices, backup devices like MASKED_LOCATION and zip drives & other computer hardware.
+Configure MS Outlook e-mail; provided Exchange 2003 support for e-mail and outlook 2003 configuration. Responsible for support and management of Active Directory Users/Computer setup.
+Education
+Madurai Kamraj University, MASKED_NAME, 2013 - Masters of Business Administration (MBA)
+Pune University, MASKED_LOCATION, 2004 – Bachelors of Engineering – Computer Science (B.E.)
+Certifications
+Microsoft Certified Professional (Windows Server 2003)
+Microsoft Certified Systems Administrator (Messaging on Windows Server 2003)
+VMware Certified Associate 5 - Data Center Virtualization (VCA-DCV)
+EMC Information Storage Associate (EMCISA)
+ITIL V3 Foundation Certified (ITIL)
+PMP Certification (PMI ID: 5278358) – Completed PMP training-Pursuing certification
+Skills
+Asset CMDB and Change Management 
+Requirement Gathering
+Business Process  Improvement
+Project cost planning
+Risk mitigation and management
+Systems development Life Cycle (SDLC)

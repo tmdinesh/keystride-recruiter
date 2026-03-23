@@ -1,0 +1,227 @@
+MASKED_NAME
+E-Mail: MASKED_EMAIL
+                                                                                         Phone: MASKED_PHONE
+Experience Summary
+Professional with 15 years of Overall Experience in IT and 9+ years Business Analysis.
+Worked on numerous projects as Sr. Business Analyst, Project Manager, Consultant, and Application Lead within HealthCare, MASKED_LOCATION, Mobile, E-Commerce, Insurance, and Manufacturing Industries. 
+Functional and MASKED_LOCATION experience in Oracle ERP Suites: JDE EnterpriseOne and OneWorld.
+Experience in Start-up Business Development – JiffyRides Mobile App and Fudbid E-Commerce.
+Business Intelligence expertise in IBM Cognos V7/8/10, JDE BI Publisher, Insight, MASKED_NAME.
+Supporting front-end application MASKED_NAME, Command, Trimble (Trimview), AggQC and MASKED_NAME.
+Technical and Functional Knowledge in ERP D&L and Manufacturing Modules like MASKED_NAME, Order to Cash (O2C), MASKED_NAME, Procure to Pay (P2P), MASKED_NAME, Work Order and MASKED_NAME of Material.
+Experience in ServiceNow, EDI, VMI, MASKED_NAME, OTC Derivatives, MASKED_NAME, Business Services, PeopleSoft, WorldSoft, AS400, SQL, HTML, CSS and BMC Control M.
+Experience with Agile, SOA – Service Oriented Architecture, and Waterfall SDLC processes.
+Project Management Overview 	
+Recommended IT strategies, policies, and procedures by evaluating organization outcomes; identifying problems; evaluating trends; anticipating requirements.
+Accomplished IT team results by communicating job expectations; planning, monitoring, and appraising job results; coaching, counseling, and disciplining employees; initiating, coordinating, and enforcing systems, policies, and procedures.
+MASKED_NAME staff by recruiting, selecting, orienting, and training employees; maintained a safe and secure work environment; developed personal growth opportunities.
+Accomplished financial objectives by forecasting requirements; preparing an annual budget; scheduling expenditures; analyzing variances; initiating corrective action.
+Maintained professional and technical knowledge by attending educational workshops; reviewing professional publications; establishing personal networks; benchmarking MASKED_ADDRESS
+Academic Credentials 	
+Masters in Computer Applications(MCA) from University of Madras, MASKED_LOCATION.
+Bachelor of Science(B.Sc) in Computers, Electronics & Mathematics from Sri Venkateswara University, MASKED_LOCATION.
+Professional Synopsis
+Boston Consulting Group (BCG)                                                                               Aug 2017 – Jan 2018
+Role: Sr. Business Analyst
+MASKED_ADDRESS
+Responsibilities:
+ServiceNow Project Implementation for modules: Project, Resource, Demand, Reports, Knowledge
+Tracking resource allocation across multiple simultaneous projects.
+Planned work - Who is supposed to be working on what and when?
+Actual work - What are people spending their time on? How does that compare to the resource plan?
+Project administration: Prepare material for weekly project portfolio review meetings. 
+Gather updates from project managers and other stakeholders and populate into ServiceNow
+Ensure reports and dashboards are prepped prior to each meeting
+Document and track action items from each meeting
+MASKED_NAME in an Agile Scrum environment with core concepts and ceremonies: Sprints, Stories, MASKED_LOCATION, etc.
+Experience running daily scrums, managing story backlogs, reporting on release progress and status
+Requirements management
+Meet with internal customers to assess new demands
+Document business requirements in a standardized manner
+Excellent in Communication and Presenting to IT leadership positions (director, executive level roles)
+LafargeHolcim (MASKED_LOCATION and MASKED_LOCATION)                                                                          Oct 2012 – Jun 2017
+Role: Sr. Business Analyst
+MASKED_ADDRESS
+Responsibilities:
+Primary involvement in various modules in ERP system JD Edwards EnterpriseOne.
+Experience in D&L and Manufacturing Modules like MASKED_NAME, Order to Cash (O2C), MASKED_NAME, Procure to Pay (P2P), MASKED_NAME, Work Order and MASKED_NAME of Material.
+Working on retail strategy and implementation of E-Commerce project for MASKED_LOCATION that offers self-builders and smaller contractors simple and easy access to LafargeHolcim’s own building solutions as well as a wide range of other construction materials and services.
+Applied methodologies such as Agile, Scrum, Sprint process and prepare detailed specifications using case statements and related documentation.
+Manage various projects and enhancements as a Project Manager to ensure they are completed on time, within budget and meet the design specifications, utilize Demand process using Service now.
+Gather business requirements, develop the functional specifications and ensure the successful delivery of the solution. 
+Using MASKED_NAME for process mapping and analysis to provide step-by-step user guidance documents.
+Participate in the development, testing and rollout activities for implementations. 
+MASKED_NAME the role of project management for the implementation of system enhancements requests. 
+Coordination between end users and developers with regards to building the Cognos reports for various teams like PAM, Sales and Marketing, P2M etc.
+Responsible for support and resolution of application issues raised by users or identified as process deficiencies in the Marketing, Sales and Reporting applications for all lines of business in the country. 
+Work with other support resources within IT, offsite support and consulting staff to communicate business requirements and to coordinate the testing, acceptance and promotion of system enhancements.
+Working with Oracle (Cloud Services) to implement two integrated, hosted SaaS solutions customized to meet program requirements; all phases to date have been delivered on time and within budget.
+Worked on Business intelligence tools such as Cognos 7,8 &10, Insight, LogiXML, VMI and EDI applications.
+Development of multiple reports using the reporting tool called Insight for various modules to auto generates and auto deliver.
+Maintain an ongoing relationship with Business Process Owners to facilitate cooperation and problem resolution.  
+Worked on various applications using SOA – Service Oriented Architecture process.
+Conduct business process needs to formulate, define and document system requirements, and create detailed functional design specifications.  
+Assist in defining requirements, providing estimates and demand requests (Service Now).
+Participate in providing input for MASKED_NAME, functional requirements and test case scenarios. 
+Assist in defining user needs and change requests.  
+Responsible for helping to ensure quality and consistency of project work, including project approach, standards, procedures, documentation, testing, and full transition of the project. 
+Extraordinary associate at linking business and technical needs, worked closely with IT and application managers for gathering requirements.
+Expertise in developing documents for Functional Requirement Specification (FRD), Software Requirement Specification (SRS), Business Requirement Document (BRD), Use-case Specification and Non-functional Requirements.
+Used MASKED_NAME to carry out the Business Use Case Modeling and Business Object Modeling effort to develop the business architecture for rapid and controlled application development.
+Experienced in all phases of the Software Development Life Cycle (SDLC) using Agile Methodology including requirements gathering, analysis, design, implementation, testing and deployment.
+Streamlined project scope document template, and replaced the functional specification with a set of use cases and wireframes.
+Participated in user acceptance testing (UAT) and testing of new system functionality.
+Lead business users to effectively test and accept system enhancements and manage promotion process for these enhancements. 
+Worked in FLS team supporting APEX, Command, Trimble (Trimview), AggQC and MASKED_NAME by maintaining strict SLAs.
+Fudbid Inc.                                                                                                              Sep 2015 – Jan 2018 
+Role: Business Analyst
+Project: Mobile E-Commerce App
+MASKED_ADDRESS
+Responsibilities:
+Researched a variety of technology directions
+Managed a variety of SaaS platforms (Github, Slack, Google Apps, Yesware, Buffer, MASKED_NAME, Medium etc)
+Implementing Ecommerce portal for customer self-service
+Run our daily standup meetings
+Created and updated tickets in our agile project management tool
+Maintaining CRM tool with client details and meeting schedules
+B2B Sales via Cold calling, Door knocking, appointment based etc
+Preparing Investor decks, pitch decks
+MASKED_NAME pages and Social Media Pages - Campaigns, Customer follow-ups etc
+JiffyRides Inc.                                                                                                              Sep 2013 – Nov 2017
+Role: Business Analyst
+Project: Mobile Application
+MASKED_ADDRESS
+Responsibilities:
+Aligning technology and business vision for this mobile application
+Selecting the technologies and platforms to use in our implementation
+Writing the detailed functional specifications
+Writing the architectural spec for the product
+Finding and hiring the resources
+Co-ordinate with the development team
+SCRUM Master - running the daily standups and solve the blocking issues
+QA - Testing the product/app and providing the feedback / issues
+Field and triage all client problems
+Manage social media communications, ad campaigns (Organic & Paid)
+MASKED_NAME 2009 – Oct 2012
+Role: Business Systems Analyst
+Project: Integration Services and Global Reports (BI)
+MASKED_ADDRESS
+Responsibilities:
+Upgrading ERP system from WorldSoft to JDE EnterpriseOne-8.12.
+MDM (Master Data Management), a fully customized module. This module is used to manage the JDE Data across the Globe and also to sync data between current legacy system WorldSoft and EnterpriseOne 8.12.
+Working on Distribution modules Order to Cash (O2C), Procure to Pay (P2P) and Inventory Management.
+Part of Baxter eServices Center project team to implement Ecommerce website that enables customers to: • Place and search orders • Track shipments • Search and print invoices • View account summary • Search pricing and product availability • Search allocation balances • Run product usage reports • Backorder inquiry • Search and browse MASKED_NAME online catalog
+Global Reports Development project - developing JDE reports across all the modules where the Output of the reports is going to be in XML by using BI Publisher.
+EDI Mappings for JDE Inbounds, JDE Outbounds, Exports and Other systems.
+Worked on EDIs like 850, 856, 810 and so on.
+Providing MASKED_NAME Integration Team to fill the gap.
+Deploying JDE Objects from PAR files.
+Preparation of Training Materials and providing training to Offshore team on BI Publisher.
+Interaction with Oracle team regarding BI Publisher.
+Status meetings & Coordination with Onsite and Offshore teams.
+Sony Pictures Entertainment                                                                                         Jan 2009 – Apr2009
+Role: Business Systems Analyst
+Project: Development and Data Interface
+MASKED_ADDRESS
+Responsibilities:
+Onsite/Offshore Coordination.
+Development of JDE Objects.
+Applications, Reports and TC Development.
+Interaction with the clients and Weekly Status Meetings.
+Testing and Documentation.
+EmersonNetwork Power (Stratos)   						       May2008 – Dec 2008
+Role: Techno-Functional Consultant
+Project: Development and Support
+MASKED_ADDRESS
+Responsibilities:
+Supporting on JDE Functional Issues.
+Development of JDE Objects in all the MASKED_NAME.
+Production Support.
+Providing Solutions to Ad-hoc Queries.
+Regular Package Builds & Deployments.
+Resolving the Printing Issues.
+Explaining the status of activities to the Client in the Weekly Status Meetings.
+Preparation of the Functional & Technical Specifications & Documents.
+Lafarge									       Jan 2008 – May 2008
+Role: Technical Consultant
+Project: Archive/Purge – Solix
+MASKED_ADDRESS
+Responsibilities:
+Sharing JDE Functional Knowledge in Sales & Finance Modules with SOLIX team to integrate their system with JDE to do Archive/Purge
+Provided mappings for the Tables used.
+Analyzing key fields in the tables for table relations. 
+Developed New UBE Batch Applications as per the client's requirement in order to avoid Integrity Issues.
+Provided Functional and Technical Specs for the Objects Developed.
+Interacted with the Client to get the Information about Purge requirements.using Workday, Workday Mobile Applications and Sales Force SaaS Software Projects related to 
+             Global HR.
+MASKED_NAME (MASKED_NAME) 						                   Aug 2007 – Dec 2007
+Role: Technical Consultant
+Project: Retrofitting and Upgrade
+MASKED_ADDRESS
+Responsibilities:
+Retrofitting done for the JDE Objects.
+Done "Table Conversion" to Upload data from MASKED_NAME to JDE Z-Files.
+Uploaded Data from JDE Z-Files to JDE Master MASKED_NAME thru "Interoperability".
+Comparison of Objects was done with PD (Production) Environment.
+Assigning the tasks to the team members & coordinating with them to get the work done before the dead lines.
+Weyerhaeuser                                                   					  March 2007 – July 2007
+Role: Technical Consultant
+Project: Winchester Homes
+MASKED_ADDRESS
+Responsibilities:
+Giving offshore post implementation support to Weyerhaeuser on Manufacturing & Finance applications including standard JDE, custom and third party applications.
+Assigning the tasks to the team members & coordinating with them to get the work done before the dead lines.
+Developing the Reports based upon the specs given by the third party.
+Interaction with the third party members & the Onsite Coordinators to clarify the doubts.
+Technical specs preparation and analysis, issue solving and working in close co-ordination till final delivery including preparation of test cases and unit test report.
+Cardinal Health Inc.                                                  				       Oct 2006 – Feb 2007
+Role: Technical Consultant
+Project: Benefits Realization Project
+MASKED_ADDRESS
+Responsibilities:
+Involved in all business requirement meetings and status meetings>>.
+Giving Onsite Technical support to Cardinal health’s Benefits Realization Project, Philadelphia Division on D&L, Finance and Manufacturing applications including standard JDE, custom and third party applications.
+Analyzing the Client’s requirements in Functional View.
+Development of Applications & Reports as per the Client’s Specifications.
+Coordinating with the Offshore Developers to get the Objects done.
+Debugging & Testing the Developed Objects and modifying them to meet the Clients requirements.
+Explaining the status of development to the Client in the Weekly Status Meetings.
+Preparation of the Technical Specifications and working in close co-ordination till final delivery including preparation of test cases and unit test report.
+Testing of application and promotion of object through Turn Over.
+Development & Support given on the third party tool called DSI.
+Johnson Diversey Inc.                                          				     June 2006 – Sep 2006
+Role: Technical Consultant
+Project: Support
+MASKED_ADDRESS
+Responsibilities:
+Giving offshore post implementation support to MASKED_NAME on D&L, Manufacturing, Finance & CNC applications including standard JDE, custom and third party applications.
+Maintaining inbound and outbound interface, invoice processing, user profile creation and maintenance, application and profile security management.
+Supporting the Client on Technical & CNC Modules.
+Giving support on the third party tools like APAG & Demand Planner.
+Interacting daily with Onsite Coordinators & end users to know about the client’s business process.
+Preparing & Updating the SMTD.
+Accessing/Preserving the documents from the central directories.  
+OEN India Limited                                                   				      Jan2005 – June 2006
+Role: Technical and CNC Consultant
+Project: Development and Implementation
+MASKED_ADDRESS
+Responsibilities:
+Analyzing the Client’s Requirements.
+Understanding business process, study and analyze workflow to design solutions.
+Developed the Objects in Finance, Manufacturing and D&L modules.
+Testing and Debugging the Reports & Applications.
+Direct Interaction with Oracle/PeopleSoft Customer Supportto acquire suggestions/solutions.
+Applying ESU & ASUs as suggested by Oracle/PeopleSoft Customer Care.
+Done Package Building, Package Deployment & Product Packaging. 
+Technical Training & Knowledge Transfer given to the selected clients.
+A-One Hi-Tech Systems Private Limited.                      				       May2003 – Dec 2004
+Role: Programmer
+Project: Development – Visual Basics & Fox pro
+MASKED_ADDRESS
+Responsibilities:
+Development of the new programs.
+Customizations/Modifications of existing programs.
+Testing the programs to meet the client’s quality.
+Preparing the Documentations.
+Tracking the data in the database.
+Coordinating the team members.

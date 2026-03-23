@@ -1,0 +1,45 @@
+ROLE: AI Research Engineer
+SOURCE: Synthetic
+URL: N/A
+COMPANY: GridIron Software
+
+============================================================
+  AI RESEARCH ENGINEER
+  GridIron Software
+============================================================
+
+ABOUT THE COMPANY
+----------------------------------------
+GridIron Software is a leading innovator in developing advanced AI solutions that empower businesses to transform their operations and make data-driven decisions. We specialize in creating cutting-edge machine learning models and intelligent systems for various industry applications, from predictive analytics to autonomous systems. Our mission is to push the boundaries of artificial intelligence to deliver impactful and scalable technological advancements.
+
+RESPONSIBILITIES
+----------------------------------------
+  • Conduct cutting-edge research in deep learning and machine learning, focusing on novel architectures, algorithms, and training methodologies.
+  • Design, implement, and optimize highly performant machine learning models using PyTorch and JAX for diverse applications.
+  • Collaborate with cross-functional teams, including fellow researchers, engineers, and product managers, to translate research prototypes into robust production systems.
+  • Develop and execute comprehensive experimental plans, analyze results, and generate insights to guide model improvements and future research directions.
+  • Document research findings, code, and experimental procedures thoroughly, contributing to internal knowledge sharing and potential external publications.
+
+REQUIRED SKILLS (Must-Have)
+----------------------------------------
+  ✅ Expertise in PyTorch (1.10+) or JAX (0.4+) for deep learning model development.
+  ✅ Strong proficiency in Python 3.8+ and its scientific computing ecosystem (e.g., NumPy, SciPy).
+  ✅ Solid understanding of machine learning fundamentals, including supervised, unsupervised, and reinforcement learning techniques.
+  ✅ Experience with modern deep learning architectures (e.g., Transformers, CNNs, GANs) and their applications.
+  ✅ Practical experience with MLOps principles and tools for model deployment, monitoring, and lifecycle management.
+  ✅ Familiarity with cloud platforms (e.g., AWS, GCP, Azure) for scalable compute and data storage.
+
+PREFERRED SKILLS (Nice-to-Have)
+----------------------------------------
+  ⭐ Experience with large-scale distributed training frameworks and techniques (e.g., Horovod, FSDP, JAX's pmap).
+  ⭐ Hands-on experience with specific domains like Large Language Models (LLMs), Generative AI (Diffusion Models), or Computer Vision.
+  ⭐ Contributions to open-source projects or a strong publication record in top-tier ML conferences (e.g., NeurIPS, ICML, ICLR).
+
+EXPERIENCE & EDUCATION
+----------------------------------------
+  Experience: 3-6 years
+  Education:  Master's or Ph.D. in Computer Science, Machine Learning, or a related quantitative field; or a Bachelor's degree with equivalent demonstrated industry experience.
+
+COMPENSATION
+----------------------------------------
+  $150,000 - $210,000 USD

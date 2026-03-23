@@ -1,0 +1,45 @@
+ROLE: Data Analyst Intern
+SOURCE: Synthetic
+URL: N/A
+COMPANY: Helix Technologies
+
+============================================================
+  DATA ANALYST INTERN
+  Helix Technologies
+============================================================
+
+ABOUT THE COMPANY
+----------------------------------------
+Helix Technologies is a forward-thinking technology company specializing in innovative data-driven solutions and enterprise software. We empower businesses across various sectors to optimize operations, enhance decision-making, and achieve strategic growth through advanced analytics and robust platforms. Our commitment to cutting-edge technology and client success drives our continuous pursuit of excellence.
+
+RESPONSIBILITIES
+----------------------------------------
+  • Assist in extracting, transforming, and loading (ETL) data using SQL queries to support analytical projects.
+  • Perform data cleaning, validation, and quality assurance using Microsoft Excel to ensure data accuracy and integrity.
+  • Develop and maintain insightful reports and dashboards in Excel to visualize key performance indicators and trends.
+  • Collaborate with senior data analysts and business stakeholders to understand data requirements and deliver actionable insights.
+  • Document data processes, methodologies, and findings clearly and concisely to ensure reproducibility and knowledge transfer.
+
+REQUIRED SKILLS (Must-Have)
+----------------------------------------
+  ✅ Proficiency in Microsoft Excel (e.g., PivotTables, VLOOKUP, advanced formulas, data visualization features)
+  ✅ Solid understanding and practical experience with SQL for data querying and manipulation (SELECT, FROM, WHERE, JOINs, GROUP BY)
+  ✅ Strong analytical skills with an ability to interpret complex datasets and identify meaningful trends
+  ✅ Excellent attention to detail and a commitment to data accuracy and integrity
+  ✅ Basic understanding of relational database concepts and data structures
+  ✅ Effective verbal and written communication skills to convey technical findings to non-technical audiences
+
+PREFERRED SKILLS (Nice-to-Have)
+----------------------------------------
+  ⭐ Familiarity with data visualization tools such as Tableau or Power BI
+  ⭐ Exposure to statistical analysis or modeling concepts
+  ⭐ Basic programming knowledge in Python or R for data analysis
+
+EXPERIENCE & EDUCATION
+----------------------------------------
+  Experience: 0-1 years
+  Education:  Currently pursuing or recently completed a Bachelor's degree in Data Science, Computer Science, Statistics, Economics, Mathematics, or a related quantitative field.
+
+COMPENSATION
+----------------------------------------
+  $40,000 - $55,000 annually

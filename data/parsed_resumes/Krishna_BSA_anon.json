@@ -1,0 +1,28 @@
+{
+  "resume_id": "Krishna_BSA_anon",
+  "skills": [
+    "r",
+    "angular",
+    "rest",
+    "soap",
+    "sql",
+    "mysql",
+    "oracle",
+    "aws",
+    "jira",
+    "confluence",
+    "postman"
+  ],
+  "education": {
+    "degree": "Bachelor of Technology - Jawaharlal Nehru Technological University \t\t\t\tAug 2008-May 2012",
+    "year": "2008"
+  },
+  "experience_years": 6,
+  "projects": [
+    "Produced visual models for the application using UML MS Visio to create Use Cases, Sequence Diagrams.",
+    "Collaborated and negotiated with stakeholders in defining project scope boundaries."
+  ],
+  "certifications": [
+    "Worked in SAfe environment at program level as a scrum master and maintained multiple teams tracked the teams progress and used time management techniques."
+  ]
+}

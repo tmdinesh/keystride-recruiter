@@ -1,0 +1,35 @@
+{
+  "resume_id": "indrakaran soma_anon",
+  "skills": [
+    "java",
+    "javascript",
+    "angular",
+    "html",
+    "css",
+    "bootstrap",
+    "jquery",
+    "node",
+    "spring",
+    "express",
+    "rest",
+    "soap",
+    "sql",
+    "mongodb",
+    "oracle",
+    "aws",
+    "apache"
+  ],
+  "education": {
+    "degree": "Bachelor in Computers at JNTU, HYDERABAD, MASKED_LOCATION",
+    "year": "Unknown"
+  },
+  "experience_years": 8,
+  "projects": [
+    "Description: A web service project for TTSL portal used by the customers of the TTSL-Wireless. This project is to create web services that will be accessed by the front end.  TTSL offers variety of products like prepaid, postpaid and Apple care products. My Role in this project is to develop and test the web services of several events.",
+    "Extensively used J2EE design Patterns.",
+    "Involved in Performance Tuning of the application.",
+    "Need to discuss with the client and the project manager regarding the new developments and the errors.",
+    "Coded the UI using Struts Forms and Tags. Used JavaScript for front end development."
+  ],
+  "certifications": []
+}

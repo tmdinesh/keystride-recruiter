@@ -1,0 +1,99 @@
+TERESA NEETIPUDI
+MASKED_EMAIL
+MASKED_PHONE
+PROFESSIONAL SUMMARY
+About MASKED_ADDRESS with successful delivery of multiple projects with a detailed and thorough understanding of Healthcare, Banking, Insurance, and Communications sectors. 
+Extensive experience in gathering and defining the Business Requirements (BRD); translating them into functional requirements (FRS) by using various Elicitation methods and techniques.
+Thorough understanding of Software Development Life Cycle (SDLC) and Software Development Methodology (SDM) process methodologies like AGILE,RUP, UML, SCRUM, feasibility analysis, gap analysis, scope and impact analysis of the software systems throughout the different phases of SDLC.
+Experience in conducting JAD sessions, project meetings, reviews, walk through and customer interviews.
+Expertise in Document Management, File Management; Process/Information integration by using MS SharePoint and Project Repositories.
+Expertise in developing MASKED_NAME, Process flows and Data flow diagrams.
+MASKED_NAME, Class Diagrams, Sequence Diagrams,Activity diagrams using UML to make users and developers understand the system.
+Extensively worked on defining Testing Methodology, Test Plans, Test Scripts, Test Strategy, SIT, UAT and Post Production Validations.
+Maintaining the Requirements Traceability Matrix (RTM) across deliverables of a project.
+Experience in conducting data testing within ETL (Extracting, MASKED_LOCATION, Loading) process testing cycle.
+Involved in revising existing systems and procedures to correct deficiencies and maintain more effective data handling, conversion, scheduling, multitasking of functions, tasks input/output requirements and storage.
+Excellent knowledge, understanding and hands on experience working in various domains like Health Insurance, Auto Insurance, Property and Casualty, Banking and Financial, Communications etc.
+Excellent Communication Skills, Interpersonal Skills and Team Leadership qualities and outstanding Organizer with solid planning and problem solving skills.
+Hands on implementing projects from idea to implementation and creating training manuals and user guides.
+SKILLS
+Business Analysis: SDLC Methodologies (Agile; Water Fall; RUP) and framework; Documentation of BRD (BARR), FRD, RTM, Gap Analysis, Data Analysis, Impact Analysis, Visio / Process Flow Diagrams, RAID Log, Project Plans, MASKED_NAME, Project Assessments.
+UAT Testing: Preparing Test Plan, Test Scripts, Test Execution Dashboards, & etc.
+Tools and Technology - 	
+PROFESSIONAL EXPERIENCE
+Charter Spectrum (Communications), MASKED_NAME                                              Feb 2015 – Till date
+Business Analyst/ Project Coordinator
+Defines and documents customer business functions and processes. Consults with functional unit management and personnel to identify, define and document business needs and objectives, current operational procedures, problems, input and output requirements, and levels of systems access. 
+Acts as a liaison between departmental end-users, technical analysts, and information technology analysts, consultants in the analysis, design, configuration, testing and maintenance of case management systems to ensure optimal operational performance. 
+Participate in design reviews to ensure adherence to the organization’s standards, and requirements traceability matrix maintenance. 
+Participated in the Requirements gathering sessions; Rewrote the existing requirements as a result of identified backlog issues/glitches which came in via Service Management.
+Converted these rewritten Business Requirements into functional and technical requirements and created the Functional Specifications, and managed the entire functional requirements life cycle using AGILE.
+Experience with the Project Management Tool, JIRA to develop Epics ad User Stories from the functional requirements.
+Create application test data as needed to validate assigned requirements in support of API realization testing activities, where applicable.
+Provides support during the SIT, end-to-end, and user acceptance testing for software inconsistencies between the deliverable and the design specifications.
+Manages data and prepares Executive Summary dashboards and Power Point and PDF files for the status updates of the projects. 
+Working with the higher leadership on mock up, development, and implementation of requested reporting needs, and also involved in publishing and maintaining management dashboards.
+Working with the QAs on the test execution, smoke tests post the deployments.
+Working with the Test Data Management team on the data required for test execution.
+Coordinating with the offshore teams on the test implementations.
+Working closely with the Business on the Change Requests development, processing and implementation.
+Experience working on CRM (Customer Relationship Management), ERP (Enterprise Resource Planning), and HRM (Human Resource Management) tools. 
+American Family Insurance (AmFam), MASKED_NAME 2013 – Feb MASKED_ADDRESS
+Preparation of BRDs (Business Requirements Documents), FRDs (Functional Requirements Documents) and High Level Logical Data Models; supporting documents containing essential business elements, detailed definitions and descriptions to analyze and document business data requirements.
+Following and implementing IIBA protocols, standards and methodologies in given projects.
+Thorough knowledge and understanding of various life insurance products offered i.e. Term and Permanent (whole, universal, variable and survivorship) to create and enhance web applications. 
+To create UML Diagrams like Use Case Diagrams, Sequence Diagrams, Activity Diagrams and Process Flow diagrams to elaborate the new processes using Rational Rose software inclusive of Requisite Pro.
+To create prototypes, UIs and wireframes via MASKED_NAME for various stakeholders during the project phases and create tables, reports to use SQL for data analysis and assist in data warehousing for various applications.
+To create and manage project templates, use case project templates, requirement types and traceability relationships in Rational Requisite Pro.
+To implement change management strategies and conduct impact analysis as and when needed.
+To collaborate with Quality Assurance Analysts in Rational Clear Quest to track defects and Rational Clear Case to maintain consistency in the builds.
+Health Springs (Cigna Healthcare), MASKED_LOCATION 2012 – Mar MASKED_ADDRESS 
+Worked on Member Management, Eligibility, Claims, and MASKED_NAME modules within FACETS.
+Conducted extensive analysis on migration and conversion of Provider and Member data, Group configurations, premium billing, benefit set-ups, fee schedules, provider pricing, capitation set-ups, etc from Legacy system to FACETS. 
+Clarified QA team issues and reviewed test plans and test scripts developed by development team and QA team to make sure all requirements have been covered in scripts and tested properly. 
+Involved in documenting the business process by identifying the requirements and also involved in writing the system requirements. 
+Worked with the development teams to break down large and complex user stories into simplified versions for execution, on Agile projects.
+Worked in creating interfaces for various external vendors and created Technical Specifications for the 835 and 837 I and P files with their changed and new contents to create 5010 complaint files.
+Created workflow diagrams, process flow and data flow diagrams. Assisted team with Data Mapping and Data Extracting Strategies for data migration. 
+Analyzing the business needs for the reports and documenting the requirements in SSRS forms. 
+Analyzed EDI ANSI X12 file mapping and reported in analysis spreadsheet. Performed validation of 837 (P, I) & 835 format files.
+Effectively communicated user acceptance test results between users and development team and provided recommendations for change control requests (CCR). 
+Citizens Bank, MASKED_LOCATION, PA                                           		November 2010 – April MASKED_ADDRESS/ Test Coordinator
+Responsibilities:
+Gathered  requirements  from  key  stakeholders,  and customers to define the scope and requirements of online mortgage application.
+Documented, and elicited business requirements from SMEs by writing user stories resulting in clearer, more detailed and more complete understanding of project deliverables, using JIRA.
+Worked closely  with  the  development  team to  verify  that  business  needs  are fulfilled and deliverables are produced within specified budget, quality and time.
+Involved in designing Business Objects Universes, Queries, and Reports.
+Defined the context of the system by creating various use cases.
+Developed  system  requirements'  specifications  encompassing  Functional  and Non-Functional requirements.
+Developed UML models for modeling static and dynamic aspects of Online Banking System.
+Developed data maps for retrieval of information from existing account systems.
+Outlined security measures for accessibility and transmission of information.
+Applied a standard change control process in tracking defects originating from post-requirement phases.
+Developed plans for verification and validation of requirements at all levels so that, developed software successfully fulfilled user expectations and business needs.
+Assisted the database designer in data modeling through ER diagrams to identify tables, attributes and relationships between tables.
+Worked on creating documentation for the project on daily basis using MS Visual Studio, MASKED_NAME and created reports using MS Excel. 
+Worked  on  MASKED_ADDRESS  plans  to  verify  accuracy  of  the  functionality,security, fault- tolerance, performance and successful system integration.
+Assisted in documenting User Manual and facilitate UAT and provide follow upto resolve the issues.
+Conducted Regression testing and interacted with developers to resolve technical issues.
+Tested applications in different browsers for MASKED_NAME compatibility.
+Created Test Scripts and Performed Functional and Regression testing usingCaptured and executed Test scripts.
+Status  reporting  for  test  execution,  defect  resolution,  productivity  and  bug statistics. 
+MVP Health Care, NY                                                   		                        Oct 2007 - Jan 2010
+Jr. Business Analyst/ Test Coordinator, Satyam Computer Services, MASKED_LOCATION 
+Responsibilities:  
+Involved in various activities of the project like information gathering, analyzing the  information  gathered,  documenting  the  Business  Requirements as well as functional and system requirements.
+Collected  useful  requirements  to  design  the  user  approval  and  entitlement of the executive system.
+Worked with different resources from different teams for gathering requirements to build documentation. Also gathered requirements via brainstorming sessions and questionnaires from the stakeholders/ business users.
+Wrote the Business requirements, System Requirements and Technical Design Specifications.
+Also created the File specifications for different documents.
+Followed waterfall methodology.
+Prepared business process models used MASKED_NAME to create Use case diagrams.
+Prepared Integration  Test  Plan  which was used by functional team as well  as development team for doing a detailed testing on the business application.
+Created ops- job sheets for scheduling jobs.
+Wrote training materials which were used as the medium of training the users in production.
+Involved in transitioning of the implemented projects to the service team.
+EDUCATION
+Post Graduate Diploma in Business Management (PGDBM), Osmania University, Hyderabad India.
+Master of Social Work (MSW) in Medical & Psychiatry, Osmania University, Hyderabad India.
+Bachelor of Social Work (BSW) in Administration, Planning and Policy, Osmania University, Hyderabad India.

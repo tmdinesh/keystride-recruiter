@@ -1,0 +1,5 @@
+ROLE: Lead QA Engineer
+SOURCE: Adzuna
+URL: https://www.adzuna.com/land/ad/5637959891?se=Dv5Xw4sY8RGJZfgUeQyxLw&utm_medium=api&utm_source=e34e223e&v=399B2B54D547C79C0F8662E6277567ECAEC8CA06
+
+Intercontinental Exchange, Inc. (ICE) presents a unique opportunity to work with cutting-edge technology and address complex business challenges in the financial sector. The ICE Lead QA position plays a key role in testing and delivering trading, listing, compliance and surveillance applications, while supporting all stages of the Software Development Lifecycle (SDLC). The successful candidate will be able to multitask in a dynamic team-based environment, while demonstrating strong problem-solv

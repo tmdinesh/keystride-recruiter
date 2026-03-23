@@ -1,0 +1,30 @@
+{
+  "resume_id": "Shiva G-Java Resume_anon",
+  "skills": [
+    "java",
+    "javascript",
+    "typescript",
+    "react",
+    "angular",
+    "html",
+    "css",
+    "bootstrap",
+    "jquery",
+    "node",
+    "spring",
+    "rest",
+    "soap",
+    "sql",
+    "mysql",
+    "oracle",
+    "apache",
+    "jira"
+  ],
+  "education": {
+    "degree": "Unknown",
+    "year": "Unknown"
+  },
+  "experience_years": 8,
+  "projects": [],
+  "certifications": []
+}

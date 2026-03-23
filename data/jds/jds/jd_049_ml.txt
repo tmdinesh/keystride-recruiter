@@ -1,0 +1,85 @@
+ROLE: Senior Data-Engineer in Berlin Homeoffice-Anteil bei 80 % 70.000 - 80.000
+SOURCE: Arbeitnow
+URL: https://www.arbeitnow.com/jobs/companies/wabcon/senior-data-engineer-in-berlin-homeoffice-anteil-bei-80-70000-80000-75578
+
+Wir suchen fr einen der grten Betreiber von Handelsplattformen weltweit, einen erfahrenen Data-Engineer. Der Kunde hat explizit das Know How eines Freiberuflers angefragt (Grund ist die weitreichende Expertise des Freiberuflers) und mchte den Kandidaten aber im Rahmen der Arbeitnehmerberlassung onboarden.
+
+Aufgaben
+
+Aufbau & Weiterentwicklung von Data Pipelines
+
+Maintenance & Optimierung von Data Models
+
+Sehr starker SQL-Fokus
+
+Python-Kenntnisse erforderlich
+
+Projektmanagement-Anteile
+
+Outcome-Orientierung (nicht nur technische Umsetzung)
+
+Qualifikation
+
+Bitte schtze Dich ein (1=das Schwchste und 10=das Strkste)
+
+Spark SQL fr large-scale data transformations=
+
+Python fr data processing und pipeline development=
+
+data modeling concepts (fact tables, dimensions, grain, slowly changing dimensions, etc.)=
+
+Hands-on Erfahrung im Bau und Maintaining von batch data pipelines=
+
+Englischkenntnisse=
+
+Deutschkenntnisse=
+
+Benefits
+
+Strukturierte Einarbeitung mit intensivem Training-on-the-Job: Sie
+
+werden von Beginn an praxisnah begleitet, erhalten eine fundierte
+
+Einfhrung in Produkte, Prozesse und Mrkte und profitieren von
+
+erfahrenen Kolleginnen und Kollegen, die ihr Know-how aktiv weitergeben.
+
+Attraktive Work-Life-Balance: 30 Tage Jahresurlaub sowie klar
+
+geregelte Sonderurlaube bieten Planungssicherheit und ausreichend
+
+Erholungszeit.
+
+Flexible Arbeitszeitmodelle: Gestaltungsspielraum bei der
+
+Arbeitszeit sorgt fr eine gute Vereinbarkeit von Beruf und Privatleben.
+
+Individuelle Weiterbildungs- und Entwicklungsmglichkeiten: Fachliche und
+
+persnliche Weiterentwicklung wird aktiv gefrdert  durch Schulungen,
+
+Trainings und gezielte Entwicklungsprogramme.
+
+Betriebliches Gesundheitsmanagement: Umfassende Angebote wie ein
+
+Employee Assistance Program (EAP) sowie Bike-Leasing untersttzen Ihre
+
+Gesundheit und Ihr Wohlbefinden.
+
+Hast Du Fragen?
+
+Ansprechpartner: Alexander Wuthenow, Tel: 030 2065 84-59
+
+*
+
+Gleichberechtigung ist uns wichtig. Diese Stellenanzeige richtet sich
+
+an alle Menschen. Bei der Stellenvergabe spielt die ethnische Herkunft,
+
+das Geschlecht, das Alter, die sexuelle Identitt oder Behinderungen
+
+weder mittelbar noch unmittelbar eine Rolle.
+
+Find more 
+English Speaking Jobs in Germany
+ on Arbeitnow

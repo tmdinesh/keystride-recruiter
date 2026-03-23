@@ -1,0 +1,42 @@
+{
+  "resume_id": "avinash G_anon",
+  "skills": [
+    "java",
+    "javascript",
+    "react",
+    "angular",
+    "html",
+    "css",
+    "sass",
+    "bootstrap",
+    "jquery",
+    "node",
+    "spring",
+    "express",
+    "rest",
+    "soap",
+    "sql",
+    "mysql",
+    "redis",
+    "oracle",
+    "aws",
+    "docker",
+    "jenkins",
+    "apache",
+    "git",
+    "jira"
+  ],
+  "education": {
+    "degree": "Degree: Bachelor of Technology, Electronics and Communication Engineering, Jawaharlal Nehru Technological University, MASKED_LOCATION, MASKED_LOCATION.",
+    "year": "Unknown"
+  },
+  "experience_years": 8,
+  "projects": [
+    "Actively involved in defining and designing the tiers of the applications and implementation using J2EE best design practices.",
+    "Followed Agile Methodology in analyze, define, and document the application, which will support functional and business requirements. Coordinate these efforts with Functional Architects.",
+    "Actively involving in creating JavaScript function for user input validation and verification.",
+    "Involved in integration of claimant information with IBM MQ Resource Adapter for message queuing.",
+    "Installed and configured JBOSS server with My SQL persistence. Extracted rules data from the database and decision tables."
+  ],
+  "certifications": []
+}

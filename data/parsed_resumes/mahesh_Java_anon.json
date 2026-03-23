@@ -1,0 +1,37 @@
+{
+  "resume_id": "mahesh_Java_anon",
+  "skills": [
+    "java",
+    "javascript",
+    "typescript",
+    "php",
+    "ruby",
+    "react",
+    "angular",
+    "html",
+    "css",
+    "sass",
+    "bootstrap",
+    "jquery",
+    "node",
+    "spring",
+    "express",
+    "rest",
+    "soap",
+    "sql",
+    "mysql",
+    "mongodb",
+    "oracle",
+    "aws",
+    "docker",
+    "ci/cd",
+    "jira"
+  ],
+  "education": {
+    "degree": "Education: Bachelor\u2019s in MASKED_LOCATION, MASKED_LOCATION",
+    "year": "Unknown"
+  },
+  "experience_years": 8,
+  "projects": [],
+  "certifications": []
+}

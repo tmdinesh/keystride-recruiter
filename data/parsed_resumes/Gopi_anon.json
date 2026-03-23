@@ -1,0 +1,43 @@
+{
+  "resume_id": "Gopi_anon",
+  "skills": [
+    "python",
+    "java",
+    "javascript",
+    "typescript",
+    "ruby",
+    "react",
+    "angular",
+    "html",
+    "css",
+    "bootstrap",
+    "jquery",
+    "node",
+    "spring",
+    "express",
+    "rails",
+    "rest",
+    "soap",
+    "sql",
+    "mysql",
+    "mongodb",
+    "oracle",
+    "aws",
+    "apache",
+    "git",
+    "jira"
+  ],
+  "education": {
+    "degree": "Education: Bachelor\u2019s in MASKED_LOCATION, 2010, MASKED_LOCATION",
+    "year": "2010"
+  },
+  "experience_years": 8,
+  "projects": [
+    "Co-coordinated Application testing with the help of testing team.",
+    "Writing stored procedures, Packages, Views, Cursors, Functions and triggers using SQL in the back end.",
+    "Wrote SQL commands and Stored Procedures to retrieve data from Oracle database.",
+    "Created and implemented Oracle Stored Procedures, Functions, Triggers and complex queries using SQL.",
+    "Ability to quickly adjust priorities and take on projects with limited specifications. Effective team player with excellent logical and analytical abilities."
+  ],
+  "certifications": []
+}

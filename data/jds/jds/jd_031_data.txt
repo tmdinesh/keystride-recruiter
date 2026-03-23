@@ -1,0 +1,97 @@
+ROLE: Head of Data Analytics (m/f/x)
+SOURCE: Arbeitnow
+URL: https://www.arbeitnow.com/jobs/companies/exmox-gmbh/head-of-data-analytics-hamburg-405796
+
+Your mission
+
+This is a company built for growth, not comfort.
+
+When you join exmox, youre stepping onto a global, highly competitive playing field - solving real problems in environments that push you beyond your comfort zone. You will be part of a company that is on a path of hyper-growth, spearheading one of the largest innovations in the mobile gaming industry - rewarded user acquisition.
+
+Our business model sits at the intersection of marketing spend, partner offers, and user behavior across multiple consumer-facing products within the mobile gaming space. Small changes can have big impacts - and seeing them early matters.
+
+This role exists to make sure we always do.
+
+As Head of Data Analytics, you will own the analytical backbone of the company. Your team is the monitoring and insight function across the business, ensuring that changes in spend, revenue, user behavior, and partner performance are visible, understood, and acted on quickly.
+
+Reporting to our CPO, you will work closely with the C-level team and our parent group to guide decision-making with clear, trusted data.
+
+What Youll Own:
+
+Leading the Analytics Function
+
+Build, lead, and develop a high-performing data analytics and data science team that supports the business with trusted insights that define the future and success of our business model. Set clear expectations, priorities, and standards for how analytics operates at exmox.
+
+Company-wide performance monitoring
+
+Own the end-to-end monitoring of business performance across marketing spend, revenue, user activity, product economy and partner outcomes. Ensure the organization has a clear, real-time view of what is happening and why.
+
+Early signal detection
+
+Guide your team in designing analytical frameworks that surface deviations, risks, and opportunities early, while applying a consultancy mindset to build stakeholder trust and position analytics as a strategic driver of business decisions.
+
+Predicting the future
+
+Partner closely with Data Engineering to design, build, and operationalize predictive user behavior models that drive actionable decisions, optimize revenue potential and enhance growth strategies.
+
+Decision support at leadership level
+
+Position the analytics team as a trusted partner to the C-level and stakeholders. Translate complex data into clear, actionable insights that directly inform strategic and operational decisions.
+
+Growth and unit economics ownership
+
+Ensure the organization has a clear, shared understanding of the trade-offs between marketing spend, monetization, and user behavior. Guide leadership on spend efficiency, revenue quality, and lifetime value to support sustainable growth decisions.
+
+Cross-functional analytical alignment
+
+Work closely with Marketing, Product, Sales, Operations, and Finance to ensure shared definitions, consistent metrics, and aligned understanding of performance drivers.
+
+Scaling analytics with the business
+
+Build and evolve the analytics function as the company grows, increasing sophistication without slowing decision-making.
+
+Your profile
+
+Proven analytics leadership
+
+Experience leading analytics or data insight teams in fast-moving, performance-driven environments, ideally with high scale B2C focus.
+
+Data science-driven impact
+
+Ability to guide Data Scientists in building predictive models and segmentation frameworks that translate complex user behavior into measurable product and business outcomes.
+
+Strong business and growth understanding
+
+Comfort working with performance marketing, user behavior, revenue models, and unit economics in performance-driven digital businesses such as ad tech, mobile gaming, or rewarded user acquisition.
+
+Proactive, ownership-driven mindset
+
+Take initiative in identifying risks and opportunities. Surface insights early and drive clarity in decision-making.
+
+Executive-level communication
+
+Ability to represent analytics confidently at C-level and group level, translating complexity into clarity.
+
+Velocity over perfection mindset
+
+Move fast to achieve incremental improvements rather than focusing on risk mitigation and edge cases. Drive fundamental business value with a move and fail fast mentality.
+
+Hands-On and Collaborative Leadership
+
+Balance strategic leadership with strong analytical and technical depth. Partner closely with Data Engineering and cross-functional stakeholders to enable scalable analytics and machine learning initiatives. Strong technical foundation in SQL, Python, Tableau, and Databricks.
+
+Why us?
+
+Ambitious people, real ownership. Youll work with driven, entrepreneurial people who care deeply about what they deliver, challenge each other openly, and own outcomes together.
+
+Were playing at the top, but were not done. Our apps rank in the top 5 of their categories. Were determined to push further, compete harder, and earn the number one spot.
+
+You own your own growth. Growth doesnt happen by accident. At exmox, learning is built into the work - through responsibility, feedback, and real challenges.
+
+Perks that help you focus on what matters. Transport subsidy, learning budget, wellness and gym, workation, bi-weekly team lunches, and more. The perks are great - but the real reason people join and stay is the challenge, the people, and the drive to win together.
+
+Please note: this is not a remote only position, we offer you a flexible hybrid model here in Hamburg, Germany - working from home on Mondays & Fridays, coming to the office on Tuesday, Wednesday & Thursday! :)
+
+Find more 
+English Speaking Jobs in Germany
+ on Arbeitnow

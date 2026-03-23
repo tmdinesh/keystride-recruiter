@@ -1,0 +1,90 @@
+ 
+ 
+Contact
+www.linkedin.com/in/kylegallatin
+(LinkedIn)
+MASKED_NAME Science
+Python
+Machine Learning
+Languages
+English
+Certifications
+Learning Kubernetes
+Scala Essential Training for Data
+Science
+LPI Linux Essentials
+MASKED_NAME
+Machine Learning Engineer at Pfizer
+MASKED_LOCATION, MASKED_LOCATION
+Summary
+Machine Learning Engineer and Data Scientist using Python for
+scalable, operationalized machine learning within the biomedical
+space.
+Languages & Frameworks:
+Python (pandas, numpy, scikit-learn, scrapy, flask, etc...) | MASKED_NAME (Keras/Tensorflow, Pytorch) | MASKED_NAME | Kubernetes |
+Elasticsearch | MASKED_NAME (AWS, Azure, etc...) | Spark |
+R | SQL | MongoDB 
+Experience
+NYC Data Science Academy
+Data Science Mentor
+January 2018 - Present (2 years 3 months)
+Greater New York City Area
+Pfizer
+2 years 7 months
+Machine Learning Engineer
+July 2019 - Present (9 months)
+Greater New York City Area
+Engineer scalable machine learning solutions for consumption and reuse
+across global markets.
+Data Scientist
+November 2017 - June 2019 (1 year 8 months)
+MASKED_LOCATION, MASKED_LOCATION
+Associate Data Scientist (Intern)
+September 2017 - November 2017 (3 months)
+MASKED_LOCATION, MASKED_LOCATION
+FleetWit
+ 
+Page MASKED_ADDRESS
+July 2017 - January 2018 (7 months)
+MASKED_LOCATION, MASKED_LOCATION
+• Perform analysis and structuring on company user data streamed from
+remote MongoDB
+• Improve marketing impact by analyzing app advertisement data using the
+Facebook API and MASKED_NAME Manager data
+NYC Data Science Academy
+Data Scientist
+April 2017 - September 2017 (6 months)
+MASKED_LOCATION, MASKED_LOCATION
+• Aided in development of a platform to test students in R, Python, SQL and
+ML
+• Created self grading problems and data science workflows/structures for
+student practice 
+• Consulted students on data science projects, aided in R, Python, SQL and
+ML skill development
+IsoPlexis
+Data Analyst
+November 2015 - January 2017 (1 year 3 months)
+Branford, CT
+• Used machine learning algorithms (PCA) to analyze cellular data and
+enhance research on novel protein subgroups of clinical significance using R.
+• Ran statistical significance tests (ANOVA, Mann-Whitney, etc) on
+pharmaceutical clinical trials data using R, Python and excel to research drug
+efficacy and effect.
+MASKED_NAME research utility and analytics interpretability with techniques for sparse
+and multidimensional data.
+• Supported several successful government grant wins with drafting, data
+organization, and data visualization.
+Education
+Quinnipiac University
+Master's degree, Molecular and Cellular Biology · (2015 - 2016)
+NYC Data Science Academy
+Certification, Data Science · (2017 - 2017)
+ 
+Page 2 of 3
+
+ 
+ 
+Quinnipiac University
+Bachelor's degree, Biology · (2011 - 2015)
+ 
+Page 3 of 3

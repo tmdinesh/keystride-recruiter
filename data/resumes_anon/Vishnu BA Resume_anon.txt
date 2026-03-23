@@ -1,0 +1,130 @@
+                                                                      MASKED_NAME
+SUMMARY OF SKILLS
+Seasoned Business Analyst with around 10 years of experience in MASKED_LOCATION, Healthcare, Oil and Gas domains.
+Excellent problem solving, communication and analytical skills for understanding the business requirements, business rules/processes and detailed design of the application.
+Expertise in conducting feasibility studies, requirements gathering, analyzing the business process, documentation and conducting review sessions.
+Design, documentation and review of business documents like Business Requirement Document (BRD), Functional Requirement Document (FRD) and System Requirement Specifications (SRS).
+Knowledge of Data warehousing concepts and Extract, Transform and Load (ETL) processes.
+Extensively used SQL Scripts/Queries for Data Verification and Validation.
+Competent in creating Unified Modeling Language (UML) Diagrams for Business Process Modeling like Use Case Diagrams (UCD), Activity Diagrams (AD), Sequence Diagrams (SD), and Data Flow Diagrams (DFD).
+Facilitated Change Management across entire process from project initialization to testing through project delivery, software development & implementation, management in diverse business & technical environments in accordance to the Agile Methodology.
+Ability to utilize logical, rational judgment with a talent for understanding and evaluating many aspects of a problem and focusing on key issues.
+Proficiency in entire Software Development Lifecycle (SDLC), SCRUM Framework using Agile Methodology and Iterative Software Development Life Cycle Process.
+Worked with the project team to determine appropriate Test/Deployment Plans, and supported the product launch.
+Coordinated with Analysts, Managers, Developers and Testers for complex projects during the SDLC.
+WORK EXPERIENCE
+Sr. Business Analyst
+Huntington Bank, MASKED_LOCATION, MI                                                                                       September 2015 – Present
+The project involved conversion of Warren Bank data to Huntington Bank using CIS application and DB2 database. The conversion had to be using Huntington rules and information has to be converted without any loss of data.
+Established a RUP (Rational Unified Process) centric business analysis methodology.
+Collaborated in building a business analysis process model using Rational Rose, RequisitePro, and MASKED_NAME.
+Provided key initiatives in working with users in defining project and system requirements. 
+Provided inputs in the strategic development of detailed project plans, work assignments, target dates, etc.
+Designed and developed Use Cases, Activity Diagrams, Sequence Diagrams and OOD using UML.
+Identified, researched, investigated, analyzed, defined and documented business processes and Use Case scenarios.
+Performed all necessary programming, testing and documentation for COBOL, DB2 batch programs and sub-routines.
+Responsible for 24x7 coverage for various mainframe based MASKED_NAME applications using DB2, VSAM and IMS databases.
+Performed all necessary programming, testing and documentation for COBOL, DB2 batch programs and sub-routines.
+Gathered data from the legacy system (db2) to the present updated system using data warehouse tools such as Informatica.
+Responsible for creating Business Process Modeling and Work Flow Diagrams.
+Performed extensive Requirement Analysis including Data Analysis and GAP Analysis.
+Functioned as a primary liaison between the business line, operations, and the technical areas throughout the project cycle.
+Conducted JAD sessions to resolve critical issues.
+Involved in designing the web forms using HTML, MASKED_NAME, DHTML, CSS, AJAX and ASP.Net 
+Actively involved in developing classes, Objects for business logic by using C#.Net 4.0 programming
+Facilitate weekly JAD sessions and interviews with SMEs, senior management and IT teams to track and document Credit Risk, Market Risk and Operational Risk related issues and tasks.
+Played a key role in the planning, testingand implementation of system enhancements and conversions.
+Used Object-oriented analysis (OOA) for object-modeling techniques to analyze the functional requirements for a system. 
+Designed and developed the view-controller components using Servlets/JSPs, JavaScript, CSS, JQuery, AJAX, HTML and DHTML.
+Assisted in presenting reports and analysis to help guide the management.
+Organized cross training of team members and users to become more responsive.
+Assisted in development of training materials for new technology and process improvements.
+Environment: Windows, MS Word, MS Excel, MS PowerPoint, MASKED_NAME, MASKED_NAME, .NET, MASKED_NAME, Crystal Reports, IBM Mainframes, Servlets, JSP, CSS, RUP, UML,C#,HTML,JavaScript,SQL, MASKED_NAME.
+Sr. Business Analyst
+Federal Reserve Bank, MASKED_LOCATION, CA                                                  December 2013 – August 2015
+The project involved replacing the core operational cash system, known as "Standard Cash Application" (SCA) with a new solution that was based on the latest technology and tools. The SCA replacement system have replaced both legacy MASKED_LOCATION and legacy SCA Systems. The goal of the project was to position NCA and SFIT to develop a project cost assessment model with a reasonable level of accuracy and an effective plan for the design, development, built and implementation activities for the SCA replacement system.
+Participated in implementation of version 1 tool to migrate project backlog for all 6 development teams from manual backlog to Version 1.
+Involved in MASKED_LOCATION fields accepted by version 1 during import process.
+Managed product backlog with Product Owner, and coordinated grooming & planning of User Stories.
+Acted as a liaison between the Development Team and Business Team.
+Consistently answered QA and Development questions regarding requirements during the Sprint.
+Involved in MASKED_LOCATION check and verified that Test Cases were traced with requirements as per the functionality of the system.
+Captured, documented and prioritized requirements for business process improvement.
+Involved in preparing Metrics, Burn-Up Chart information for completed Sprint in backlog.
+Tracked User Stories in backlog, which helped to measure accurate velocity of the Burn-Up Chart.
+Implemented the business logic using C#.Net and handled the data transactions using ADO.NET 
+Created various database tables and triggers and complex queries in SQL Server 2008 
+Involved in development and maintenance of Use Cases.
+Helped create test scenarios for the purpose of testing during sprint development to assist the QA Involved in design, development micro services with Restful and SOAP web services using Spring REST. 
+ Using MASKED_NAME Persistence API (JPA) for accessing, persisting, and managing data between MASKED_NAME 
+objects / classes and a relational database eam.
+Wrote User Stories; updated Use Cases; prepared Agile Metrics, Documentation, Impact Assessments, System Maintenance & Process Improvement Opportunities, and collaborated with team members to develop solutions that achieve accuracy and transparency within systems development.
+Completed a technical evaluation of development tools to determine which tools were viable for new replacement system and to inform the development estimate.
+Scheduled and documented meetings with key project resources and/or stakeholders in an effort to ensure project milestones were met and open issues were resolved in a timely and efficient manner.
+Environment: Mainframes, MASKED_NAME, SQL, MASKED_NAME, MASKED_NAME, ADO.NET, SQL Server 2008, MS PowerPoint, MS Excel, MASKED_NAME, Spring REST, SOAP Mercury Quality Centre, JIRA.
+SAP Business Systems Analyst
+American International Group ,MASKED_LOCATION, NJ          May 2013 to February 2017
+• Consulted for AIG P&C (Property and Casualty) for SAP Reinsurance Management (FS-RI, FS-CD, FI-GL) module while serving on the Reinsurance Project Team at the company's Global SAP Solution Center. 
+• Managed all SAP performance improvements/tuning for SAP Reinsurance Team. Led a team of on-shore and off-shore technical and functional resources to ensure all performance related concerns were addressed. 
+• Liaised with business users to conduct requirements gathering sessions in order to transform the business requirement into a functional specification requirement for developing necessary solutions. 
+MASKED_NAME and assisted in multiple full life cycle product implementations for enhancements to Policy Administration and Claims Management modules. 
+• Managed design, build, tests, go-live and cut over (post deployment) application changes to the global production system. Suggest performance improvements and provide appropriate system solutions by identifying and validating customer requirements documents. 
+• Responsible for managing deployment rate for defects, minor enhancements and major enhancements and ensure that the development and testing is completed in the required time-frame to achieve yearly targets. 
+• Plan, prepare, and execute FUT (Functional Unit Testing) and UAT (User Acceptance Testing) of enhancements and fixes made to various systems. 
+• Led process re-engineering to increase efficiency and integration among upstream and downstream systems; reduced delivery time of financial data to business users and senior management by 60%. 
+• Experienced in ETL from spreadsheets and database tables, and data mapping. Practical understanding of data modeling concepts. 
+MASKED_NAME in-house training courses for new hires and interns on the fundamentals of reinsurance, claims and policy management, SAP FS-RI module, as well as assist in the preparation of training materials.
+Environment: SAP, UAT,FUT, RUP, MASKED_NAME, MASKED_NAME, MS Excel, MS PowerPoint, MASKED_NAME, REST, MS Project, 
+Business Analyst
+Key Bank, MASKED_LOCATION, OH                                                                October 2010 – January 2012
+Key Bank is a regional bank in MASKED_LOCATION. This project involved reengineering of the Credit Card System, plugging all the gaps of the old system and creating better usability, scalability and portability. It involved extensive research and development of standardized systems to deal with account acquisition, retention; credit limits management, and bad debts.
+Assisted the PM in setting realistic project expectations and evaluating the impact of changes on the organization and planned accordingly and conducted project related presentations.
+Prepared Requirement Traceability Matrices (RTM) and managed every change requests effectively throughout the Software Development Life Cycle.
+Followed RUP (Rational Unified Process) centric business analysis methodology.
+Developed strategic partnerships with the business unit to develop a solid knowledge base of the business line including the business plan, products, process and revenue streams.
+Initiated JAD sessions with end users through one-on-one and group interviews to better understand the user requirements.
+Facilitated and managed meeting sessions with committee of SMEs from various business areas including Mortgage Servicing, MASKED_NAME, and Asset Management.
+Collaborated with development architect to develop both high-level and detailed application architecture to meet the business needs.
+Involved in developed the application using Core MASKED_NAME, J2EE and JSP's. 
+Worked to develop this Web based application entitled MASKED_NAME in J2EE framework which uses MASKED_NAME for persistence, spring for Dependency Injection and JUnit for testing. 
+Provided key initiatives in working with users in defining project and system requirements.
+Provided inputs in the strategic development of detailed project plans, work assignments, target dates, etc.
+Designed and developed a LINQ to SQL and Web Service driven Web Form application that served as a more user-friendly and powerful user interface for an existing application.
+Involved into migration of .NET 1.1 modules into .NET 4.0 frameworks.
+Documented and delivered Business Requirement Documents and Functional Requirement/Specification Documents to the project team.
+Participated in the logical and physical design sessions, developing design documents.
+Worked with Data Extraction, Transformation, and MASKED_NAME.
+Created SQL queries using Joins to join tables and updated the database tables using commands such as update, insert and delete.
+Worked with consultants and business partners to analyze response and risk models to improve operational efficiencies.
+Environment: .NET, Windows 2000/XP, Rational Requisite Pro 7.0, UML, Rational Rose, Rational Clear Quest 8.MASKED_ADDRESS 2007, MASKED_NAME, Core MASKED_NAME, J2EE and JSP's,MS Project 2007, MS PowerPoint 2007, MS SQL Server 2005, , spring, HP Quality Centre, QTP.
+Business Analyst
+Prime Healthcare Services, MASKED_LOCATION, CA                                 November 2009 – September 2010
+Prime Healthcare Services is a holding company that owns and operates 43 hospitals in MASKED_LOCATION. The project was to develop an application for the hospitals to use as a central repository for storing reports from different departments of the hospital. Major modules included Enrolment/Registration, Billing and Reports. This MASKED_NAME was being developed using HIPAA guidelines and regulations which keeps track of Healthcare transactions like Eligibility Request/Response, Request and Response for Claims Status, Prior Authorization, and Claim/Encounter.
+Created and analyzed performance reports and used the data to implement changes and updates that improve service and performance.
+Required to meet aggressive ad hoc deadlines and work on special projects. (Projects included major software upgrades for the service center and institution of an email channel for customer service.)
+Analyzed and documented Fact Sheets, Business Requirement Document (BRD), Functional Specification Documentation, and System Requirement Documentation.
+Conducted meetings to understand the workflow, their processes and assisted in GAP Analysis to derive requirements for existing systems enhancements.
+Worked closely with Team Managers and monitored phone calls and productivity of Representatives and HR analysts to ensure the effectiveness of service.
+Worked with a team of Operations Managers, Supervisors, and other HR Analysts to update standards and establish goals.
+Worked closely with the HR Service Center managers to ensure the effectiveness and quality of the service our personnel deliver.
+ Converted raw images and layouts from a graphic designer into CSS/HTML themes.
+Coded Tested and debugged MASKED_NAME code and Servlets using Eclipse
+Designed and executed test plans, tracked defects and got them resolved to ensure that business requirements and functional specifications were tested and fulfilled.
+Developed POC using Silver light 4, XAML, Expression Blend, and C # 
+Developed Data Access Components using LINQ using .NET4 C#, VS2010 
+Design of ASP.NET Applications using MVC 
+Supported the Training and Business Process Management departments as a Subject Matter Expert.
+Responsible for organizing customer feedback for the HR Director and other management positions on monthly basis.
+Environment: MS Office Suite, MS Project, RUP, UML.NET4 C#, VS2010, MASKED_NAME, Eclipse, SharePoint, CSS/HTML.
+Jr.Business Analyst
+Reliance Petrolium , MASKED_LOCATION ,MASKED_LOCATION                              July 2007- October 2009
+• Translated business goals, feature concepts and customer needs into prioritized product requirements and use cases. 
+ • Designed conceptual data model based on the requirement, interacted with stakeholders & non-technical users to understand the business logics. 
+ • Involved in model reviews with project team members through regular on-site visits, virtual meetings and customer advisory board sessions. 
+ • Created Tableau Dashboards with interactive views, trends and drill downs for senior management. 
+ MASKED_NAME the reports using Business Objects functionalities like Queries, Slice and Dice, MASKED_NAME down, MASKED_NAME, Master/Detail and MASKED_NAME. 
+ • Developed data connections from multiple data sources to Tableau Desktop for report and dashboard development. 
+ MASKED_NAME high detail oriented views using multiple measures, MASKED_NAME, Dual Axes and MASKED_NAME in MASKED_LOCATION.
+Education
+Bachelor of Technology 
+National Institute of Technology, Tiruchirapalli, TamilNadu.

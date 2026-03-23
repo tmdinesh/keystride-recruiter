@@ -1,0 +1,131 @@
+Mani
+Sr. Hadoop Developer
+Email: 	MASKED_EMAIL 						             Contact: MASKED_PHONE
+PROFESSIONAL SUMMARY:
+8+ years of overall software development experience on Big Data Technologies, Hadoop Eco system and Java/J2EE Technologies with experience programming in MASKED_LOCATION, MASKED_NAME, Python and SQL
+4+ years of strong hands-on experience on Hadoop Ecosystem including Spark, MASKED_NAME, HIVE, Pig, HDFS, YARN, HBase, MASKED_NAME, MASKED_NAME, MASKED_LOCATION, MASKED_LOCATION.
+Experience in architecting, designing, and building distributed software systems. 
+MASKED_NAME and MASKED_NAME, Created frameworks for processing data pipelines through Spark
+Wrote python scripts to parse XML documents and load the data in database.
+Deep knowledge of troubleshooting and tuning Spark applications and Hive scripts to achieve optimal performance.
+Used Sqoop to import data into HDFS / Hive from RDBMS and exporting data back to HDFS or HIVE from RDBMS.
+Worked with real-time data processing and streaming techniques using Spark streaming, Storm and MASKED_NAME.
+Experience developing MASKED_NAME producers and MASKED_NAME for streaming millions of events per second on streaming data
+Significant experience writing custom UDF’s in MASKED_LOCATION and custom MASKED_NAME in MASKED_LOCATION.
+Knowledge of job workflow scheduling and monitoring tools like MASKED_NAME.
+Strong experience productionalizing end to end data pipelines on hadoop platform.
+Expertise in Database Design, Creation and Management of Schemas, writing Stored Procedures, Functions, DDL and DML SQL queries and writing complex queries for MASKED_NAME
+Experience working with MASKED_LOCATION database technologies, including MongoDB, MASKED_NAME and HBase.
+Good experience is designing and implementing end to end Data Security and Governance within Hadoop Platform using Kerberos.
+Strong experience with UNIX shell scripts and commands.
+Experience in using various Hadoop Distributions like MASKED_LOCATION, MASKED_NAME and Amazon EMR.
+Strong hands-on development experience with MASKED_NAME, J2EE (Servlets, JSP, MASKED_NAME, EJB, MASKED_NAME, MASKED_NAME, Web Services) and related technologies.
+Work with the team to help understand requirements, evaluate new features, architecture and help drive decisions.
+Excellent interpersonal, communication, problem solving and analytical skills with ability to make independent decisions
+Experience successfully delivering applications using agile methodologies including extreme programming, SCRUM and Test-Driven Development (TDD).
+Experience in Object Oriented Analysis, Design, and Programming of distributed web-based applications.
+Extensive experience in developing standalone multithreaded applications.
+Configured and developed web applications in Spring and employed spring MVC architecture and Inversion of Control.
+Experience in building, deploying and integrating applications in Application Servers with ANT, MASKED_LOCATION and Gradle.
+Significant application development experience with REST Web Services, SOAP, WSDL, and XML.
+TECHNICAL SKILLS:
+PROFESSIONAL EXPERIENCE:
+Client		: 	TMNAS						        Sep 2016 – Present
+MASKED_ADDRESS
+Role		:	Sr. Hadoop Developer
+Project Description: TMNA offers the security of nearby expertise, enhanced by the diversity and power of one of the world’s most respected insurance groups. MASKED_NAME companies offer access to leading commercial insurance solutions spanning the property and casualty landscape including professional liability, workers’ compensation and property coverage.. The project deals with analyzing clickstream data of users who are visiting the company websites and applications to derive useful insights that help in optimizing future promotions and advertising.
+Responsibilities:
+Involved in story-driven agile development methodology and actively participated in daily scrum meetings.
+Ingested terabytes of click stream data from external systems like FTP Servers and S3 buckets into HDFS using custom Input Adaptors.
+Implemented end-to-end pipelines for performing user behavioral analytics to identify user-browsing patterns and provide rich experience and personalization to the visitors.
+MASKED_NAME producers for streaming real-time clickstream events from external Rest services into topics.
+Used HDFS File System API to connect to FTP Server and HDFS.  S3 AWS SDK for connecting to S3 buckets.
+MASKED_NAME based Spark applications for performing various data transformations, denormalization, and other custom processing.
+Implemented data pipeline using Spark, Hive, Sqoop and MASKED_NAME to ingest customer behavioral data into Hadoop platform to perform user behavioral analytics.
+Created a multi-threaded MASKED_NAME application running on edge node for pulling the raw clickstream data from FTP servers and AWS S3 buckets.
+MASKED_NAME streaming jobs using MASKED_NAME for real time processing.
+Involved in creating external MASKED_NAME tables from the files stored in the HDFS.
+Optimized the Hive tables utilizing improvement techniques like partitions and bucketing to give better execution MASKED_NAME queries.
+Used Spark-SQL to read data from hive tables, and perform various transformations like changing date format and breaking complex columns. 
+Wrote spark application to load the transformed data back into the Hive tables using parquet format.
+Used MASKED_NAME system to automate the pipeline workflow to exact data on a timely manner. 
+Implemented installation and configuration of multi-node cluster on the cloud using Amazon 
+Web Services (AWS) on EC2.
+Worked on data visualization and analytics with research scientist and business stake holders.
+Environment: Hadoop 2.x, MASKED_LOCATION, MASKED_NAME, MASKED_NAME, Pig, Sqoop, MASKED_NAME, MASKED_NAME, MASKED_NAME Manager, Storm, ZooKeeper, HBase, MASKED_LOCATION, MASKED_NAME, MASKED_NAME, JIRA, MySQL, Kerberos, Amazon AWS, Shell Scripting, SBT, MASKED_NAME, Maven.
+Client		:	Davita Inc			    			    Jan 2015 - Sep 2016 
+MASKED_ADDRESS
+Role		:	Sr.Hadoop Developer
+Project Description: Davita is one of the largest kidney dialysis companies in world. The idea of the project is to ingest data from different multiple sources to Hadoop Data Lake, perform transformations on it according to business requirements and exporting the data to external systems. The system is a scalable BI platform that can adapt to the speed of the business by providing relevant, accessible, timely, connected, and accurate data.
+Responsibilities:
+Involved in gathering and analyzing business requirements and designing MASKED_LOCATION as per the requirements.
+Built distributed, scalable, and reliable data pipelines that ingest and process data at scale using MASKED_NAME and MapReduce.
+Developed MapReduce jobs in MASKED_NAME for cleansing the data and preprocessing.
+Loaded transactional data from MASKED_LOCATION using Sqoop and create MASKED_NAME.
+Extensively used Sqoop for efficiently transferring bulk data between HDFS and relational databases.
+Worked on automation of delta feeds from MASKED_LOCATION using Sqoop and from FTP Servers to MASKED_NAME.
+Worked on various performance optimizations like using distributed cache for small datasets, Partition, MASKED_NAME in hive and MASKED_NAME joins.
+Created components like MASKED_NAME UDFs for missing functionality in HIVE for analytics.
+Used IMPALA to analyze the data present in Hive tables.
+MASKED_NAME and JSON data in Hive using MASKED_NAME.
+Worked with different compression codecs like GZIP, SNAPPY and BZIP2 in MapReduce, Pig and MASKED_NAME for better performance.
+Analyzed the data by performing the Hive queries using MASKED_NAME to study the customer behavior.
+Wrote python scripts to parse XML documents and load the data in database.
+Generate auto mails by using Python scripts.
+Implemented the recurring workflows using MASKED_NAME to automate the scheduling flow.
+Worked with application teams to install OS level updates and version upgrades for Hadoop cluster environments.
+Participated in design and code reviews.
+Environment: HDFS, Hadoop, Pig, MASKED_NAME, HBase, Sqoop, Talend, MASKED_NAME, MASKED_NAME, Podium Data, MASKED_NAME, MASKED_NAME, Oracle 10g, YARN, UNIX MASKED_NAME, SOAP, REST services, Oracle 10g, Maven, Agile Methodology, JIRA.
+Client		:	NASBA							    Aug 2012 - Dec 2014 
+MASKED_ADDRESS
+Role		:	Hadoop Developer
+Project Description: National Association of State Boards of Accountancy enhances the effectiveness and advance the common interests of the Boards of Accountancy. Existing ETL platform is overloaded with data coming from variety of sources and as data is growing day by day, it is not able to perform well and cost of managing the Relational database servers are going up. So, the data is migrated from multiple sources to Hadoop Data Lake and transformations are performed on it according to business requirements and the processed data is exported to external systems.
+Responsibilities: 
+Analysed business requirements and created/updated Software Requirements and design documents	
+Imported the data from relational databases to Hadoop cluster by using Sqoop. 
+Provided batch processing solution to certain unstructured and large volume of data by using Hadoop Map Reduce framework.
+Developed data pipelines using Hive scripts to transform data from MASKED_LOCATION, DB2 data sources. These pipelines had customized UDF'S to extend the ETL functionality. 
+MASKED_NAME for converting data from Hive table to MASKED_NAME format as per client requirement. 
+Involved in creating tables in Hive and writing scripts and queries to load data into Hive tables from HDFS.
+Implemented dynamic partitioning and MASKED_NAME in MASKED_LOCATION as part of performance tuning. 
+Created custom UDF’s in Pig and MASKED_NAME.
+Performed various transformations on data like changing date patterns, converting to other time zones etc.
+Designed and developed PIG MASKED_LOCATION to process data in a batch to perform trend analysis. 
+Automated Sqoop, hive and pig jobs using MASKED_NAME scheduling. 
+Storing, processing and analyzing huge data-set for getting valuable insights from them. 
+Created various aggregated datasets for easy and faster reporting using MASKED_LOCATION.
+Environment: HDFS, MASKED_NAME, MASKED_NAME, Sqoop, Pig, HBase, MASKED_NAME, CDH distribution, MASKED_NAME, Eclipse, Shell Scripts, MASKED_LOCATION, MASKED_LOCATION, MASKED_LOCATION.
+Client		:	Copart Inc						    Oct 2010 - Aug 2012 
+MASKED_ADDRESS
+Role		:	MASKED_NAME:  Copart makes it easy for Members to find, bid and win the vehicles that they are looking for. Members can choose from classics, early and late model cars and trucks, industrial vehicles and more. These internal applications are used for content management through which users can request a new site, which is used to store their project related documents.
+Responsibilities:
+Developed the J2EE application based on the Service Oriented Architecture by employing SOAP and other tools for data exchanges and updates.
+Worked in all the modules of the application which involved front-end presentation logic - developed using Spring MVC, JSP, JSTL and JavaScript, Business objects - developed using POJOs and data access layer - using MASKED_NAME framework. 
+Designed the GUI of the application using JavaScript, HTML, CSS, Servlets, and JSP.
+Involved in writing AJAX scripts for the requests to process quickly.
+Used Dependency Injection feature and AOP features of Spring framework to handle exceptions.
+Involved in writing Hibernate Query Language (HQL) for persistence layer.
+Implemented persistence layer using MASKED_NAME that uses the POJOs to represent the persistence database.
+Used MASKED_NAME to connect to backend databases, MASKED_NAME and SQL Server 2005.  
+Proficient in writing SQL queries, stored procedures for multiple databases, MASKED_NAME and SQL Server.
+Wrote backend jobs based on Core Java & Oracle Data Base to be run daily/weekly.
+Used MASKED_NAME and SOAP web services for internal and external consumption.
+Used MASKED_NAME concepts like Collections, Garbage Collection, Multithreading, OOPs concepts and APIs to do encryption and compression of incoming request to provide security.
+Written and implemented test scripts to support Test driven development (TDD) and continuous integration.
+Environment: MASKED_NAME, JSP, HTML, CSS, Ubuntu Operating System, JavaScript, AJAX, Servlets, MASKED_NAME, MASKED_NAME, EJB (Session Beans), Log4J, WebSphere, JNDI, MASKED_NAME, MASKED_LOCATION, MASKED_NAME, ANT, Eclipse.
+Client		:	Aricent							    Nov 2008 - Sep 2010    
+MASKED_ADDRESS
+Role		:	MASKED_NAME:  Aricent is a global design and engineering company innovating in the digital era. help the world's leading companies solve their most important business and technology innovation challenges - from Customer to Chip. I have worked on developing the Aricent internal applications to automate the business process, store the documents. These internal applications are used for content management through which users can request a new site, which is used to store their project related documents.
+Responsibilities:
+Analyzed user requirements and created Software Requirements and design documents
+Responsible for GUI development using MASKED_NAME, JSP, MASKED_NAME design and development 
+Created and modified existing database scripts, Tables, Stored Procedures, and Triggers 
+Used XML functions, Cursors, Mail and Utility packages for Advanced search functionality
+Created data correction and manipulation scripts for Production
+Used JAXB for marshalling and un-marshalling of the data
+Created JUnit tests for the service layer
+Support for Production issues
+Attending the review meetings for scheduling, implementation and resolving issues in software development cycle
+Environment: MASKED_NAME, MASKED_NAME, MASKED_NAME, MASKED_NAME, Servlets, MASKED_NAME XML, MASKED_LOCATION, JAXB, FOP, MASKED_NAME, MASKED_NAME, Tomcat, SQL server 2005 and MASKED_NAME
+EDUCATION:
+Bachelor of Technology in Computer Science from National Institute of Technology, MASKED_NAME.               

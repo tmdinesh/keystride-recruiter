@@ -1,0 +1,212 @@
+SAHAS DATTA
+MASKED_EMAIL
+MASKED_PHONE
+Summary
+A driven and versatile Business analyst with around 8 years of dedicated service in Healthcare Industry and profound knowledge in Financial and E-Commerce domains of systems analysis, business analysis, data analysis, and design and implementation of enterprise solutions for data management, data quality, and reconciliations. 
+Strong project management skills including planning, scheduling, monitoring and budgeting with experience in requirement gathering, gap analysis, risk analysis, effort estimation Business Process Re-Engineering, ERP Systems Implementation, ServiceNow 
+Proficiency in ServiceNow modules like Incident, Problem, Change, CMDB, Knowledge Management, Dynatrace Integration with ServiceNow, Vendor performance/ Contract and Cost Management module's. Approvals, Workflows, Mockups, Reports, Dashboards, Actions, Tasks and Events. 
+Experience in QlikView and Tableau Desktop for data visualization, Reporting and Analysis.
+Act as an Intermediary between IT and Business teams in the deployment/administration of MS 
+Dynamics CRM, BI Reports. 
+In-depth knowledge of Healthcare organization operations including outsourced operations, Health Insurance, HIPAA, and Medicaid/MMIS, including MITA.
+Conducted and Facilitated Joint Application Development (JAD), Rapid Application Development (RAD) and Joint Requirement Planning (JRP) sessions, interviews, workshops and requirement elicitation sessions with end-users, clients, stakeholders and development team.
+Experience in developing SQL procedures, Oracle applications, and other components of database applications 
+Proficient in database testing using HL7 standards. 
+In depth knowledge of MMIS, HIPAA standards, ICD codes and NPI business areas. 
+Experience working with both SDLC Methodologies- Traditional Waterfall Model, Agile-Scrum Methodology
+providing client support by addressing methodology, usage, interpretational and technical questions on MASKED_NAME risk and performance analytics products (BarraOne, MASKED_NAME, MASKED_NAME Manager, MASKED_NAME, MASKED_NAME) and liaising with global teams within MASKED_NAME to come up with innovative and out-of-the-box solutions to solve any ongoing issues in real time 
+Experience in eliciting business requirements by conducting JAD sessions, one-one and Group interviews, focus groups, MASKED_NAME, Reengineering and Document Analysis. 
+Experience in analyzing the Business Requirements and processes, documenting them into artifacts like Business Requirement Document (BRD), Functional Specification Document (FSD), Software Requirement Specification, Use Case Specification (UCS) and Requirements Traceability Matrix. 
+Proficient in representing requirements with UML Models like Use Case diagrams, Sequence diagrams, Activity diagrams, Business Process Modeling diagrams, Cross Functional Diagram using MS MASKED_NAME and Rational Rose. 
+CRM Analytics with Activity data from MS Dynamics & SFDC 
+Results oriented hands on Treasury Professional experience in Treasury and Liquidity/Finance both at Corporate and Operations level at various publicly traded companies. 
+Experience working with Product Owner to build, groom, and maintain MASKED_NAME, MASKED_NAME and manage User Stories using JIRA. 
+Experience in working with Data Modeling-Design team in creating Conceptual and Logical representations of database requirements by MASKED_NAME 
+Hands on using industry tools like MASKED_NAME, Rational Rose, I-Rise, Axure, HP Quality Center, MS Share Point, MASKED_LOCATION, MASKED_LOCATION, MASKED_NAME, MS Excel, MS PowerPoint and MS Project to develop various project deliverables. 
+Good analysis and communication skills with an ability to transform the needs of stakeholders into Functional/Technical requirements backed with experience and education in financial domain.
+Analyzed, prioritized & documented business & functional requirements along with supporting data models created via Visio/ERWIN 
+Good understanding of performing Gap Analysis, SWOT Analysis, Risk Analysis and Impact Analysis
+Comprehensive knowledge of Capital Market, Equity, Derivatives-Future and Options, Commodity, ETFs, IPO, Mutual Fund, Stocks MASKED_NAME, Retail Banking, Fixed Income Security, Online Loan Application, Stock Valuation, Ratio analysis, Sector Analysis, Portfolio Management, Discounted Cash flow analysis, Portfolio Analysis, Technical Analysis.
+Knowledge of Managed Care plans (HMO/PPO/POS), Medicaid Management Information Systems (MMIS) and Medicaid Information Technology Architecture (MITA). 
+Worked as a business system analyst (BSA) to maintain the relationships between Business team experts and Developers. 
+Good knowledge of Health Insurance Plans (Medicare Part A, B, C and D), managed care concepts (Medicaid and Medicare), billing experience within life and disability in health plans with thorough understanding of CPT coding, CMS-1500 claim forms and reimbursement forms. 
+Proficient in creating User stories, Test cases, Test procedures and Test scripts based on business requirements. 
+Knowledge on QNXT Claim processing, Medical Billing Process.
+Performed unit testing and Integration testing for the scenarios mentioned in the test scripts. 
+Wide working background in Health, finance, and IT industries. 
+Experienced in developing project plans using MS Project and MS Share Point, identifying documents, and validating requirements and reengineering process.
+Strong experience in Defect tracking tools such as JIRA, Rally and Rational Clear Quest.
+Good knowledge in Quality Assurance Tools and Technologies such as White Box Testing, Black Box Testing, Unit Testing, Functional testing and User Acceptance testing. 
+Strong Multi-Tasking abilities to work as a cross-functional team and being a Team Player, Self-motivated, flexible to work, learning attitude towards software technologies and products, detail oriented person with good interpersonal skills, communicator and coordinator.
+TECHNICAL SKILLS
+Methodologies: Agile, Waterfall 
+Requirement management tools: MASKED_LOCATION, MASKED_NAME, MASKED_NAME,ServiceNow
+Project management tools: MS Project, SharePoint 
+Business Modelling: Oracle BPM Rational Rose, MASKED_NAME, MASKED_NAME, IBM Requisite Pro. 
+Web technologies/languages: SQL, MASKED_NAME, XML
+Data Visualization:  Qlikview 11.0, 11.2, MASKED_LOCATION 10.1, 10.2.  
+Front-End tools: Microsoft Excel, Word, Power Point SharePoint 
+Database: MS SQL, MS Access, MASKED_NAME, SQL Server 2008
+Simulation Tool: iRise
+Operation system/platform: Operating MASKED_NAME, Unix, Windows server  
+Applications: QNXT, Facets, Track Wise
+Business Analysis Skills:  Business Requirement Definition (BRD), Business Process Analysis & Design, UML, GAP Analysis, MASKED_NAME, MASKED_LOCATION, AXIOM, STIBO Step Solutions, Data Modeling Entity-Relation Diagrams (ERD).
+Work Experience
+Charter Communications, MASKED_LOCATION port drive, MO						Oct MASKED_ADDRESS 
+Responsibilities: 
+Gathered requirements by coordinating and interviewing with Subject Matter Experts (SME)s and MASKED_NAME. 
+Helped Product owner in prioritizing the user stories based on the workload expected. 
+Responsible for designing and deploying best MASKED_NAME processes and procedure
+Used Agile SCRUM methodology for tracking defects and managing the project. 
+Primary focus on product quality and functionality. Coordinated the work efforts of internal departments including development, documentation, and marketing to achieve a successful product release and launch efforts.
+Used SQL database and created Restful web API using node.js which was consumed using AJAX calls to transmit data from server to client.
+Involved in Full Project life cycle and worked under the agile methodology used scrum. 
+Responsible for product licensing, and lifecycle management. 
+Documented the defects and their trailing history in the ServiceNow and helped developers recreate defects by executing the related scenarios in order to identify the root cause of defect. 
+Designed and developed Qlikview report using combinations of charts and tables. 
+Responsible for product definition and feature priority based on market analysis, competitive research, and customer input.
+Manage implementation, installation, documentation, and maintenance of the Dynamics 365 App for Outlook. 
+Completes day-to-day marketing tasks and projects utilizing Microsoft Dynamics 365 (CRM)
+MASKED_NAME and administered the implemented instance of ServiceNow and performed tasks such as MASKED_NAME, company, site, location and other existing fields, Support Groups, assignment 
+Worked with multiple project teams of technical professionals through all phases of the SDLC using technologies including MASKED_NAME, MASKED_NAME, Data Stage, Data Warehousing, Web sphere and Cognos. 
+Aided customers in planning and implementing best practices in manufacturing and MASKED_NAME / PDM solutions. 
+Assist in the reconciliation of Inventory and Inter-Company transactions, design report to facilitate these reconciliations
+Worked with Dynamics 365 to make customizations and user-friendly changes to the system based on user feedback. Create and provide training information for associates. 
+Documented the defects and their trailing history in the ServiceNow and helped developers recreate defects by executing the related scenarios in order to identify the root cause of defect. 
+Released and Implemented ECOs & Incorporated documents in the Agile PLM (Product Lifecycle Management) System. 
+Redesigned the Positive Pay process for Accounts Payable 
+Assisted with the setup of utility invoice scanning to import into JDE and electronic data storage
+Project Manager for the Accounting Data Store (ADS). 
+Used QlikView Functions (Date and Time, MASKED_LOCATION, Join, Mapping, String & Input Fields etc.) for creating dashboards
+Project Management entails developing user specifications, requirements gathering, resource planning, project plan and time line, initial testing and coordination of user testing. Evaluation of possible solutions and software to fit user’s needs. This included working with 3rd party vendors.
+Environment: 
+MS SQL Server, JIRA, snag it, Dynamics 365, GIT, MASKED_NAME, Quality Center, Microsoft Office 365, ServiceNow, SQL Server, SharePoint, MASKED_NAME, MASKED_NAME, MASKED_NAME, .NET, MS Project, Agile Methodology
+Capital One Bank, MASKED_LOCATION, MASKED_LOCATION							 Jan MASKED_ADDRESS
+Responsibilities: 
+Organized and facilitated meetings with the management and the development team, conducting requirements gathering sessions with the purpose of defining the functional business and system requirements.
+Process and balance daily ACH, wires, share draft, mobile deposit, debit card, credit card and member. 
+Conducted benchmarking activity for reward and recognition programs based of which made recommendations and developed 'as-is' and 'to-be' workflow diagrams. 
+Worked on all phases of life cycle using Rational unified process (RUP) methodology. 
+Created Business Requirements Documents (BRD) and Functional Requirements Specifications (FRS) documents. 
+Facilitated the transfer of service functionality from legacy systems to the ServiceNow service  
+Worked with DBA's to create a best fit Physical Data Model from the Logical Data Model using MASKED_NAME. 
+User Stories were prepared using the requirements from the iRise tool. 
+Develop strategic approach to reduce corporate travel expenses, utilizing data analytics and visualization tools such as SQL and MASKED_LOCATION. 
+Analyzed and modeled various business domain- Checking A/C, IRA, Mortgage, Home Equity Line of Credit, Personal Loan, CD, Prepaid Card, Credit Card to create a complete picture of process-flows and Functional requirements fulfilled by existing and proposed system.
+Analyzed consumer surveys and gave technical inputs in business meetings. 
+Gap analysis is done by understanding As-Is systems and requirements for the To-Be system.
+Performed Requirement Analysis by verifying MASKED_NAME for its completeness, clarity, consistency, testability, and feasibility and validating user requirements, Prioritized user requirements for its business Value, criticality and importance to stake holders. 
+Works with key users and the HRMS Technical Manager to prioritize and schedule issues resolution.
+Performed data validation for the fund holding data sent to third party risk systems (BarraOne) for investment risk monitoring and contributed to achieving 97% coverage of processed instruments 
+Prepared Use Case Specifications listing Use Case Scenarios, Use Cases & Use Case Diagram using MASKED_NAME. 
+Created new liquidity files allowing other analysts to input data for their respective departments improving roll-up analysis. 
+Good understanding of functional implementation of various ServiceNow modules such as Change Management, Incident Management, Problem Management, Service Catalog, Configuration Management, Reporting 
+The iRise simulation was used to ensure a full understanding of functionality as well as look and feel requirements with the business and technology teams, and was also leveraged for demonstrations to the management and development teams.  
+Prepared and maintained Requirement Traceability Matrix to manage Requirement Change. 
+Co-authored thought leadership articles, developed pitch materials and presented on liquidity, regulatory developments, and market practices at client conferences and events. 
+Implemented good documentation management in projects using MS Share Point 
+Defects were tracked, reviewed, analyzed using Quality Center (Defect Management tool)
+Performed Crisis Liquidity analysis, identifying potential scenarios of liquidity weaknesses and provided and recommendations. Participated in creating Test Cases for User Acceptance Testing 
+Creating and managing Project templates, Use Case project templates, requirement types and traceability relationships in Requisite Pro. 
+Interacted with the QA developers on resolving the reported bugs.
+Conducted Walkthroughs and User Acceptance Tests (UAT) and worked closely with the UAT personnel to both ensure that their needs are met.  
+Environment: 
+MS Office Word-Excel-Power Point, MASKED_NAME, Agile, HP Quality Center, ServiceNow, GIT, Microsoft Project, iRise, Axure, MASKED_NAME, MS SQL Server, MASKED_NAME, Requirement Traceability Matrix-Excel, MS Share Point
+DXC Technology, MASKED_LOCATION, IN						 	Feb MASKED_ADDRESS
+Responsibilities: 
+Act as a liaison between client and technical solutions/support groups, using advanced communication skills to elicit, document, analyze and validate client requirements. 
+Salvaged the floundering Agile PLM implementation after being assigned as project Coordinator. 
+Worked on Oracle Agile PLM(9.2.X.X-9.3.3.X) involving in requirement and gap analysis, BOM management, feasibility studies and design implementations throughout the project duration Knowledge of Order to Cash Process and Total Customized Shipping for specific Business. 
+Working knowledge of the Oracle EBS "Order to Cash" and "Procure to Pay" processes. 
+Hands-on experience of Oracle WMS (Rules, Control Board, MASKED_NAME, etc.). Participate in proposals, feasibility studies, implementations, and new business development. 
+Interacts directly with clients, users, and all project team members, acting as the conduit between stakeholders, users, and the software delivery organization.  
+Key responsibilities include documenting business objectives and business processes, defining functional requirements and business rules, validating system design and testing artifacts, and assisting in testing and deploying the solution. 
+Works with clients to determine application deployment readiness, and to respond to clients calls for assistance.  
+Successfully launched Agile PLM at contract manufactures and critical suppliers, standardized the engineering change methodology across all contract manufacturers. Served as the single point of contact for all documentation issues and concerns between the CM’s, suppliers and Bridgelux. 
+Responsible for analyzing and fixing issues identified in the Oracle Human Resources, Payroll, Self-Service, Benefits, Time and Labour and Financial MASKED_NAME in the development completion through the utilization of investigation and critical thinking techniques.
+MASKED_NAME with the Operations Support team to address customer inquiries and provide potential solutions  
+Create or modify documentation, specifications and process improvements for customers and internal use 
+Verified the source to target data movement and loaded target data by writing SQL queries. 
+analyzed all HL7 issues by reviewing “specs” or system specification guides and ensuring that filtering was setup correctly.
+Queried database using SQL for backend testing. 
+Wrote many SQL Queries in TOAD to retrieve the data from databases to perform data validations and comparisons for regression testing. 
+Accountable for ensuring all time requirements align to the overall systems design, configuration, and sunset of legacy systems, enabling integration with HCM software (Oracle Fusion and ADP GlobalView).
+Environment: 
+MS Office Word-Excel-Power Point, MASKED_NAME, Agile, HP Quality Center, HL7, Oracle/Agile PLM, MASKED_NAME, Oracle HR, Microsoft Project, MASKED_NAME, MS SQL Server, TOAD, XML, MASKED_LOCATION and MASKED_NAME.
+Coventry Health Care, MASKED_LOCATION, IL							Oct MASKED_ADDRESS
+Responsibilities: 
+Provided Support to project manager during planning phase and exacting phase. 
+Responsible for analyzed Health care data flow and business requirements to create elevated level design document. 
+Take on management and coordination of HL7 interface projects and server migrations 
+Conducted JAD sessions for the various areas such as Medicaid eligibility, Medicaid MMIS -provider, MMIS-claim etc. Co-Ordination and Communication Between Off shore and Onsite team's. 
+Created test cases and test plans for the User Acceptance testing (UAT). 
+Involved in HIPAA/EDI Medical Claims Analysis, Design, Implementation, and Documentation.
+Good understanding of healthcare industry, claims management process, Medicaid, and Medicare Services. 
+Basic syntactical integrity of the EDI submission includes (valid segments, segment order, element attributes, testing for numeric values in numeric data elements). 
+Responsible for gap analysis in changing old MMIS and Involved in testing new MMIS.  
+Wrote tasks and supporting test cases derived from an analysis design and programming specifications. 
+Used MS MASKED_NAME for creating use cases, workflows and sequence diagrams according to UML methodology.
+Developed Test Grid using Microsoft Excel and executed test plans.
+Involved in implementation of HIPAA EDI Transactions (835,837 and Facilitated Electronic Data Interchange.
+In depth knowledge of Medicare/Medicaid Claims processes from Admin/Provider/Payer side which were later part of the training program to vendors. 
+MMIS can handle the HIPAA transactions such as 835, 837 (P, D, I) 276, 277, 278. The Inbound and Outbound is run through JCL in batch mode. 
+Analyzed HL7 messages and help to ensure that the sending and receiving systems integrate accordingly by reviewing the specification guides for all applications involved.
+Prepared Workflow diagrams analyzed AS IS and TO BE scenarios, designed new process flows and documented the business process and various business scenarios.
+Utilized Rational Unified Process (RUP) to configure and develop processes, standards, and procedures.
+Create Data Mapping Reports for different EDI Transactions including Eligibility, Enrollment, Provider, Managed Care, TPL and Claims (LT, OT, IP 837) Files 
+Recommend changes for system design, methods, procedures, policies and workflows affecting Medicare/Medicaid claims processing in compliance with government compliant processes like HIPAA/ EDI accredited standards ANSI. 
+Provided Customer Research and developed Product Requirements for all features including those specifically for Health Care and Hospitality vertical markets. 
+Testing on Providers, Recipient, TPL, MASKED_LOCATION, PA, Managed Care, Claim Pricing, Edits and Audits, Long term care and MASKED_NAME.
+MASKED_NAME transactions in X12 responses and of 837, 835, 277CA and 999 and looked-for defects. 
+Do data analysis for various version changes of EDI messages on different sub-systems. 
+Used the Rational Unified Process (RUP) to build the distinct phases of Software Development Life Cycle (SDLC). 
+Environment: 
+User Acceptance Testing (UAT), Agile/Scrum methodology, HIPPA, MMIS, SQL 2012, MS Access, Windows, Rational Test Manager, MS Office's 2008/2012, HL7, SQL, EDI, TPL, MASKED_LOCATION word EXCEL.
+Apollo Hospitals, Hyderabad. 								Dec2010 – Aug MASKED_ADDRESS
+Responsibilities:
+Played a key role in the planning, testing, and implementing system enhancements and conversions. 
+Provided key project inputs by working with users in defining the project and system requirements. 
+Reviewed business process, and functional requirements.
+Worked on Hospital data processing for improving database for storing user files. 
+Analyzed business needs, created and developed new functionality to meet real time data integration that facilitated decision. Collaborated with testing teams in reviewing test strategy, test plans and test scripts. 
+Performed UAT Testing with QA and Business Team. 
+Performed data validation using SQL queries. 
+Managed and controlled the project documentation using SharePoint.
+Ensured the timely delivery of Business Analyst team artifacts. 
+Participated and Facilitated Status meeting, Business Requirement Elicitation and Solution meetings
+Wrote SQL Queries in MS Access to sort data and analyze the large set of data during project life cycle. 
+Experience of managing multiple stakeholders across the organization, and in MASKED_LOCATION integration of systems. 
+Worked with SQL queries for data manipulations. 
+Assisted in building a business analysis process model using Rational Rose, Requisite Pro and MASKED_NAME. 
+Designed and developed Use Cases, Activity Diagrams and Sequence Diagrams. 
+Assisted in process modelling; conducted and participated in JAD sessions with system users; helped with design walkthroughs with stakeholders for base lining architecture. 
+Developed strategic partnerships with the business unit to develop a solid knowledge base of the business line, including the business plan, products and processes. 
+Assisted Test Lead, Testers understanding business process and help them successful completion of Unit Testing, Integration Testing, Functional Testing and SIT. 
+Environment:
+SharePoint, MASKED_NAME, MS Project, MS Office, MASKED_NAME, Rational Rose, SQL, SQL Server 
+Axis Bank, Hyderabad.								 Aug 2009 – Nov2010
+Business System Analyst
+Interacted with the customers and internal stakeholders to gather user requirements and their expectations from the system. Involved in analyzing Business Requirements and developing System Specifications.
+Analyzed monthly/quarterly performance against plans and forecast and recommended corrective actions. Performed rigorous load testing using MASKED_NAME. 
+Assessed business priorities, and advised business units on risks and Cost-Benefit analysis. Used Rational Rose to generate various UML Diagrams. 
+Reviewed and managed production of the monthly Liquidity Management Package to ensure current and historical data accuracy. 
+Participated in the development and preparation of the Test Plan with the testing team as well as ensuring testability, reliability, usability, maintainability and performance of the application. 
+Involved in incident reporting and change and configuration management procedures using Clear Case. Organized cross training of team members and users to become more responsive. 
+Researched industry competitor's excess liquidity levels along with key disclosures around liquidity, funding, and upcoming, liquidity regulatory requirements.  
+Ensured that the modifications suggested by the users were incorporated into the application. 
+Formed a bridge between the Project Manager and different teams with effective presentations. Responsible for creating and reviewing business requirements, functional specifications, project schedules, documentation and test plans related to commercial lending.
+Worked extensively with SMEs in understanding and documenting their requirements. 
+Worked with all levels of client staff in the process of solution definition 
+Assisted with product evaluation, product customization and system integration. 
+Conducted GAP analysis around the identification of business rules, business and system process flows, user administration, requirements and assumptions 
+Supported testing, Test Cases in HP Quality center that would test various Test scenarios. 
+Designed and developed Use Cases, Use Case Diagrams and Activity Diagrams using UML. 
+Authored business requirements documents with the business users. 
+Extracted, discussed, and refined business requirements from business users and team members. 
+Coordinated activities between business unit and technical staff, developed new methods, policies, and procedures to meet the business needs, as well as acted as primary trainer in educating the business units, related to business applications.
+Performed UAT on business requirements, technical specifications and product knowledge. Involved in documentation during various phases of development life cycle. 
+Environment:
+
+C#, Waterfall, MASKED_NAME, Rational Rose, Clear Case, MS Office MASKED_NAME (Word, PowerPoint, Excel, Outlook), SQL Server, MASKED_NAME.
+Education
+Bachelors in Information Technology, MASKED_NAME

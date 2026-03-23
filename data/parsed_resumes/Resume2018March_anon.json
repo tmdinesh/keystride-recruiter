@@ -1,0 +1,25 @@
+{
+  "resume_id": "Resume2018March_anon",
+  "skills": [
+    "javascript",
+    "php",
+    "html",
+    "css",
+    "jquery",
+    "mysql",
+    "oracle"
+  ],
+  "education": {
+    "degree": "Unknown",
+    "year": "Unknown"
+  },
+  "experience_years": 13,
+  "projects": [
+    "Design and layout Monthly Mailchimp Newsletter to subscribers",
+    "Where Is LoZo?\tMoorestown, NJ USA\tOctober 2016 - December 2016",
+    "Fullstack Wordpress project interactive fitness training website eCommerce based personal training site",
+    "Financial Tech company with over $1 billion worth of loans. I\u2019m charged with replacing an outsource tech firm of multiple WordPress developers in handling of all WordPress projects. Migrating the company site, the company investor site and dozens of credit union landing pages. As well as updating all Wordpress",
+    "The project was for the Make A Wish foundation were it was a cross between a wordpress migration and PSD to html. I had a deadline within 4 weeks I finished with 2 with a Wordpress hack that I invented. The hack takes PSD files and allows you to bypass numerous steps to help you get to the end result. Saved the company time and money."
+  ],
+  "certifications": []
+}

@@ -1,0 +1,103 @@
+MASKED_DOB
+MASKED_NAME | CakeResume
+MASKED_URL
+1/MASKED_ADDRESS MASKED_NAME AI & big data analyst, a BD, a PM, and an executive assistant familiar with
+automotive/software/IT/manufacturing industries
+       
+Data Analyst、Data Engineer、Data Scientist、Customer Experience Analyst
+MASKED_LOCATION City，TW
+MASKED_EMAIL
+SKILLS
+AI & BIg Data
+#machine learning #deep learning #transfer
+learning #ETL #python #R #MySQL #MariaDB
+#MongoDB #GoogleCloudPlatform #AWS
+#docker #Hadoop #Spark #VMWare
+#Tableau
+Business Field
+#marketing #CRM #Õnancial analysis
+#project_management
+#inventory_management
+#BOM_review&improvement
+#human_resources #TOEIC935 #MASKED_NAME
+WORK EXPERIENCE
+GranDen Corp., BD Assistant Manager, Nov 2018 ~ Apr 2019
+Achievements:
+acquired 1st OEM porting business from JP gaming customer
+Responsibilities:
+1. domestic and overseas business development, including new
+customer development, CRM, marketing strategy and so forth
+2. Public relation: awarded 3rd place in 2018 meet MASKED_LOCATION startup
+competition
+3. Lead the marketing & sales team for 2 members
+Shihlin Electric & Engineering Corporation, MASKED_NAME, Jul
+2017 ~ Oct 2018
+Achievements:
+I assisted Business Unit of Automotive to achieve new business
+opportunities of transaxle motors (heavy-duty) with construction
+equipment supplier from MASKED_LOCATION
+Responsibilities:
+1.Perform strategy analysis, integration, and exercise
+2.Provides investment consultancy for the management
+3. Take charge of BU performance analysis and suggestions
+4. Aid management to exercise corporate policy and projects
+5.Support the superior to undertake negotiation and meeting
+internally and externally
+6.Oàer suggestions to BU of Automotive for negotiation with
+automotive manufacturers
+Garmin Corp., Business Development, May 2015 ~ Jul 2017
+Achievements:
+I devoted to driving the sales revenues & achieved historical high in
+2016 summer promotions, which results in YoY growth of 85% in
+revenues and 66% in volume
+MASKED_ADDRESS MASKED_NAME | CakeResume
+MASKED_URL
+2/3
+Responsibilities:
+1. Automotive OEM infotainment product planning and marketing
+strategy planning and implementation for TW and GCC regions
+2. business development and relationship management with the
+largest global automotive manufacturer and its car dealers
+Interss Taiwan Ltd., Executive Assistant, Nov 2011 ~ Apr 2015
+Achievements:
+I managed a cost-saving project, reduced 1/MASKED_ADDRESS-
+eÞciency, and also decreased 1/3 of total manufacturing costs by
+outsourcing PTFE vacuum pump from a local OEM supplier
+Responsibilities:
+1. Oàer Õnancial analysis reports for enterprise health examination
+and equipment purchases
+2. I am responsible for internet marketing by managing the MASKED_NAME's
+website, Facebook fan page, and MASKED_NAME
+3.Collect market feedback on products and provide improvement
+proposals in order to stimulate product updates and revenues
+4. I took charge of the lead-in of a new ERP system
+5.Inventory control and purchase of raw materials and parts
+6.5 months working experience (incl. expo booth) in the parent
+company, Shibata ScientiÕc Technology Ltd., located in MASKED_LOCATION, MASKED_LOCATION
+for all-around business training
+EDUCATION
+III, CertiÕcation, AI big data Analysis Full-time Half-year
+Program, 2019 ~ 2019
+Achievements:
+as a PM and engineer, I lead a team to develop a MASKED_LOCATION backpack tour
+one-stop service (Öight/ hotel/ restaurants/ POI/ souvenir customized
+recommendation) via LINE bot
+University of Illinois, MBA, Finance & Marketing, 2009 ~ 2011
+Consumer Behavior (A)
+International Marketing (A)
+Corporate Finance (A)
+National Chung Hsing University, BBA, Finance, 2003 ~ 2007
+Financial Statement Analysis (A)
+Game Theory (A)
+Merge and Acquisition (A)
+AItinerary
+the project oàers a one-stop MASKED_LOCATION backpack tour
+scheduling LINE bot by ETL, RDB, MASKED_LOCATION, LINE bot, GCP,
+machine learning, deep learning, transfer learning, and so
+forth
+MASKED_ADDRESS MASKED_NAME | CakeResume
+MASKED_URL
+3/3
+SQL Bootcamp
+Online Course
+Instructor: MASKED_NAME: udemy

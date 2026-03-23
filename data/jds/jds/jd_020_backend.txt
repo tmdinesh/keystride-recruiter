@@ -1,0 +1,77 @@
+ROLE: Senior Fullstack Developer
+SOURCE: RemoteOK
+URL: https://remoteOK.com/remote-jobs/remote-senior-fullstack-developer-kodify-media-group-1130526
+
+Who are we, and why are we hiring?
+We're based on over 15 years of success, producing world-class video content and building, developing, and managing a number of high-traffic websites. Our award-winning content and websites are created exclusively by us and directly for the use of millions of users worldwide. At Kodify, we're not just pushing boundaries in online entertainmentwe're rewriting the script! Our goal is to empower our people with everything they need to pioneer innovation in our industry. Our culture is our secret sauce, and we're committed to preserving and enhancing it every step of the way. Join our crew, where the Kodify team is not just an assetit's our crown jewel. We prioritize their growth and well-being above all else, ensuring they're set up for success and always inspired to deliver their best work.
+As a rapidly expanding company with diverse hubs across the globe and over 20 vibrant national cultures, working with us means embracing thrilling challenges tailor-made for a star
+Senior Full-Stack Developer
+! At Kodify, we love tech and are always thinking about whats next! R&D and optimizations are part of our spirit.
+What will you do?
+Youll help to evolve a platform that supports close
+to 100M unique visitors
+a month.
+Create, maintain and evolve Server and Client-side applications
+Responsibility
+for technical design, development and testing.
+Collaborate
+with Product Owners, Designers and domain experts to ensure they understand possibilities/limitations
+Performance
+- Always work towards minimizing API response times, with the best tools available to ensure youve full visibility: Metrics, Distributed Tracing, and Aggregated Trace Metrics.
+Duties
+- Becoming a valued team member, providing feedback about tech, development lifecycle and processes. Take ownership of your code / task / r
+ole.
+Goal
+- Be proud of what you achieve, and of the product, and be one of the driving forces behind always making it better.
+Where and when:
+From wherever you want, the position is fully remote in the EU. Were very flexible about when you get your work done, but we do have some core hours where we like to overlap in order to promote collaboration and low-latency communication between team members (10:00 to 15:00 CET).*
+Our daily virtual stand-ups are important for us but other than that, youre free to manage your own time.
+What we offer:
+Fully remote position or, if preferred, working in our awesome Barcelona office!
+Agile environment
+Top-notch tech stack!
+Upskill Fridays! Developers take time on Fridays to improve your skills, learn and research new trends that will allow us to level up our stack and processes
+Flexible working hours + core hours!
+10% on top of your salary for learning and development - of your choice!
+Latest MacBook Pro!
+Company Amazon book account!
+Kodify off-sites, on-sites, events, and team activities!
+Amazing international team!
+1 day off on your birthday
+Generous vacation and personal days
+1 month paid sabbatical after 3 years
+Extended parental leave
+Health & Wellness budget
+Mobile phone reimbursement
+Job requirements
+Minimum of 4 years of full-stack development experience
+Expert in
+the
+React and Node.js
+ecosystems
+Solid experience of
+NoSQL databases
+Experience with
+Docker
+High level of skills with
+browser APIs, DOM and HTML/CSS
+Experience with
+JavaScript
+and
+TypeScript
+Familiarity with
+agentic AI development
+(e.g. autonomy, tool usage, multi-step workflows) and experience applying them in real-world web development contexts.
+A team player who likes to help others and solve problems together
+Ownership of solutions
+Mentoring
+Investigation of
+new technologies
+Advocate of
+clean code and clean architecture
+Passionate about testing
+You have a real Can Do work ethic - We are results-based, not clock-based!
+You love to have fun while you work!
+Nice to have:
+MongoDB * Redis * Express * Fastify * GraphQL * RabbitMQ * Docker * AWS * Next.js * Redux * Styled Components * Distributed Systems * Microservices architecture * Domain Driven Design *Experience in High traffic websites *Understanding of Agile principles * Experience with
+Git and JIRA * Experience working remotely * We value open source projects

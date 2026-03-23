@@ -1,0 +1,26 @@
+{
+  "resume_id": "Vivek Joshi_CV_anon",
+  "skills": [
+    "express",
+    "sql",
+    "gcp",
+    "jira",
+    "postman"
+  ],
+  "education": {
+    "degree": "Bachelor of Engineering \u2013 2005 batch",
+    "year": "2005"
+  },
+  "experience_years": 12,
+  "projects": [
+    "Updating existing & planned database",
+    "RF Engineer \u2013 Nutek India Ltd, (Feb 2006 to Dec 20007)",
+    "Client: Ericsson, Gurugram India",
+    "GSM RF Performance maintenance, stats monitoring with trouble shooting and optimization on GSM-1800 and Frequency planning of new sites.",
+    "As a team member, was responsible for"
+  ],
+  "certifications": [
+    "Working with scrum master for sprint/Iteration planning activities.",
+    "Able to work and coordinate with other teams\u2019 scrum master to discuss any conflicts from product integration perspective"
+  ]
+}

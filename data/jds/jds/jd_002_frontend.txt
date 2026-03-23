@@ -1,0 +1,45 @@
+ROLE: Senior Frontend Engineer
+SOURCE: Synthetic
+URL: N/A
+COMPANY: CloudBridge Inc
+
+============================================================
+  SENIOR FRONTEND ENGINEER
+  CloudBridge Inc
+============================================================
+
+ABOUT THE COMPANY
+----------------------------------------
+CloudBridge Inc. is a pioneering technology company dedicated to building robust and scalable cloud-based solutions. We empower businesses globally by providing innovative platforms that optimize operations, enhance data management, and deliver seamless digital experiences.
+
+RESPONSIBILITIES
+----------------------------------------
+  • Develop, test, and deploy high-quality, responsive, and performant web applications using Vue.js and related technologies.
+  • Collaborate closely with product managers, UX/UI designers, and backend engineers to translate requirements into technical specifications and deliver impactful features.
+  • Contribute to architectural discussions, define best practices, and ensure the scalability, maintainability, and security of frontend systems.
+  • Mentor junior and mid-level engineers, conduct code reviews, and foster a culture of technical excellence and continuous improvement.
+  • Identify and address performance bottlenecks, debug issues, and ensure optimal user experience across various browsers and devices.
+
+REQUIRED SKILLS (Must-Have)
+----------------------------------------
+  ✅ Vue.js (Vue 3)
+  ✅ TypeScript
+  ✅ HTML5, CSS3 (with preprocessors like SCSS/Sass)
+  ✅ State management libraries (e.g., Pinia, Vuex)
+  ✅ Experience with RESTful API integration and asynchronous programming
+  ✅ Proficiency with modern JavaScript testing frameworks (e.g., Vitest, Jest, Vue Test Utils)
+
+PREFERRED SKILLS (Nice-to-Have)
+----------------------------------------
+  ⭐ Familiarity with cloud platforms (e.g., AWS, Azure, GCP) and serverless architectures
+  ⭐ Experience with CI/CD pipelines (e.g., GitLab CI, GitHub Actions) for automated testing and deployment
+  ⭐ Knowledge of UI component libraries or design systems (e.g., Vuetify, Element Plus, Tailwind CSS)
+
+EXPERIENCE & EDUCATION
+----------------------------------------
+  Experience: 4-6 years
+  Education:  Bachelor's degree in Computer Science, Software Engineering, or a related technical field, or equivalent practical experience.
+
+COMPENSATION
+----------------------------------------
+  $130,000 - $170,000 USD per year

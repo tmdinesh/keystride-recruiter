@@ -1,0 +1,30 @@
+{
+  "resume_id": "Bapuji Hadoop developer_anon",
+  "skills": [
+    "python",
+    "java",
+    "javascript",
+    "scala",
+    "html",
+    "css",
+    "spring",
+    "express",
+    "sql",
+    "mysql",
+    "oracle",
+    "cassandra",
+    "aws",
+    "apache",
+    "spark",
+    "hadoop",
+    "airflow",
+    "jira"
+  ],
+  "education": {
+    "degree": "Bachelor of Technology in Computer Science Engineering at JNTU, Kakinada, MASKED_NAME, MASKED_LOCATION.",
+    "year": "Unknown"
+  },
+  "experience_years": 8,
+  "projects": [],
+  "certifications": []
+}

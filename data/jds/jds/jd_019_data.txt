@@ -1,0 +1,23 @@
+ROLE: Senior Database Reliability Engineer
+SOURCE: RemoteOK
+URL: https://remoteOK.com/remote-jobs/remote-senior-database-reliability-engineer-okta-inc-1130537
+
+Okta, Inc.													
+
+														Apply now
+													
+
+														Share this job:
+													
+
+Get a 
+rok.co
+ short link
+
+Okta, Inc. is hiring a 
+
+Remote Senior Database Reliability Engineer
+
+Get to know OktaOkta is The Worlds Identity Company. We free everyone to safely use any technology, anywhere, on any device or app. Our flexible and neutral products, Okta Platform and Auth0 Platform, provide secure access, authentication, and automation, placing identity at the core of business security and growth.At Okta, we celebrate a variety of perspectives and experiences. We are not looking for someone who checks every single box - were looking for lifelong learners and people who can make us better with their unique experiences.Join our team! Were building a world where Identity belongs to you.\nSenior Database Reliability Engineer (DBRE)\nExperience Level: MidSenior (4+ years PostgreSQL experience)\nAbout the Role\nWe are looking for a highly skilled Database Reliability Engineer (DBRE) with deep expertise in PostgreSQL at scale and solid experience with MySQL. In this role, you will design, operationalize, and optimize the data persistence.																																																																																
+
+												Apply for this job

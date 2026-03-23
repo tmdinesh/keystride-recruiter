@@ -1,0 +1,124 @@
+Professional Summary 
+More than 8 years of cross-functional progressive experience in the capacities of Business Systems Analyst, Project Coordinator, Technical Writer, Implementation Coordinator/Single Point of Contact (SPOC) for deliverables, and Systems Analyst. 
+Expertise in business analysis and planning, documentation, requirement elicitation, requirement management, identification of enterprise business need, business analysis tools and techniques, understanding requirement solution assessment and software development life cycle, including analysis, design, development, testing and implementation of software applications. 
+Expert at interacting with stakeholders, Subject Matter Experts (SMEs) and end-users to understand, analyze, communicate and validate requirements using Joint Application Design (JAD), Joint Application Review (JAR) sessions.
+Strong experience in developing test plans; build test conditions and test cases, creating test data, analyzing bugs, interacting with development team members to fix defects.
+Standardized the SDLC process by collaborating with IT partners. Established new requirements for user acceptance testing guidelines, which reduced issues during and after launch. 
+Experience in GAP ANALYSIS between the "AS-IS" model of the legacy system and "TO-BE" model to identify the project gaps. 
+Gathered and analyzed requirements, development of detailed functional designs and test cases in support of proposed projects and system enhancement requests.
+Connoisseur in documenting Business Requirements Document (BRDs), Functional Requirements Document (FRDs), Non-Functional Requirements Documents, Use Cases, Test Cases and User MASKED_NAME 
+A smart working, motivated, sincere, committed, quick learner, detail-oriented team player with excellent communication, analytical, leadership, interpersonal and problem solving skills.
+Worked in various Healthcare areas like MASKED_LOCATION, Benefits, Claims, experience in Healthcare concepts such as HIPAA privacy, ICD-9/ICD10 conversion, patient protection and affordability care act PPACA. Experience as Business/Systems Analyst with expertise in Insurance, Healthcare processes, health insurance exchange HIX, meeting federal compliance and regulation, understanding client requirements and providing scalable infrastructure.
+Work Experience
+Sr. Business Systems Analyst
+The Vanguard Group  
+Malvern, PA
+August 2016 to Present
+Project: Global PCOE Redesign Implementation. 
+Support and maintain solutions for all IT clients, delivers IT services through regional support centers in MASKED_LOCATION, MASKED_LOCATION, and MASKED_LOCATION that work together seamlessly to provide 24x7support across the globe. Several key services that will be offered and implemented 
+Project Goal: Key Strategy for this project is to define globally consistent processes for the Tier 2 PCoE Organizations in each region. (MASKED_LOCATION, MASKED_LOCATION, AUS)
+Application Support: Incident Management, Problem Management, Event Management, Request Fulfillment, knowledge Management, Service Level Management, Availability and App. Health Management, Production Turnover and Acceptance. 
+This effort will reduce mean time to restore service (MTTR), Increase client satisfaction, Use globally consistent processes, provide documentation for easy on-boarding, on the job training, and education on business processes and flows. Key deliverables include Service definitions and models, Process flow charts for each service, roles and responsibilities for each service, Key measures, Critical Success Factors for each service. 
+Responsibilities: 
+Uses a variety of information gathering techniques (e.g., interviews, brainstorming, focus groups, facilitated sessions) to determine business, system requirements and technology needs. 
+Leads requirements gathering sessions, requirement analysis, planning, tracking and delivery. 
+Responsible for the delivery of Business Requirements Document (BRD) within project timelines. 
+Analyzed user problems, including automated and manual business processes and identified, researched, investigated, defined and documented business processes.
+Designed and developed User stories, Use Cases and created process flow diagrams using MASKED_NAME. 
+Modeled the detailed design of the process using UML, Use Case Diagrams, Activity diagrams and State Chart diagrams. 
+Created user interface design or coordinates activities with design team. Writes use case documents and requirements.
+Identified, researched, investigated, analyzed, defined and documented business processes and Use Case Scenarios. 
+Created and updated project status in MS Project and shared it with Stakeholders, business process owners, subject matter experts.
+Maps work flows of internal client. Ensures project addresses business needs and IT issues, such as security requirements and regulations.
+Elicits identification of business assumptions and risks. Communicates technical issues at appropriate level for audience. 
+Translates business needs into system and software requirements, and writes requirements documents. 
+Participates in Change Control Board activities to ensure system specifications are met, and to identify the risks and interface issues that may result from approval or rejection of changes. Coordinates submission of change management requests and verifies record assignment, tracking, and closure.
+Collaborate with various project team members (Data Conversion Architects, Software Engineers and business users) to create, modify and validate data conversion rules.
+Track the rules by maintaining a data mapping document in Excel, which contains data elements from legacy system to new system.
+Analyze existing system, new system and data to understand the relationships between multiple databases and processes by utilizing Entity Relationship Diagram Models (ERD), Business Design Documents (BRDs), Functional Design Documents and system process flows.
+Created SQL queries, MS Access and MS Excel to drill down and analyze large data sets, mining business data to identify trends, patterns and insight among the various data elements.
+Technical Analyst (BA)
+Marsh McLennan/Trion 
+MASKED_LOCATION, PA
+November MASKED_ADDRESS 2016
+Responsible for analysis of employee benefits & enrollment program, supporting the organization in developing benefits administration processes, open enrollments and other special projects. This includes life, medical, dental, vision benefits administration, changes to payroll, administering the online benefits system and working on weekly errors produced from carrier interfaces. Working collaboratively with clients, carriers, and develop technical and functional specifications, create and execute test plans, and consult on system design, implementations, and business process flows. 
+Responsibilities: 
+Primary responsibility include review, gap analysis, statement of work, and costing for IT work to client requests for proposal (RFP). Evaluate/research business problems and their relationship to technology. 
+Execute change management tasks in systems projects including, but not limited to, communication to key user communities, providing subject matter expertise, providing training and documentation where appropriate.
+Analysis of employee benefit programs, including Health, Life, Dental, Accident and Disability, Medical/Dependent care spending accounts, COBRA, Leave of absence/FMLA, health savings account (HSA), federal savings accounts (FSA) and different retirement plans. 
+Assists with the Implementation of new benefit programs advise management for the changes, arrange and conduct enrollments related presentation. 
+Gather and document business requirements to develop technical and functional design specifications for new programs or modifications to existing programs per client requirements.
+Analyze technical requirements, test plan, training materials and procedure documents. 
+Execute test plans and test case scenarios to ensure requirements are being met.
+Perform data manipulation, mapping, conversions, and validations utilizing internal systems, external files, Access, and Excel. 
+Create and execute SQL and/or Access queries to determine proper data logic and file structures. 
+Develop and generate carrier files, enrollment counts, payroll files, census files, and billing reports while verifying reports meet quality standards. 
+Assist with Project Management tasks such as scope definition, project plans, issue management, and status updates. 
+Support client implementations, renewals, and other project initiatives as needed.
+Business Analyst Consultant 
+Horizon BCBSNJ 
+MASKED_LOCATION, NJ
+Feb 2013 to October 2015
+Accounting System, Benefits, Clinical, care management, case management, referrals, MPs, Payments, 837,835,834, 270/271, 276/277, policies, contract management, provider, companion guide, MASKED_NAME, Hipaa 5010, Medicaid/Medicare, drugs, procedure codes, service line analysis, professional, institutional claims. 
+Responsibilities: 
+Strong business analysis and requirements gathering experience including; leading JAD sessions and SME interviews, use case and technical specification development, wireframe, storyboarding and test script creation. 
+Implemented HIPAA/ EDI X12 4010/5010 healthcare-related file formats including 834/835, 837, 270/271, 276/ 277, 278, 999 for acknowledgements. 
+Knowledge of claims, enrollment, eligibility and business processes in a commercial, Medicare/Medicaid health plan. Fluent with commonly used EDI concepts, practices and procedures within the heath-care industry.
+MASKED_NAME and defines scope and objective based on user needs and thorough understanding of business processes.
+Performs JAD sessions and requirement elicitation, gathers and documents system requirements from users for software selection and development projects.
+Work with stakeholders on process improvement projects designed to improve results, and will lead business process re-engineering efforts.
+Gather and analyze key data and provides recommendations to address and resolve root causes. 
+Tackle complex business/systems problems and communicates this information to stakeholders (includes technical teams for translation into solution design).
+Develop business process scripts, use cases, etc. used for configuring software to meet the Responsible for gap analysis, planning, coordination, requirements direction, and scheduling of new software feature development to support migration of numerous classic software application systems to most current product service applications. 
+Identifies process, technology and organizational role changes necessary to support business goals and objectives. 
+Perform data analysis on the claims data, enrollment data by utilizing T-SQL on the SQL Server 2003. 
+Write SQL queries for the reporting, data analysis, code set analysis, identify gaps in the data, financial reconciliation and the data consistency. 
+Worked on various methodologies including Waterfall, Agile, and Scrum methodologies. Good understanding of business strategy and development techniques. 
+Business Analyst
+Anthelio Business Technology
+Hyderabad, MASKED_LOCATION
+Jan 2010 to Feb 2013
+Project: HIPAA 4010/5010 conversion 
+Objective of the project was to develop Medicaid Management Information System for State of Washington following HIPAA standards. The web based Health Care Management System is developed using HIPAA guidelines and regulations which keeps track of Healthcare transactions like MASKED_NAME, Request and Response for Status, Prior Authorization, Claims and Claims Payment. This application also keeps record of all transactions, subscriber's medical history and provides data to other State agencies as required.
+Responsibilities: 
+Ensure the ongoing integration of information security with business strategies and requirements. 
+Define business details for provider handling, subscriber claim processing rules, other payer logic, and diagnosis procedure codes. Ensure consolidation of information security with business plans and necessities. 
+Work with different stakeholders, outside business teams and other third parties to improve information security within the organization. 
+Implemented, managed, and enforced information security directives as mandated by HIPAA. Provide architectural advice to management for HIPAA claims. 
+Comply with HIPAA, Diversity Principles, Corporate Integrity, Compliance Program policies and other applicable corporate and departmental policies also reviewed security plans. 
+Involved in implementation of HIPAA EDI Transactions (835, 837, 820,276) 
+Facilitated Electronic Data Interchange and performed GAP Analysis for HIPAA 4010 and 5010 transactions. 
+Recommended changes for system design, methods, procedures, policies and workflows affecting Medicare/Medicaid claims processing in compliance with government compliant processes like HIPAA/ EDI formats. 
+Analyzed HIPAA EDI transactions in XML and X12 responses and of 270 and 276 and looked for defects for amendment. Develop applications which accept different claims like Medical claims, Dental claims, and vision claims from different vendors. 
+Have worked in Waterfall, Agile methodologies. Create, define and maintain data life cycle documentation representing data elements across multiple upstream and downstream systems. 
+
+Business Analyst
+Vonepxy
+Hyderabad, MASKED_LOCATION
+April 2008 to Jan 2010
+Responsibilities: 
+Developed and implemented processes and tools for requirements gathering, analysis, planning, tracking and delivery.
+Responsible for the delivery of Business Requirements Document (BRD) within the project timelines. 
+Analyzed user problems, including automated and manual business processes and identified, researched, investigated, defined and documented business processes 
+Designed and developed User stories, Use Cases and created diagrams using MASKED_NAME 
+Modeled the detailed design of the system using UML and Rational Rose, Use Case diagrams, Activity diagrams and State Chart diagrams 
+Identified, researched, investigated, analyzed, defined and documented business processes and Use Case Scenarios.
+Created traceability matrix to ensure that all Functional Requirements are addressed at the Use Case Level as well as the Test Case Level. 
+Created and updated project status in MS Project and shared it with stakeholders. 
+Performed Functional and GUI Testing to ensure that the user acceptance criteria are being met.
+Co-coordinated the UAT with the SME's to make sure that all the Business Requirements are addressed in the application. 
+Business Analyst
+Captialone
+Hyderabad, MASKED_LOCATION 
+June MASKED_ADDRESS functionalities to TSYS, this requires complete understanding of credit card services dealing with VISA and MasterCard line of services for Small Businesses and Client Service Applications. Migration of all letters and customer correspondence, Embossing Details for Plastic, CIF updates, Card-Receipt-Verification, Data Security, Batch Processes setup with VISA for reconciliation, MASKED_NAME updates involving login and view-account information, online payments, balance transfers, manage account etc.
+Responsibilities: 
+Identify Project needs, Affected Business functions, gathering business requirements 
+Create Scope document related with Account Acquisition, Card-Receipt-Verification, collection efficiency, expansive data capture, speed to market business function. 
+Define Business needs using Requisite Pro, Conduct and participate in JAD sessions 
+Involved in creating the Use Cases Diagrams, flow charts, Activity diagrams and process models MASKED_NAME test case and log it in MASKED_LOCATION.
+Developed and adapted existing governance and organizational structures to meet the needs of an evolving program.
+Reviewed the developed product with Development before the release cycle and worked with development to fix issues
+Developed test scenarios/scripts, test plans, prepared User Acceptance Testing (UAT) cases, UAT issue log for tracking the defects in JIRA and collaborated with system users to conduct UAT.
+Education
+Bachelor’s in Computer Science & Technology
+JNTU University

@@ -1,0 +1,23 @@
+{
+  "resume_id": "Vishnu BA Resume_anon",
+  "skills": [
+    "javascript",
+    "html",
+    "css",
+    "jquery",
+    "spring",
+    "asp.net",
+    "rest",
+    "soap",
+    "sql",
+    "tableau",
+    "jira"
+  ],
+  "education": {
+    "degree": "Bachelor of Technology",
+    "year": "Unknown"
+  },
+  "experience_years": 10,
+  "projects": [],
+  "certifications": []
+}

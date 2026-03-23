@@ -1,0 +1,35 @@
+{
+  "resume_id": "madhuri_java_anon",
+  "skills": [
+    "java",
+    "javascript",
+    "php",
+    "react",
+    "angular",
+    "html",
+    "css",
+    "bootstrap",
+    "jquery",
+    "node",
+    "spring",
+    "express",
+    "asp.net",
+    "rest",
+    "soap",
+    "sql",
+    "mysql",
+    "oracle",
+    "aws",
+    "jenkins",
+    "apache",
+    "git",
+    "jira"
+  ],
+  "education": {
+    "degree": "Bachelor's  in Computer Science Engineering from Jawaharlal Nehru Technological University,  MASKED_LOCATION in 2008.",
+    "year": "2008"
+  },
+  "experience_years": 7,
+  "projects": [],
+  "certifications": []
+}

@@ -1,0 +1,30 @@
+{
+  "resume_id": "Reddemma_Lankipalle_anon",
+  "skills": [
+    "java",
+    "ruby",
+    "angular",
+    "html",
+    "css",
+    "rest",
+    "soap",
+    "sql",
+    "oracle",
+    "jenkins",
+    "git",
+    "jira"
+  ],
+  "education": {
+    "degree": "Unknown",
+    "year": "Unknown"
+  },
+  "experience_years": 8,
+  "projects": [
+    "Understanding the customer requirements and functionality of the application.",
+    "Identifying Test Scenarios by using Use cases.",
+    "Involved in Test Data preparation and Test execution",
+    "Analyzing the impacts of new CRs on existing scenarios and updating the Test cases.",
+    "Conducting various tests such as Smoke testing, GUI, functional and retesting, regression testing, user interface testing etc."
+  ],
+  "certifications": []
+}

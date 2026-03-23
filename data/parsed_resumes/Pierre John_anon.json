@@ -1,0 +1,50 @@
+{
+  "resume_id": "Pierre John_anon",
+  "skills": [
+    "python",
+    "java",
+    "javascript",
+    "php",
+    "ruby",
+    "r",
+    "html",
+    "css",
+    "bootstrap",
+    "jquery",
+    "node",
+    "spring",
+    "express",
+    "rails",
+    "asp.net",
+    "rest",
+    "soap",
+    "sql",
+    "mysql",
+    "mongodb",
+    "oracle",
+    "cassandra",
+    "elasticsearch",
+    "aws",
+    "azure",
+    "jenkins",
+    "linux",
+    "apache",
+    "spark",
+    "hadoop",
+    "jira",
+    "swagger"
+  ],
+  "education": {
+    "degree": "Master of Science from New York University.",
+    "year": "Unknown"
+  },
+  "experience_years": 10,
+  "projects": [
+    "Troubleshooted issues concerning Apache Tomcat during deployment.",
+    "E-procurement system run on Unix operating system.",
+    "Lead development and site building on Drupal-based projects. Mentor junior developers on site building and development best practices.",
+    "Applying Ruby on Rails and JQuery debugged, enhanced, extended business-to-business SAP application. Provided extensive integration and functional mocks testing.",
+    "J2EE to communicate legacy COBOL based mainframe implementations."
+  ],
+  "certifications": []
+}

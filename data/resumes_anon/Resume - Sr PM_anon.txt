@@ -1,0 +1,109 @@
+SANTHOSH ABRAHAM
+Mobile - MASKED_PHONE; E-mail: MASKED_EMAIL 
+LinkedIn ID:  MASKED_URL
+Core Competencies
+Professional Summary
+Dynamic and results-oriented software professional with over 19 years of experience in IT industry as Program Manager, Project Manager, SCRUM Master, Business Analyst etc. 
+Certified Project Manager Professional (PMP) with demonstrated project management skills in project initiation, scoping, resourcing, scheduling, budgeting, monitoring, risk and communication.
+13+ years of strong Project management skills and experience in managing both Traditional Waterfall & Agile projects using project management methodologies (PMBOK) and NYS Project Management Methodologies.
+A self-starter with proven track record of managing projects of various sizes & value up to 10M USD in Public Sectors (Both Federal & State), Healthcare, Manufacturing, Supply Chain, Distribution and Retail.
+Certified Scrum Master (CMS) with hands-on experience of 8 years in facilitating, monitoring and reporting on the scrum planning cycle phases, from release pre-planning through sprint,  capacity planning and sprint retrospective
+Experienced in managing both EPMO managed projects and Non-PMO projects.
+An effective communicator and leader with strong interpersonal, analytical, client, vendor and people management skills.
+Extremely versed in Software Development Life Cycle (SDLC) processes using waterfall and agile methodologies.
+8+ years of experience in managing projects in Public/Government (both Federal and State projects) sectors
+9+ years of demonstrated experience in business analysis and requirement gathering. 
+Experience in Healthcare Data such as Medicaid and HIPPA protected data.
+Experience in managing NY State, USAID, World Bank and RFMH funded projects.
+Experience in managing distributed project teams and onsite-offsite model projects.
+Technical Skills: -
+PM Tools		-    Microsoft Project, Clarity, Service Now (ITSM)
+Agile/SCRUM Tools     -    Team Foundation Server (TFS) Scrum V1.0, MASKED_NAME, Rally, Urban Turtle
+Other Tools		-    Visio, Microsoft Office 365, SharePoint, HP Quality Center, TFS
+Methodologies	-    Project Management Body of Knowledge (PMBoK), Waterfall, Agile (SCRUM),    
+                                             SDLC, Joint Application Development (JAD)
+RDBMS 		-    Oracle
+OS			-    Windows, iOS
+EMR			-    VistA
+Professional Experience
+Project Manager – NY State Office of Mental Health, MASKED_LOCATION, MASKED_LOCATION – Since Jan 2012
+The Psychiatric Services and Clinical Knowledge Enhancement System (PSYCKES) is a HIPAA compliant, web-based portfolio of web applications using the administrative data from NYS Medicaid claims database to support quality improvement and clinical decision-making in MASKED_LOCATION. 
+As part of NYS Health Cluster EPMO, responsible for managing the IT software application development of this multi-year and multi-million dollar (10M) value project and its deliverables for NYS Office of Mental Health (NYS OMH) using Agile SDLC framework
+Managed the Phase - I integration of web application with the newly implemented Electronic Medical Records (MASKED_NAME) VistA at NYS Office of Mental Health (OMH)
+Preparing and managing various project management plans, creating WBS, schedules and monitoring the progress on a day to day basis and keep the project documents up-to-date. 
+Manage the risks, issues, dependencies and developed risk responses and mitigation strategies.
+Maintaining the project metrics and provide monthly as well as bi-weekly project status reports to EPMO, Executive Team,  Project Sponsor and Agency Senior Management
+Actively participated in the process of defining, improving PMO policies & practices, defining the Agile Process and preparation of Agile Guide book for NY MASKED_ADDRESS
+Assisted EPMO in multiple projects under the program and portfolio and helped to achieve the organizational goals
+Facilitating the various meetings, user story workshops and other sprint related meetings with business owners, project sponsors and other stake holders.
+Define the product roadmap and manages the Release Planning, Sprint Planning, MASKED_NAME, MASKED_NAME, User MASKED_NAME and MASKED_NAME.
+Responsible for reporting the progress of project (sprint and releases) to the management using various scrum artifacts from backlogs to burndown charts.
+Managed a team of 11 team members in the development of PSYCKES application suite comprises of multiple web applications and iOS App
+Coached and transformed the PSYCKES project team into Agile/SCRUM mode from traditional development practices and guided them thru the transition process.
+Environment:  Web based Architecture - .Net & Oracle database using Agile and PMBoK methodologies
+Project Manager - FreeBalance Inc., MASKED_LOCATION, MASKED_LOCATION – Dec 2009 till Dec 2011
+Government of Mongolia (Ministry of Finance) - A World Bank funded project for Government of Mongolia towards Economic Capacity Building Technical Assistance Credit (ECTAC) program to implement & rolling out the Finance & Budgeting System software for various government institutions across the country.
+As part of PMO, successfully managed the software application development, implementation and roll out of centralized Finance and Budgeting system across various ministries of Government of Mongolia using Agile Scrum Methodologies.
+Managed the Release Planning, Sprint Planning, MASKED_NAME, MASKED_NAME, User MASKED_NAME, MASKED_NAME and communicated the various status reports respective stakeholders.
+Responsible for setting and managing project stakeholder expectations throughout the project lifecycle
+MASKED_NAME and managed the Project management plans and project documents and reported the status regularly to the World Bank Team, Government Agency and project management team.
+Managed the project related risks and issues, tracking, reviewing and removing impediments to project success
+Facilitated meetings with Government officials up to ministers, sponsors and major stakeholders.
+Worked as a Liaison between the IT team, project stakeholders and external vendors for successful completion of project deliverables. 
+Effectively managed the onsite and offshore team of 10 members to successful completion of the project
+Assisted pre-sales team in preparing and reviewing the RFP’s and RFP responses
+Environment:  Web based Architecture - Java Enterprise Edition on Oracle DB using Agile and PMBoK methodologies
+Government of MASKED_LOCATION (Ministry of Public Service) - A World Bank aided project for Government of Uganda to implement & roll out the Integrated Personnel & Payroll System across various government institutions throughout the country.
+As part of PMO, successfully managed the software application development and implementation of Integrated Personnel & Payroll System (IPPS) project right from planning until closure of phase - I and support handover using Agile SCRUM methodologies
+Developed and maintained all project management plans, schedules and project documents and reported the regular status to the Ministry, MASKED_LOCATION and other major stakeholders. 
+Managed the onsite and offshore project teams in such a way that the deliverables are delivered in a timely fashion till successful completion 
+Responsible for managing the project requirements using agile artifacts and reviewed the progress against the requirement traceability matrix. 
+Successfully managed the Phase-I implementation of Integrated Personnel & Payroll System (IPPS) using a team of 8 members and completed the rollout across 9 ministries and 15 local governments of MASKED_LOCATION within the scope and budget.
+Worked with local H/w partner in procurement of applicable H/w components according to the design document and managed their resources in setting up the central data center and disaster recovery sites.
+Assisted pre-sales team in preparing and reviewing the RFP’s and RFP responses
+Managed the Integration of IPPS system with Financial Management Information System(IFMIS) of Ministry of Finance & Pension Management System of Uganda Peoples Defense Force (UPDF)
+Environment:  Web based Architecture - Java Enterprise Edition on Oracle DB using waterfall and PMBoK methodologies
+Project Manager - 3i Infotech Inc., NJ, MASKED_LOCATION – Aug 2006 to Dec 2009
+The Partnership for Supply Chain Management (MASKED_NAME), MASKED_LOCATION, MASKED_LOCATION, USA - Partnership for Supply Chain Management firm funded by the U.S. Agency for International Development (USAID) in procuring pharmaceuticals and other related products needed to provide care and treatment of people with HIV/AIDS and related infections and distributing in more than 20 developing countries across world.
+Responsible for project level management of the planning, design, development, implementation, operation support, delivery and client management 
+Managed and successfully rolled out the implementation of supply chain management modules across the 16 MASKED_NAME network countries
+Headed the functional & technical team to support the business process study, analysis, development & implementation of Oracle ERP & CRM solutions
+Environment:  Web based ERP solution using Oracle Forms & Reports on Oracle DB using Waterfall methodology
+Royal Crown Bottling Corp. (RC Cola), MASKED_LOCATION, MASKED_LOCATION, MASKED_LOCATION – is engaged in Beverage Manufacturing, Bottling & Distribution in multi-company, multi-location Environment.
+Responsible for implementation project from project planning till handover to live support
+Successfully implemented the Procure-to-Pay, Order-to-Cash, inventory, manufacturing processes and integrated the software with handhelds in the central location and rolled out to eight warehouses across the 4 surrounding states of MASKED_LOCATION. 
+Managed the roll out of route accounting of 100 plus sales trucks (routes) using handheld & its integration with ERP solution. With this integration RC Cola achieved about 75 – 80 % of performance increase in their warehouse operations and hence the inventory control.
+Provided the functional support in consulting the business process study, defining the scope for EDI integrations of the Business intelligence Tool, Smart Forecast Tool and Customer EDI’s with ERP interface. This includes Wal-Mart, Red bull, Dr. Pepper & Seven Up etc. 
+Handled a 15 member cross functional team across on-site/offshore during the implementation 
+Environment:  Client-Server Architecture using Oracle Forms & Reports on Oracle DB  
+Fiberglass Coatings Inc., MASKED_LOCATION, MASKED_LOCATION, MASKED_LOCATION – engaged in Manufacturing of Custom Specific fiberglass Products & Support and Retail business of third party fiberglass & related products.
+Managed the project initiation, planning, business process study, gap analysis and customization initiation of ERP implementation project
+Provided functional support in consulting the business process study of Procure-to-Pay, Order-to-Cash, inventory control, warehouse management and manufacturing in a multi company, multi-location environment
+Provided functional support in defining the scope for the integration of MASKED_LOCATION (POS) solution with ERP interface
+Environment:  Client-Server Architecture using Oracle Forms & Reports on Oracle DB 
+Program Manager (National Delivery Head) - 3i Infotech Ltd, MASKED_LOCATION, MASKED_LOCATION - Mar 2004 to Aug 2006
+Program level responsibility in managing the delivery of ERP Implementation projects across MASKED_LOCATION geography 
+Successfully managed the delivery of 10 projects in diversified business verticals like Manufacturing, Distribution, Pharma, Auto & Chemicals
+Accountable for Project, People, Client & Channel Partner Management
+Supported Product Management Group in finalizing the product roadmap by ensuring that the best industry practices of Pharma, Distribution, Manufacturing and Food verticals are incorporated into the future releases
+Supported the pre-sales team by conducting scope analysis to understand client’s key business issues and provided appropriate solutions. Also, assisted pre-sales team in preparing the RFP’s and RFP responses
+Handled a team of 35+ cross functional teams members across MASKED_LOCATION geography
+Actively involved in setting up competency centers & capacity building across regions 
+Profitability monitoring through timely invoicing & collections
+Headed the functional team to support in business process analysis and process re-engineering during the implementation cycle
+Environment:  Client-Server Architecture using Oracle Forms & Reports on Oracle DB 
+Deputy Manager (Systems) - Hydro S & S Industries Ltd., MASKED_LOCATION, MASKED_LOCATION – Dec 2002 to Mar 2004 
+Managed the entire ERP implementation (Oracle based ERP) from Business Requirement Analysis, MASKED_NAME, Testing of Business Scenarios, End user Training & support
+Part of Business Strategy & IT Budget planning team 
+Co-ordination with Software as well as Hardware Vendors for IT related purchases
+IT Manager - R.A.K Ceramics Group, MASKED_NAME, U.A.E – Apr 1998 to Sept 2002
+IT Budget planning, analysis, evaluation of new software and hardware solutions
+Headed the ERP Implementation of two group companies & support of day to day issues
+Maintain vendor relationships and manages the procurement of H/w and S/w products
+Data Center Officer - CITICORP Information Technology Industries Ltd., MASKED_LOCATION, MASKED_LOCATION – Jul 1997 to Mar 1998  
+Sr. Programmer-cum-Analyst - Midwest Imports & Exports Pte Ltd., MASKED_LOCATION – Oct 1995 to Jun 1997
+Education & Certifications: - 
+MCA (Masters in Computer Science & Applications) from Bharathidasan University, MASKED_LOCATION (1995).
+Certified Project Management Professional (PMP) from PMI
+Certified SCRUM Master (CSM) from MASKED_NAME
+Advanced Diploma in RDBMS (Oracle) from Software Solution Integrated Ltd, MASKED_LOCATION.

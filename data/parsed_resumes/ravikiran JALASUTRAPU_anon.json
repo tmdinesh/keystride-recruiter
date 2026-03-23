@@ -1,0 +1,38 @@
+{
+  "resume_id": "ravikiran JALASUTRAPU_anon",
+  "skills": [
+    "java",
+    "javascript",
+    "angular",
+    "html",
+    "css",
+    "bootstrap",
+    "jquery",
+    "node",
+    "spring",
+    "rest",
+    "soap",
+    "sql",
+    "mysql",
+    "mongodb",
+    "oracle",
+    "aws",
+    "jenkins",
+    "apache",
+    "git",
+    "jira"
+  ],
+  "education": {
+    "degree": "BACHELOR OF TECHNOLOGY COMPUTER SCIENECE  \u200bfrom MASKED_NAME , MASKED_LOCATION.",
+    "year": "Unknown"
+  },
+  "experience_years": 9,
+  "projects": [
+    "Duration: September  2013 - march 2014",
+    "Involved in various phases of Software Development Life Cycle (SDLC).",
+    "Involved in developing the CSS sheets for the UI Components.",
+    "Persistence layer was implemented using Hibernate Framework and JPA.",
+    "Created, Listed, Deleted and Purged queues on cloud platform AWS-SQS."
+  ],
+  "certifications": []
+}

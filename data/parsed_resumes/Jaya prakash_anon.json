@@ -1,0 +1,42 @@
+{
+  "resume_id": "Jaya prakash_anon",
+  "skills": [
+    "python",
+    "java",
+    "r",
+    "html",
+    "spring",
+    "express",
+    "rest",
+    "soap",
+    "sql",
+    "mysql",
+    "mongodb",
+    "redis",
+    "oracle",
+    "cassandra",
+    "elasticsearch",
+    "aws",
+    "kubernetes",
+    "jenkins",
+    "ci/cd",
+    "apache",
+    "spark",
+    "git",
+    "jira",
+    "confluence"
+  ],
+  "education": {
+    "degree": "Bachelor Degree in Computer Science from Acharya Nagarjuna University, MASKED_LOCATION.",
+    "year": "Unknown"
+  },
+  "experience_years": 10,
+  "projects": [
+    "MakeMyTrip\u2019s Car Booking Service providing the easiest way of instant car booking by enter your requirements and search cabs. After that select the cab that suites you best and enter your details and make the secured payment with any one of credit card, debit card, cash cards and net banking. After successful payment you can receive instant confirmation. It is providing 24*7 customer support.",
+    "Identification of the relevant test cases and performing the system testing.",
+    "Development of the standards and guidelines for development of JSP\u2019S for other modules.",
+    "Review and Random quality checks for other modules and maintenance of defect log.",
+    "Unit and End-to-End testing of the java server pages in co-ordination with the server side team."
+  ],
+  "certifications": []
+}

@@ -1,0 +1,41 @@
+{
+  "resume_id": "Rashmitha R_anon",
+  "skills": [
+    "java",
+    "javascript",
+    "react",
+    "angular",
+    "html",
+    "css",
+    "bootstrap",
+    "jquery",
+    "node",
+    "spring",
+    "rest",
+    "soap",
+    "sql",
+    "mysql",
+    "mongodb",
+    "oracle",
+    "aws",
+    "jenkins",
+    "linux",
+    "apache",
+    "spark",
+    "git",
+    "jira"
+  ],
+  "education": {
+    "degree": "Bachelor of Technology \u2013 Bachelors in computer science",
+    "year": "Unknown"
+  },
+  "experience_years": 8,
+  "projects": [
+    "Involved in the detail design of the modules according to the J2EE standards.",
+    "Built an Application and deployed in the AWS Cloud.",
+    "Created independent services using spring and microservice architecture.",
+    "Created stored procedures, Triggers, fucntions according to the application requirements.",
+    "Advanced password security using PBKDF2WithHmacSHA1 algorithm."
+  ],
+  "certifications": []
+}

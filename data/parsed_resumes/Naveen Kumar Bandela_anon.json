@@ -1,0 +1,35 @@
+{
+  "resume_id": "Naveen Kumar Bandela_anon",
+  "skills": [
+    "java",
+    "javascript",
+    "typescript",
+    "angular",
+    "html",
+    "css",
+    "bootstrap",
+    "jquery",
+    "node",
+    "spring",
+    "rest",
+    "soap",
+    "sql",
+    "mysql",
+    "oracle",
+    "cassandra",
+    "dynamodb",
+    "aws",
+    "jenkins",
+    "ci/cd",
+    "apache",
+    "hadoop",
+    "jira"
+  ],
+  "education": {
+    "degree": "Bachelor of Computer Science from Osmania University in 2008.",
+    "year": "2008"
+  },
+  "experience_years": 8,
+  "projects": [],
+  "certifications": []
+}

@@ -1,0 +1,5 @@
+ROLE: DevOps Engineer
+SOURCE: Adzuna
+URL: https://www.adzuna.com/land/ad/5651493299?se=grQ5y4sY8RGbM9_FMNqlUA&utm_medium=api&utm_source=e34e223e&v=A9F7E688BE890729870A92FAD8419139E11E29D6
+
+At Lockheed Martin, a global leader in the research, design, development, and integration of complex systems, we are seeking a skilled DevOps Engineer to enhance our IT & Cybersecurity team. This position demands an innovative individual committed to evolving our digital operations and ensuring the streamlined activity of our IT systems. Our DevOps Engineers play a critical role in navigating the intersection of development and operations, enabling continuous delivery and optimizing our technol

@@ -1,0 +1,26 @@
+{
+  "resume_id": "Tarun_anon",
+  "skills": [
+    "python",
+    "java",
+    "php",
+    "html",
+    "css",
+    "spring",
+    "soap",
+    "sql",
+    "oracle",
+    "cassandra",
+    "aws",
+    "linux",
+    "apache",
+    "hadoop"
+  ],
+  "education": {
+    "degree": "Unknown",
+    "year": "Unknown"
+  },
+  "experience_years": 10,
+  "projects": [],
+  "certifications": []
+}

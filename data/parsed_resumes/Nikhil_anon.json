@@ -1,0 +1,39 @@
+{
+  "resume_id": "Nikhil_anon",
+  "skills": [
+    "python",
+    "java",
+    "javascript",
+    "typescript",
+    "angular",
+    "html",
+    "css",
+    "jquery",
+    "node",
+    "spring",
+    "express",
+    "rest",
+    "soap",
+    "sql",
+    "mongodb",
+    "oracle",
+    "dynamodb",
+    "elasticsearch",
+    "aws",
+    "azure",
+    "kubernetes",
+    "ansible",
+    "jenkins",
+    "apache",
+    "git",
+    "jira",
+    "confluence"
+  ],
+  "education": {
+    "degree": "Bachelor of Technology in Information Technology from Jawaharlal Nehru Technological University, India.(2010)",
+    "year": "2010"
+  },
+  "experience_years": 8,
+  "projects": [],
+  "certifications": []
+}

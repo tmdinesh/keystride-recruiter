@@ -1,0 +1,301 @@
+Ajay Kumar (CSM)	     		     Email/Skype: MASKED_EMAIL; Mob. MASKED_PHONE
+PROFESSIONAL SUMMARY:
+14 Years IT experience as an Architect, Solutions, Scrum Master, Quality Assurance and Agile Practitioner (Agile Methodology - Healthcare) with SAFe (Scaled Agile Framework) including ETL Testing and Web Services, Selenium Automation engagement of Web application, Project management and technical team handling experience from 20+ associates. Extensive health care background with software implementation knowledge and extensive background in MASKED_LOCATION, eCommerce, Point of Sale,  Banking & Finance, Cards & Payments, Government, Education projects.
+Strong experience in Agile Testing concepts and Testing process, experience in managing complex issues and risks, including appropriate verbal and written.
+Prepares and follows up on regular Scrum events; including daily scrum, sprint planning sessions, backlog grooming, retrospectives. Facilitation and coordination of Agile Program Increment (PI) planning.
+Uses metrics to track and review team performance including MASKED_NAME-down charts, velocity, and other sprint and release metrics.
+Promoting continuous improvement to increase team effectiveness and helping the organization and key stakeholders in adapting an Agile mindset.
+Experience working with Product Owners, architecture, technical leads and other stakeholders to manage cross team and their dependencies.
+Expertise in Test Governance & Test process compliance, vast experience working in a client and business facing role.
+Create test plans, traceability matrices and test impact analysis documents.
+Design and develop test cases using industry best practices; report defects utilizing industry standard defect tracking tools.
+Excellent knowledge in testing metrics and ability to utilize them in day to day testing activities.
+Review complex software requirements and uncover requirements defects.
+Specialized in web and E-commerce testing, test automation scripts using MASKED_NAME and MASKED_NAME.
+Advanced experience of various phases of Software Development Life Cycle (SDLC) while understanding the role of tester in each phase.
+Quality Plan documentation, involved in Project planning documentation included budgeting, staffing profiles, project timelines, issue tracking, and dependency tracking.
+Excellent analytical, problem solving, troubleshooting skills and Well acquainted with the SDLC, Agile and STLC.
+Expertise in HP ALM, Rally, Jira, Bugzilla, Selenium Web Driver, TestNG, SOAP UI, REST, MASKED_NAME, ETL, MASKED_NAME, SQL Developer tools for current project.
+Experience in Release Management lifecycle and deploy releases into production which includes scheduling, coordinating and the management of releases across the enterprise for multiple Applications Updates, MASKED_LOCATION, Security Improvements, Operating System updates.
+Advanced technical knowledge including an understanding of Continuous Integration tools used as MASKED_NAME to achieve efficient and fast delivery and accelerate time to value and even revenue.
+Expert in leading the validation of multiple complex interfaces with broad knowledge of Integration Testing (creating and executing test cases at the Unit/ Integration/ System level/UAT), MASKED_NAME (Web Testing, GUI, MASKED_NAME) and Field Validation (Client-side, Server-side and ETL database).
+Experience in meeting tight timelines and delivery quality work to customer including reviewing cross discipline deliverables.
+Extensive elicitation abilities through SWOT Analysis, Surveys and well facilitated JAD sessions to understand the As-Is business model to gather User and Business Requirements.
+Excellent organizational and presentation skills in directing the To-Be model of the business through proper GAP Analysis in order to generate the necessary Business Requirements Document (BRD), System Requirements Specification (SRS), Functional Requirements Document (FRD), Change Request Processes (CRP), and MASKED_NAME (CP). Knowledge and experience working on smoke testing, debugging.
+Experience in data mining, data analysis, data manipulation, database statistics, Data warehousing.
+Excellent verbal and communication skills necessary to elicit requirements through observation, surveys, interviews, Joint Application Development (JAD) sessions and Brainstorming with Business Owners, Business Users, SMEs and other stakeholders.
+Experience implementing Unified Modeling Language (UML) and MS VISIO in creating Use Cases, Sequence Diagrams, Collaboration Diagrams, Activity Diagrams and Class Diagrams.
+Change Request Management experience including industry standard CRM tools.
+Experience in creating WBS (Work Breakdown Structure) with dependencies and project stakeholders using MS Project.
+Experience in tracing requirements throughout the development process and verifying adherence to Requirement Traceability Matrix (RTM).
+Significant experience in reviewing Test Procedures, creating Test Cases and conducting User Acceptance Testing (UAT).
+Role includes: Technical guidance’s to the team, Web Testing, Database Testing, Automation, Business Intelligence, project monitoring and control, resource allocation, drafting project proposals, effort estimations, schedule, project report and status, training, managing interview drives /conduct, onsite-offshore coordination.
+TECHNICAL SKILL-SET: 									
+Management Tools	    	: 	MS Projects, Visio, Office, SharePoint, MASKED_LOCATION, MASKED_NAME, PlanView
+Methodologies	    	: 	Agile and MASKED_NAME, Waterfall, V Model
+Functional Tool	    	: 	Selenium, HP UFT, QTP, Winrunner, Rational Robot, SOAP/REST 
+Performance Tool	    	: 	JMeter, SQL Query Analyzer, Dynatrace
+Defect Mgmt. Tool	    	: 	MASKED_LOCATION, Bugzilla, Jira, Rational Clear Quest, TIR
+Test Mgmt. Tool	    	: 	HP ALM, Quality Center, Test Director
+Database		    	: 	Oracle, SQL-Server, Infosphere DataStage, ETL, QMF, Squirrel
+Languages Conscious 	: 	MASKED_NAME (OOP Concept), Unix, VB Script, MASKED_NAME, WSDL, XML
+Configuration Tools	    	: 	GIT, GitHub Extension, SVN, CVS, VSS, Mindshare, SharePoint
+Other Tools		    	: 	Putty, WinScp, SOA, MASKED_LOCATION, TestNG, POM, AutoPilot for MQ
+Operating System	    	: 	Windows/XP professional, Citrix Metaframe Server, Unix
+PROFESSIONAL EXPERIENCE:
+UHG (Optum Insight), MN, MASKED_LOCATION - Oct 2015 to Till Date
+Scrum Master, QA Lead – Agile/Scrum/PM/QA - Care Manager (MASKED_URL
+Technologies: MASKED_NAME, Rally, ALM, ETL Datastage Director, SQL Developer, SharePoint, MASKED_LOCATION, Git, JIRA, Selenium, TestNG, MS Visio and Office, SOAP/REST, MASKED_NAME, AutoPilot, WinSCP, Putty, Beyond Compare
+Role and Responsibilities: 
+Acted as the primary point of contact for the design team in all development meetings which strengthened work alignment between development and design teams
+MASKED_NAME and maintain the design team's product backlog and roadmap improving team organization and clearly defines sprint goals
+Responsible for managing global project teams and supporting Optum in their Agile transformation. Facilitating workshops with multiple stakeholders, development and support teams to create a common understanding of project objectives, features and user stories,  sprint planning, tracking, removing impediments, communications and backlog grooming.
+Planned sprint priorities with Product Owners & Product Managers to ensure proper design requirements are consistently met.
+Facilitated scrum meetings and encouraged team collaboration to enable design team to achieve sprint goals & deliverables.
+Aided our Product Manager & Product Owner by created and maintaining a competitive analysis of similar products throughout the business intelligence/data analytics industry.
+Removed impediments and combated evolving requirements by implementing a workflow oriented process to better represent proper scope of stories while working with cross functional teams.
+Handled scrum team consist of cross trained resources in MASKED_NAME , ETL resources and MASKED_LOCATION tools .
+Involved on effective testing strategies to provide Quality Assurance and developed test cases.
+Managing software development life cycle (SDLC) for MASKED_NAME, J2EE Projects including analysis, design, testing and implementation of software applications.
+Source code and version control management with Git, Github extension and SharePoint.
+Lead the daily scrum calls with offshore teams situated in different time zones to monitor the progress of the deliverables.
+Guiding the team to produce quality software on a predictable schedule using Agile/Scrum principles and practices.
+Coach teams through Scrum ceremonies, including: Sprint Planning, Backlog Refinement, Sprint Demo, MASKED_NAME, and MASKED_NAME-up.
+Facilitating and following up on actions for all Scrum ceremonies including grooming, planning, stand-ups, reviews and retrospectives.
+MASKED_NAME and maintaining information radiators that track progress at multiple levels, including following up with the team to ensure daily updates.
+Removing impediments to team progress either directly or by finding the right personnel to remove the impediment.
+Building a trusting and safe environment where problems can be raised without fear of blame, retribution, or being judged, with an emphasis of healing and problem solving.
+Facilitating discussion, decision making, and conflict resolution.
+Helping the team to continually evolve the process, seeking improvements and greater efficiency.
+Assisting with internal and external communication, improving transparency, and radiating information.
+MASKED_LOCATION and educating the Product Owner, especially with respect to grooming and maintaining the product backlog.
+Provide process and tool training and coaching for new projects and new team members.
+Providing all support to the team using a servant leadership style whenever possible, and leading by example.
+Implementing SAFe inorder to Visualize and limit WIP, reduce batch sizes and manage queue lengths.
+Apply cadence, synchronize with cross-domain planning using SAFe, Decentralize decision-making- SAFe concept.
+Manage scope and risks associated with 4 major quarterly and 8 monthly releases annually.
+Evolve release and program management processes as the organization incorporates Agile software development tools and methodologies within IT.
+Performed initial risk assessment and document risk mitigation plans and contingency procedures with the project team and maintain throughout life of the project.
+Managed and optimized business processes using Six Sigma and MASKED_LOCATION, including defining the KPIs .
+Interact with cross functional teams to facilitate gathering of testing requirements.
+Assist with weekly daily scrum meetings with offshore and onshore team.
+Performed impact analysis during QA planning. Work with trading partners, clients, management, technical and non-technical personnel to create use cases and testing documentation. 
+Involved in automating test cases and creating automation framework.
+Training and Agile coaching  to team on how to use Agile/Scrum practices and values, implemented Agile methodology throughout QA process.
+Conducted test planning, chose test strategy, coverage and acceptance criteria.
+Created RACI to align team on responsibilities - improving overall testing process.
+Writing test cases based on the requirements, Designed and developed test cases in ALM, Rally as well as MS Excel. Use TDD, MASKED_NAME integration and testing methods.
+Created automated test script using Selenium for regressing testing.
+Developed test execution sequences, Manually performed Integration, Functional and Regression Testing.
+Executed manual test cases for releases , Performed basic backend testing (SQL), Reported defects via MASKED_LOCATIONContribute in test planning, test estimation, test design, executed manual test cases for releases in ALM & Rally.
+Performed basic backend testing (SQL), MASKED_NAME and tracked test productivity metrics.
+Collaborated with stakeholders, Participate in agile scrum meeting and everyday meetings.
+Run regression test scripts via MASKED_NAME, TestNG, Maven tools.
+HP (Hewlett Packard), TX, USA/ Kforce - Feb 2015 to Sep 2015
+Scrum Master / QA Project Manager – Agile/Scrum/PM/QA - MD3 – Master Data Control Point (MDCP)
+Role and Responsibilities: 
+Driving Agile Scrum principles, values, behaviors and methodologies throughout the organization.
+Assisting teams with planning and execution of ceremonies, use of selected standard Agile tracking tool, MASKED_NAME development.
+Used TFS as the tool to Backlog tracking, burn-down metrics, velocity, and task management.
+Ensured a common understanding by setting expectations in accordance with the Scrum principles, to align the stakeholders and team members.
+Following all the SCRUM activities like Estimation, Sprint Demo, and MASKED_NAME.
+Ensured product backlog management and stories prioritization for consistent delivery.
+Coach teams and management towards improving Agile process and metrics.
+Partnering with the Product Owner in keeping the MASKED_LOCATION groomed.
+Partnering with the Scrum Master to ensure cross-team coordination.
+Identifying and maintaining relevant metrics that give the team insight into how they are doing and reporting these metrics to management.
+Encouraging adoption of a truly Agile mindset, including ownership, self-management and empowerment.
+Managing overall operations for executing projects involving scoping, design & sourcing.
+MASKED_NAME and prioritize the user stories based on their business value.
+Report team progress by burn-down charts and by conducting Sprint demos.
+Record sprint metrics related to planned and completed story points, test cases, and bugs resolved.
+Follow Agile best practices by conducting backlog grooming sessions, Sprint planning, and Sprint retrospectives with the development team.
+Source code and version control management with Subversion(SVN).
+Monitoring / tracking projects with respect to budgeted cost, demand forecasts, time over-runs to ensure timely execution of projects.
+Addressing all the important issues & defining best practices for project support and documentation.
+Mentoring and training project members to enable them to perform their activities effectively.
+Performing project estimation, project scheduling and project costing. 
+Steering Delivery Management for technical deliverables of concurrent projects.
+Analyzing user requirements and designing testing specifications.
+Developing test plans, test cases and testing strategies for Business Intelligence (“BI”) development projects;
+Analyzing and validating data quality, Creating Unit and Systems integrations test cases.
+Providing guidance on the development of application using SQL and SOAP UI.
+Analyzing test results and recommending modifications to the data warehouses to meet project specifications.
+Oversight of  Risk Management and Mitigation planning for medium sized projects.
+Monitored networks and Departmental KPI's for Risk Assessment, based on usage, and consumption. 
+Participating in the deployment of applications into the data warehouses from a quality assurance perspective.
+Documenting the test plans, testing status and testing outcomes as required by the project, provide MASKED_LOCATION, Weekly, Monthly status reports to stakeholders.
+Strong experience in Onsite-Offshore working model (15+ team members), flexible, self-drive to identify process improvements and strong negotiation skill to implement the changes from QA front.
+Tools used HP Agile Manager, SQL Developer, MASKED_NAME, ALM 12.01, ETL - IDD, Batch Data Loader tools and Web Services are being used for MD3 Project.
+PROJECT ONE: Walgreen Corporation, MASKED_LOCATION, MASKED_LOCATION - Mar 2014 to Feb 2015
+Associate Consultant(QA Manager, MASKED_NAME) – Agile/Scrum/PM/QA - Community Management Systems and Customer Systems , Tata Consultancy Services (TCS) - From June 2010 to Feb 2015
+Role and Responsibilities: 
+Worked at onsite location for Onshore-Offshore model and led mid size teams (4-10 associates) for various eCommerce web applications under CMS Portfolio.
+Analyzed and reviewed functional overall design, technical overall designs and technical detailed design documents. Prepare Estimation of testing effort, Prepare Test Plan and Test Strategies with different approaches.
+Test Case creation, Test Case execution in ALM, Test Summary report preparation by managing the schedule and meet deadlines.
+The accountability for resources including people, budgets, systems, knowledge and experience.
+Analyse more complex problems and propose a range of options with an informed and considered recommendation of the most appropriate solution.
+Creating the project test plan and working with the development team to create Unit and Systems integration test cases.
+Used TFS as the tool to Backlog tracking, burn-down metrics, velocity, and task management.
+Ensured a common understanding by setting expectations in accordance with the Scrum principles, to align the stakeholders Worked as SCRUM Master to follow complete agile activities.
+Took various Agile team training at to promote Agile and end to end Agile Implementation.
+Coach and training stake holders on Agile by conducting workshops to ensure smooth functionality.
+Ensured compliance of development team with Scrum methodology in delivering incremental features and monitor defined process adherence.
+Coached/Mentored resources at different level, Prepare scope of sprint cycles and prioritize backlog.
+Assist in migration from waterfall to agile methodologies, Perform Cost benefit analysis and ROI assessments, forecasting.
+Develop templates of sprint cycles, work with users and stakeholders to finalize acceptance criteria and align with release calendar.
+Demonstrate and validate sprints and sprint retrospection, Conducting Sprint Demo and MASKED_NAME.
+Handled project issues like staff management, scope creep and Track PV, EV, AC, EAC and variance etc .
+Created automated excel and sharepoint application for Project management matrices.
+Communicate with the stakeholders on a regular basis to provide feedback on Implementation progress of the solutions, involve the architect team in case of technical roadblock and MASKED_NAME for technical solutions.
+Ensured product backlog management and stories prioritization for consistent delivery.
+Expert knowledge of various Agile methodologies. Hands-on admin experience using latest, industry-leading enterprise MASKED_NAME like MS Project, MASKED_NAME, Kanban.
+Drive execution of Unit and Systems Integration testing, following the complete defect life cycle including JIRA. Involved in monitoring the defects and assign issues to the development team, validate data quality with test metrics and providing test status summary on completion the testing.
+Organize the kick-off, daily and weekly status meetings and send the Status Report to the MASKED_LOCATION.
+Manages change in programme direction, scope, benefits, costs, and timing while minimising financial risks.
+SQL Developer, PuTTY, MASKED_LOCATION, MASKED_NAME, HP UFT, ALM 11.5 tools and MASKED_NAME processes are being used for CS and CMS portfolios.
+PROJECT TWO: 
+Sears Holdings Corporation, MI, USA - June 2012 to March 2014
+Associate Consultant /QA Project Lead – Agile/Scrum/PM/QA , Kmart Point of Sale
+Tata Consultancy Services - From June 2010 to Feb 2015	
+Role and Responsibilities: 
+Worked as Onsite Design and Execution Lead for 15 members team.
+Organize the testing kick-off meetings being a release coordinator.
+Understand the testing effort by analyzing the requirements of project.
+Developing test strategies and meeting project deadlines.
+Keep track of the new requirements or change in requirements of the Project. 
+Organize the daily and weekly status meetings and send the Status Report to the MASKED_LOCATION.
+Attend the regular client call and discuss the weekly status with the client. 
+Act as the single point of contact between Development and Testers and Communication with the Client as per requirements.
+Track and prepare the report of testing activities like test evaluation summary report, test case coverage.
+Responsible for exhibiting leadership and form strategic relationships with the client to develop integrated business solutions as per client needs.
+Managing onshore/offshore matrix teams of software engineers, DBAs, support personnel, and project managers to deliver web eCommerce solutions.
+Scope Planning and Risk evaluation, Client Interactions for business issues and maintenance activities.
+Defining the responsibilities for onsite and offshore team and ensuring SLA is met.
+Reviewing the project status and taking corrective measures with TCS team and managers.
+Responsible for all SLA (Service Level Agreements), SLO (Service Level Objectives) and KPI (Key performance Indicators) for all Projects under Communication, Industrial and Distribution Sectors.
+Responsible for exhibiting leadership and form strategic relationships with the client to develop integrated business solutions as per client needs.
+Perform risk management, assess project risks in conjunction with the client and develop risk mitigation plans.
+Defining checkpoints and measuring project variance to ensure projects remain on target within cost and scope commitments.
+Conduct periodic project audits and reviews with project managers and advise necessary actions to steer the project on track, with client and TCS teams.
+Monitor utilization for project team members, leverage quality initiatives to improve productivity of team members.
+Successfully planned and managed multiple (simultaneous) projects using Agile/Scrum methods.
+Advocate for Agile software development process, building backlogs and creating high performance teams. Velocity of the team increased over 80%.
+Agile is a team of peers – assisting team with making appropriate commitments through story creation and selection, point estimation and task definition.
+Responsible for proactively managing the budget assigned to the Project. Plan travel for Partition Transition Managers both in MASKED_LOCATION and MASKED_LOCATION based on the transition budget and assigned work.
+Project Tracking: Worked with JIRA to create projects, reports to track projects status and keep all stakeholders informed. Supported the project teams on the use of JIRA and technical issues. Create, schedule and assign tasks in MASKED_LOCATION.
+MASKED_NAME learned and share with stakeholders with suggestions on improvement areas.
+Review various reports like test plan, traceability matrix, issue and risk report, lesson learned etc.
+Assign task to all Testing Team members and ensure that all of them have sufficient work in the project.
+Escalate the issues about project requirements, resources, project updates to Project Manager and Senior Manager.
+PROJECT THREE: 
+Walgreen Corporation, MASKED_LOCATION, MASKED_LOCATION - June 2010 to May 2012
+Principle Architect/QA Lead – Agile/Scrum/PM/QA , Point of Sale (Nextgen POS), GMAC 
+Tata Consultancy Services - From June 2010 to Feb 2015
+Role and Responsibilities: 
+Study the entire application & process and propose solutions to improve the operational efficiency and business of the client.
+Planning & scheduling for the testing phase and preparing of Functional Test Plan and the Test Strategy. Interact with onshore TCS project manager and MASKED_NAME.
+Define the responsibilities and work assignment to the team members. Also mentor them and provide strategic guidance for the project execution
+Executing different transactions on the Registers with different Tender types like Quickshop, Photo, E-Commerce, MASKED_NAME, Debit card, Credit cards etc. against a particular test case/functionality for Dev Integration Testing.
+Responsible for Resource Management and Work Allocation and executed Test Requirement Analysis, Test Spec Review and process improvement.
+Gathering requirements. Interact with clients and various stake holders to priorities the changes / enhancement needed for the project release.
+Define the responsibilities and work assignment to the team members. Also mentor them and provide strategic guidance for the project execution.
+Resource planning and capacity management - Planning for the resources required for a project and working out the effort capacity.
+Work projection management - Maintaining a healthy work projection for the team and talking to the customer in case there is a dearth of work.
+Customer communication and management - Interfacing with the customers, resolving their queries/issues and giving timely updates to them .
+Work on establishing transition methods from waterfall to agile.
+Operated and maintained agile iteration projects, acted as scrum master, schedule and deliver sprints.
+Prepared and maintained backlog document for agile scrum.
+Coordinate training sessions to horn the skills of team members. Share the expertise across various teams by conducting technical, business and process related sessions.
+Involved in duties such as including the development of work breakdown structures (WBS), requirements management, project monitoring, and change management using Microsoft Project. 
+Involved in Updating existing test scripts according the requirements for GMAC-RESCAP application. Interact with onshore TCS project manager and MASKED_NAME.
+Successfully managed teams of 5-10 members with Onsite-offshore coordination.
+VISA Inc., USA / Visa Resolution Online, Automation of VROL application with QTP 9.5 - Sept 2008 – May 2010
+Architect/QA Lead, Singapore & India– Agile/Scrum/PM/QA , R S Software Ltd.
+Role and Responsibilities: 
+Analyzed and reviewed functional overall design, technical overall designs and technical detailed design documents for better understanding of the Extensions and Interfaces.
+Prepare Test Plan, Prepare Estimation of testing effort and Test Strategies with different approaches.
+Performed automation testing using SMART Framework and QTP 9.5.
+Analyzed Client request and requested the developers for the design change by considering both positive and negative scenarios of business logics and developed test case accordingly.
+Manage functional areas like financial and payment dispute modules being onsite Coordinator.
+Used Quality Center to write, and execute the test cases. 
+Manage the application with team coordination for weekly build releases and deployments.
+Conducted JAD sessions and interviews with developers and SMEs for eliciting requirements.
+Involved in testing the layout of various Extension screens as per design specifications.
+Executed the test cases for both functional and GUI testing in the Regression suite.
+Used Rational Clear Quest to report application defects and enhancements request and discussed with client to resolve technical issues.
+Created mockups (static and dynamic prototypes) of webpages and GUI, visualized process flows, information flow using MS VISIO.
+Daily/Weekly coordinate with VISA clients (MASKED_LOCATION, Singapore & India team) and development teams to identify the Data, Environment and Application issues.
+Guiding team on technical matters in maintains and enhancing the tools developed by the team Leading knowledge transition activities including MASKED_LOCATION and Integration tools for daily build.
+Bank of New York Mellon / Workbench Applications, MASKED_NAME, GSM  - From Dec 2006 to Aug 2008
+Team Lead -  Cognizant Technology Solutions (CTS)
+Role and Responsibilities:  
+Analyzed Business Requirements and System Specification to understand the application.
+Creating Master test plans, test strategies, test scenarios and offshore ramp-up plans.
+Estimation of testing effort for modules, Test planning, Validation of data, testing of final reports.
+Mapped test data by fetching data using database tool QMF.
+Coordinated the project with cross-functional teams such as Business Process Owners, End Users, IT, Stakeholders, etc.
+Involved in defect validation and reporting using Client Specified Bug-Tracking tool.
+Preparing and reporting test execution statistics, Maintaining quality and metrics documents.
+Identify Software bugs and interact with developers to resolve them to ensure the integral aspect of QA environment, Regression testing was undertaken after every bug fix.
+Making Requirement traceability matrices and MASKED_NAME regression test cases.
+Load and Performance testing for simultaneous and concurrent users.
+Responsible for grooming the new resources joining the project.
+Coordinate the activities across different teams such as product management team, development team, QA team. Conduct weekly status meetings, tracked project tasks, issues regularly.
+Served as offshore coordinator from MASKED_LOCATION, MASKED_LOCATION for an onsite team in MASKED_LOCATION, MASKED_LOCATION, MASKED_LOCATION.
+Involved in client interaction and getting KT from the client about applications and LOB structure. Involved in imparting KT to onsite from offshore.
+Directorate of General of Artillery, DV, AMS & MIS - June 2005 – Nov 2006
+Software Engineer/Lead - IBilt Technologies Limited
+Role and Responsibilities:  
+•	Involves in Management of Test Plan, Test Strategies and validated the main modules of the system.
+•	Involved in Functional Testing, Integration Testing and Regression Testing.
+•	Test case writing, creating test plan and test scripts, executing test cases.
+•	MASKED_NAME bugs with the Tool Defect Register and Publishing Test Results & Logs.
+•	Involve in preparation and execution of functional testing UI Test cases & Regression testing of AMS & MIS.
+•	Act as liaison between various stakeholders and project team.
+•	Perform functional analysis by understanding scope, requirements and Business flow Documents.
+•	Participate and provide direction in Release Management meetings.
+•	Manage test plan, schedule, scope, quality with change request and ensure process is followed and risks are mitigated.
+•	Perform Scope, time and Quality analysis, schedule and execute as per plan and perform risk mitigation.
+•	Test planning, coordinate test strategies, Project tracking and providing direction to team member as needed.
+•	Identify dependencies, impediments and prepare development plan and work to resolve it effectively.
+•	Reviewing the status of the project and taking corrective measures.
+•	Prepare integration testing plan, execute with team and validate results, perform root cause analysis.
+•	Participate in all testing phases like integration testing, performance testing, End-to-End testing, UAT and shakeout testing to ensure adherence to testing practice.
+Legal Judgments Management System, PMS - Jan 2004 to May 2005
+Software Engineer – IT / Xorient Technologies Pvt. Ltd.
+Role and Responsibilities:   
+Testing of the project, includes Test planning, Acceptance testing, Structured testing and regression testing, inspecting others test plans. 
+Involved in writing test cases at integration and system level with version control CVS.
+Review of Test Cases, Execution of Test Cases, track the MASKED_NAME founded in the Excel Sheet.
+Collaborated with other analysts and IT staff in refining data retrieval and utilization strategies.
+Involved in Requirement Gathering and analysis by interviewing users, application owner and SME's.
+Assisted in identification of data Attributes for the data required by the users & development of data mapping & data dictionaries.
+Involved in creating various PL/SQL stored procedures, views, functions and temporary tables for data input to the Crystal Reports.
+Worked with SQL queries for data manipulations.
+Prepared various deliverables like Use case Diagram, Activity diagram, Entity relationship diagram, process flow diagrams, data flow diagrams using UML and MS VISIO.
+Designed and implemented SQL queries using joins and sub-queries.
+Worked with project manager for identifying project milestones, tasks and preparing project charter, project plans and project status reports during entire project life cycle.
+Assisted in analyzing data sources and defining data flows and dependencies.
+Effectively implemented the Change Management and assisted in defect management process.
+Assisted in the test plans for System Integration Testing and User Acceptance Testing.
+Tata Infotech Ltd. - From Jul 2003 to Dec 2003
+Software Trainee – IT
+Role and Responsibilities:
+Elicited requirements by identifying system users and conducting interviews.
+Created the FRD, BRD and SRS artifacts after gathering input from business owners and other stakeholders.
+Performed GAP analysis, cost-benefit analysis and feasibility analysis within the triple constraints.
+Created visual flow and UML diagrams for use cases, user interface, process flow and information flow.
+Utilized RUP methodology to develop the web application to satisfy the warranted periodic functionality releases.
+Managed project documents and other deliverables on SharePoint.
+Managed scope and requirements throughout the project life cycle.
+Wrote test cases, test scripts and planned the user acceptance tests (UATs).
+Performed Functional, Integration, System and Regression testing. 
+Education/Certications/Training                                                       						
+•	Master of Computer Applications (MCA) in 2003.
+•	Bachelor of Computer Applications (BCA) in 1999.
+•	Certified Scrum Master (CSM).
+•	ISTQB certified tester.
+•	HP QC (Quality Center) and QTP (Quick Test Professional) Certified.
+•	Certified professional in MASKED_LOCATION and Financial Management, Certified professional in Investment Management.
+•	NCFM Certified, Six Sigma MASKED_NAME certification, Award of Star of the Month and Client appreciations.

@@ -1,0 +1,21 @@
+{
+  "resume_id": "Vishal S._anon",
+  "skills": [
+    "sql",
+    "jira"
+  ],
+  "education": {
+    "degree": "Madurai Kamraj University, MASKED_NAME, 2013 - Masters of Business Administration (MBA)",
+    "year": "2013"
+  },
+  "experience_years": 14,
+  "projects": [
+    "Risk mitigation and management",
+    "Systems development Life Cycle (SDLC)"
+  ],
+  "certifications": [
+    "Microsoft Certified Professional (Windows Server 2003)",
+    "Microsoft Certified Systems Administrator (Messaging on Windows Server 2003)",
+    "PMP Certification (PMI ID: 5278358) \u2013 Completed PMP training-Pursuing certification"
+  ]
+}

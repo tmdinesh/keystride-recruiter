@@ -1,0 +1,31 @@
+{
+  "resume_id": "Venkata_Sr.PHP_Developer_anon",
+  "skills": [
+    "python",
+    "javascript",
+    "php",
+    "angular",
+    "html",
+    "css",
+    "sass",
+    "bootstrap",
+    "jquery",
+    "spring",
+    "rest",
+    "soap",
+    "sql",
+    "mysql",
+    "oracle",
+    "ci/cd",
+    "linux",
+    "apache",
+    "git"
+  ],
+  "education": {
+    "degree": "Unknown",
+    "year": "Unknown"
+  },
+  "experience_years": 9,
+  "projects": [],
+  "certifications": []
+}

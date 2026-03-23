@@ -1,0 +1,154 @@
+ 
+ 
+Contact
+www.linkedin.com/in/sariabod
+(LinkedIn)
+MASKED_NAME Science
+API Development
+Project Management
+Publications
+The Development and Application of
+Real-Time Deep Learning Models to
+Drive Directional Drilling Efficiency
+Development and Application
+of a Real-Time Drilling State
+Classification Algorithm with
+MASKED_NAME
+Digital Transformation Strategy
+Enables Automated Real-Time
+Torque-and-Drag Modeling
+MASKED_NAME
+Machine Learning Engineer at Anadarko Petroleum Corporation
+MASKED_LOCATION, MASKED_LOCATION Area
+Summary
+I am a production-minded engineer with demonstrated ability to
+deliver valuable insights via data analytics and advanced data-driven
+methods. I have a strong sense of logic and extensive software
+development experience. My deep understanding of big data and
+machine learning allows me to collaborate with data scientists and
+data engineers to develop purpose-built, complex, reliable machine
+learning solutions and big data pipelines.
+Experience
+Anadarko Petroleum Corporation
+Machine Learning Engineer / Data Engineer
+September 2018 - October 2019 (1 year 2 months)
+MASKED_LOCATION, MASKED_LOCATION Area
+• Member of the Advanced Analytics and Emerging Technologies Division
+(AAET) division
+• Researched and tested GCP services to replace on-prem MapR and
+Streambase based pipeline
+• Created a datalake using GCS and BigQuery to capture real-time well data
+for ML training
+• Created a hybrid, real-time ML pipeline (GCP to On-Prem)
+• Researched and created an ML model to detect drilling anomalies using
+image segmentation
+• Created RESTful APIs using MASKED_LOCATION, Gunicorn, and Nginx to serve up models
+in Docker/Kubernetes
+• Built an ETL framework that tied real-time streaming data into a 3rd party
+physics model for MASKED_NAME and MASKED_NAME calculations
+Shiekh Shoes LLC
+Data Engineer
+May 2017 - September 2018 (1 year 5 months)
+Greater Los Angeles Area
+• Managed a team of developers to build and launch three ecommerce apps
+using agile methodologies
+ 
+Page 1 of 4
+
+ 
+ 
+• Prepared, planned, designed and created a BI solution to meet specific
+business needs for stakeholders
+• Created an ETL solution that was sourced from multiple disparate systems:
+Linux/MySQL, Windows/MSSQL, and Legacy POS systems
+• Created a reporting UI using MASKED_NAME that allowed users to aggregate data
+from multiple inventory sources and run statistics on them
+• Created mobile app data capturing using SQS, DynamoDB, and MASKED_NAME out a datalake using Redshift and S3 to capture sales, inventory, and
+user data
+Czekmaet, Inc.
+Chief Data Officer
+May 2014 - May 2017 (3 years 1 month)
+MASKED_NAME and deployed machine learning models and data pipelines 
+• Gathered and cleaned data from various sources to build out traditional data
+cubes
+• Created an ETL solution using Airflow, Spark, S3, MASKED_NAME for BI
+• Used collaborative filtering with a deep neural net to create a course
+recommendation engine for an online education provider
+• Built a price predicter for an online retailer that scrapes websites and looks
+for trends in pricing 
+• Moved on-prem Hadoop systems into the cloud using AWS services like
+MASKED_NAME and MASKED_NAME, Inc.
+VP of Technology
+January 2005 - May 2014 (9 years 5 months)
+MASKED_LOCATION, MASKED_LOCATION Area
+• Designed and developed an e-Learning platform from the ground up that
+supported over 100k students
+• Designed and coded an analytics system to analyze user behavior patterns
+and send custom marketing emails to promote specific sales promotions
+MASKED_NAME met with company stakeholders to plan future products and
+services based on market trends 
+• Put a team of talented developers from various parts of the world to build a
+new web initiative based on an API centric model - MASKED_NAME, MySQL,
+MongoDB as the back-end and MASKED_LOCATION, MASKED_LOCATION, MASKED_LOCATION on the front-end
+• Met with current clients to gather information that would guide updates and
+feature development
+ 
+Page 2 of 4
+
+ 
+ 
+• Planed and moved entire on-prem server stack to AWS using services like
+EC2, ELB, Route53, MASKED_NAME, Lamba
+Farheap Solutions
+System Administrator
+October 2004 - December 2005 (1 year 3 months)
+MASKED_LOCATION, CA
+• Consolidated customer support systems – moved away from windows to linux
+cutting costs and maintenance
+• Built software to manage customer service calls
+• Created a system management utility to listen in and view the screens of
+customer support during calls using all open source technologies including
+MASKED_NAME, MySQL, MASKED_NAME a team of IT personnel to support the infrastructure
+MASKED_NAME
+Director of IT
+December 2003 - July 2004 (8 months)
+MASKED_LOCATION, MASKED_LOCATION Area
+• Maintained online infrastructure for training courses
+• Managed the development of 3D A&P training modules
+• Met with management to guide technology updates
+MASKED_NAME a cluster of computers that was used for CAD
+Aerolearn, Inc.
+Director of IT
+January 2000 - January 2004 (4 years 1 month)
+MASKED_NAME, ca
+• Developed online course infrastructure
+• Customized software based on Unix/Perl CGI
+• Managed marketing department to ensure ROI – print and online
+Css Laboratories
+Systems Engineer
+January 1998 - January 2000 (2 years 1 month)
+MASKED_NAME, CA
+• Level 4 customer service support
+• Responsible for Mil Spec servers designed for MASKED_LOCATION military submarines
+• Served as a Microsoft Hardware Compatibility Engineer, responsible to
+maintain hardware and software compatibility testing and compliance
+ 
+Page 3 of 4
+
+ 
+ 
+• Designed and developed a web-enabled support portal to streamline internal
+support services
+Education
+California State University, Fullerton
+Biology, General · (1995 - 1995)
+Udacity
+MASKED_NAME, Data Engineering · (2019 - 2019)
+Udacity
+MASKED_NAME, Machine Learning Engineer · (2018 - 2018)
+DeVry University
+Computer Science · (2000 - 2000)
+Butte College
+Mathematics · (1998 - 1998)
+ 
+Page 4 of 4

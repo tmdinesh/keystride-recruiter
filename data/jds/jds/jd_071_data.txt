@@ -1,0 +1,5 @@
+ROLE: Data Analyst
+SOURCE: Adzuna
+URL: https://www.adzuna.com/land/ad/5643225150?se=ii3Qs4sY8RGJZfgUeQyxLw&utm_medium=api&utm_source=e34e223e&v=D565E5DB0B0B978B8F235D69E01C869B32AFDABF
+
+We are looking to hire a data analyst to join our data team. You will take responsibility for managing our master data set, developing reports, and troubleshooting data issues. To do well in this role you need a very fine eye for detail, experience as a data analyst, and a deep understanding of the popular data analysis tools and databases.

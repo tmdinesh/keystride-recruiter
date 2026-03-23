@@ -1,0 +1,23 @@
+{
+  "resume_id": "Tushar Patel_anon",
+  "skills": [
+    "java",
+    "javascript",
+    "html",
+    "spring",
+    "express",
+    "soap",
+    "sql",
+    "mysql",
+    "mongodb",
+    "oracle",
+    "apache"
+  ],
+  "education": {
+    "degree": "Unknown",
+    "year": "Unknown"
+  },
+  "experience_years": 18,
+  "projects": [],
+  "certifications": []
+}

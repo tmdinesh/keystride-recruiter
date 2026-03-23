@@ -1,0 +1,143 @@
+PAVAN  									     Employer Details
+Mail: MASKED_EMAIL 				Mail: MASKED_EMAIL
+                                              						Phone: MASKED_PHONE
+Sr. Business Analyst	
+OBJECTIVE
+Sr. Business Systems Analyst with 8 years of experience in various domains with direct client interface. Experience in Requirements Gathering Techniques, Technical Specification Documentation, creating Business Process Workflows and UML diagrams. Demonstrated ability to grasp business needs and translate them into clear and concise specifications.
+PROFESSIONAL SUMMARY
+Business Systems Analyst with expertise in requirements gathering system analysis and business process management.
+Strong knowledge of Software Development Life Cycle (SDLC). Extensive knowledge of MASKED_NAME, Waterfall, Rational Unified Process (RUP) and MASKED_NAME hybrid methodologies.
+Certified Scrum Master (CSM) with proven ability to work with self-organizing and cross-functional teams.
+Strong knowledge of requirement gathering with the help of several Elicitation Techniques like Brainstorming, Requirement Workshops, Surveys, Focus Groups and Interviews.
+Highly proficient in working with cross-functional teams and stakeholders to elicit and validate requirements using Joint Application Development (JAD) sessions
+Adept in creating Business Requirements Document (BRD), Functional Specifications Document (FSD), Functional Requirements Document (FRD) and Systems Requirements Specifications (SRS).
+Understanding of the Organizational Framework that helps to map the AS-IS and TO-BE model using GAP Analysis.
+Proficient in SWOT Analysis, Impact Analysis and assisted Project Managers in preparing Risk Analysis documents.
+Proficiency in creating Use Case Diagrams, Activity Diagrams, Sequence Diagrams, Swim lane Charts and process flow diagrams using different tools such as MASKED_NAME and IBM Rational Rose.
+Proficiency in creating Graphical User Interface (GUI) Screen Prototype (Mock up Screens/Wireframes) for Web Based Application Development using Axure, Mock up screens.
+Analyzed user requirements, attended Change Request meetings to document changes and implemented procedures to test changes using the Rational Clear Quest.
+Assisted working for Data warehouse, supporting data extraction, transformations and loading process through ETL tools (Informatica, SQL Server Integration Services (SSIS)).
+Extensive experience with Data Analysis on Data warehouse system for various reporting systems within an organization using Cognos, Crystal reports and SQL Server Reporting Services (SSRS).
+Experienced in MASKED_LOCATION mapping, Data Analysis and Client Server Architecture.
+Knowledge and working experience in the Service-Oriented Architecture (SOA), Web Services and Web Services Description Language (WSDL)/ Universal Description Discovery and Integration (UDDI) to provide governing concepts used during phases of systems development and integration. 
+Extensively interacted and worked with QA Team in analyzing Test Data, Test Scenarios, and creating Test Cases, Test Plans. Also interacted with developers to report data related bugs and re-tested the fixed issues.
+Expertise in gathering requirements and documenting them, tracking, managing and communicating the requirements using Requirements Traceability Matrix (RTM).
+Experience in User Acceptance Testing (UAT) and mentoring Business Users in the developed application.
+Energetic, positive, and self-motivated. Ability to adapt quickly to challenges and changing environment.
+Bilingual experience to manage both onshore and offshore team.
+Strong interpersonal and communication skills in dealing with team, client and customers.
+TECHNICAL SkillS
+work Experience
+Capital One, MASKED_NAME				 	                                                       October 2015 – Present
+Sr. Business Systems Analyst
+Project Description:
+Working as a Sr. Systems Analyst on the Data Conversion Project. Project involves analyzing legacy upstream data systems, conducting in-depth data analyses of critical data elements and implementing new data integration strategies into ODS for providing better functionality to all downstream business users.
+Roles & Responsibilities:
+Lead requirements review meetings and obtain necessary approvals from all stakeholders to baseline the necessary artifacts.
+Created project specific Context Diagrams, Process Flow Diagrams, Activity Diagrams and Use Case Diagrams for developers and testers to describe whole scenarios using MS-Visio.
+Conduct meetings with various leads (Design and Dev) along with Subject Matter Experts (SME’s) on a regular basis to gather requirements.
+Performed GAP analysis by understanding the AS-IS system and the TO-BE system requirements by facilitating JAD sessions, workshops, and questionnaire sessions with business users, system architects and development teams.
+Responsible for creation of BRD and FSD along with business Use cases.
+Involved in creating a requirement management plan and maintaining the RTM.
+Assisted architects in creating Entity Relationship (ER) diagrams for mapping data from various databases into a single source.
+Interacted with cross-functional business groups to define and finalize business requirements.
+Provided inputs in the strategic development of detailed project plans, work assignments and target deadlines.
+Eliminated redundant and duplicate data across several systems and improved data consistency.
+Analyzed and extracted data from various data sources and generated ad-hoc reports for end-users and supported development of special reports for senior management (Involved extensive use of SQL).
+Created data flow diagrams and mapping documents in excel spreadsheets for assigned critical data elements (CDE’s).
+Worked with QA team to design test plan and test cases for User Acceptance Testing. 
+Environment: 
+Agile- Scrum, SQL Server 2012, MS Office (Word, PowerPoint, Excel), MASKED_NAME, SharePoint, DOORS, HP ALM/QC
+United Health Group, Eden Prairie, MN					                     July 2014– October 2015
+Sr. Business Systems Analyst
+Project Description: 
+The scope of project was enhancements for Claims System to ensure benefits and adjudication set up processing data on a single screen. In addition, additional system enhancements were made to adhere with latest policy, legislative regulations included HIPAA & SOX compliance.
+Roles & Responsibilities: 
+Gathered requirements by conducting meetings with key stakeholders, end users and Subject Matter Experts (SMEs).
+Extensively interacted with the stakeholders and the IT Department in finalizing the requirements according to the Center for Medicare and Medicaid Services (CMS) Compliances/Regulations and HIPAA Regulations.
+Adhered to HIPAA for health insurance & Medicare claims, responsibility included from functional requirement specification to testing the claims for HIPAA-compliant format and also to ensure all NCPDP formatting standards.
+Designed and built a plan mapping utility tool to convert ranges of ICD 9 codes to one or more ranges of ICD 10 codes and match all the benefits.
+Facilitated JAD sessions involving the management, development and user teams for clarifying requirements and facilitating better communication.
+Responsible for Facilitating Scrum Ceremonies - Sprint Planning, Daily Scrum, Sprint-Review, MASKED_NAME and Backlog Refinement Meetings.
+Incorporated Scrum events Backlog refinement, Sprint Planning, stand up meeting, Sprint Review and MASKED_NAME. Also enforced time boxes for the meetings.
+Performed Gap Analysis of the processes to identify and validate requirements.
+Involved in business requirements (BRD/High Level Document (HLD) / Low Level Document (LLD)), Functional Requirement Document (FRD), Project Specifications Document (PSD).
+Prepared Unified Modeling Language (UML) diagrams, Business Process and Data Process Model using MS MASKED_NAME.
+Organized requirements into high level Use Cases and low level Use Case Specifications.
+Created wireframes and developed a prototype of the GUI using VISIO and demonstrated it to the stakeholders and business users and noted feedback from them.
+Tracked defects in HP ALM and worked with QA team to resolve defects.
+Assisted in the UAT and in the preparation of the Test Plan, Test cases with the testing team as well as ensuring testability, reliability, usability, maintainability and performance of the application.
+Worked on JIRA for continuous update with project schedules, quality, issues/defects and managing resources.
+Environment: 
+Agile – Scrum, SQL Server 2012, MS Office (Word, PowerPoint, Excel), MASKED_NAME, SharePoint, HP ALM/QC, Axure, JIRA
+Schools First FCU, MASKED_LOCATION, CA				                              	         March 2012 – May MASKED_ADDRESS
+Project Description:
+The project was to enhance the system with functionalities like online account management, managing alerts and managing portfolio overview.
+Roles & Responsibilities:
+Performed the requirement analysis, impact analysis and documented Business Requirements Document (BRD) and Functional Specification Document (FSD) using Rational Requisite Pro.
+Prioritized deliverables, identified gaps, tracked defects, defined software requirements, created artifacts for testing and development.
+Organized meetings and discussions with client and end users to understand the project requirement.
+Initiated JAD sessions and open-ended discussions to identify, clarify and simplify requirements with client and team.
+Performed Gap Analysis with As Is -To Be Process flow diagrams using MASKED_NAME.
+Assisted the scrum master to manage resources and facilitate for the team.
+Communicated and collaborated with diverse teams in the organization to understand the products, services, and the culture.
+Gathered the basic requirements from client, end users and discussed them with the team for the first sprint cycle.
+Assisted the scrum master to communicate the team's progress on project.
+Supported cross functional group collaboration sites, secure team collaboration sites, executive blogging, help desk ticketing systems on-boarding and adoption.
+Supported a large project management portal that spans several site collections
+Support departmental site owners, end users and other content managers to ensure they have the training, materials and support for optimal use of their respective sites.
+Used mock-up screens to convey the look and feel of GUI screens for the end users to the developers.
+Generated ad-hoc SQL queries using joins, database connections and transformation rules to fetch data from the SQL Server database systems.
+Performed UAT testing with client and supported all phases of testing with QA team and managers.
+ Environment: 
+ Scrum, MASKED_NAME, MASKED_NAME, Oracle, MS Excel, SQL server, MS Office (Word, PowerPoint, Excel).
+NYC Department of Health, MASKED_LOCATION, NY			                                                           April 2011- Feb 2012	                                                                             
+Sr. Business Analyst
+Project Description:
+The scope of the project was to handle errors and prevent the misuse of the Medicaid program service provided by the health network. The goal was to provide services to the genuine subscriber/beneficiary, who were identified by their unique authorization id and match the source data to target data while providing eligibility for Medicaid EDI X12 834 thereby generating benefit enrollment once the member enrolls in the Medicaid. This supported the health network to the losses towards illegal usage of service of non-members, in compliance with the HIPAA rules & regulations and with EDI standards.
+Roles & Responsibilities:
+Conduct meetings with Business analysts and development team for requirement gathering and to streamline the scope of the project.
+Proficient in creating Business Requirements Document (BRD), Functional Specifications Document (FSD), and Systems Requirements Specifications (SRS).
+Identified Impact Assessment on Business process, Applications process and EDI transaction process.
+Experience in elicitation techniques like interviewing, questionnaires, brainstorming, focus groups, and prototyping. 
+Experienced in conducting Joint Application Development (JAD) sessions to converge early towards a design acceptable to the client and feasible for the developers and to limit a projects exposure to the forces of change. 
+Knowledge of Medicare, Medicaid & Private Insurances. Validated all the Medicaid claims for new HIPAA 5010 standards.
+Experience in FACETS support system to inbound/outbound HIPAA EDI transaction in support of HIPAA 834,835, 837,270/271 transactions.
+Performed source data to target data, performing data mapping using Informatica. 
+Validated batches of medical claims data, patient details, and service line data in the EDI 837 and EDI 835 files, 270 (Eligibility) and 276 (Claim Status) data.
+Facilitating JAD working sessions with business analysts, systems analysts, EDI SMEs and development resources.
+Identified various business processes and developed process flow diagrams for the business processes and validated the same with SMEs.
+Documented various key elements of HIPAA compliance and made sure that they are understood complied and followed by the development team members.
+Acted as a liaison to the MASKED_NAME team to ensure they have what is required to develop and deploy training.
+Incorporated HIPAA mandated data using implementation guides, to bring current and newly developed web-based applications into compliance.
+Facilitated Sprint Planning meeting, tracked team velocity and Sprint progress using Sprint Burn down Chart, burn up chart and MASKED_NAME down Chart.
+Managed and monitored various scrum events through agile delivery process, worked closely with project manager, product owner and stakeholders to ensure their expectations are met.
+Good knowledge of HIPAA standards, EDI (Electronic data interchange), transaction syntax like ANSI X12, Implementation and Knowledge of HIPAA code sets.
+Coordinated with teams to prioritize and multi task the project schedules, documented & sent meeting minutes, developed project status reports (which were conveyed to project manager), set meeting agendas, and lead the meeting discussions for issues, and actions items regarding the application.  
+Managed and monitored various scrum events through agile delivery process, worked closely with project manager, product owner and stakeholders to ensure their expectations are met.
+Assisted the EDI team in the development and documentation of the test strategies for the EDI transactions which included all standard transactions, auditing and error correction processes, and the creation of the transactions.
+Used Business Intelligence (BI) tools to create dashboards to assist the business users in handling errors.
+Environment: 
+Agile-Scrum, MS Office Suite (Word, Excel, PowerPoint, MASKED_NAME), JIRA, Axure, MASKED_NAME, MASKED_NAME, HP ALM/QC, SQL Server. 
+Procure staff Technologies, MASKED_LOCATION, MASKED_LOCATION				                                   January 2009 – Feb MASKED_ADDRESS
+Project Description: 
+The project involved enhancing a vendor management system software by improving existing reporting system with business intelligence modules and dashboards. 
+Roles & Responsibilities: 
+Led requirements review meetings and obtained necessary approvals from all stakeholders and baselined the requirements documents.  
+Conveyed business vision and goals associated with feature sets clearly to the development team to ensure that delivery is focused on business value. 
+Created Functional Requirements documents and Business Requirements documents for project modules as necessary.
+Implemented Six Sigma Methodologies for process improvements.
+Co-ordinated with cross functional teams and conducted in-depth analyses of existing reporting systems and suggested improvements.
+Conducted meetings with Subject Matter Experts (SME’s) on a regular basis to gather requirements and identify KPI’s.
+Conducted Gap Analysis and suggested process improvements.
+Participated in white boarding sessions, sizing meetings, planning meetings, daily scrums, sprint reviews, and team retrospectives. 
+Effectively visualized and analyzed data for the business intelligence dashboards.
+Involved in implementing deployment like authoring the user training schedules and conducted user training.
+Anticipated and removed obstacles from project team’s path and pushed them to deliver quality results based on schedule.
+Analyzed Business processes, requirements, and data necessary to provide detailed logic for ETL development.
+Prepared test cases, test scripts and coordinated with the QA team for testing and interacted with the developers to report and track bugs using Team Foundation Server.
+Managed issues and defects throughout the project lifecycle and escalated issues to upper-management via status reports.
+Worked with development and testing teams to accomplish timely release objectives.
+Coordinated for preparation of all project documentations, weekly status meeting, WBS and walkthroughs
+Environment: 
+Waterfall/Agile Scrum, MS Office (Word, PowerPoint, Excel), MASKED_NAME, Team Foundation Server (TFS), SQL Server, SSIS, SSRS, HP ALM/QC.

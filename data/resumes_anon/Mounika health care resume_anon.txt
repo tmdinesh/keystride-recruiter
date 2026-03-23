@@ -1,0 +1,143 @@
+PROFESSIONAL SUMMARY
+More than MASKED_ADDRESS in the Health Care domain.
+Comprehensive knowledge of Software Development Life Cycle (SDLC).
+Expertise in writing Business Requirements Document (BRD), System Requirements Document (SRD), maintaining Requirement Traceability Matrix (RTM).
+Experience with Agile, MASKED_NAME, and Waterfall methodologies.
+Experience with defining the Project Scope and Objectives.
+Adept at creating and transforming business requirements into functional requirements and designing business models using UML diagrams – context, Use Case, sequence and Activity diagrams.
+Excellent facilitation skills in conducting walkthroughs, surveys, questionnaires, interviews, brainstorming and JAD sessions.
+Experience with Facets 4.71, Inbound & Outbound interfaces, EDI configuration, and data mapping using ANSI X12 4010 and 5010 (834,835,837).
+Experience in gathering, managing, and documenting business and functional requirements, communicating effectively with management, developers and other IT professionals.
+Implementation and Knowledge of Facets, HIPAA code sets, 4010-5010 Migration, ICD-9, ICD-10 coding, HL7 and HEDIS rules and regulations.
+Knowledge of Health Insurance Plans (Medicare Part A, B, C and D), managed care concepts (Medicaid and Medicare), billing experience within life and disability in health plans with thorough understanding of CPT coding, CMS-1500 claim forms and reimbursement forms.
+Sharp eye for finding synergy between multiple broad objectives.
+Excellent Analytical, problem solving, troubleshooting, and communication skills.
+Result Oriented, committed and hard working with a quest to learn new technologies and undertake challenging tasks.
+Highly motivated, self-starter able to work independently and collaboratively with a diverse technical team.
+Expertise in designing Test plans, Test Script/Test case and RTM.
+TECHNICAL SKILLS: 
+EDUCATION:
+Masters in Computer Science
+PROFESSIONAL EXPERIENCE:
+Client: MASKED_NAME, MASKED_LOCATION, USA		
+Duration:Jan 2016 – Till Date
+Role: Sr. Business Analyst
+Project Description: Marketplace Web Portal 
+MASKED_NAME is one of the Obama Healthcare Marketplace’s companies. 
+Project- ObamaCare’s Marketplace, is the website for subsidized health insurance. Uninsured Americans can shop for coverage options in their State's marketplace. The primary goal of this project was to construct a new web portal for marketplace customers to enroll themselves and their dependents, access their profiles and information pertaining to insurance benefits, plan details and also personal medical history. I being a Business Analyst worked on Marketplace web portal and Primary Care Physician (PCP) selection. 
+Responsibilities:
+Created vision, scope, and use case documents, use case diagrams.
+Responsible for generating innovative solutions to bridge the gap between business and IT
+Interfaced with business users to prepare and update Business Requirements Document (BRD), wireframes, and Detailed Requirements Document. 
+Experienced in creating Business Requirement Documents, User Requirement Specification, and Functional Requirement Specifications.
+Developed use cases with UML using Microsoft Visio 2010 for new application functionality. 
+Conducted JAD Sessions with Management, SME (Subject Matter Expertise), users and other stakeholders for open and pending issues to develop specifications.
+Reviewed the Joint Requirement Documents (JRD) with the cross functional team to analyze the High Level Requirements.
+Worked with Information Architects (IA) and other representatives from the User Experience (UX) team to design wireframes, mock ups, and process flows. 
+Created mockups and wireframes using MASKED_NAME.
+Ensured all artifacts complied with corporate SDLC Policies and guidelines.
+Designed customer web portal with technical team.
+Completed BRD’s of web portal and PCP selection procedure. 
+Built various use case scenarios and As-Is scenarios for the Web portal and PCP selection. 
+Identified various call types for member services based on the call volume for Medicaid system in place. (ID card request, Benefit clarification, PCP change, network adequacy and others)
+Identified and created SOPs and  training necessities for the CSRs .
+Responsible for conducting and analyzing the impact analysis of the conversion from ICD-9 to ICD-10.
+Worked with ICD codes, mappings and validation.
+Performed migration from ICD-9 to ICD-10 and knowledge of ICD-9 CM, ICD-10 CM/PCS structures an formats.
+Good knowledge of HCPCS/CPT coding formats and modifiers.
+Responsible for conducting various meetings with business and functional owner where I presented the mockups to the testing teams.
+Communicated with different vendors to standardized common data sources
+Environment: MASKED_NAME, MASKED_NAME, Excel, Project, MASKED_NAME, SharePoint, Appian
+Client: UnitedHealth Group, MASKED_NAME:July 2014 – Dec 2015
+Title: Business Analyst
+Project Description:The project included the HIPAA Business Analysis activities, primarily for the addition of a new Medicare Advantage Health Plan (Medicare Part C) to the standard e-Portal usability platform for Eligibility and Benefits application for the Providers, Members, Customer Service and Provider web transactions and to choose the details about the medical service types, deductible and benefit limitations. This new Health Plan provides the benefits of Original Medicare (Part A and Part B) and Prescription Drug Coverage (Part D). Additionally, involved in a parallel project team that implemented migration of HIPAA 4010 transactions to 5010 transactions as well as ICD-9 to ICD-10 code sets.
+Responsibilities:
+Gathered and understood the requirements, was involved in writing a business requirement document and communicated Product road map to the end users.
+Gathered requirements for HIPAA 5010 migration.
+Defined detailed description of user needs (Use Cases), program functions (Business Rules and Supplementary Specifications).
+Involved in duties such as including the development requirements management, project monitoring, and change management using MS Project.
+Ensure project tasks stay on schedule.
+Meet regularly with the Project and IT owner to discuss status and issues.
+Acted as the lead business analyst for website used by customers to place pharmaceutical orders. This project was developed implementing RUP methodology.
+Actively involved in Gap Analysis and impact analysis.
+Followed the Business Rules, and ensured that HIPAA compliant Rules are followed to display minimum benefit information that the Provider is required to pass on the EDI transactions.
+Captured all HIPAA-related EDI data in the repository using FACETS.
+Accepted inbound transactions from multiple sources using FACETS. 
+Managed the privacy and security environments of healthcare data that was governed by HIPAA and other government mandates.
+Extensive knowledge of Electronic Medical Records (EMR) and Electronic Health Records (EHR).
+Executed efforts within the SDLC parameters to ensure customer satisfaction and drove projects to completion throughout product deployment, implementation and configuration lifecycle.
+Performed gap analysis for migration of HIPAA transactions from MASKED_ADDRESS version.
+Performed impact analysis for readiness of ICD-10 conversion.
+Environment: RUP Methodology, Microsoft Word, MASKED_LOCATION, Microsoft Excel, Microsoft PowerPoint, Rational Requisite Pro, Rational Rose, MASKED_NAME 10g and Window XP
+Client: Assurant Healthcare, MASKED_LOCATION, Fl
+Duration: Jan 2013 – June 2014
+Role:Sr. Business Analyst
+Project Description: Assurant health care is one of the largest health care organization serving 1 million medical enrollees and 1.6 million workers compensation enrollees of health plans that access Assurant health network program. The system provides a complete solution for electronic billing and interfaces to MASKED_NAME software and lab systems. The system has different packages like electronic statement, electronic claims billing. Main focus of the project was to upgrade the existing system by enhancing the functionality of online bill pay, and get more information for any transaction; the system performs all the functions of billing process such as billing customers, updating accounts receivable and getting transaction summary.
+Responsibilities:
+Created and documented the user stories based on the FRD documents and assigned them to iterations based on the priority direction provided by the stakeholders. Each user story had the detailed description, mockup and test strategy to help improve rapid development and iterative testing process.
+Worked closelywith Business Directors, project managers, business analysts and SMEs in various business areas to gather, analyze and document the requirements and supported the project throughout the development lifecycle.
+Acted as the primary liaison between the business stakeholders and technical teams to make communication and development efforts more effective.
+Developed functional specifications for the existing WEDI software enhancements (enhanced security &privacy rules, transaction standards, code sets, identifiers) ensuring the system is HIPPA complaint.
+Involved in daily scrum meetings and implemented Agile methodology.
+Wrote clear, concise, and detailed System Requirements Specification (SRS) documents and user documentation in accordance to guidelines and standards of a level where developers can interpret, design and develop the application with minimum guidance.
+Reviewed Test plans, Test cases, Test results with the QA teams and provided feedback and signoffs.
+Designed and developed QA standards and processes that were adapted on all levels of project team.
+Performed Gap analysis for the modules in production, conducted feasibility studies and performed impact analysis for proposed enhancements.
+Conducted UAT sessions, developed manual UAT Scripts, facilitated Defects call on a weekly basis
+Provided analytical support through the analysis and interpretation of data in support of cross-functional business operations.
+Coordinated external internal resources and established time lines and work plan for multiple and complex projects by providing analytical support.
+Used SQL queries to generate the reports.
+Verified the functional aspect as per the business process and validated the interfaces with the other systems and data conversion from the legacy systems.
+Conducted successful application demonstrations to internal and external customers and to the management chair committee Designed, and created training manual for new Epic platform and recommended enhancements and coordinated development.
+Actively involved in walkthroughs and meetings with development team to discuss related issues.
+Worked directly with test coordinators in implementing the new EPIC system in test.
+Created an issue log document and documented all User Acceptance Testing (UAT) issues using HP Quality Center.
+Environment: RUP, UML, BPMN, Rational Requisite Pro, Rational Rose, MS-Visio, MS Office, SQL
+Client: Aetna, MASKED_LOCATION, CT
+Duration: Oct 2011 – Dec 2012
+Role: BusinessSystem Analyst
+Project Description: The project Claims-Funds involved creating a new UI for better user experience in claim reimbursement process. UI was used to view and modify claim fallouts that occur during claim adjudication process. Claim fallouts appear as a work item in Claim Processors Inbox, from where various action such as claim adjudication, claim denial, claim reversal etc. could be performed.
+Responsibilities:
+Gathering, blueprinting and analysing requirements using Requisite Pro and MASKED_NAME Web
+Extensively used Agile Methodology in the process of the project management based on SDLC.
+Mapped high-level to-be designs using Business Process Modelling Notation (BPMN) on MASKED_NAME.
+Extensively involved in data modelling
+Data mapping, logical data modelling, created class diagrams and ER diagrams and used SQL queries to filter data within the MASKED_NAME database
+Gathered and documented Business Requirements, created Functional specifications and translated them into Software Requirement Specifications.
+Conducted analysis of HIPAA compliance and took part in discussions for designing the healthcare transactions to be HIPAA 5010 compliant.
+Involved in understanding of Business Processes, grain identification, identification of dimensions and measures for OLAP applications.
+Designed and developed Use Cases using UML and Business Process Modelling.
+Conducted analysis, assessments and cost/benefit analysis using facets
+Responsible for configuring Facets system.
+Consulted with healthcare insurance company to develop conversion specifications for other insurance Coordination of Benefits (including Medicare).
+Used gap analysis framework to identify AS-IS processes of claims transactions of HIPAA X12 4010/4010A standard and TO-BE processes (ICD-10-CM and ICD-10-PCS compliance requirements) of MASKED_ADDRESS
+Involved in creating sample mappings for the conversion of EDI X12 transactions code sets version 4010 to 5010 and translation of ICD 9 codes into ICD 10 codes.
+Developed data conversion programs for membership, claims, and benefit accumulator data - converted thirteen corporate acquisitions. Developed data field mappings. Provided programming and support for claims processing functions and auto-adjudication.
+Validated the following: 837 (Health Care Claims or MASKED_NAME), 835 (Health Care Claims payment/ Remittance), 270/271 (Eligibility request/Response), 834 (Enrolment/Dis-enrolment to a health plan)
+Documented Requirements for Management Reporting out of Clear Quest using Crystal Reports.
+Facilitated Change Control Board and Governance Board meetings and acted as a liaison between parties impacted by the change requests.
+Provided training on new features within MASKED_NAME and prepared training materials like MASKED_NAME and MASKED_NAME aids.
+Environment: RUP Methodology, Microsoft Word, Microsoft Excel, Microsoft PowerPoint, Rational Requisite Pro, Rational Rose, Test Director, MASKED_NAME 10g and Window XP
+Client:Humana, MASKED_LOCATION, CA
+Duration: Jan 2010-Sep 2011
+Role:   Business Analyst
+Project Description: Humana is one of the leading Health Insurance companies in the MASKED_LOCATION. The company specializes in Health, Life, Dental individuals and Employer Groups Offers great range of products in addition to group health Insurance that serve a wide variety of groups including Military, Seniors and Non Profit Organizations. This project will enable Individual under 65, Over 65, Temporary, Life, and Dental consumers to choose different healthcare plans like Medicare/Medi-claim/Individual/Group insurance, get quotes, submit applications and receive support without the assistance of an Agent.
+Responsibilities:
+Track events, tasks, internal dependencies and progress at the lowest level within the plan.
+Defined the process flow of member enrollment from the online web portal to the FACETS system.
+Identify issues that impact the effort, quality or timeliness of project deliverables.
+Communicate status of project to business heads and cross-functional leadership team.
+Ran SCRUM sprints as a part of the business reports development. Maintained backlogs and assured process flow.
+Performing data management projects and fulfilling ad-hoc requests according to user specifications by utilizing data management software programs and tools like Toad, MS Access, Excel and SQL.
+Ensured that existing plans & procedure codes are used.
+Experience in managing Daily Scrum meeting, MASKED_NAME of Scrums meeting, Sprint retrospective meeting, Sprint review meeting, Sprint planning meeting.
+Manage the application lifecycle from requirements through readiness for delivery from a single repository in HP ALM.
+Understood and articulated business requirements by having sessions with different teams. Understanding the AS IS' system and conducted GAP and impact analysis.
+Gathered business rules and prepared requirement documentations.
+Performed User stories and maintained sprint burn down chat to display the status of the sprint cycle.
+Interacted with Product Owners, Scrum Master and gathered requirements as per the business needs.
+Communicated with Business Partners on status of issues, action plans, and timeframe for resolution throughout development cycle.
+Handled requirement tractability matrix doc to maintain change control and version control.
+Worked on Agile Scrum methodology of SDLC and involved in release, eliciting user stories and supported the design, development and testing team on daily basis.
+Used SQL to analyze the data and check the validation and internal data from end to end systems.
+Environment: RUP, UML, BPMN, Rational Requisite Pro, Rational Rose, MS-Visio, MS Office, SQL

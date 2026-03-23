@@ -1,0 +1,131 @@
+SARAVANA KUMAR
+Certified Project Manager & Scrum Master
+Certifications: PMP (#1340903), CSM (#000590649)
+Professional Summary:
+Certified Project Manager & Scrum Master, offering overall 17+ Yrs. of experience in managing & leading all phases of large-scale software development, followed Waterfall, MASKED_NAME and Agile approaches for software applications in IT industry.
+Technical expertise in all phases of Software Development Lifecycle which includes software and business requirements capture, technical planning, modeling and simulation, architecture design, implementation, system integration, verification and customer support. Demonstrated in leading international cross functional teams of 50+ staffing on a $10+ million/year account to roll out the integrated software application products.
+Certifications: PMP (#1340903), CSM (#000590649)
+Skills Summary:
+Management Competencies and MASKED_NAME:
+Microsoft Office, Microsoft Project Professional, MSPS, MASKED_NAME, Confluence, Plan view 10, Oracle PeopleSoft, Insite, Work Tracking System, Star Team, MASKED_NAME, SharePoint, RMS, MPPM, FTS, CMS
+Technical background: IBM OS/390, z/OS MVS, COBOL, CICS, JCL, NATURAL, REXX DB2, VSAM, File-Aid, Xpeditor, Endevor, MASKED_NAME, SQL, MASKED_NAME, SOLVE, SAS, CA-7, CA-View, Pegasys, MASKED_LOCATION, Clear Quest, MASKED_LOCATION, CA-Intertest, Connect: Direct, FTP.
+Education: Bachelor’s Degree in Electronics
+Work Experience:
+McDonalds Corporation, Digital Applications, MASKED_LOCATION, MASKED_LOCATION	
+Mar 2017 – Till date	
+Senior Project Manager, Information Technology	
+Technology: Middleware (MASKED_NAME, AWS, CloudHub, MASKED_NAME, SQL, Oracle, GWT, Delphi, etc.)
+Responsibilities:
+Managed enhancement projects in the MASKED_NAME space for latest digital Technology conversion. 
+Plan and execute all Data Migration projects. 
+Responsible for implementing the new interface into the International Lead Markets like MASKED_LOCATION, MASKED_LOCATION, MASKED_LOCATION, MASKED_LOCATION and MASKED_LOCATION. 
+Executed projects using Agile and Waterfall methodologies.
+Performed the role of a Scrum Master.
+Responsible for facilitating daily scrum, sprint planning, sprint demo and retrospective meetings.
+FIS Global Solutions, MASKED_LOCATION, MASKED_LOCATION		      
+May 2011 – Dec 2016
+Senior Project Manager, Information Technology
+Wealth Management Solutions
+Technology: Mainframes and Open systems (MASKED_NAME, SQL, Oracle, GWT, Delphi, etc.)
+Responsibilities:
+Lead and Managed Application project team of 18 to 25 people. 
+Successfully executed a variety Application development and Data Warehousing projects on multiple technologies with budgets up to $2M. 
+Executed projects using Agile and Waterfall methodologies.
+Performed the role of a Scrum Master.
+Responsible for facilitating daily scrum, sprint planning, sprint demo and retrospective meetings.
+Manage all projects using PeopleSoft and Planview.  
+Delivery responsibility of Mobile applications and web based applications.  
+Managed Data Migration and Data conversion projects. 
+Managed Infrastructure and software upgrade projects.  
+Responsible for all project management activities from requirements gathering thru implementation and closure. 
+Manage all requirements and adhere to change management process.
+Proactive on communication and time management. 
+Provide status and dashboard reports to client and Management.
+Mentor all the team members and facilitate/conduct necessary trainings.
+Participate in MASKED_LOCATION, ISMS, ISO, CMMI Audits and Project reviews.
+Single point of contact for all offshore escalations. 
+Ensure the project meets project-specific SLA requirements and QMS process.
+EDS/Mphasis 
+Jan 2003 – May 2011
+Project Manager, Information Technology
+Telstra Corporation: Billing Projects	                           Dec 2008 – May 2011	
+Project Manager
+Technology: Mainframes and Open Systems
+Responsibilities:
+End to End Project Management from start to closure. 
+Successfully executed Projects from 10K to $1M on the Mobile and landline MASKED_NAME.  
+Tracking & Reporting Financials to the clients.
+Manage Requirements and adhere to change management process.
+Monitor effort expended; manage 70% and 100% of funding spend trigger points and communicate to Client and Management.
+Ensure the project meets project-specific SLA requirements and GSMS process.
+Ensure Client acceptance of project deliverables occurs in accord with the agreed schedule.
+Participate in MASKED_LOCATION and CMMI Audits and Project reviews.
+Sprint Corporation: Customer Information System         Oct 2007 – Nov 2008
+Project Manager
+Technology: Mainframes 
+Responsibilities:
+Manage and execute Production support project. 
+Managed to close 100+ aged tickets within 6 months.
+Leading a team of nine people.
+Collecting project metrics for the organization. 
+Status reporting to client. 
+Providing technical support for the team members. 
+Participating in internal Work product and quality Audits.
+Managing shift tracker.
+Telstra Corporation – Discretionary Projects 		     Nov 2006 – Sept MASKED_ADDRESS
+Technology: Mainframes 
+Responsibilities:
+Participate in EWG.
+Manage project issues & risks and track them for closure. 
+Create and manage Project plan/schedule.
+Produce the status report to the Project Manager.
+Participate in QA Audits as required.
+Ensure use and compliance with project workbook.
+Collect and collate project status details.
+Assist PM as required.
+Participate in MASKED_LOCATION.
+Telstra Corporation - CRB, SOR and Paycards	       Dec 2004 – Oct 2006	
+Tech lead
+Technology: Mainframes 
+Responsibilities:
+Worked on Production support, MASKED_NAME and enhancement Projects. 
+Collecting project metrics and status reports for the organization. 
+Involved in designing and estimating. 
+Provide technical help to the team members. 
+Development and testing for discretionary projects. 
+Involved in quality audits.
+Sprint Corporation	- Call Detail Synergies – PS&D	      Dec 2003 – Nov 2004	
+Technical Team Member
+Technology: Mainframes 
+Responsibilities:
+Production support, MASKED_NAME and enhancement. 
+Involved in estimating, designing, coding and testing for new projects. 
+Involved in 24X7 production support activities.
+Internal System - General Ledger – PS		      May 2003 – Nov 2003
+Technology: Mainframes 
+Responsibilities:
+Production support, involved in 24X7 production support activities. 
+Fixing batch abends.
+Providing permanent fix for the recurring problems.
+Commonwealth Bank of Australia, MASKED_LOCATION, MASKED_LOCATION    Jan 2003 – May 2003	
+Home Loan Systems – Development 
+Technical Team Member
+Responsibilities:
+Enhancement of End to End development project. 
+Involved in MASKED_LOCATION and testing of Online modules for the project.
+Online programming using CICS. 
+IBM Corporation, MASKED_LOCATION, MASKED_LOCATION 		                  Jun 2002 – Dec 2002
+AT&T: Data Services manager – Development 
+Software Programmer 
+Technology: Mainframes 
+Responsibilities:
+Maintenance and enhancement project. 
+Involved in designing, coding and testing for enhancement projects.
+Involved in a VSAM tune up project. 
+Florida Software Solutions, Chennai, India                     Jun 2000 – May 2002	
+Software Programmer
+Technology: Mainframes 
+Responsibilities:
+Maintenance and enhancement project. 
+Involved in training new resources.
+Involved in designing, coding and testing for enhancement projects.

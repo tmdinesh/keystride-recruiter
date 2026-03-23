@@ -1,0 +1,37 @@
+{
+  "resume_id": "Anil Krishna Mogalaturthi_anon",
+  "skills": [
+    "java",
+    "javascript",
+    "ruby",
+    "react",
+    "angular",
+    "html",
+    "css",
+    "bootstrap",
+    "jquery",
+    "node",
+    "spring",
+    "express",
+    "rest",
+    "soap",
+    "sql",
+    "oracle",
+    "aws",
+    "azure",
+    "docker",
+    "kubernetes",
+    "terraform",
+    "jenkins",
+    "apache",
+    "git",
+    "jira"
+  ],
+  "education": {
+    "degree": "Unknown",
+    "year": "Unknown"
+  },
+  "experience_years": 8,
+  "projects": [],
+  "certifications": []
+}

@@ -1,0 +1,35 @@
+{
+  "resume_id": "Nikith Reddy_anon",
+  "skills": [
+    "python",
+    "java",
+    "javascript",
+    "r",
+    "angular",
+    "html",
+    "css",
+    "bootstrap",
+    "jquery",
+    "node",
+    "spring",
+    "rest",
+    "soap",
+    "sql",
+    "mysql",
+    "mongodb",
+    "oracle",
+    "aws",
+    "ansible",
+    "jenkins",
+    "apache",
+    "spark",
+    "jira"
+  ],
+  "education": {
+    "degree": "Bachelor\u2019s degree from JNTUH                                                                                    April 2008.",
+    "year": "2008"
+  },
+  "experience_years": 9,
+  "projects": [],
+  "certifications": []
+}

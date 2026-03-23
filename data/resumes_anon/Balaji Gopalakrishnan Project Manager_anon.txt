@@ -1,0 +1,126 @@
+IT Professional with 15 years of experience in all phases of Software Development Lifecycle (SDLC) including Requirement gathering, Analysis, Design, Development, Testing, Deployment, Delivery and Support. Managed to deliver large-scale Data warehouse software and Web development projects on time and on budget. 
+Professional experience performing as Technical Project Manager, Scrum Master, Architect, Team Lead and Individual contribution roles etc.
+ Primary responsibilities Manage including scope, budget, project deliverables, project status reporting, developing project metric reports, implementing technology tools, , the creation of system development process (process engineering and re-engineering) and managing providers and service levels (SLA)
+Monitoring project risks and scope creep to identify potential problems and proactively identifying solutions to address them in advance.  
+Experience in managing the architect application Web based application Asp.Net. Hands on programming experience of Object oriented programming in JAVA, C# and ETL programming.
+Hands on experience with relational databases including Oracle, SQL Server, MASKED_LOCATION and MySQL involving stored procedures, triggers, functions, indexes, and packages. 
+ Good knowledge and handled the project that has TERADATA, Hadoop Map-Reduce job scheduler paradigms, MASKED_NAME, Pig, Flume, Sqoop, MASKED_NAME and NO SQL database like HBase.
+Hand on development experience  Business Intelligence Reporting Tool –Teradata, ORACLE, MASKED_NAME, SQL –Server, DTS, Crystal Reports, MUMS,,MS-ACCESS, Core JAVA , Hands on experience working other Web based technology like Classic Asp, Asp.net, C#, Net 3.5.
+Risk management and monitor project performance using the Project MASKED_NAME page using CLARITY tool.
+Managing various application as technical project manager for architect 
+Facilitated Agile Ceremonies like Daily Stand-up, Sprint Planning, Capacity Planning, Sprint Burn down, Velocity Management, Impediment Management, Demo & Retrospective sessions, MASKED_NAME prioritization ,MASKED_NAME , user story gathering & Release Planning
+Responsible for conducting shake holder meetings, Communication , phase end deliverables and getting approvals on them from leadership
+Demonstrated capacity to analyze complex business requirements and translate them into technical specifications, while maintaining a customer focus for outcomes.
+Expertise in RALLY & JIRA Tools for Agile methodology & as a bug tracking tool
+American Express, Technical Project Manager phoenix AZ, July 2016 – Till date.	
+As a part of the cornerstone 2015 Audit Map and in pursuit of AEXP's Enterprise Data Production program objective we require all CS legacy platform Use Cases to be migrated to CS 3.0 environment. This Migration to CS 3.MASKED_ADDRESS, but also achieve our company vision of one enterprise platform for all data  and application. Our goal is to have end to end migration completed followed by the decommissioning of the legacy platforms.
+Primary Responsibilities:
+Gathering requirement for Document archival and big data archival framework.
+Facilitate Planning/Kick-Off meetings, Retrospectives and Daily Standup 
+Scheduling and Conducting the Agile Iteration Planning and MASKED_NAME (lesson learned) meetings
+Work directly with Application Owners and Project Managers to prioritize User Stories for each iteration and release
+Calculate development velocity. Work with QA and Demand Management to manage and forecast iteration capacity
+Manage all release activities, including code deployment and verification
+Coordination of activities with Release Management to ensure successful delivery of iterations and deployments
+Managed and conducted the Sprint Demos
+Resource allocation, monitoring and control Management.
+Coordinate dependencies between teams with other Iteration Managers
+Project planning, execution, monitoring and resource balancing skills with ability to support multiple simultaneous projects in a matrix organizational structure.
+Manage risks and issues impacting project deliverables and dependency management coordinated multiple work groups to ensure internal agreement, cost, and delivery capability.
+Manage on cost ,budget and generating reports on daily, weekly, monthly and on demand
+Implemented ETL solution with MASKED_NAME and also written custom UDFs for building marts.
+Manage and MASKED_NAME tables and HQL Queries for the reports
+MASKED_NAME and MASKED_NAME a solution that could map Oracle external table to MASKED_NAME and at the run time it could provide seamless data for dynamic queries
+Integrated with Tessaract (OCR) to extract the text information from scanned documents
+Data modeling to persist the unstructured data within HBase.
+Facilitating index through Solr with advanced features like Rank and Scoring
+MPP Databases prototype development using MASKED_NAME, Vertica
+Tracking of project using PM tool MASKED_LOCATIONEnvironment: Hadoop, HBase, MASKED_NAME, Tesseract OCR, Solr, Nice, Greenplum, MASKED_NAME and Rally 
+Humana, Technical Project Manager SEP 2015 – June 2016
+Enterprise Marketing CRM data model to ensure the campaign data mart designs are optimized for marketing campaign execution, reporting, and analysis. Also supporting the EDW is having multiple data mart such as Pharmacy, Clinical, External Pharmacy, Vitality and many more. It is also having different source system. Many OLTP sources loads data Monthly, Weekly and Daily basis from Campaign and Companion Management to EDW and downstream generate reports which use for data mining for better decision making. Campaign and Companion Management support includes application MASKED_NAME, Enhancements and Production support activities
+Primary Responsibilities:
+Conducting reviews with subject matter experts on the various deliverables for each phase of the project to ensure the quality deliverables for the project.
+Prepare project plan and participate in product development life cycle. Prepare and present status reports to Shake holders
+Monitoring project risks and scope creep to identify potential problems and proactively identifying solutions to address them in advance.  
+Working onsite-offshore model of project delivery using Water fall and Agile methodologies and there is a procedural communication model that is being followed to fulfil the project needs.	
+Technical management of projects that develop programs that can ingest this real-time data into Enterprise Data warehouse running on like Oracle and/or Netezza
+Responsible for SLA & Penalties management, Incident, SR, Release and MASKED_LOCATION management.
+Manage and control timelines through tracking of project tool MASKED_LOCATIONExtensive SQL and PL/SQL Procedures, Functions in to MASKED_NAME and Pig flow respectively.
+Provided technical expertise to handle non equi-join issue and provided work around to resolve the problem.
+Suggested and have implemented incremental updates and deletes using a strategic implementation
+Involved in creating MASKED_NAME tables, loading with data and writing hive queries which will run internally in map reduce way. 
+Creating business use case ,charters ad reports using rally and incident management tool
+Environment: Hadoop, MASKED_NAME, Pig, Sqoop, Oracle ,Rally, Campaign and Companion Management tool.
+Integrated Data Network - American Express – Technical project Manager, Nov 2012 – AUG 2015
+Primary Responsibilities:
+Plan, execute, and finalize projects within triple constraints of delivering on time, within budget and scope objectives
+Designing documentation deliverables including: process models, process decomposition diagrams, network architecture diagrams, data models, data flow diagrams, entity-relationship diagrams (ERD)
+MASKED_NAME, effectively communicate, and resolve project issues and risks.
+Effectively communicate project status to project stakeholders. Coach, mentor, and motivate team members, influencing them to take positive action and accountability for assigned work.
+Day to day follow up with the Client managers to suggest the improvements in existing process of obtaining requirements. To gather requirements and do the scoping.
+Manage and assist the offshore team in the creation of design, development and testing, mitigate technical risks, if any and provide quality and timely deliverables.
+Resource allocation, monitoring and control Management.
+End to End AMEX project Management using clarity
+Ensure internal agreement, cost, and delivery capability.
+Worked in IDN Data Warehouse Transformation for complete uplifting of our existing system and platform to MASKED_LOCATION. 
+Manage on SIT, UAT, GO & NO GO decision and Warranty support.
+Worked with  IDN Delivery of  Sybase to Teradata , Teradata to Sybase data migration process developed as part of the IDN Transformation
+Managed  on the project Contact BI ETL deliverables on –Analyzing, optimizing table and query to have for  minimum response time in dimension fact load from Sybase to Teradata transformation using  star schema or snowflake schema that allow for flexibility while improving performance (views, join indexes,  functions,  stored procedures, global volatile temporary aggregate tables, reporting ) on MASKED_LOCATION and MASKED_NAME etc.
+Performed the data analysis and mapping; database normalization and clean-up; data extraction, transfer, and loading (ETL). 
+MQ payload modeling and channelizing it to HDFS. 
+Designed and MASKED_NAME parser (MASKED_NAME) to parse XML string in Hadoop.
+Proposed and Implemented Reconciliation logic to match the transactions and to get tagged with ECR
+Environment: Hadoop, MASKED_NAME, Cassandra, MongoDB, MASKED_NAME, SQL, Pig, Sqoop and MASKED_LOCATION, MASKED_NAME, MASKED_NAME, Pig, MASKED_NAME, MASKED_NAME, and Clarity for project management.
+MASKED_LOCATION and Newlands Banking, MASKED_NAME Group),Dec 2010 –  Jan 2012
+Primary Responsibilities:
+Manage multiple projects under single program umbrella specifically in the area of Offshore-Onsite model.
+Program / project schedule, cost and resource management
+Work with multiple project team and managed the program
+Status reporting to the senior management
+Held Teradata Database Designer role on this project.
+Developed/modified, tested and performance-tuned data manipulation procedures for the warehouse: store-day combination data deletion procedure (for unload of erroneous data), aggregation calculation procedures and others.
+MASKED_NAME for the other developers to follow.
+Fast – ESP integration with existing application.
+Participated in architectural decisions regarding the newly built system
+Managed the program in a smoother way with multiple acquisitions happened at the customer side
+MASKED_NAME for achieving rapid growth in revenue and team size of the engagement
+Project planning, execution, monitoring and resource balancing skills with ability to support multiple simultaneous projects in a matrix organizational structure.
+Experienced in coordinating, negotiating and motivating outside vendors and off-shore resources in support of time line and IT project deliverables
+Working closely with Microsoft to Integrate the ANZ application and the Search engine FAST ESP. 
+Environment: FAST ESP ,TeraData and Sql server.
+CareVoyant Technologies Private Ltd  -  Technical Project Lead  April 2010 – Dec 2010
+Primary Responsibilities:
+Basic functional design. Created UML diagrams using Microsoft Visio.
+Constructed Class Libraries containing code for business and data access in the form of ASP.NET pages.
+ The logic was implemented using C#.NET and ADO.NET.
+Used ADO.NET Dataset Object to access the databases and gather all relevant information to be stored. 
+Developed stored procedures to carry out all the Data Manipulation operations on the Database.
+Created ASP .Net pages and Class Libraries containing code for business and data access logic using C#.
+Negotiated by study delivery managers, with contract award contingent upon project manager assignment. 
+Demonstrated outstanding leadership and superb project management skills, consistently scoring 90% or Greater on Customer Satisfaction surveys distributed to study delivery managers during project initiation, Monitoring, and closeout phases.
+MASKED_NAME inc,USA First Data corporation, Drugstore.com, Dimentiondata, Technical Project Manager/Lead    June 2007 – March 2010
+Primary Responsibilities:
+Reviewing and assessing existing data processing methods and techniques
+Rationalizing existing systems and procedures to correct deficiencies and maintain more effective data handling, conversion, input/output requirements, and storage
+Designing documentation deliverables including: process models, process decomposition diagrams, network architecture diagrams, data models, data flow diagrams, entity-relationship diagrams (ERD)
+Modeling processes, work-flows, and structures
+Involved in Design, Construction and testing of applications such as  MASKED_NAME tracker
+Created ASP.NET web pages that provide new features such as MASKED_NAME.
+Extensively used ASP.NET to develop front end screens making use of
+Server and User Controls.
+Working with SSIS and SSRS for Reports.
+Was involved in Status reporting to the senior management.
+ASP.NET validation controls such as RegularExpressionValidator and CustomValidator to validateand information provided by the users. 
+Designed the web forms in ASP.NET and code logic in C# to effectively mirror the business processes.
+Environment: C# ,ASP.net , MVP ,MVC ,SSIS,SSRS  and VB.Net
+Capgemini Consultant     Lucent  Technologies,Technical Project Lead, Feb 2006-April 2007
+Primary Responsibilities:
+Involved in Analysis and design of the required projects. 
+Played the role of the team member 
+Environment :  VB / ASP.net /SQL Server/DTS/SSIS.		
+Covansys India PvtLtd..							
+HofinSoft Technologies Private Limited				
+Master of Computer Application, Annamalai University, MASKED_ADDRESS MASKED_NAME in Computer Application, Annamalai University,  2003
+Bachelor of Commerce, University of Madras, MASKED_ADDRESS , APT  1067, MASKED_LOCATION ,AZ -85254 
+Personal e-mail ID	MASKED_EMAIL
+Contact No         	MASKED_PHONE

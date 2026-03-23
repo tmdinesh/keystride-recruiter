@@ -1,0 +1,31 @@
+{
+  "resume_id": "RaviBurra_Certified PM_DevOps_anon",
+  "skills": [
+    "python",
+    "java",
+    "ruby",
+    "sql",
+    "oracle",
+    "aws",
+    "azure",
+    "docker",
+    "ansible",
+    "jenkins",
+    "ci/cd",
+    "apache",
+    "hadoop"
+  ],
+  "education": {
+    "degree": "Prince2-Practioner, Scrum Master Certified, 6Sigma & ITIL certified.",
+    "year": "Unknown"
+  },
+  "experience_years": 10,
+  "projects": [
+    "Involving business meetings to get understand the new scope to implement the feasible automation frameworks.",
+    "Actively participating in all phases of SDLC and PLM to know the progress at each phase of the cycles.",
+    "Providing required training sessions to the team on Agile/Scrum principles and techniques.",
+    "Facilitating all scrum ceremonies like grooming, sprint planning, retrospectives, daily stand-ups, etc.",
+    "Ratifying change and continuous improvement increasing the productivity of Scrum teams with quality of deliverables."
+  ],
+  "certifications": []
+}

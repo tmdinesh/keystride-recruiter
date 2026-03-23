@@ -1,0 +1,43 @@
+{
+  "resume_id": "Amulya Komatineni_anon",
+  "skills": [
+    "java",
+    "javascript",
+    "scala",
+    "angular",
+    "html",
+    "bootstrap",
+    "jquery",
+    "spring",
+    "express",
+    "rest",
+    "soap",
+    "sql",
+    "postgresql",
+    "mysql",
+    "mongodb",
+    "oracle",
+    "aws",
+    "docker",
+    "kubernetes",
+    "jenkins",
+    "nginx",
+    "apache",
+    "git",
+    "jira",
+    "swagger"
+  ],
+  "education": {
+    "degree": "Unknown",
+    "year": "Unknown"
+  },
+  "experience_years": 8,
+  "projects": [
+    "Performed functional testing to identify critical points  and automated it by using\u00a0Selenium\u00a0web driver.",
+    "Tested Service and data access tier using JUnit in TDD methodology.",
+    "Followed Agile SCRUM methodology and used Test Driven Development (TDD).",
+    "Project builds with Maven and Eclipse as IDE for application development and integration of  frameworks.",
+    "Description: This is an internet based online shopping website in which products will be sold                         electronically involving buyers and sellers. The application also has googled map to represent the address. The products that this application sell, or buy are related to electronic products, consumer products and household products."
+  ],
+  "certifications": []
+}

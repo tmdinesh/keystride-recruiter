@@ -1,0 +1,45 @@
+ROLE: Senior API Engineer
+SOURCE: Synthetic
+URL: N/A
+COMPANY: GridIron Software
+
+============================================================
+  SENIOR API ENGINEER
+  GridIron Software
+============================================================
+
+ABOUT THE COMPANY
+----------------------------------------
+GridIron Software is a dynamic technology firm specializing in building robust, scalable backend systems and innovative data solutions. We empower businesses to streamline operations and enhance user experiences through meticulously crafted API infrastructure. Our mission is to deliver high-performance and secure software that drives digital transformation.
+
+RESPONSIBILITIES
+----------------------------------------
+  • Design, develop, and maintain high-performance, scalable, and secure RESTful APIs using FastAPI.
+  • Collaborate with product managers, front-end developers, and other stakeholders to define API requirements and specifications.
+  • Implement comprehensive testing strategies, including unit, integration, and end-to-end tests, to ensure API reliability and data integrity.
+  • Optimize API performance, monitor system health, troubleshoot production issues, and implement effective logging and error handling.
+  • Contribute to architectural discussions, perform rigorous code reviews, and mentor junior engineers within an Agile development environment.
+
+REQUIRED SKILLS (Must-Have)
+----------------------------------------
+  ✅ Python 3.8+
+  ✅ FastAPI (extensive professional experience)
+  ✅ Deep understanding and practical application of RESTful API design principles
+  ✅ Experience with relational databases (e.g., PostgreSQL, MySQL) and ORMs (e.g., SQLAlchemy)
+  ✅ Proficiency in containerization technologies (Docker)
+  ✅ Experience deploying and managing applications on cloud platforms (e.g., AWS, GCP, Azure)
+
+PREFERRED SKILLS (Nice-to-Have)
+----------------------------------------
+  ⭐ Experience with asynchronous programming concepts and libraries (e.g., asyncio, httpx)
+  ⭐ Knowledge of message queuing systems (e.g., Kafka, RabbitMQ)
+  ⭐ Familiarity with CI/CD pipeline implementation (e.g., GitHub Actions, GitLab CI)
+
+EXPERIENCE & EDUCATION
+----------------------------------------
+  Experience: 3-6 years
+  Education:  Bachelor's degree in Computer Science, Engineering, or a related technical field, or equivalent practical experience.
+
+COMPENSATION
+----------------------------------------
+  $120,000 - $170,000 USD

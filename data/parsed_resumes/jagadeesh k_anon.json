@@ -1,0 +1,42 @@
+{
+  "resume_id": "jagadeesh k_anon",
+  "skills": [
+    "java",
+    "javascript",
+    "angular",
+    "html",
+    "css",
+    "bootstrap",
+    "jquery",
+    "spring",
+    "rest",
+    "soap",
+    "sql",
+    "postgresql",
+    "mysql",
+    "mongodb",
+    "redis",
+    "oracle",
+    "aws",
+    "docker",
+    "kubernetes",
+    "jenkins",
+    "linux",
+    "apache",
+    "git",
+    "jira"
+  ],
+  "education": {
+    "degree": "Unknown",
+    "year": "Unknown"
+  },
+  "experience_years": 8,
+  "projects": [
+    "Description: The objective of this project is to implement a web based front end system which can be used by the employees, managers and higher level management having specific role permissions for effective processing of day to day business activities in the company like leave management, project management and resource management etc.",
+    "Involved in Documentation and Use case design using UML modeling include development of Class diagrams, Sequence diagrams, and Use Case Transaction diagrams.",
+    "Participated in design and code reviews",
+    "Description: The goal of this project was to develop an online system to facilitate the tracking of various projects and related resources. The system implemented various user levels for the security purposes. Development was mainly done using Servlet for Back-End and JSP for Front-End.",
+    "Involved in understanding and analyzing the requirements of the project."
+  ],
+  "certifications": []
+}

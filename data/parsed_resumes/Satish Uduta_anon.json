@@ -1,0 +1,36 @@
+{
+  "resume_id": "Satish Uduta_anon",
+  "skills": [
+    "java",
+    "javascript",
+    "ruby",
+    "angular",
+    "html",
+    "css",
+    "sass",
+    "bootstrap",
+    "jquery",
+    "node",
+    "spring",
+    "rest",
+    "soap",
+    "sql",
+    "oracle",
+    "aws",
+    "ci/cd",
+    "apache"
+  ],
+  "education": {
+    "degree": "Unknown",
+    "year": "Unknown"
+  },
+  "experience_years": 8,
+  "projects": [
+    "Parsing different XMLs and reading properties file for the different configuration for the project.",
+    "Interaction with the Onsite Co-coordinator to get the work assigned and completed on time.",
+    "Good Experience on Selenium IDE and created Scripts in Selenium.",
+    "Enhancing the Selenium test cases for Cross browser testing.",
+    "Created the java based logging Audit tool for the project, which sends mail also for the required group."
+  ],
+  "certifications": []
+}

@@ -1,0 +1,104 @@
+          MASKED_NAME 
+email- MASKED_EMAIL					                                                       ph: MASKED_PHONE
+Summary
+Result-oriented professional with over six years of progressive experience in IT having proficiency in Business Analysis, Project Coordination, Project Management, Project Management Office (PMO) through Waterfall and Agile methodology 
+Certified Scrum Master responsible for dedicated projects in helping enterprise to Self-Organize, Self-Manage, Cross-Functionality, Maximize Product Value, Removing Impediments, and MASKED_NAME experience in Fit-Gap Analysis, Requirement Gathering, Documentation, UML Diagrams, Impact Analysis, Reporting, Migration, Implementation, Testing, Presentation, Relationship Building, Negotiation  
+Versatile experience in working across various domains like Insurance, Banking, Education, Marketing, Digital, Healthcare, HCM, MASKED_NAME, etc. 
+Effectively identify scope of improvement; strategize business processes, workflow design
+Possess SQL skills in various database models like Oracle 11g/9i/8i, MS SQL Server 2005
+Proven ability to imply improved control points on organization data and promote compliance based business decisions through ERM, NIST+, HIPAA, SoX act
+Experience in working with vendors, onsite and offshore project model for business solutions
+Established and maintained client relationship to boost business development
+Experience:
+ArrowWood Financial Corp., MASKED_LOCATION, IL                                                                                              July 2017 – Present
+Synapsis Inc. 
+Role: Associate Project Manager/ Scrum Master
+Responsible for managing project scope and milestones; creating roadmap, task plan, timelines, budget estimates, coordinating resources, risks, dependencies by coordinating with sponsors, leadership, partners
+Standardizing IT project management practices through streamlined, effective project governance methodology to deliver highly valued product
+Introduced and implemented Agile/ Scrum methodology through “Servant Leadership”, coordinating with product owners in breaking down products into features based on stakeholder`s priorities and needs
+Analyzing business needs to create various reports by determining key data parameters, report execution, data mapping, data gaps, data validation from legacy 
+Acted as a backup product owner clearly expressing MASKED_NAME items transparency, ordering items to best achieve goals and missions, optimizing value of work for development team 
+Leading sprint sessions to keep a track on status of user stories development, ensuring definition of done is met for delivery of increments of potentially releasable functionality 
+Facilitating and driving stand-ups, showcase, retrospectives for continuous growth and removing impediments by employing transparency, inspection and adaptation 
+Leveraging resources to improve capacity for project work; handling change management by strategizing techniques to execute or stop the changes based on their benefits 
+Preparing status reports in MASKED_LOCATION and sending to stakeholders, conducting weekly project progress meeting with projects stakeholders and addressing any project related queries, project estimation document 
+Guiding team in creating product and sprint backlogs, and project artifacts including job aid, training material, SOP, SOW (statement of work), SLA (service level agreement), transition plan, requirement inventories
+Coaching and training teams as whole and individually on new technologies, self-organize, cross- functionality to create high value products
+State Farm Insurance, MASKED_LOCATION, IL 						                   Mar 2016 – Jun 2017
+Accenture
+Role: Sr. IT Analyst/ Scrum Master
+Coordinated with leadership, business and product owners in planning multi-million dollar projects around objective, scope, milestones, budget, resources, roadmap, tasks, risks and dependencies, timelines 
+Identified opportunity areas for process improvement by analyzing, assessing and enhancing current applications and products 
+Practiced Agile/ Scrum methodology to employ an iterative, incremental approach to optimize predictability 
+Led sprint meetings in discussing re-negotiating scope, change, complexity, completion of user stories  
+Facilitated and drove stand-up meetings for team and associated stakeholders focusing on impediments removal, dependencies, progress on user stories, delegation of work to reduce team stress 
+Organized sprint showcase to present products released during the sprint, and retrospectives around lesson learnt for continuous improvisation 
+Collaborated with product owners, developers and technical partners to build product road maps and execute flawlessly
+Occasionally acted as a product owner responsible for refining product backlog, including its content, availability and ordering 
+Guided the team in standardizing definition of done and acceptance criteria for delivering project valued product
+Performed reviews of product backlog, designs, test scripts, and addressing delivery impediments or product quality issues
+Managed various sized teams by training and coaching less experienced staff, tracking staff`s work, obtaining formal reviews, helped in removing impediments, initiated team agendas, proposed team development 
+Coached business partners and stakeholders in using newly implemented applications, technology
+Played as acting PMO to anticipate bottlenecks, provided escalation, presented options when constraints arose in effort to avoid and resolve conflicts, and maintain enterprise standards for project management
+Led requirements gathering, evaluation and management through optimal business analysis approach for process improvisation, introducing new products and services, metrics and KPIs
+Responsible for coaching team with various technologies like VersionOne, Splunk, QlikView, JIRA
+Mapped data and analyzed report requirements to meet Business Continuity Management 
+Led and guided test efforts by creating test plan, test scenario, test cases, executing test cases, tracking defects and reporting bug 
+Reported project progress to stakeholders, sponsors, and business partners and answered questions around any issues or concerns 
+Drove a culture of urgency, on-time, on-budget and in-scope project delivery across multiple business areas and teams for achieving quality product development 
+Brinker International, MASKED_LOCATION, TX					                                   Oct.2015- Feb. 2016 
+MASKED_LOCATION: Lead Business Analyst
+Led and drove meetings for business owner and stakeholders to obtain project objective, spot gap analysis 
+Documented functional and non-functional requirements during enhancement of business processes  
+Created UML models like process maps, flow chart, RACI chart, swimlane while designing future state 
+Drove presentation and workshops for cross-functional team in effort to evaluate business case and requirements to build quality product for delegated business areas by obtaining feedbacks and providing recommendations
+Executed SQL queries to retrieve and validate key data parameters for project reports 
+Participated in creating test plan, test cases, executing test cases, tracking defects and maintaining traceability matrix   
+Edelman, MASKED_LOCATION, IL                                             		                                                                Feb 2012 – Oct 2015
+Role:  Sr. IT Security Analyst (ERP)
+Established PeopleSoft security by configuring controls for segregation of duties (SOD), query security, user preferences, row level security, execution of SJT process 
+Engaged in PeopleSoft query report building, debugging through PeopleCode traces 
+MASKED_NAME between third party auditors and business users for enterprise audits
+Created private and public SQL queries for business partners to analyze and evaluate key data 
+Responsible for providing logical reports focusing on business control points, analyzing gaps in IT security risk and controls from legacy to new system and from previous year to the current year
+Responsible for Workflow Administration to analyze the gaps in workflow and ensure authorized allocation of worklist items
+Role: Lead Business Analyst
+Coordinated in requirement elicitation with key stakeholders and SMEs by conducting interviews and requirement showcase
+MASKED_NAME as is analysis, gap analysis and recommended solutions for future state during processes enhancement
+Assisted team in recording employee data on Workforce Administration for various business transactions 
+Coordinated with team to enhance business processes in various modules like ESS, MSS, Time Reporting, Learning and Development, Performance Management, etc. 
+Contributed in data mapping from 8.8 into 9.MASKED_ADDRESS plans, test scripts, test cases, tracking defects, created and refined requirement traceability matrix for technical team
+Participated in local and global go live through configurations, testing, migration and operations support 
+Provided post implementation support for stakeholders ensuring product standards and quality services 
+Masters Student- DePaul University 				                         Aug. 2009 – June MASKED_ADDRESS						 
+Information Services			
+Worked to assess current technology usage, met needs and developed solutions to ensure process efficiency and ease of use for end users
+Created and updated supporting system documentation
+Troubleshot hardware and software issues and ensured operation at peak efficiency
+Provided technical assistance over telephone for distant learners and staff
+Acted as security analyst to ensure appropriate access in IS (information systems)
+Proposed time saving strategies in analyzing and resolving hardware and software issues
+Analyst 		
+Enrollment Management and Marketing			 
+Consulted with customers regarding information needs and provides ad hoc queries and reports upon request
+Provided functional production support for HR applications, HR Reporting, developing functional specifications for applications development 
+Assisted in testing and implementation of new projects, enhancements of application system
+Worked as a strong team player and independently, to ensure excellent follow-through, with verbal and written communication skills 
+Dena Bank, MASKED_LOCATION, MASKED_LOCATION                                                                                                    Jan 2007 – Feb 2008
+Role: Functional Analyst            
+Participated in JAD session focused on marketing strategies to formalize business processes and web solutions
+Responsible for business requirements gathering and defining specifications for system configuration, project documentation and archiving
+Worked with developers and users analyzing customizations to utilize delivered functionally
+Trained key business users on newly implemented system functionalities
+Conducted functional testing of the configuration and application data for data accuracy and integrity
+Computer Skills 
+Software: SharePoint, MASKED_LOCATION, QlickView, VersionOne, Oracle Primavera, IQ Navigator, PeopleSoft FSCM 9.X, PeopleSoft HCM 9.X 
+Technologies: MASKED_NAME, MASKED_NAME, JIRA, Lotus Notes 8.5, Track, RSA MASKED_NAME, IT MASKED_NAME, Troux, UCMDA, HPAM, HP-Manager, ROVR, People tools 8.XX, Application designer, Application Engine, Process scheduler, Process monitor
+Tools: SQR, Crystal reports, PS Query, BI Publisher, VersionOne, Splunk 
+Languages: SQL, PL/SQL
+Packages: MS Office; MASKED_NAME Science: Information Systems - DePaul University, MASKED_LOCATION, MASKED_LOCATION – June 2011
+Bachelors of Information Technology - Mumbai University, MASKED_LOCATION – June 2007
+Certifications
+Certified Scrum Masters (CSM)                                                                                       Dec. 2016
+MASKED_NAME Experience: 
+      Toastmasters International                                                                                                     June 2015 – Dec 2015 

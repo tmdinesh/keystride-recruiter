@@ -1,0 +1,27 @@
+{
+  "resume_id": "Profile (47)_anon",
+  "skills": [
+    "python",
+    "html",
+    "css",
+    "jquery",
+    "spring",
+    "mysql",
+    "aws",
+    "docker",
+    "machine learning"
+  ],
+  "education": {
+    "degree": "Master of Science - MS,\u00a0Computer Science\u00a0\u00b7\u00a0(2017\u00a0-\u00a02019)",
+    "year": "2017"
+  },
+  "experience_years": 2,
+  "projects": [
+    "Program analysis to detect error propagation bugs in MPI Libraries",
+    "January 2018\u00a0-\u00a0June 2018\u00a0(6 months)",
+    "'18 (Jan-Mar) and Spring '18 (Apr-Jun)",
+    "Responsibilities included:",
+    "Conducting weekly discussion sections for students"
+  ],
+  "certifications": []
+}

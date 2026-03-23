@@ -1,0 +1,33 @@
+{
+  "resume_id": "Vidit_anon",
+  "skills": [
+    "python",
+    "javascript",
+    "php",
+    "react",
+    "angular",
+    "bootstrap",
+    "express",
+    "sql",
+    "mysql",
+    "mongodb",
+    "aws",
+    "machine learning",
+    "scikit-learn",
+    "pandas",
+    "numpy"
+  ],
+  "education": {
+    "degree": "Unknown",
+    "year": "Unknown"
+  },
+  "experience_years": 9,
+  "projects": [
+    "IEEE-CIS Fraud Detection (08/2019 \u2013 Present)",
+    "Do feature engineering",
+    "Predicting tags for StackOver\ufb02ow",
+    "Do text pre-processing ;",
+    "Use multiple models and hyper-parameter tuning."
+  ],
+  "certifications": []
+}

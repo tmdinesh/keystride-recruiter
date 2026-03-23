@@ -1,0 +1,32 @@
+{
+  "resume_id": "Naveen.S_Resume_anon",
+  "skills": [
+    "python",
+    "java",
+    "javascript",
+    "angular",
+    "html",
+    "css",
+    "bootstrap",
+    "jquery",
+    "spring",
+    "rest",
+    "soap",
+    "sql",
+    "mysql",
+    "oracle",
+    "aws",
+    "docker",
+    "jenkins",
+    "ci/cd",
+    "apache",
+    "jira"
+  ],
+  "education": {
+    "degree": "Unknown",
+    "year": "Unknown"
+  },
+  "experience_years": 8,
+  "projects": [],
+  "certifications": []
+}

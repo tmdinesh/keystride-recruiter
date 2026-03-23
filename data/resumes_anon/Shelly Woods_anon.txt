@@ -1,0 +1,139 @@
+MASKED_NAME
+MASKED_PHONE
+MASKED_EMAIL                                                                                                                                                      
+Professional Summary
+10+ years of professional experience in IT on MASKED_NAME, MASKED_NAME including 2+ years of hands on experience in Big Data, Hadoop Ecosystem Components.
+Expertise in developing application with financial domain, using Enterprise Technologies pertaining to  MASKED_NAME 1.8 , MASKED_NAME , Servlets 2.2/2.3, JSP 2.0, Struts 2.0, Hibernate 3.0, Spring IOC, Spring MVC, Spring Boot Hibernate, JMS,XML, JDBC 2.0, JNDI, JAXP ,JAXB, Web Logic ,Web Sphere and Tomcat.
+Experience in Web Services using XML, HTML, SOAP and REST API.
+Solid background in Object Oriented Analysis & Design, Development and Implementation of Client Server/Web/Enterprise development using n-tier architecture
+knowledge of Angular JS practices ,MASKED_NAME custom, general use modules and components which extend the elements and modules of core Angular JS
+Strong experience creating real time data streaming solutions using Apache Spark Core, Spark SQL & Data Frames, Spark Streaming 
+In depth knowledge of Hadoop Architecture and YARN
+Experience in writing MASKED_NAME programs using Apache Hadoop for analyzing Big Data.
+Hands on experience in writing Ad-hoc Queries for moving data from HDFS to HIVE and analyzing the data using HIVE QL.
+Experience in importing and exporting data using Sqoop from Relational Database Systems to HDFS.
+Experience in writing Hadoop Jobs for analyzing data using Pig Latin.
+Working Knowledge in MASKED_LOCATION Databases like HBase.
+Integrated Apache MASKED_NAME for data ingestion
+Experience in using Apache Flume for collecting, aggregating and moving large amounts of data from application servers.
+Experience in using Zookeeper and Oozie Operational Services for coordinating the cluster and scheduling workflows.
+Extensive experience with SQL, PL/SQL, Shell Scripting and database concepts.
+Experience in using version control management tools like CVS, SVN and Rational Clear Case.
+Highly motivated, self-starter with a positive attitude, willingness to learn new concepts and acceptance of challenges.
+Ability to work independently and with a group of peers in a results-driven environment. Strong analytical and problem solving skills. Ability to take initiative and learn emerging technologies and programming languages
+Education:
+M.C.A (Master of Computer Applications) from Osmania University, 2006.
+B.S.C (Computer Science) from Kakatiya University, 2003.
+Technical Skills:		
+Professional Experience:
+Client: 	AT&T, MASKED_LOCATION		                                                                                               April 2017-Persent.	
+Title: Senior Analytical Hadoop / Spark Developer
+ECOMP is critical in achieving AT&T’s D2 imperatives to increase the value of our network to customers by rapidly on-boarding new services (created by AT&T or 3rd parties), enabling the creation of a new ecosystem of cloud consumer and enterprise services, reducing Capital and Operational Expenditures, and providing Operations efficiencies. It delivers enhanced customer experience by allowing them in near real time to reconfigure their network, services, and capacity. While ECOMP does not directly support legacy physical elements, it works with traditional OSS’s to provide a seamless customer experience across both virtual and physical elements. ECOMP enables network agility, elasticity, and improves Time-to-Market/Revenue/Scale via the AT&T Service Design and Creation (ASDC) visual modeling and design. The service design and creation capabilities and policy recipes eliminate many of the manual and long running processes performed via traditional OSS’s (e.g., break-fix largely moves to plan and build function). The ECOMP platform provides external applications (OSS/BSS, MASKED_NAME, and 3rd party integration) with a secured, RESTful API access control to ECOMP services.
+Responsibilities:
+MASKED_NAME scripts by using MASKED_NAME shell commands as per the requirement.
+Used Spark API over MASKED_NAME YARN to perform analytics on data in MASKED_LOCATION.
+MASKED_NAME scripts, UDFFs using both Data frames/SQL and RDD/MapReduce in MASKED_LOCATION  for Data Aggregation, queries and writing data back into OLTP system through Sqoop.
+Experienced in performance tuning of Spark Applications for setting right MASKED_NAME time, correct level of Parallelism and memory tuning.
+Loaded the data into Spark RDD and do in memory data Computation to generate the Output response.
+Optimizing of existing algorithms in Hadoop using Spark Context, Spark-SQL, Data Frames and Pair RDD's.
+Involved in loading data from Oracle database into HDFS using Sqoop queries.
+Responsible for building scalable distributed data solutions using Hadoop.
+MASKED_NAME pipeline jobs to process the data and create necessary MASKED_NAME. 
+Developed Pig Latin scripts for data cleansing.
+Environment: HDFS, MASKED_NAME, HBase, MASKED_NAME, Spark SQL, MASKED_NAME, MASKED_NAME, SBT 0.13, MASKED_NAME, kafka-0.9.0, Apache NiFi ,Java (jdk1.7 & 1.8 ), UNIX, SVN and Zookeeper, JEE, JSP, JSTL,  Spring 2.5, Oracle 11g/10g,Maven, REST-ful Web Services,  Apache Axis2, MASKED_NAME,  Tomcat7,GIt,Jenikins.
+Client: 	American Express, MASKED_LOCATION		                               August 2016-March2017.	
+Title: Senior Java/Hadoop Developer
+Project Description:
+American Express Company is a global travel, financial and network service provider. The company provides individuals with charge and credit cards. In CCSG we build new application pages for the given cards (Charge/Credit). Enables prospect to apply for personal cards. Prospect has an option to apply for a personal card through various channels.
+Long Application: User is not an American Express card holder and wants to apply for a new card.
+Short Application: If already a card member, has an option to apply for new cards, with a difference that user is asked to fill in minimal details
+Responsibilities: 
+Involved in writing MAVEN project, primary responsibilities include development of web application using spring MVC and MASKED_NAME to pull queries from oracle
+Involved in loading data from Oracle database into HDFS using Sqoop queries.
+Responsible for building scalable distributed data solutions using Hadoop.
+MASKED_NAME pipeline jobs to process the data and create necessary MASKED_NAME. 
+Developed Pig Latin scripts for data cleansing.
+Worked with different File Formats like TEXTFILE, AVROFILE for HIVE querying and processing.
+ Developed PIG UDF'S for manipulating the data according to Business Requirements and also worked on developing custom PIG Loaders.
+I have successfully written Spark Streaming application to read streaming twitter data and analyze twitter records in real time using MASKED_NAME framework to measure performance of Apache Ignite Streaming and Apache Spark Streaming. 
+Using Apache Nifi to MASKED_LOCATION data MASKED_NAME to MASKED_NAME.
+Involved in writing MAVEN project, primary responsibilities include development of web application using spring MVC and MASKED_NAME to pull queries from oracle.
+Implemented test cases for Spark using MASKED_NAME as language. 
+Environment: Hadoop, MASKED_NAME, HDFS, MASKED_NAME, HBase, MASKED_NAME, Spark SQL, MASKED_NAME, MASKED_NAME, SBT 0.13, MASKED_NAME, kafka-0.9.0, Apache NiFi ,Java (jdk1.7 & 1.8 ), UNIX, SVN and Zookeeper, JEE, JSP, JSTL,  Spring 2.5, Oracle 11g/10g,Maven, REST-ful Web Services, SOAP, Apache Axis2, MASKED_NAME,  Tomcat7
+Client: 	United Overseas Bank, MASKED_LOCATION				September 2014- August 2016
+Title:   Tech Lead( Java/Hadoop)
+Description: 	         
+UOB, The Power Lender CE is a loan origination system supporting all kinds of loans. The Main objective of this project is to build an interface to interact with External Fraud Detection System for both Secured and Unsecured Loans. This system consists of two basic modules such as Secured Loans are mortgage loans, housing loans or any loan that is availed form the bank on providing some security or collateral. Unsecured Loans are credit cards, personal loans, vehicle loans or any loan that is availed from the bank without any security. 
+Responsibilities:
+Collaborated with the Business Intelligence team to understand the high level data roadmap and define data discovery priorities.
+Installed and configured Hadoop-1.0.2 MASKED_NAME, HDFS, and developed multiple MASKED_NAME jobs in MASKED_NAME for data cleaning and preprocessing. 
+Analyzed Hadoop cluster using the big data analytical tools such as Pig, MASKED_NAME, MASKED_NAME and MASKED_NAME. 
+Collected and aggregated large amounts of web log data from different sources such as web servers, mobile and network devices using Apache Flume and stored the data into HDFS for analysis.
+Developed optimal strategies for distributing the web log data over the cluster, importing and exporting the stored web log data into HDFS and Hive using MASKED_NAME.
+Involved in creating MASKED_NAME tables, loading millions of records of the stored log data and writing queries that will invoke and run the Map Reduce jobs in the backend. 
+Transformed large sets of semi-structured and unstructured data in various formats, to extract parameters such as user location, age, spending time etc.
+Analyzed the web log data using Hive to calculate metrics such as number of unique visitors, page views, etc.
+Exported the analyzed data to relational databases using Sqoop for visualization and generating reports.
+Designed efficient high-performing applications to extract, transform, load, and query very large datasets, including unstructured data. 
+Installed Apache Oozie workflow engine to run multiple MASKED_NAME and Pig jobs independently with time and data availability.
+Modelled user behavior based upon previous findings and most relevant data available, and contributed to the development of tools for tracking and understanding user behavior.
+Worked on Hive joins to produce the input data set.
+Environment: Hadoop, MASKED_NAME, HDFS, MASKED_NAME, Oracle 11g/10g, HBase, MASKED_NAME, Spark SQL, MASKED_NAME, MASKED_NAME, SBT  0.13 ,MASKED_NAME, MASKED_NAME (jdk1.6), UNIX, SVN and MASKED_NAME,MASKED_NAME, J2EE, JSP, JSTL, AngularJS, Spring 2.5,Maven, REST-ful Web Services, SOAP, Apache Axis2, MASKED_NAME,  MASKED_LOCATION
+Universal Weather & Aviation.                                        July 2010 - August 2014	 
+Title: Senior MASKED_NAME:	          
+The application will provide enhanced electronic versions of Universal's product UVTripPlanner. It will provide search facility for ground services and airport data. This is the web application provides information about weather and aviation details for registered users across the globe. User can get the data to every single airport includes airport address, frequencies, customs, and services available for different types of aircrafts.  
+Responsibilities: 
+Used Agile Methodologies to manage full life-cycle development of the project.
+Developed application using MASKED_NAME, spring and MASKED_NAME.
+Developed rich user interface using JavaScript, JSTL, CSS, JQuery and JSP’s.
+Developed custom tags for implementing logic in JSP’s.
+Used MASKED_NAME script, JQuery, JSTL, CSS and MASKED_NAME tags for developing the JSP’S.
+Involved in making release builds for deploying the application for test environments.
+Used MASKED_NAME database as backend database.
+Wrote SQL to update and create database tables.
+Used Eclipse as IDE.
+Using RIDC Interface get content details and MASKED_NAME through application.
+Used Spring IOC for injecting the beans.
+Used MASKED_NAME for connecting to the database and mapping the entities by using hibernate annotations.
+Created JUnit test cases for unit testing application.
+Writing/integration JSP communicating to spring controller  and passing query criteria to hibernate to pull data  and showing reports based on searches both on web gui and streaming data into excel .
+Involved in writing MAVEN project, primary responsibilities include development of web application using spring MVC and MASKED_NAME to pull queries from oracle.
+Development Tools are MASKED_LOCATION, Spring MVC,MASKED_NAME
+AppserversIwebservers:Tomcat7
+Used JUNIT and JMOCK for unit testing.
+Environment: J2EE1.6, JSP, JSTL, Ajax, Spring 2.5, Struts 2.0, MASKED_NAME, Hibernate 3.2,JDBC, JNDI,XML, MASKED_LOCATION, Web Services, WSDL, Log4j, ORACLE 11g, Oracle Web logic MASKED_NAME, SVN, MASKED_LOCATION, UML.
+Honeywell                                                                                                 December 2009- July 2010
+MASKED_NAME:     The Honeywell_AP process covers processing of all vendor related payments for clients, which includes processing of invoices, credit notes and payment requests etc. On an overall basis, timely and accurate payments with complete controllership and diligent customer service are the required deliverables of AP
+
+Responsibilities: 
+Involved in the requirements gathering. Design, Development, Unit testing and MASKED_NAME fixing.
+Used Agile Methodologies to manage full life-cycle development of the project.
+Involved in development of GUI for Client Using MASKED_NAME using Java1.6, MASKED_NAME swing worker also developed the entire online help for the application system using the MASKED_NAME help system, the application had perspectives for views to support multiple tab Components in the UI, it was packaged as a web start build.
+Involved in creating ant scripts for the MASKED_NAME files to update client builds for the Usability tests.
+Worked with MASKED_NAME using Java1.6 and some other open source tools to build the C2C1M Client like, Table Layout, MASKED_LOCATION P01etc, Worked with MASKED_NAME (Java Desktop integration Components) components to embed a web browser displaying HTML in a MASKED_NAME window.
+Worked on JMS to publish and subscribe to topics messages downstream to update legacy data using IBM MQ   series. 
+Created/Configured Hibernate mapping classes, 1-Hibernate configuration files (XML files) to use the MASKED_NAME frame work to update or view Database records, also created Criteria Queries to retrieve data from the Database.
+Developed RMT servers of client and server could communicate for data updates and retrievals. The combination of hibernate with MASKED_NAME was simple and perfect solution for concurrency issues.
+Software Development Methodology used to develop the project was Agile Methodology (with small scrum teams).Connected client to web service (JAX—RPC) to retrieve data and d display for central storage, the application was developed over (lie spring framework.)
+Worked on writing/updating ANT scripts while creating web archive files/enterprise archive files the jars were signed to maintain security for the systems.
+Built high performance java servers and used maven for building/packaging.
+Design of the Client side of the application using MASKED_NAME swing (1.6) using the JSR296 application framework.
+Collaborating with analysis team to review the developed UI and packaging/deployment the application for UAT and SIT using java web start build techniques.
+Development tools: JavaSwing,Intellijidea,MASKED_NAME server: Websphere
+Server technology: RMI Remote Method Invocation), MASKED_NAME. Version Control;Clearcase
+Special tools; JDIC, Table Layout (opensourceswing’s layout), MASKED_NAME, lntelliJ IDEA, Your MASKED_NAME (to clear memory leaks in the client/server code), Deadlocks P0I (Apache for exporting to excel from the GUI tables), hibernate..
+Environment: J2EE1.6, JSP, JSTL, Ajax, Spring 2.5, Struts 2.0, MASKED_NAME, Hibernate 3.2,JDBC, JNDI,XML, MASKED_LOCATION, Web Services, WSDL, Log4j, ORACLE 11g, Oracle Web logic MASKED_NAME, SVN, MASKED_LOCATION, UML, Sterling Commerce Distributed Order Management(DOM).
+Specialty Planners Inc                                                                           November 2007- December 2009
+Java/J2EE Developer
+Description:  
+Specialty Planners Inc. is an Insurance Agency sales company that sells MASKED_NAME (LTC) products of various Insurance companies (called Carriers) and gets commission for the business done, from the Carriers. Agents are recruited and trained by Specialty Planners to do business for the Carriers and the Carrier takes agent into contract. Specialty Planners supplies leads (prospect customer information) to its Agents via AIMS IC online application for doing business. The main objective of the AIMS application is that provides support and management for the Specialty Planners business. The system will allow Specialty Planners to operate efficiently and support brokerage business model and third party administration business.
+Responsibilities:
+Involved in Unit Testing of the Application.
+Developed the JSP’s and MASKED_LOCATION data using MVC architecture.
+Involved in designing front-end screens.
+Documenting daily weekly status report and sending to client
+Implemented the Servlets and JSP components
+Used Hibernate for Object Relational Mapping and data persistence.
+ Developed the Database interaction classes using MASKED_NAME.
+Created JUnit test cases and ANT scripts for build automation.
+Environment: MASKED_NAME, J2EE 1.4, HTML, XML, MASKED_NAME, JMS,  Servlets, JSP 1.2, Struts 1.2, MASKED_NAME, Web services, Eclipse 3.3, Web Sphere 7,  Oracle 9i, ANT, MASKED_NAME.

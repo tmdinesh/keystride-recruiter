@@ -1,0 +1,25 @@
+{
+  "resume_id": "Kuppurajbabu_BA_anon",
+  "skills": [
+    "javascript",
+    "html",
+    "sql",
+    "oracle",
+    "jira"
+  ],
+  "education": {
+    "degree": "Master of Business Administration (Major: Project Management and Finance), UDM, MI (2013)",
+    "year": "2013"
+  },
+  "experience_years": 10,
+  "projects": [
+    "Acted as a liaison between  Project Management and IT groups to create planning, and sizing",
+    "Assisted PM in re-baseline the project plan to execute the approved changes",
+    "Prepared test data to test various scenarios in creating groups, subscribers and dependents",
+    "Participated in daily defect meetings and coordinate the User Acceptance Testing (UAT)",
+    "Reviewed and logged critical defects in HP Quality center and communicate to the related teams"
+  ],
+  "certifications": [
+    "Microsoft Certified System Engineer (MCSE)"
+  ]
+}

@@ -1,0 +1,160 @@
+NAVEEN ARORA
+MASKED_PHONE
+MASKED_EMAIL
+Current MASKED_ADDRESS
+Visa – H1b
+Open to relocate
+EDUCATION
+BE Computer Engineering (PCT ; University of Mumbai)- India  - 1999
+MS in Computer Science – (BITS, MASKED_LOCATION) MASKED_LOCATION	 - 2001
+CERTIFICATIONS
+Oracle Certified MASKED_NAME
+Oracle Certified Business Component Developer
+PROFESSIONAL EXPERIENCE
+Client: BP - Chicago, IL					 June’ 16 – Till Date
+Java Solutions Architect / Java Developer
+BP is one of the world's leading integrated oil and gas companies.  Like all world class organization BP uses latest cutting technology to manage supply, customers, inventory, actuals and forecasting data. My job responsibilities in the organization is to help automate the existing manual operations and propose, design, develop software solutions.
+Senior Software Developer/Solution Architect
+Projects:
+Fuel Equity Forecasting Tool
+RESTful web services for providing various views comparing datasets and display forecast and actual data for oil wells to aid in decision making for plan changes. The project uses Kerberos and LDAP authentication. 
+Design and Develop highly available Web Services using Spring RESTful technologies and MASKED_NAME implementation. The web services were reusable and versioned to provide for an upgrade path to existing API leveraging SOA software design, browser acting as service consumer and the Web Services were acting as service provider.
+Design Regression and Performance automated test suite using MASKED_NAME and groovy.
+Interact with business to understand the requirements
+Coordinate with support team for software deployments and upgrade activities
+Security Design for web services using MASKED_NAME and LDAP 
+Spring Data and Hibernate ORM for persistence
+Spring Kerberos Rest Template for remote server REST calls.
+Spring for RESTful endpoints.
+Developed JUnit test cases for all the developed modules.
+Agile/SCRUM was used as the project management methodology 
+Jenkins for Self Service deployment portal and Continuous Integration (CI).
+Fuel Supply Dashboard Mobile Application
+Design and develop SOAP based web services for mobile application dashboard to display  fuel supply status and customer information.
+Responsibilities:
+Design and Develop Web Services using SOAP technologies.
+MASKED_NAME and Regression test suites using SOAP UI and groovy 
+Interact with business to understand the requirements
+Coordinate with support team for software deployments and upgrade activities
+Coordinate with teams across the globe with interface development activities.
+JAX-WS Reference Implementation (RI) for code generation from WSDL
+Hibernate ORM and reverse engineering tools for data base access and integration
+Orika Library for Mapping, filtering and modifying database parameters to SOAP web response.
+Exposing Web Service Using Spring JAX–WS RI support developed as part of the JAX–WS Commons project.  
+Behaviour logging using Spring AOP and Log4j.
+Developed JUnit test cases for all the developed modules.
+Agile/SCRUM was used as the project management methodology 
+Jenkins DevOps toolkit for Self Service deployment portal.
+MASKED_NAME for Software Solutions
+Provide software support including fix issues and minor enhancements for Gasoline Blending Transaction Management system design in Spring/JPA running on MASKED_NAME server.
+Provide software support for Trading News Portal designed in Spring MVC/Hibernate running on Tomcat server. Analysis of migration of application to MASKED_NAME and Angular JS 2 based UI as MASKED_NAME development. Worked integrating Rest Services with Angular JS 2 UI framework. Used decorator for log enhancement.
+Environment: MASKED_NAME, Spring 4.0.5, MASKED_NAME 4.3.5, XML, MASKED_NAME, Maven, CSS, MySQL, Tomcat6.0/ 5.5, SOAP 1.0, JBOSS, SOAP-UI, MASKED_NAME, MASKED_NAME, groovy, JavaScript, JSP, Microsoft SQL Server, WebLogic, MASKED_NAME, Angular JS 2, TFS, SOA
+Client: Access Health		                                                                  Oct’ 15 – May MASKED_ADDRESS hospitals, based on clinical variables with data from three initial sources, helps the CFO to make business decisions effectively. Involved in integration of client J2EE based web application system, software architecture, and service oriented architecture with BI reporting tool WebFOCUS reporting server web service framework. Work on development and customization of user interfaces (UI) using JavaScript, JQuery, JSP, MASKED_NAME and CSS.  
+Responsibilities:
+As a Solution Architect, involved in design and making choices for appropriate persistence, UI, middleware, webserver and integration frameworks along with reporting framework.
+Customer interaction and analysis of customer environment for requirements specification and current operating environment.
+Technical documentation and review for requirements specification, high level design and unit testing plan.
+Developed RESTful web services using MASKED_LOCATION 2.x as JAX-RS 2.0 implementation.
+Responsible for build (WAR) using maven and release the code from Perforce.
+Worked with UI designer for appropriate backend calls and handling expected output.
+Used JAX-RS, JAXB, DOM/SAX Parsers, HTML, CSS, JSP, Servlet, JavaScript and JQuery to construct the reports leveraging WebFOCUS web services framework.
+Developed Servlets and JSP for web applications.
+Developed Spring 3 MVC restful web services using MASKED_LOCATION implementation for JAX-RS
+Worked with UI team in styling and integration of Web interface with server backend using JQuery,  JavaScript, HTML and CSS.
+Involved in the development of SQL queries to get data from Oracle and MySQL. 
+Developed JUnit test cases for all the developed modules.
+Agile/SCRUM was used as the project management methodology 
+Monitoring Service Level Agreements (SLA) for all applications.
+Provided training to customer and post deployment support for any reported issues.
+Maintain code quality using build integrated code coverage and static analysis tools.
+Involved in integration of reporting database, BI tool WebFOCUS to J2EE for generation of medical financial reports. 
+Environment: MASKED_NAME, Spring 3,0, Spring 3 MVC, Spring OAuth 2.0, XML, MASKED_NAME, ant, CSS, JavaScript, JQuery, JSP, MySQL, Tomcat6.0/ 5.5, MASKED_NAME, WebFOCUS.
+Objective System Integrators
+Client: Verizon Wireless    		      	                                  Aug’ 14 - Sept’ 15
+Java Technical Lead /Solution Architect 
+Designed input probe for data processing using JMS 1.1 and the correlation engine for incoming fault alarm. The input probe was designed using JMS Protocol based data source that connects to Service Aware Manager element management system listening for notifications regarding the managed elements and forwards JMS messages to custom client for processing.  The incoming fault alarms were correlated using MASKED_NAME based correlation engine to correlate related alarms in attempt to reduce the total alarms raised. Remedy middleware used for Trouble Ticketing.
+Responsibilities:
+As a Solution Architect, involved in design in analysis of requirements, the design, development, integration, deployment, unit testing and maintenance activities.
+Responsible for build and release the code from clearcase.
+Designed synchronized multi-threaded MASKED_NAME processing engine for parallel processing of high rate of fault alarms. Template GoF object oriented design patterns was extensively leveraged to ease configuration of the engine so that same engine could be made to run by just changing the configuration in the template.
+SOA software design using CORBA as interoperable engine between applications running on distributed systems. The correlation plugins software used configuration, management services provided by broker application. Used XML technologies MASKED_LOCATION, MASKED_LOCATION, JAXB, parsers SAX,DOM.
+JUnit and JMock used for writing unit test cases. JVM parameter tuning for system.
+Agile/SCRUM was used as the project management methodology 
+Test Driven Development methodology used for development.
+Used continuous integration framework to integrate unit tests with build.
+Integrated third-party MASKED_NAME based trouble ticketing software.
+Used findbugs, checkstyle integration with build environment to ensure software quality.
+Sonar used to measure code coverage of unit test cases.
+GoF design patterns used for development as appropriate. Extensively used template and adapter pattern for reusable code.
+Profiling and tuning for optimization of code.
+Worked with QA in getting perl scripts running along with curl for black box testing.
+Used curl, shell scripting, cron jobs for automatic deployment and testing of daily builds.
+Performing sanity test before making the application live after deployment.
+Monitoring Service Level Agreements (SLA) for all applications
+Provided training to customer and post deployment support for any reported issues maintenance and further enhancement requests.
+Interacted with onshore customer, support teams and product development teams offshore in an onshore offshore module practice while providing 24*7 support to customer.
+Environment: MASKED_NAME – [MASKED_NAME, MASKED_NAME, EJB 3.1, XML, JMS, JAXB, Oracle 12c, SQL, Solaris 10/11, RHEL 5.5/7.1, HTML, CSS, JUnit, MASKED_LOCATION, MASKED_LOCATION, findbugs, checkstyle, Sonar, Selenium, curl, perl
+Client: Surewest    		                                     	                                     Jul’ 12 - Jul’ 14
+MASKED_NAME
+IP Device Management and Reporting solution is used to manage fault and performance for SNMP enabled devices along with discovery of devices. The faults were listened as notifications from devices and performance management was done using SNMP polling. Template Method Pattern used for defining templates for the custom action on faults. State machine engine was designed to manage the state of devices. The discovery engine was developed using Rocket Software middleware. 
+Responsibilities:
+Worked as Team Lead and primary Architect for the project. 
+Activities involved analysis of requirements, the design, development, integration, deployment and testing. Design UI, MASKED_NAME and reporting solution.
+Designed and developed application using MASKED_NAME design patterns.
+Technical documentation and review for requirements specification, high level design and unit testing plan.
+Developed enterprise server side solution used JBOSS Wildfly as the application server and REST Web Services.
+Designed message queue service provider using JBOSS MQ.
+Developed JMS client source and consumers using JMS specifications.
+Analysed and compared Spring OAuth2 security and basic authentication and authorization of JBoss.
+Developed restful web services using MASKED_LOCATION 2.x as JAX-RS REST 2.0 implementation.
+Designed synchronized multithreaded engine to process multiple polling requests and response at the same time from various devices. MVC and template design pattern was extensively used in the design for the correlation engine.
+Used load balancing algorithms to spread out SNMP polling requests over time to ease out the load on the system.
+Responsible for build using maven and release the code from Perforce.
+Developed JUnit test cases for all the developed modules.
+Developed standalone UI using MASKED_NAME for configuration and testing of IP Management Solution that could be used alternatively with web UI.
+Developed perl scripts for black box testing.
+Developed shell script and cron jobs for automated unit testing in a continuous integration environment.
+MASKED_NAME and server side components to the JBOSS Wildfly server.
+Created the domains, application servers and load balancers using JBOSS Wildfly.
+The project is developed using TDD methodology in Agile/SCRUM used as the project management methodology.
+Designed Persistence layer and integration using MASKED_NAME (DAO), MASKED_NAME (Entity Beans).
+MASKED_NAME managed environment was managed using MASKED_NAME DevOps with sonar for the code coverage.
+Performing sanity test before making the application live after deployment.
+Monitoring Service Level Agreements (SLA) for all applications.
+Provided training to customer and post deployment support for any reported issues.
+Environment: MASKED_NAME – [MASKED_NAME, JAX-RS (Jersey 2.x), MASKED_NAME, XML, MASKED_NAME, CDI, JMS, JAXB, JSON], Oracle 11g/12c, SQL, MASKED_NAME, JBOSS Wildfly Application Server, Solaris 10/11, RHEL 5.5/7.1, JavaScript, GWT, HTML, CSS, JUnit, MASKED_LOCATION, perl. NetBeans
+Client: AT&T Mobility, NTT (MASKED_LOCATION)	   			                            Jul’ 11 - Jul’ 12
+Sr. MASKED_NAME legacy NetExpert C++ application to run on RHEL5.5 platform. Internationalization (i18n) support for legacy MASKED_NAME applications.
+Responsibilities:
+Worked as Senior developer in porting MASKED_NAME legacy applications to run on MASKED_NAME platform and this activity also required migrating a lot of third party packages.  
+i18n support was added to support MASKED_LOCATION, multi-byte characters and globalization of user interfaces and logged messages.
+Involved in troubleshooting, maintenance activity for the released product leveraging tools gdb, mdb, strace/truss. 
+Involved in localization of legacy MASKED_NAME based UI.
+Environment: MASKED_NAME, MASKED_NAME 11g/12c, SQL, Solaris 10/11, RHEL 5.5/7.1, MASKED_NAME: VFNL						    		           Jul’ 08- Jun’ 11
+Sr. MASKED_NAME Assurance Solution – This is an enterprise server side solution which added service assurance over top of network assurance layer. The solutions was developed using JBOSS application server using MASKED_NAME 3.0 technology. Hibernate as the JPA implementation. JBOSS messaging was used as implementation of JMS 1.1 for inter process communication and as a data source.
+Responsibilities:
+Worked as a Sr. MASKED_NAME and involved in analysis of requirements, the design, development, integration, deployment, unit testing and maintenance activities.
+Responsible for build and release the code from clearcase.
+Developed JUnit test cases for all the developed modules.
+Agile/SCRUM was used as the project management methodology 
+JUnit and JMock used for writing unit test cases.
+Environment: MASKED_NAME – [MASKED_NAME, EJB 3.0/3.1, MASKED_NAME, XML, JMS, JMX, JAXB], Oracle 11g, SQL, JBOSS Application Server, Solaris 10/11, RHEL 5.5/7.1, JUnit, JMock.
+Software Technology Park of India (STPI)					Aug’ 06 – Feb’ 08
+Networking Consultant                                                                   
+Responsibilities:
+Provide software and network consultation providing networking consultancy and last mile connectivity to STPI. Management of network bandwidth using CISCO router and switches.
+Environment: CISCO 26xx and 36xx series routers, RADMAX Wireless Access Point.
+Microsoft India                                                                                            Jun’ 05 – Jun’ 06 
+Principal consultant / Technical Architect
+Virtual DOS Machine in OS is used to support legacy 16 bit application. The project was to maintain Virtual DOS Machine and developing automated test harness solution and enhancing security.
+Responsibilities:
+Responsibility for ensuring forward compatibility for 16 bit DOS and Windows 3.1 applications running over Windows NT Virtual MS-DOS Machine (NTVDM).
+Responsible for enhancing security software for modules that provide support for the legacy 16 bit applications. 
+Worked with hyperlink component of Windows© fixing defects.
+Environment: C++, Windows Internals
+Cisco System India                                                                                        Jun’ 01 – May’ 05
+Software Engineer
+Responsibilities:
+Design and develop and maintenance of MASKED_LOCATION IOS device driver software.
+Design, development of network interface driver for Cisco Internet Operating System.
+Environment: C, Cisco Internet Operating System, MASKED_LOCATION routers 7xxx series.

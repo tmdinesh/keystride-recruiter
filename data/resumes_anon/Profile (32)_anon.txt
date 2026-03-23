@@ -1,0 +1,62 @@
+ 
+ 
+Contact
+www.linkedin.com/in/mehrdad-
+rezai-2000 (LinkedIn)
+MASKED_NAME
+Senior Big Data/Machine Learning Engineer at Oath
+MASKED_LOCATION, MASKED_LOCATION
+Summary
+I have 18 years of Object Oriented software, 15 years of Web,
+8 years of Big Data and Data Science, and 8 years of AWS
+development experience.  For the last 15 years, I have been
+involved with analysis, architecture, design, and implementation of
+Distributed, High-Performance, and Scalable Systems, Big Data
+projects, Data Pipelines, Data Science and Machine Learning
+through technologies such as MASKED_NAME, MASKED_NAME, Python, J2EE, OOP
+(Object Oriented Programming), Functional Programming, Apache
+Spark, MASKED_LOCATION, Spark Streaming, Regression, Classification,
+Clustering, Scikit-learn, TensorFlow, MASKED_LOCATION, NLTK, Artificial Neural
+Networks, Natural Language Processing, CNN, RNN, LSTM,
+GRU, Regression, Classification, Clustering, Elasticsearch, AWS,
+MASKED_NAME, DynamoDB, MASKED_NAME, MASKED_NAME, Hadoop, HDFS, Map/Reduce,
+MASKED_NAME, MASKED_NAME, MASKED_NAME, Druid, MASKED_LOCATION, MASKED_LOCATION, MASKED_LOCATION, MASKED_NAME,
+Airflow, MASKED_NAME, Ambari, other Hadoop Ecosystem, Data Lakes,
+MASKED_LOCATION, Apache Cassandra and CQL, MASKED_NAME and Containers,
+Data Structures, MASKED_NAME, MASKED_NAME framework, Spring
+MVC, Spring AOP, MASKED_NAME, JPA, SOAP and REST based Web
+Services, JAX-RS, Design Patterns, MASKED_NAME, Amazon
+AWS, WebLogic, JBoss, Tomcat, Apache HTTP Server, SQL,
+MASKED_NAME, ETL, Business Intelligence, MASKED_LOCATION, MySQL, MASKED_NAME,
+UML, Drupal, Networking, MASKED_LOCATION, MASKED_LOCATION, MASKED_NAME, MASKED_NAME,
+MASKED_LOCATION, MASKED_NAME, OpenCV, MASKED_NAME, SVN, XML, MASKED_LOCATION, MASKED_LOCATION, MASKED_LOCATION, UNIX,
+Advanced UNIX Shell Scripting, Virtualization, Jenkins, Atlassian
+(Jira, Fisheye, Crucible, Confluence), jQuery, MASKED_NAME, JSON, Object
+Oriented JavaScript, MASKED_NAME.  Furthermore, I am an expert
+on all aspects of Web site design, E-Commerce, MASKED_NAME,
+and Credit Card Processing.  I am extremely hands on as far as
+coding is concerned specially in Big Data, and MASKED_NAME
+field; I am also a great technical writer.  In addition, I have deep
+understanding of stock market, options, futures, commodities,
+and money.  Furthermore, I read and learn extremely fast (600
+wpm); I am persistent, dedicated, meticulous, extremely disciplined
+ 
+Page 1 of 2
+
+ 
+ 
+and focused, with affection for learning and implementing new
+technologies, and prototyping.
+Experience
+Oath Inc. (Verizon)
+Senior Big Data/Machine Learning Engineer
+March 2016 - Present (4 years 1 month)
+MASKED_LOCATION
+Oath
+Senior Big Data/Machine Learning Engineer
+March 2016 - Present (4 years 1 month)
+Education
+University of Toronto
+Ph.D., Computer Engineering · (1993 - 1999)
+ 
+Page 2 of 2

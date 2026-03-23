@@ -1,0 +1,5 @@
+ROLE: Java Backend Developer
+SOURCE: Adzuna
+URL: https://www.adzuna.com/land/ad/5629126066?se=Ml8SrIsY8RGJZfgUeQyxLw&utm_medium=api&utm_source=e34e223e&v=85B2332EF75B7738C5061AA41C5CBE7EE75E8E27
+
+Job Description Job Description Position Description: Open for W2 Candidates and we will be able to do H1B transfer if required. C2C doesn't work for this role. Software Developer position within IT Product team responsible for full cycle systems development. Develop and deliver quality software using agile methodology and Google Cloud Platform (GCP) technology stack. Technologies involved - Java, Spring Boot, Angular, SQL, Micro-services. Active participation required in new software developme

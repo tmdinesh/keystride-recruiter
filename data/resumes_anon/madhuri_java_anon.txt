@@ -1,0 +1,158 @@
+MASKED_NAME id: MASKED_EMAIL						      Phone: MASKED_PHONE*106
+PROFESSIONAL SUMMARY:
+Over 7+ years of IT experience in MASKED_LOCATION of Web based applications using JAVA/J2EE Technologies (Core Java, MASKED_NAME, Servlets, JSP, EJB, XML, JMS, MASKED_NAME, Spring, MASKED_NAME, JSF MVC Frameworks, Angular JS, JUNIT, Hibernate, Applets, MASKED_NAME).
+Experienced software developer skilled in all stages of SDLC - gathering and documenting requirements, developing project plans, designing using OOD, OOP, UML and various design patterns, managing and tracking project execution, prototyping and assisting with usability testing, developing and executing test scenarios, releasing products to production, and maintaining product releases.
+Expertise in Web-Development technologies including: MASKED_NAME, HTML, DHTML, JavaScript, CSS, JQuery, XML, MASKED_LOCATION, XPATH, MASKED_NAME, AJAX, SOAP with W3C standards. Hands on experience in J2SE 1.3, 1.4 and JEE 5.
+Experience in Core MASKED_NAME concepts such as OOP Concepts, Collections Framework, MASKED_NAME, I/O System, Multi-Threading, MASKED_NAME.
+Developed an application using HTML, CSS, MASKED_NAME, Servlets and JSP's for front end User Interface for various modules
+Experience in web services both Restful and SOAP service.
+Experience with build tools MASKED_LOCATION, Ant and continues build and deployment tool JENKINS.
+Experienced working with J2EE and OpenSource application Servers like IBM WebSphere, Oracle WebLogic, MASKED_NAME, and Apache Tomcat.
+Experienced in developing web applications using JSP, Servlets, MASKED_NAME, JavaScript, AJAX, JQuery, MASKED_NAME, JSON, Angular JS, ExtJS, MASKED_LOCATION.JS, Bootstrap, ReactJS and CSS3.
+Good working knowledge of web based GUI, SQL, DB design along with JQuery, Hibernate/iBatis.
+Involved in implementation of various Design patterns including: MASKED_NAME, Business Delegate, Data Access Object, Composite View and MVC.
+Highly proficient in developing Intranet/Internet technologies on the J2EE & Java platform with WebLogic, JBOSS, WebSphere, MASKED_NAME.
+Developed J2EE/JAVA apps using various IDE tools Eclipse, Intellij, WebSphere RAD.
+Hands on experience in ANT, MASKED_LOCATION and Gradle.
+Designed Use case Diagrams, Class Diagrams, Sequence Diagrams, Flow Charts and Deployment diagrams using UML Rational Rose Tool.
+Worked on different Version Control tools CVS, MASKED_NAME, Subversion and IBM Clear Case.
+Designed web applications effectively by utilizing XML, MASKED_LOCATION on DOM and SAX parsers.
+Hands on experience in writing Complex SQL Queries, PL/SQL and Stored Procedures.
+Development experience in MASKED_LOCATION, MASKED_NAME and Windows (Vista, MASKED_LOCATION, NT, 2000, 95) and MASKED_NAME based virtual platforms.
+MASKED_NAME on Windows PowerShell Scripting, UNIX Shell Scripting
+Experience using build tools like Ant, Maven and Gradle.
+Good experience with various Web/ MASKED_NAME like IBM WebSphere, BEA WebLogic, JBOSS and Apache Tomcat.
+Good experienced in troubleshooting in a production environment, System maintenance and monitoring processes .
+Highly proficient in developing Object Oriented Design, Methodologies and applications in client/server and distributed environments using J2EE architecture.
+TECHNICAL SKILLS:
+PROFESSIONAL EXPERIENCE:
+American Express, MASKED_LOCATION, AZ
+MASKED_NAME	                                  					    April 2017 - Till Date 
+This is a SOA layer developed for AMEX Bank using RESTful web services, spring and MASKED_NAME. The intention of this project was to expose various utility methods for the calling agents to do various CRUD operations on entities interfacing customer database. As a trial run, the web services were written to do CRUD operation on the customer information, campaign/offer information and this was made available for an application called CAT (Customer Access Tool) used by call center employees of the bank to do various campaign and promotional offers for the various customers located in different geographies across MASKED_LOCATION.
+Behind the scenes, it used MASKED_NAME and Spring and MASKED_NAME to come up with the well defined three tiers Architecture involving Controllers, Service Classes and DAO classes. MASKED_NAME was used for the required Object Relational Mapping (ORM) to interface with the AMEX database. 
+ 
+Responsibilities: 
+Involved in developing the service layer for the Project which would expose various web Services to be consumed by the client. 
+ Developed the application using Eclipse 3.MASKED_ADDRESS/plug-in features for editing, debugging, compiling, formatting, build automation, test case template generation
+Involved in the integration of spring for implementing Dependency Injection (DI/IoC) and AutoWiring.
+Involved in designing the project with spring and MASKED_NAME. 
+Used RESTful web services for implementing the Business Logic. 
+Involved in the DAO layer development that connect the database using MASKED_NAME and MASKED_NAME. 
+Connected the application to the MySQL database to retrieve data from various tables and provide the relevant data. 
+Performed Unit Testing on the components using JUnit Testing Framework.
+Environment: MASKED_NAME, MySQL, Spring, MASKED_NAME, MASKED_NAME.
+Freddie Mac, McLean, MASKED_LOCATION
+JAVA Developer									          Sept 2016 – Mar 2017
+Recalculation is one of the Freddie Mac’s in-house projects, which is a part of Pricing Execution. Pricing Recalculation is web based application that falls under overall pricing execution line of mortgage business at Freddie Mac. The pricing recalculation system does auto recalculation of mortgage loans and contracts based on the change in price affecting fields. If there is a change in the loan then it is recalculated using various loan calculators and mathematical algorithms in pricing recalculation, and within overall pricing execution line of business environment. The loan recalculation is determined after passing various validations and checks such as, repurchase of loan, and once that is done, a most recent price results are returned to the requestor. 
+ 
+Responsibilities: 
+Leading an effort to re-write Pricing Recalculation application using MASKED_NAME, MASKED_NAME, EJB 3.0, JSF/PrimeFaces, Spring framework, and MASKED_NAME framework with IBM DB2 as a back-end.
+Designed the application on the lines of MVC architecture.
+Designed, developed, and implemented various POCs which include MDBs, Event Processors, Controllers, Business Delegates, Service and DAO layers.
+Used Spring Web Module and integrated with JSF.
+Implemented SOAP based Web-Service client to consume a service and get live market data.
+Used clearcase as version control tool to get the code and sync the data.
+Participated in requirements, analysis, design and code reviews in recalc project.
+Developed web-based user interfaces using web (MASKED_NAME) and Enterprise Technologies and for consuming JAXWS and JSP, and HTML, JavaScript, Angular JS, DHTML and XML Technologies. 
+Worked with QA and other support teams to fix bugs within existing pricing definition and recalc projects.
+Used MASKED_NAME for integration to automatically build the project when a trigger is raised.
+Worked on different initiatives at the same time for providing effective solutions of various business problems in definition and recalc project.
+Environment: MASKED_NAME, MASKED_NAME, MASKED_LOCATION, MASKED_NAME, EJB3.1, MDB, JSF, PrimeFaces, HTML, Web
+Services, AngularJS, JSP, XML, XSD, MASKED_LOCATION, Ant/Maven, WebLogic 10.3.6, IBM DB2, Eclipse, Apache Tomcat, IBM clear
+case.
+State of Wisconsin DNR, MASKED_NAME, MASKED_LOCATION			 		     		     Oct 2015 – Jul 2016
+Sr. MASKED_NAME/J2EE developer/ Programmer Analysis
+DNR is dedicated to working with the citizens and businesses of MASKED_LOCATION while preserving and enhancing the natural resources of MASKED_LOCATION. In partnership with individuals and organizations, DNR staffs manage fish, wildlife, forests, parks, air and water resources while promoting a healthy, sustainable environment and a full range of outdoor opportunities.
+Responsibilities:
+Created User Interface in DOJO/AJAX and Struts2 tags for different customized screens for each type of Provider.
+Involved in creating UML Diagrams (Class and MASKED_NAME) during Design Phase. Designed with OOA/OOD and use -case, documented in UML diagrams.
+Involved in the creation of interface to manage user menu and MASKED_NAME update of Attributes using Angular.js, EXT.js and MASKED_NAME.
+Involved in implementation of MVC pattern using Angular JS, MASKED_LOCATION.Js, JSF and MASKED_NAME.
+Developed JSPs for user interfaces to interact with business layer. Developed Servlets to communicate with the other components under STRUTS Framework.
+Developed Session/Message Driven Beans to be deployed on WebSphere V8.0 Application Server.
+Developed various helper classes using MASKED_NAME multi-threaded programming and Collection classes.
+Developed web services for web store components using Jersey Restful API.
+Developed a Java Application Framework which receives JSON data and modifies the data accordingly and is saved onto a new database.
+Involved in developing Business Component Layer using EJB 3.0.
+Involved in the development of the presentation tier using MASKED_NAME, CSS3, XML, XSL, JavaScript, JQuery, JSON, AngularJS, Bootstrap, JSP, Swing and Servlets for login, find MASKED_NAME and create contract modules.
+Involved in writing code for Form Beans, MASKED_NAME, DTO and DAO for accessing business methods in the business layer. Used J2EE web-services to get geographic data (city, country etc.) and EJBs for credit card validation etc.
+Involved in AGILE/SCRUM methodologies while coordinating engineering efforts with team members to identify and resolve defects using JIRA.
+Used MASKED_NAME (persistence framework) to implement the Database Access layer.
+Implemented application using core MASKED_NAME and maintained concurrency with multi-threading.
+MASKED_NAME session and transaction handling by writing a servlet filter.
+Involved in implementation of modules related to file comparison received from clients using Spring Framework.
+Configured integrated development environment utilizing Ext.JS and J2EE.
+Used Struts2 tiles to display different types of template formats and contents.
+Used SOAP UI for unit testing for REST and SOAP Services.
+Used Spring MVC for the GUI Application which interacts with the Restful web services.
+Used SOAP and JWS to sending the notifications to each and every change in the operational process including: user’s information.
+Used MASKED_NAME as Version Control System for the application
+Responsible for the implementation of application system with core MASKED_NAME and spring framework.
+Worked with Oracle PL/SQL development and DBAs to create new database schema and porting data from other databases
+Developed test cases using JUNIT, and followed test first development.
+Developed the Spring Features like Spring MVC, MASKED_NAME, MASKED_NAME and Spring Security.
+Developed code to grant user authorizations for ALM based upon user authentication on LDAP server.
+Extensively used MASKED_NAME build tool for continues deployments.
+Also used IBM App Scan to Code Security and Clear Quest to issue tracking to move the applications quickly to the servers.
+Hands-on experience working with source control tools such as IBM Clear Case, Tortoise SVN.
+Developing Hibernate Criteria and sessions to achieve the Object Relational Mapping and easy maintenance of data.
+ Environment: MASKED_NAME, J2EE, JSP, MASKED_NAME, MASKED_NAME, Jenkins, JSON, JAX-WS, MASKED_NAME, Struts2, SOAP, Restful Web   
+ services, EXT.js, MASKED_NAME, Splunk, AJAX, AGILE/SCRUM methodologies, ASP.NET, JWS, MASKED_LOCATION, MASKED_NAME 10, UNIX, 
+ Windows, WebSphere V8.0, Shell, My Eclipse 6, Hibernate 3, Maven2, Multi-threading, Bootstrap, MASKED_NAME, MASKED_NAME, 
+ CSS, XML, HTML, IBM Clear Case, Clear Quest, SVN
+Premiere Global Services, MASKED_LOCATION - PA			                             		Aug 2014 - Sept 2015
+Java/J2EE Developer
+This project consists of 6 modules. By using this application, the end user can purchase different packages from each module. This application provides listing the available items, user authentication, purchasing of items through online, credit card validation, confirmation of orders, automatic emailing with packages PDF file attachment, finally an acknowledgement will be sent to the customer. This application is more reliable for the end user to purchase packages. In content management backend part includes all customers, users, suppliers, categories, subcategories, packages with interactive uploading features. 
+Responsibilities: 
+AGILE Scrum development process has been followed and involved in retrospective, demos, planning and code review meetings. 
+Design and developed application user interfaces using Spring boot, Spring, jQuery, JavaScript, HTML5and CSS 
+Created views, models and controllers and followed MVC architecture for the web application development. 
+Developed supplier and order module views using EXT-JS components like forms, layouts, grids, tabs, menus, viewports, MASKED_NAME etc. 
+Developed restful resources using MASKED_LOCATION and MASKED_LOCATION to serve the web application data in MASKED_LOCATION format 
+Developed business components using Spring IOC, AOP, spring annotations and created user detail service for authentication and access control using Spring LDAP and Spring Security. 
+Developed middleware service and data access layer using Spring and MASKED_NAME and used Spring declarative 
+Responsible for all client-side UI Validation and implementing Business logic based on user selection using jQuery, MASKED_NAME and angular JS. 
+Extensively used AngularJS, NodeJS, JQUERY, MASKED_NAME, AJAX and DOM scripting to create interactive web applications like message posting and auto complete form validations. 
+Wrote internal and external API services using Node.js modules. Developed internal services using MASKED_NAME and Node.js 
+Used Angular 1.4 framework where data from backend is stored in model and populated it to UI
+Used Angular JS framework for building web-apps and is highly efficient with PHP framework 
+Developed hibernate ORM mappings using MASKED_NAME and JPA annotations to map MASKED_NAME classes to database tables. 
+Developed hibernate inheritance mapping using single table approach and configured multi-level caching in 
+MASKED_NAME to reduce the load on the Oracle database server. 
+Maintaining of Entity Beans and Session Beans using EJB 3.0 Specification 
+Involved in MASKED_NAME multithreading to cascade multiple changes on multiple records in only one transaction and 
+Developed a batch process framework Used WSDL and SOAP protocol for Web Services implementation. 
+Implemented Persistence layer using MASKED_NAME that use the POJOs to represent the persistence database tuples in MASKED_LOCATION. 
+Created forms to collect and validate data from the user in HTML5 and ReactJS. 
+Maintained existing UI Applications and upgraded them using CSS3, JQuery, AJAX, JavaScript, React JS, BackboneJS, MASKED_NAME and MASKED_NAME 
+Developed the application using Spring tool suite and involved in testing and deploying to other environments on Web sphere application server 
+
+Environment:  MASKED_NAME 1.7, Spring 4, Spring boot, Hibernate 4, MASKED_NAME, EJB 3.0, EXT-JS 4, AWS, MASKED_NAME, Angular JS, ReactJS, NodeJS, JavaScript, jQuery, CSS, SOAP & Restful Web services (JAX-RS, JAX-WS), MASKED_NAME, XML, JAXB, MASKED_LOCATION, GIT, MASKED_LOCATION, MASKED_LOCATION, IBM WebSphere, MASKED_LOCATION, MASKED_LOCATION-JS.
+Infotech Enterprises IT, MASKED_LOCATION 			      		        
+MASKED_NAME	     			                          				                                  Apr 2012 – Jun 2014
+Infotech Enterprises IT Services Pvt. Ltd. (Infotech IT), is a part of the Cyient group, leverages its business process knowledge, technological competence, strategic alliances and strong global presence to offer innovative IT solutions to the Retail Industry. The subsidiary organization demonstrates a strong focus and commitment of the Cyient Group to the Retail and Supply Chain industry sectors. The organization comprises of talents with domain experience in MASKED_LOCATION-channel retailing, Retail Information Systems, Supply Chain Management, Merchandising Systems, Customer Relationship Management and Data Warehousing.
+Responsibilities:
+Involved in the development of the application based on MASKED_NAME framework using MASKED_NAME architecture.
+MASKED_NAME framework to implement design patterns like DAO (Data access objects), MASKED_NAME objects, Business objects and Business delegator.
+Designed the web pages with JSP and TLD’s using different HTML elements based on the page specification document.
+Developed web application using JSP, JavaScript (for validation), DHTML (for dynamic insertion of HTML elements), CSS (for different font and styles using classes), MASKED_NAME (for servicing the request GET and POST), MASKED_NAME, and custom tag library (reusing the tags). 
+MASKED_NAME concept was used for database transaction management using create statements, prepaid statements and callable statements.
+MASKED_NAME was used for backend interaction and data interchange with asynchronous call parsing the XML data creating XML Http Request and reading the data in response XML from action class.
+Core java fundamentals was used to create static utility classes, comparators, generics, collections, extending abstract classes and implementing interfaces after injection.
+Created our own class for handling exceptions for reusability within the project 
+instead of throwing generic exceptions.
+Environment: MASKED_NAME, JSP, J2ee, AJAX, JavaScript, CSS, MASKED_NAME, MASKED_NAME, PL/SQL, SQL, MASKED_LOCATION, MASKED_NAME.
+Galaxy Software Solution, MASKED_LOCATION, MASKED_LOCATION		          
+Project Trainee					   				                                July 2010 – Aug 2011
+The Online Constructor enables construction project personal to seek and identify pre-qualified, efficient and independent, experienced companies with expertise in the area of all construction related needs. It combines the ease and reach of the Internet with the construction industry database of companies and products. Included in this site are sorted, intelligent, searchable lists of construction industry providers to assist the construction personnel in all aspects of the construction project. The Online Constructor is the new paradigm for efficient and effective execution of all construction projects. Our services include: full-service construction organization capable of providing a variety of services from initial project conception through building completion and warranty service.  
+Responsibilities:
+Developed User Interface using HTML, DHTML, MASKED_LOCATION, MASKED_NAME. 
+Developed Business components using MASKED_NAME and database connections using MASKED_NAME. 
+Wrote server side programs by using JSP, Servlets. 
+Developed data validation & persistency components to export valid data to database. 
+Wrote Client side validation scripts using JavaScript. 
+Wrote various Queries, Stored Procedures to augment the application logic. 
+Wrote test plan and run test cases for manual testing.
+Environment:  JDK1.1, HTML, DHTML, JavaScript, CSS, AWT, JSP, Servlets, MASKED_NAME, SQL, PL/SQL, Oracle 8i, MASKED_LOCATION.
+Education :
+ Bachelor's  in Computer Science Engineering from Jawaharlal Nehru Technological University,  MASKED_LOCATION in 2008.

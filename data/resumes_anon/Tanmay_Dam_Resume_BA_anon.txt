@@ -1,0 +1,102 @@
+An accomplished and result driven professional with more than 10 years of experience in areas of Business Analysis, Project Management, Testing and Production Support  having excellent organizational, interpersonal & communication skills.
+______________________________________________________________________________________________________
+TANMAY DAM
+MASKED_ADDRESS,                                                                                                                 Mobile: MASKED_PHONE
+Apt#A302,                                                                                                                          Email: MASKED_EMAIL
+MASKED_LOCATION,
+Illinois-MASKED_ADDRESS/Consultant position that will effectively utilize my acquired expertise, creative talent and commitment to excellence. Desire a position with career growth potential.
+MASKED_NAME
+Multi-faceted individual with expertise in delivering integration solutions as well as IT business growth & sustenance with acumen and strategic decision making.
+Technology Specialist on various Microsoft technologies such as BizTalk, SQL and IBM certified MQ System Admin.
+Certified and well versed working with Waterfall, Agile scrum methodology and ITIL standards.
+Possess excellent Communications skills to carry out both one-on-one and focus group interviews with SME’s and different business unit teams on eliciting detailed requirements.
+Experience in conducting and gathering requirements through Joint Application Development (JAD) sessions.
+Ability to analyze and document the business requirements in the form of Business Requirement Document (BRD), Functional Requirement Document (FRD) / Functional Specification Document (FSD), Requirement Traceability Matrix (RTM), MASKED_NAME for MASKED_NAME (RFP).
+Worked on major methods of customer data collection and linked how this data can inform business decisions. Worked on descriptive Analytics for operations, learning how to use historical demand data to build forecasts for future demand.
+Received Incident tickets and requests from end-users, analyzed them and either responded to the end user with a solution or escalated it to the other IT teams.
+Extensive experience in developing Use Cases, creating Screen Mockups .Hands on experience in reviewing Test procedure, test cases, test scripts, and conducting User Acceptance Testing (UAT), Quality Assurance (QA) and sanity testing.
+Expert for assigned functional applications, support development of business impact analysis categories and perform ongoing IT maintenance. Also worked as an interface with multiple applications to ensure End-to-End management in accordance with the needs of project sponsors and stakeholders. 
+Certifications
+Professional Background
+Syntel Inc.
+Business System Analyst-MASKED_LOCATION (Banking and Insurance)                                                            Feb 2015 - Present                                                                                                     
+Business/Information Analyst – Allstate                                                                                     
+Claims project which deals with data storage and management to effectively extract reports and manage the claims system.
+Worked with a 5 member team across 2 locations.
+Information Analysis & Reporting:
+Played a key role in construction of a large data warehouse, consolidating multiple reports and improving information flow. Company needed consistent way to generate reports and control the flow of information.
+Collected business requirements from all areas of responsibility. Historical data was stored with capability of extraction.
+Analyzed large amount of data extracted from the ETL process and created custom reports as per the business requirements.
+Created scripts to optimize and rationalize data as part of a project which resulted in improved reporting and decision making for business.
+Created functional and technical documents for a project which needed data extraction from multiple sources and then consolidation of data as per the defined criteria. The delivery led to maximize the customer information and improve the operations capabilities.
+Lead Business System Analyst - American Express (AMEX)                                               
+Strategic Market Capabilities (SMC) project which deals with the Mass Migration of AMEX credit card products.
+The technology team enabled card portfolio conversions and guided the Time to Market strategy, boost card sales. 
+Worked with a 8 member team across 3 locations.
+Business Analysis:
+As an integral part of Cards & Payments division, lead a critical work-stream which involved migrating more than 2 million accounts ensuring American express is in compliance with regulatory and contractual obligations.
+Based on the spend-analysis, predictive modeling and marketing strategies segmented the target volume to analyze top 25% customers of product portfolio to suit the value-proposition for new card products.
+Conceptualized and provided support for automating a significant business process which was a manual, time-consuming process and migrating it to a cloud-based intuitive web application thereby reducing substantial efforts and savings.
+Created Program charter, Business Case, Requirement and stakeholder docs for projects and worked with senior leadership and stakeholders for approvals.
+Provided strategic business solutions to technology initiatives and worked as a liaison between client and technical organization by planning, conducting and directing the analysis of business problems.
+Project Management:
+Developed project plans, schedule and work breakdown structure for projects.
+Well versed on SDLC with Waterfall and Agile methodologies.
+Communicated project status, progress on deliverables, and risks/issues to stakeholders and leadership in a timely manner. Successfully lead all phases of diverse technology projects.
+Business strategist; planned and managed multimillion-dollar projects aligning business goals with technology solutions to drive process improvements, competitive advantage and bottom-line gains.
+Excelled at liaising between business and technical areas to achieve on-time, on-budget and on-spec project completions. Created reports for senior leadership regarding status of the project.
+Scrum Master:
+Implemented Custom Kanban board that resulted in reduction of Cycle time by 20% thus increasing team's throughput in less than 8 weeks.
+Enabled improvement in team delivery commitments and capacity planning for sprints by identifying & tracking tasks that increased customer satisfaction.
+Facilitated Release Planning, Sprint Planning, MASKED_NAME, and Retrospective meetings
+Removed team impediments on a daily basis to allow the team to deliver the sprint goals and deliverables.
+Facilitated Daily Scrum Meetings and Monthly Reviews meetings. Conducted sprint retrospective and followed up on action items for continuous improvement.
+Delivery Management:
+Created Implementation Plans and performed walkthrough’s with multiple application teams.
+Managed data from multiple systems to create management reporting and trend analysis.
+Streamlined existing processes and recommended process improvements.
+Prepared and maintained detailed project plans, status reports, and issues logs. Managed multiple teams & stakeholders for end to end project execution.
+Tracked and documented execution matrix. Solved critical issues in a time-sensitive environment.
+Executed and monitored multiple successful executions, co-coordinating with teams across various applications.
+Infosys Limited 
+Technology Analyst-MASKED_LOCATION (Financial Services & Insurance)                                                    July 2007 – Feb 2015
+Technology/Business Analyst - American Express (AMEX)                                                   
+Banking operations project which deals with the Global Credit Card Issuance (GCI) Management. 
+Worked with a 12 member team across 3 locations.
+Business Analysis:
+Planned the project enhancements, reviewed the project implementation plans. Prepared knowledge management documents to improve process, functional aspects of the project.
+Defined project scope, charter, goals and deliverables in support of business goals and worked with senior leadership and stakeholders for approvals.
+Provided technical/functional assistance in identifying, evaluating and developing systems and procedures.
+Ensured that the processes, procedures, and products used to produce and sustain the software conform to all requirements and standards specified.
+Partnered with developers to automate manual processes, saving time and money while decreasing errors. 
+Identified the business needs, Business Processes & Interface Specifications and then documented them.
+Drove regular meetings with client leadership, business partners to provide projects status updates and current issues.
+Problem & Incident Management
+Resolved the problems in Card Issuance applications in a systematic way by following American Express set processes and procedures.
+Identified and recorded the problem with all relevant data. Classified the problems based on the criticality of the impacted business process. Resolved the problem and provided the root cause analysis report.
+Provided problem management reports like PMR (Problem Management Record), Aging etc. to Technology Leadership.
+Brought disrupted business services back as quickly as possible and identified the underlying problem that is causing the incident.
+Performed root cause analysis of the incident and put permanent fix to it and report to the assigned Incident Manager for closure of the incident.
+Change Request Implementation:
+Used standardized methods and procedures for efficient and prompt handling of all change requests.
+Created Change Management Records (CMR)/Request for Change (RFC) for any change that needed to be installed in production.
+Prepared detailed installation and fall-back instructions for the changes for smooth execution.
+Approved/Closed change records that have impacts to application components.
+ Senior Software Engineer – Union Bank of Switzerland (UBS)                                             
+Banking operations project which deals with various modules of Message broker, Cash Management, Payment transfers and Test Data creation. 
+Worked with a 5 member team across 2 locations.
+Handled 2 applications within the Cash Management & Payments space.
+Responsible for creating SWIFT inbound and outbound messages through MASKED_NAME.
+Use of SWIFT handbook for Message formats.
+Testing, Compliance filtering, tracking the message flows and resolving issues if any. 
+Coordinated and responded to complex business requests, completing the deliverables on-time with client appreciation.
+Provided support activities related to message flows.  
+Handled tickets and issues using the Remedy System.
+Achievements
+Infosys SPOT Award for outstanding performance in Project Implementation.
+Syntel Client Appreciation Award on behalf of American Express for the dedication, professionalism and ability to exceed customer expectations on the assigned projects.
+Syntel SPOT Award appreciation for the dedication, enthusiasm and ability to exceed expectations which has always delighted the customer and leadership.
+Syntel Champion Award for Achiever of a special award for onsite employees for contribution in organization level initiatives, participation in cross functional projects, sharing innovative ideas, improvising customer experience with continuous display of Syntel AGILE Values.
+IT Expertise
+Education
+Bachelors in Information Technology from Mumbai University, MASKED_LOCATION

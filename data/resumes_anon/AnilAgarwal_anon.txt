@@ -1,0 +1,315 @@
+SUMMARY
+13 Years of total professional experience in IT industry, currently working as Project Manager in analysis, design and development of MASKED_LOCATION/Server applications and Commercial Applications software development in Business Intelligence/Data Warehousing domain
+Excellent Technical skills on Business Objects reporting tool
+Well-versed and expert on Business Objects 5.x, 6.x, XIR2, 3.1 & BO 4.0
+Hands-on experience in creating Business Objects Universes & Reports
+Certified Project Management Professional (PMP)
+Excellent Project Management Skills, coordinating tasks between different teams for project’s successful closure
+Well versed with Agile & Waterfall Project Management methodologies 
+6 Years of rich Onsite IT experience at client’s location in MASKED_LOCATION, MASKED_LOCATION where customer focus was the key aspect
+A proven verifiable track record and a strong sense of dedication driven towards accomplishing challenging goals with persistent commitment
+Extensive experience in gathering Business Requirements, writing Technical Specifications and defining Version Control Processes, worked as Business Analyst / Onshore Coordinator in NJ
+Lead a team size ranging from 2 to 20 resources, provided them with key information about the client and their business, reviewed code developed by the team 
+Handled successfully onshore-offshore coordination. Collected business requirements from the clients and communicated well to the offshore team
+Worked as a bridge between different stakeholders to understand the requirements and cascade the same to the development team, excellent stakeholder’s management
+Successfully organized and handled cross trainings within the project to ensure the knowledge is not lost if a certain resource is unavailable
+Not shy of escalating important issues to the management for timely resolution
+Adapts well to the changing environment
+Experience in Pre-Sales domain and writing technical proposals
+Good Experience in creating FRS, Project Plans and Estimations for projects
+Worked as Assessment Team Member (ATM) with QAI for assessing CMMI Maturity Level 5 
+Working as Process Consultant for one of the projects I am managing
+Excellent work ethics, self-motivated, quick learner, team player and good at multi-tasking
+Strong problem solving, analytical, interpersonal and leadership skills
+TECHNTECHNICAL SKILLS:
+DWH technologies: OLAP
+RDBMS: SQL Server 2000/2005/2008 R2, Oracle 8, 9i, 10g, Sybase IQ
+Development/Productivity Tools: MASKED_NAME, MS Office, ODBC, Visual Basic
+E-Com Frameworks/Web Technologies: VBScripts
+Programming Languages: SQL, Sybase IQ scripts 
+DWH Tools: Business Objects, CystalReports.com
+Business Objects 5.x, 6.x, MASKED_LOCATION, XIR3.1, 4.0
+Source Control:	Visual Source Safe
+EDUCATION:
+Bachelor of Engineering – Electronics and Communication – 2002 – SRMS CET, Bareilly, MASKED_LOCATION
+PG in VLSI & System Programming from CDAC Noida, MASKED_LOCATION, 2003-2004
+CERTIFICATION:
+Project Management Professional (PMP) – Project Management Institute 
+PMP Number: 1693785
+PMP Expiration Date: February 6th 2020
+Client – Sanofi, MASKED_LOCATION, NJ (September 2016 – till date)
+Role\Designation: Project Manager
+Project Description: Account Management Planner (AMP) MASKED_NAME-Web tool – (Sep 2016 – till date) – The Account Management Planner Profiler Tool is a web-based tool to provide the client’s Account Executives/Directors, Brand and Leadership with information necessary to influence strategic business planning would assist in increasing sales. Also, to influence important market driving parameters like current & new rebates, ramp-up time, clinical factors, financial factors etc. through which the key decision makers and Account Directors can analyze and attempt to positively impact the overall sale of a selected drug in each territory for a given PBM, Health plan. 
+Main objective is to automate the process of strategic business planning for Account Executive/Directors. 
+Ability for Account Directors, Key Decision Makers in generating accurate decision support triggers & reports
+To provide the users with system based simulation model to generate program ROI
+Technology: .Net Framwork 4.5, MASKED_NAME, CSS3, SQL Server 2014
+Responsibilities:
+Project Management - Managing Enterprise software Solution Team of 25 resources to develop this MVC / .Net based platform product for the client
+Requirement Gathering & Elicitation – Gather the requirements from the client and pass it on to the development team. Help them understand the requirements. Seek clarifications for any doubts/questions from the client
+Agile Methodology – Agile project management methodology was adopted and I worked as Scrum master. I lead the daily scrum meetings and ensured that the sprint backlogs were all delivered on time
+Daily Sprint Stand-up calls – I lead and managed the sprint calls for this project, ensured that the daily calls do not go for long and only quick status and important issues were discussed and sorted out during the calls
+Stakeholder’s Management - Builds and maintains strong client relationships, and participates in client meetings regarding performance to ensure client satisfaction 
+Business Requirement Document – Created the Business Requirement Document which served as the go to document. This was signed-off by the client which made the basis for developing the project
+Status Reporting – Managed the prompt and correct status reporting of the project. Apart from daily stand-up calls, circulated the weekly status report to the client for better tracking and monitoring of the project
+Development & Testing – I lead the team during the development and testing phases as well. Helped the tem determine the best approach and did a lot of QA to support better quality deliverables
+UAT & Bug-fixing – Supported the end users and development team during the UAT phase. Ensured that all the reported bugs are properly tracked, prioritized and assigned to the development team for fixing them
+Cost & Schedule Monitoring – An important aspect of this project was to ensure that there is no Cost & Schedule variances. I used GANTT charts and Microsoft Project tools to monitor the Cost and MASKED_NAME. I ensured the team members track all their time in the timesheets and submits diligently every week
+Risk Assessment & Mitigation – Worked with the relevant stakeholders to identify the risks, created Risk Register document and options to mitigate them
+Go-Live/ Production Release – Helped the teams in Production Release. Made sure that the Release Notes are shared with all the relevant stakeholders. All the Concerned parties are available for the launch. Completed Smoke Testing after the launch to ensure that the Production environment is up and running fine as per the expectations 
+MASKED_NAME of the system – Being a web application, it’s important to know the non-functional requirement of how should I system behave. Worked with the team to ensue database and front end have been developed and then fine-tuned for best performance
+Handling of the Change Requests – There were some enhancement requests from the client which were taken up as a part of MASKED_NAME. I submitted the same to the Change Management which approved few of the work items which were later developed by the development team
+Client – OKI Europe Limited, MASKED_LOCATION, MASKED_LOCATION (May 2015 – Aug 2016)
+Role\Designation: Project Manager
+Project Description: OKI Business Intelligence System – (May 2015 – Aug 2016) – This project is a development project and support project which involves building full-fledged Business Intelligence system - an enterprise data warehouse along with standard operational and analytics reports for top management. The enterprise data warehouse is being built for the client’s European market. The project involves working on Sales, Targets & Stocks data for the client.
+Technology: OLAP, Business Objects 4.0, SQL Server 2008 R2
+Responsibilities:
+Project Management – End to end Project management and leadership. Managing the BI development Team of 8 resources at onshore & offshore to develop Enterprise Business Intelligence System for the client 
+Requirement Gathering & Elicitation - Gather the requirements from the client and pass it on to the development team. Help them understand the requirements. Seek clarifications for any doubts/questions from the client
+Waterfall Methodology – Worked on the waterfall project management methodology for this project. Ensured each of the different phases are signed-off before starting the next phase of the project
+Stakeholder’s Management - Builds and maintains strong client relationships, and participates in client meetings regarding performance to ensure client satisfaction 
+Status Reporting – Managed the prompt and correct status reporting of the project. Apart from daily stand-up calls, circulated the weekly status report to the client for better tracking and monitoring of the project
+Work Breakdown Structure & Estimation – Worked with the technical architect to design a solution and come up with the required estimates for the project. Shared the same with the client and got an approval. Created Work Break Down structure document for the development team to understand the requirements of the project
+Capacity & Capability Planning – Based on the estimates approved, I worked on the capability and capacity planning. Ensured I get the right skillset of the resources required for the same duration based on timelines. Used skill matrix and resource calendar to monitor this activity
+Resource Utilization – It was an important aspect of the project to ensure the resources are properly utilized
+Development & Testing – I lead the team during the development and testing phases as well. Helped the tem determine the best approach and did a lot of QA to support better quality deliverables
+UAT & Bug-fixing – Supported the end users and development team during the UAT phase. Ensured that all the reported bugs are properly tracked, prioritized and assigned to the development team for fixing them
+Cost & Schedule Monitoring – An important aspect of this project was to ensure that there is no Cost & Schedule variances. I used GANTT charts and Microsoft Project tools to monitor the Cost and MASKED_NAME. I ensured the team members track all their time in the timesheets and submits diligently every week
+Profitability Tracker – Monitored the cost and revenue of the project and timely submitted the profitability tracker. This is an important organization wide project manager’s responsibility 
+Risk Assessment & Mitigation – Worked with the relevant stakeholders to identify the risks, created Risk Register document and options to mitigate them
+Go-Live/ Production Release – Helped the teams in Production Release. Made sure that the Release Notes are shared with all the relevant stakeholders. All the Concerned parties are available for the launch. Completed Smoke Testing after the launch to ensure that the Production environment is up and running fine as per the expectations
+Handling of the Change Requests – There were some enhancement requests from the client which were taken up as a part of MASKED_NAME. I submitted the same to the Change Management which approved few of the work items which were later developed by the development team
+Project Description: SDL Tridion Support Services – (Mar 2014 – Aug 2016) – This project is a Service support project and involves day to day support activities of OKI’s Web Content Management. MASKED_NAME is using SDL Tridion to manage content for all their intranet and extranet websites. There are around 150 websites published for OKI using SDL Tridion. The website’s infrastructure is hosted with MASKED_NAME. 
+Technology: SDL Tridion 5.3, Microsoft SQL Server 2005
+Responsibilities:
+Project Management – End to end Project management and leadership. Manage and support this ongoing Support project for day to day activities, requests and cater to client’s satisfaction 
+Support of GWI Incident Management System – Open & Track all incidents and requests in GWI Incident Management system. Ensure GWI System is maintained and tracked on a daily basis. Seek clarifications for any doubts/questions from the client
+Stakeholder’s Management - Builds and maintains strong client relationships, and participates in client meetings regarding performance to ensure client satisfaction 
+Status Reporting – Managed the prompt and correct status reporting of the project. Circulated the weekly & Monthly status report to the client for better tracking and monitoring of the project
+Development & Testing – I lead the team during the development and testing phases as well. Helped the tem determine the best approach and did a lot of QA to support better quality deliverables
+Capacity & Capability Planning – Based on the estimates approved, I worked on the capability and capacity planning. Ensured I get the right skillset of the resources required for the same duration based on timelines. Used skill matrix and resource calendar to monitor this activity
+Resource Utilization – It was an important aspect of the project to ensure the resources are properly utilized
+Cost & Schedule Monitoring – An important aspect of this project was to ensure that there is no Cost & Schedule variances. I used GANTT charts and Microsoft Project tools to monitor the Cost and MASKED_NAME. I ensured the team members track all their time in the timesheets and submits diligently every week
+Profitability Tracker – Monitored the cost and revenue of the project and timely submitted the profitability tracker. This is an important organization wide project manager’s responsibility 
+Risk Assessment & Mitigation – Worked with the relevant stakeholders to identify the risks, created Risk Register document and options to mitigate them
+Handling of the Change Requests – There were some enhancement requests from the client which were taken up as a part of MASKED_NAME. I submitted the same to the Change Management which approved few of the work items which were later developed by the development team
+Client – Atmel Corporation – (July 2015 – February 2016)
+Role\Designation: Project Manager
+Client Description:
+Atmel Corporation is a worldwide leader in the design and manufacture of microcontrollers, capacitive touch solutions, advanced logic, mixed-signal, nonvolatile memory and radio frequency (RF) components. Leveraging one of the industry's broadest intellectual property technology portfolios, Atmel provides the electronics industry with complete system solutions focused on industrial, consumer, security, communications, computing and automotive markets.
+Project Description: SDL Tridion Technical Services – Website revamp – (Jul 2015 – Feb 2016) – This project is a development project which aims at redesign of Atmel.com’s web experience. The goal is to provide a guided, personalized, targeted and user-friendly navigation on Atmel.com website and have the Content Authors take more control on website updates, rather than the developers. 
+Technology: SDL Tridion 2013, MASKED_NAME 
+Responsibilities:
+Project Management
+Requirement Gathering & Elicitation
+Weekly calls with clients
+Define Scope & Monitor
+Estimation
+Resource Utilization
+Change Request Management
+UAT & Bug-fixing
+Support Go-Live/ Production Release
+Client – Ministry of Health Holdings (MOHH), MASKED_LOCATION – (January 2015 – June 2015)
+Role\Designation: Project Manager
+Client Description:
+MOHH (previously known as Health Corporation of Singapore) is the holding company of MASKED_LOCATION’s public healthcare assets. It operated largely as a dormant holding company until it was recently restructured to address systems-level gaps in our public healthcare system. MOHH today provides systems-level strategizing and coordination and facilitates collaboration across clusters/healthcare institutions. In doing so, it enhances overall public healthcare system performance, while ensuring closer alignment to MOH’s vision, mission and priorities. Where possible, MOHH also seeks to leverage on synergies and economies of scale across the entire healthcare spectrum, thereby enhancing operational efficiency of the public healthcare sector in the long run.
+Project Description: Corporate Website Revamp – (Jan 2015 – Jun 2015) – This project is the Corporate Website revamp project for MOHH which is MOHH’s main public facing website. New site would be SEO optimized, performant site which would have modern look and feel, with Responsive Web Design and built using SharePoint MASKED_ADDRESS party private cloud infrastructure within strict deadlines and adhering to MOHH corporate standards. Site is expected to have more than Hundred thousand of user base with different target users/stakeholders.
+Responsibilities: 
+Project Management, Initiation & Planning
+Requirement Gathering & Elicitation
+Estimation of the project
+Requirement Analysis & Design
+Resource Alignment
+Weekly check point meetings with the client
+Handling the scope creep & gold plating
+Unit testing by the team
+UAT/bug fixing
+Planning for Go-Live, Knowledge Transition and Documentation
+Tracking of Cost/Revenue for the project
+Production Release & Stabilization   
+Client – Singapore Sports Hub, MASKED_LOCATION – (March 2014 – September 2015)
+Role\Designation: Project Manager
+Client Description:
+The Singapore Sports Hub is a Public-Private-Partnership (PPP) project where the Sports Hub consortium has a 25-year contract with the Singapore Sports Council to design, build, finance and operate the Sports Hub. The private sector Sports Hub consortium includes four equity partners:
+InfraRed Capital Partners
+Dragages Singapore (also the Design & Building Contractor)
+Cushman & Wakefield (also the Facility Management Partner)
+MASKED_NAME (also the Venue Operations Partner)
+Project Description: Support & Maintenance of BIS Applications – (Mar 2014 – Sep 2015) – The project involves support and maintenance of BIS application for Singapore Sports Hub to manage applications such as ERP, CRM, Portal, Biztalk, BI, Kiosk & Mobile apps. The Technologies supporting these applications were MS Dynamics CRM, Sharepoint 2010, Dynamics AX 2012, 2011, SSIS, SSRS, SQL Server
+Responsibilities: 
+Project Management
+Requirement Analysis & Design
+Resource Alignment
+Weekly check point meetings with the client
+Ticket assignment and Resolution
+Change Requests Estimation, Approval and Development
+Tracking of Cost/Revenue for the project
+Production Release & Stabilization   
+Client – Sinclair Knight Merz (June 2013 – February 2014)
+Role\Designation: Project Leader
+Client Description:
+Sinclair Knight Merz (SKM) is a leading projects firm, with global capability in strategic consulting, engineering and project delivery. It operates across MASKED_LOCATION, the MASKED_LOCATION, MASKED_LOCATION, MASKED_LOCATION and MASKED_LOCATION, deploying some 7,500 people from more than 40 offices.
+Project Description: Support for Insight (financial reporting portal) system – (Jun 2013 – Feb 2014) – SKM has set up SAP Business Objects (BO XI3.1) environment called “INSIGHT” to monitor and manage the performance of its diverse operating units. Insight is the financial reporting portal for SKM. It delivers relevant information to assist with decision making at executive, operational and client manager levels. The need was to establish an offshore support team to engage in MASKED_LOCATION admin and SAP report development support.
+Technology: OLAP, Business Objects XI 3.1, SQL Server 2008 R2
+Responsibilities:
+Requirement analysis, Design and Development
+Developed Universes and Reports using Business Objects
+Setup weekly calls with users to go through the project status and understand their business requirements. Setup daily calls with the onshore team
+Successfully handled many adhoc change requests from the client
+Unit testing of the team’s universes/reports
+Successfully handled all the changes and the bugs reported by the client in the UAT phase
+Coordinated and communicated well between the client and the offshore team to ensure that the requirements are understood properly and project is delivered on time.
+Handed the project to the support team by giving them proper transition of knowledge and all documentation.
+Client – Citi Group, NJ, MASKED_LOCATION – (February 2013 – June 2013)
+Role\Designation: Technical Leader
+Client Description:
+Citi, the leading global bank, has approximately 200 million customer accounts and does business in more than 160 countries and jurisdictions. Citi provides consumers, corporations, governments and institutions with a broad range of financial products and services, including consumer banking and credit, corporate and investment banking, securities brokerage, transaction services, and wealth management.
+Project Description: Implementation of reporting environment for Internal Finance Department (Feb 2013 – Jun 2013) – MASKED_LOCATION has a huge Financial business which needs to be monitored and analyzed daily. The project involved enhancing the internal financial reporting system to help the users in their day to day activities.
+Technology: OLAP, Business Objects XI 3.1, MASKED_NAME 10g.
+Responsibilities:
+Project Management, Estimation of new report development
+This project is developed using Agile and Scrum methodology
+Requirement analysis, Design and Development
+Created Business Requirement Document & Functional Requirement Specification
+Developed Estimates and Project Plan single handedly for the complete project
+Handled Resource Allocation as per the required skill set
+Developed/Enhanced Universes and Reports using Business Objects
+Successfully handled many adhoc change requests from the client
+Unit testing own code and that of other developers
+Successfully handled all the changes and the bugs reported by the client in the UAT phase
+Coordinated and communicated well between the client and the offshore team to ensure that the requirements are understood properly and project is delivered on time
+Using the Import Wizard tool deployed the universes and reports from the development environment to the production environment
+Client – Dun & Bradstreet, NJ, MASKED_LOCATION– (April 2004 – January 2013)
+Role\Designation: Technical Lead / Onsite Coordinator
+Client Description:
+D&B is the world’s leading source of commercial information and insight on businesses, enabling companies to Decide with Confidence® for 167 years. D&B’s global commercial database contains more than 140 million business records. This application was an enhancement of the intranet website of D&B. Everything on this website is data driven, nothing is static.
+Project Description: Implementation of reporting environment for International Markets (Nov 2009 – Jan 2013) – D&B has implemented Oracle E-Business Suites - Account Receivables, MASKED_LOCATION and General Ledger in MASKED_LOCATION, MASKED_LOCATION and MASKED_LOCATION. MASKED_LOCATION was the 1st of International market on Oracle E Business suites of version 12. 
+Technology: OLAP, Business Objects XI 3.1, MASKED_NAME 10g.
+Responsibilities:
+Requirement analysis, Design and Development. Created the Functional Requirement Specification.
+Developed Estimates and Project Plan single handedly for the complete project.
+Handled Resource Allocation as per the required skill set.
+Created Business Requirement Document & Functional Requirement Specification
+Setup weekly calls with MASKED_LOCATION users to go through the project status and understand their business requirements. Setup daily calls with the offshore team in MASKED_LOCATION.
+This project is developed using Agile and Scrum methodology.
+MASKED_NAME and Reports using Business Objects.
+Used Visual Source Safe to maintain code and documentation versions.
+Successfully handled many adhoc change requests from the client.
+Unit testing own code and that of other developers.
+Successfully handled all the changes and the bugs reported by the client in the UAT phase.
+Coordinated and communicated well between the client and the offshore team to ensure that the requirements are understood properly and project is delivered on time.
+Using the Import Wizard tool deployed the universes and reports from the development environment to the production environment.
+Handed the project to the support team by giving them proper transition of knowledge and all documentation.
+Set up 5 users and allocated them proper rights to view and refresh the canned reports using Central Management Console.
+Project Description: Implementation of Portfolio Risk Manager MASKED_NAME (Jul 2011 – Dec 2011) – D&B planned to remove the grace period access to the contracts which were not renewed and to inform their customers if the contract needs to be renewed for ‘DnBi Professional’ contract type. The other objective of this project being was to introduce “Trials” for the DnBi Professional and PRM at the module level. 
+Technology: OLAP, Business Objects XI 3.1, Sybase IQ 12
+Responsibilities:
+Requirement analysis, Design and Development. Created the Functional Requirement Specification.
+Developed Estimates and Project Plan for the BO/IQ piece of the project.
+Handled Resource Allocation as per the required skill set.
+Setup weekly calls with users to go through the project status and understand the business requirements. Setup daily calls with the offshore team in MASKED_LOCATION.
+Modified BO Universe and created the Trial Balance Report.
+Used Visual Source Safe to maintain code and documentation versions.
+Successfully handled many adhoc change requests from the client.
+Unit testing of the code from the team.
+Successfully handled all the changes and the bugs reported by the client in the UAT phase.
+Coordinated and communicated well between the client and the offshore team to ensure that the requirements are understood properly and project is delivered on time.
+Using the Import Wizard tool deployed the universes and reports from the development environment to the production environment.
+Handed the project to the support team by giving them proper transition of knowledge and all documentation.
+Project Description: Run the Business (RTB) (Jan 2009 – Jun 2011) – This is the maintenance and support project where in day to day analysis and decision making reports are developed and maintained for D&B users and their customers. The reporting is done for revenue and sales data for D&B's businesses. The reporting is done using Business Objects. There are close to 500 business object users across D&B who use the tool for adhoc and canned reports.
+
+Technology: OLAP, Business Objects, Sybase IQ, SQL Server 2005, MASKED_NAME 10g.
+Responsibilities:
+Requirement analysis, Design and Development. Created the high-level design and architecture.
+MASKED_NAME and Reports using Business Objects.
+Handled successfully onshore-offshore coordination. Took proper requirements from the clients and communicated well to the offshore team and got the work delivered on time.
+Used Report Conversion Tool to convert Desktop Intelligence reports into Web Intelligence reports.
+Used Import Wizard to deploy universes and reports from development environment to production environment.
+Used Visual Source Safe to maintain code and documentation versions.
+Extensively used Central Management Console for administrative purpose. Created Universe folders, users, groups and assigned proper privileges.
+Created DeskI and WebI reports using Desktop Intelligence and Infoview respectively.
+Scheduled reports using MASKED_LOCATION and created events in CMC to trigger the reports.
+MASKED_NAME using Visual Basic to convert BO output into Excel and text format. MASKED_NAME helped in creating the format as per the user requirement.
+Set up weekly calls with the client manager in D&B to discuss the day to day activities.
+Fixed bugs reported by the business users.
+Participated in team discussions for clear understanding of requirements with the client manager and team members.
+Created Estimates and project plan for the project. Also, created estimates for the change requests reported by the client.
+Developed Functional Requirement Specification for the project and got a client sign off for the same.
+Successfully handled many adhoc change requests from the client.
+Unit testing own code and that of other developers.
+Project Description: MASKED_NAME (AR, AP, GL) in MASKED_LOCATION and MASKED_LOCATION – (Jan 2008 – Dec 2008) – This project was initiated to create a reporting structure in MASKED_LOCATION and MASKED_LOCATION from scratch. The business proposed new oracle suites in MASKED_LOCATION and MASKED_LOCATION and business objects were chosen to get the reporting done out of it.
+Technology: Business Objects XIR2 (Web Intelligence, Desktop Intelligence, CMC, Designer, Publisher), Oracle 9i, SQL, PL/SQL, TOAD7.6.
+Responsibilities:
+Designed the universes and reports for team and attended tele-conferences to guide the team for the development of these universes and reports.
+Involved in creation, implementation and maintenance of universes, classes and objects as per the report requirements using Business Objects XIR2 suite.
+Set Cardinalities and Joins to develop the universe and created Aliases and MASKED_NAME to resolve the linking problems like Loops and Traps (Chasm and Fan) and checked the Integrity of the Universes.
+Created Hierarchies, complex objects using various @ functions, Aliases, Contexts, Aggregate objects in the universe.
+ Worked extensively with the major functionality of Web Intelligence like Breaks, Alerter, MASKED_NAME, Sorts, Query Prompts and MASKED_NAME filters. 
+Created, managed and formatted standard reports, master/detail reports and cross tab reports using Report Manager.
+Used the Slice and Dice feature, set variables, alerts and group values in the reports. 
+Used the Drill Down/up function to analyze data and created multiple charts in MASKED_LOCATION.
+Created Report Templates for consistency in the look and feel of the reports.
+Used SQL Loader to load flat files into oracle database.
+Used TOAD to verify data and performance of the report.
+Project Description: HRCC BO Globalization Implementation Phase II (Jul 2007 – Dec 2007) – This application was an enhancement on Phase I and it included creation of many reports and universe modification. It included standardizing the universe based on best practices.
+Technology: Business Objects, Oracle 9i, OLAP
+Responsibilities:
+Requirement analysis, Design and Development.
+Classes and Objects in the universe were given more business oriented names.
+Objects which were not used were removed from the classes.
+Visual Basic Macros were used to format the reports in a set manner which was requested by the business owners.
+MASKED_NAME and Reports using Business Objects
+Handled successfully onshore-offshore coordination. Took proper requirements from the clients and communicated well to the offshore team and got the work delivered on time
+Import Wizard to deploy universes and reports from development environment to production environment
+Used Visual Source Safe to maintain code and documentation versions
+Successfully handled many adhoc change requests from the client.
+Unit testing own code and that of other developers
+Project Description: HRCC BO Globalization Implementation Phase I (Dec 2006 – Jun 2007) – This application is used to implement the Global reporting for HRCC in Business Objects and to provide associate details throughout the globe in D&B. This application also included building BO universe and reports based on the requirement with the security features for D&B’s Human Resource Management System.
+Technology: Business Objects, MASKED_NAME 9i
+Responsibilities:
+Requirement analysis, Design and Development.
+MASKED_NAME and Reports using Business Objects
+Handled successfully onshore-offshore coordination. Took proper requirements from the clients and communicated well to the offshore team and got the work delivered on time
+Import Wizard to deploy universes and reports from development environment to production environment
+Used Visual Source Safe to maintain code and documentation versions
+Successfully handled many adhoc change requests from the client.
+Unit testing own code and that of other developers
+Project Description: BO XI Migration (Jun 2006 – Nov 2006) – The purpose of this application was to migrate from BO 5.X to BO XI R2. 
+Technology: Business Objects, Sybase IQ, MASKED_NAME, SQL Server
+Responsibilities:
+Requirement analysis, Design and Development.
+To analyze the impact and help in migrating to BO XI R2
+Created Inventory of User Reports for migration.
+MASKED_NAME, User Reports and MASKED_NAME.
+Setup security in Central Management Console.
+Handled successfully onshore-offshore coordination. 
+Import Wizard to deploy universes and reports from development environment to production environment
+Used Visual Source Safe to maintain code and documentation versions
+Unit testing own code and that of other developers
+Project Description: Top 10 Customers and DnBI Pricing (May 2005 – May 2006) – The purpose of this project was to create the top 10 DnB’s customers and do the reporting on the DnBI Pricing
+Technology: Business Objects, Sybase IQ
+Responsibilities:
+Requirement analysis, Design and Development.
+To understand the new DnBi product and its pricing criteria
+To analyze the impact of this new product on the existing reports
+To modify the existing universes to include this new DnBi product
+Setup security in Central Management Console for the new users
+Handled successfully onshore-offshore coordination. 
+Import Wizard to deploy universes and reports from development environment to production environment
+Used Visual Source Safe to maintain code and documentation versions
+Project Description: Preferred Pricing Phase-2 (Jul 2004 – Apr 2005) – The purpose of this project was to enhance the features of the preferred Pricing plan for D&B
+Technology: Business Objects, Sybase IQ, MASKED_NAME, SQL Server, MASKED_NAME, MS Office, ODBC, PL/SQL, OLAP
+Responsibilities:
+Requirement analysis, Design and Development.
+Setup security in Central Management Console.
+Handled successfully onshore-offshore coordination. 
+Import Wizard to deploy universes and reports from development environment to production environment
+Used Visual Source Safe to maintain code and documentation versions
+Unit testing own code and that of other developers
+Project Description: Preferred Pricing Phase-1 (Jan 2004 – Jun 2004) – The purpose of this project was to design and automate the back-office of the Preferred Pricing Plan program (PPP) based on the program criteria, including a new offer template type, usage statements & invoices. 
+Technology: Business Objects, Sybase IQ, MASKED_NAME, MS Office, ODBC, PL/SQL, OLAP, Corporate
+Responsibilities:
+Worked with technical team to ensure, to adhere and to co-operate the policies and procedures pertaining to the Database.
+Included development of policies to control the movement of application on to a Production Database.
+Monitoring the growth of Database to ensure smooth functioning of daily activities.
+Establishing the base lines and compares the Database performance against them to ensure adequate performance

@@ -1,0 +1,29 @@
+{
+  "resume_id": "Balakrishna Sudabathula_anon",
+  "skills": [
+    "java",
+    "javascript",
+    "angular",
+    "html",
+    "css",
+    "node",
+    "spring",
+    "express",
+    "rest",
+    "sql",
+    "mysql",
+    "oracle",
+    "aws",
+    "linux",
+    "apache",
+    "git",
+    "jira"
+  ],
+  "education": {
+    "degree": "Bachelor of Science in Computer Engineering, University of JNTU, Hyderabad, AP",
+    "year": "Unknown"
+  },
+  "experience_years": 10,
+  "projects": [],
+  "certifications": []
+}

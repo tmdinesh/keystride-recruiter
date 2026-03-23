@@ -1,0 +1,99 @@
+Praveen MASKED_NAME60-949-MASKED_ADDRESS, Harvard, MA 01451
+Objective
+Seeking a challenging role to utilize my unique blend of experience in software development and IT Infrastructure, to grow professionally and contribute to the productivity of teams as well as to the growth of an organization.
+Profile Summary
+	IT Infrastructure Project Manager with 12+ years hands on experience in managing complex IT Infrastructure projects. Have worked on projects including VDI infrastructure, Corporate Security projects, Secure Network Architecture design & implementation, Network infrastructure setup (switches, routers, firewall, MPLS, VPN etc.), Hardware obsolescence, Server footprint optimization, Datacenter consolidation & migration and Enterprise application implementation & migration. Led end-to-end IT Infrastructure implementation for many Client engagements. Also worked on IT Security & governance, risk assessment of suppliers/vendors to ensure security benchmarks are in line with organizations defined standards. 
+Experience Summary
+Wipro Technologies	
+Sr. Project Manager & Team Manager	Jun 2016 – Feb 2018
+Managed enterprise application implementation & migration projects. Also managed MASKED_NAME migration and consolidation projects to optimize IT operations and reduce cost for MASKED_LOCATION based banking client (RBS).
+Led VPN concentrator projects for upgrading VPN infrastructure for remote connectivity users.
+Migrated external facing enterprise application to AWS MASKED_NAME.
+Managed team of 15+ Project managers (including managing their appraisals, career planning, trainings, one X one etc.), who were managing IT Infrastructure Projects for RBS.
+Major Projects:
+MASKED_NAME and closure for Royal Bank of Scotland in MASKED_LOCATION region
+Customer – Royal Bank of Scotland, MASKED_LOCATION
+Responsibilities 
+Manage migration of existing IT Infrastructure to regional datacenter and close the existing datacenter, End to end Project lifecycle management and delivery including – scope identification, planning, application teams engagement, application infrastructure migration to AWS MASKED_NAME, ROM, Risk-Assumption-Issue-Dependency (RAID) management, stakeholder management, budget approval, procurement, application and its infrastructure migration, project board & stakeholder communication, implementation, resource engagement, collaboration and closure. 
+Technology Stack/Tools used – AWS Cloud, VMware vCenter Converter, vSphere Hypervisor, Windows & Linux Servers, MASKED_LOCATION network devices, Service Now, Planview, MS Project & Visio, Oracle Procurement etc.
+Enterprise application migration and implementation
+Customer – Royal Bank of Scotland, MASKED_LOCATION
+Responsibilities 
+Internet facing 3 tier enterprise application migration from windows platform to MASKED_NAME platform, work with application team to do POC in corporate environment, Design approval, get effort estimates from all relevant team, prepare project plan, get budget approval, infrastructure procurement, Risk-Assumption-Issue-Dependency (RAID) management, technical team/resource engagement, implementation, status update communication, stakeholder management, collaboration and project closure.
+Technology Stack/Tools used – MASKED_LOCATION, RHEL, Network devices configuration changes (including switches, routers & firewall), MASKED_NAME balancer, SQL Database, Service Now, Planview, Db2, MS Project & Visio, Oracle Procurement tool, etc.
+Application migration to AWS MASKED_NAME – Royal Bank of Scotland, MASKED_LOCATION
+Responsibilities 
+Manage end-to-end migration of 3 enterprise applications to AWS Cloud. Scope included work with application team for cloud evaluation through POC and overcome challenges by working with application team, corporate infrastructure team & could support team. Simultaneously work with all relevant team to finalize on infrastructure requirement and get cost estimates, sought PB approval for project budget followed by project planning, schedule, resourcing, implementation, validation, transition and production. Out of 3 applications, 1 was purely a case of MASKED_NAME and Shift and other two cases were of Replatforming (windows to RHEL, which also led to application code changes).
+Technology Stack/Tools used – AWS Cloud, EC2, S3, VPC, ELB, Windows Server, RHEL, MASKED_NAME, IAM, SQL Database, Service Now, Planview, Db2, MS Project & Visio, Oracle Procurement tool, etc.
+General Electric, MASKED_LOCATION, MASKED_LOCATION	
+Project Manager	Oct 2011 – Jun 2016
+Implementation and management of Enterprise VDI Infrastructure (1000+ users) and involved in Network designing and implementation of Secure Architecture Network Design with TTM methodologies for quick implementation across MASKED_LOCATION region.
+Worked with 450+ GE suppliers to migrate them to Secure Third party network and secure email over TLS. Have received Management “Silver Award” for this project for excellent execution.
+Performance improvement of Enterprise MASKED_NAME application (world’s biggest MASKED_NAME implementation) to manage performance improvement across global locations through live monitoring using Splunk.
+Enterprise application migration to AWS cloud including P-V and V-V server migrations. 
+Led security projects including Spunk implementation for enterprise applications security.
+Managed and completed Network rearchitecutre project of MASKED_LOCATION Technology center, a GE acquisition center.
+Conducted IT Risk Assessment, ISO 27001(ISMS) Audits for suppliers/vendors and involved in MASKED_LOCATION/DR planning
+Major Projects:
+VDI Infrastructure setup for 1000+ engineering users
+Customer – General Electric - Aviation 
+Responsibilities 
+Manage setup of VDI infrastructure for engineering users – I worked with engineering users understand the scope and requirements, benchmark performance, started POC for application compatibility and migration to virtual environment for all engineering tools, worked with designer and architects for solution design, MASKED_NAME space and power requirements, infrastructure procurement, Infrastructure installation, Server configuration, VDI image creation and deployment, license server setup, storage setup, Test rollout, issue fixes, Production rollout, operationalize support, feedback and project closure.
+Technology Stack/Tools used – VMware vSphere Hypervisor, RHEL, Windows server, MASKED_LOCATION, Netapp NAS Storage, MASKED_NAME backup solution, License server, SQL & Oracle Database, MASKED_LOCATION network devices, Firewall, Service Now, MS Project & Visio, Procurement tool, MPLS Link, License server etc.
+Secure Architecture Network Design (SAND) implementation
+Customer – General Electric
+Responsibilities 
+Responsible for SAND project implementation for engineering sites in MASKED_LOCATION region. It included about 15k users across 7 different locations in MASKED_LOCATION, MASKED_LOCATION, MASKED_LOCATION, UAE & Singapore. GE’s network is a legacy 3.x.x.x network that had been in existence for a long time and to revamp the security SAND project was undertaken across GE to upgrade the network infrastructure of GE.  I led the SAND project implementation for 15k users in phase wise approach and completed the project in 6 months duration. 
+Technology Stack/Tools used – Network devices configuration changes (including switches, routers & firewall), MASKED_NAME balancer, DNS, DHCP, Service Now, MS Project & Visio, Procurement tool, etc.
+Migrate 450+ GE Suppliers to secure third party network and secure email over TLS
+Customer – General Electric - Aviation
+Responsibilities 
+Responsible for migrating 450+ GE suppliers to secure third party network to align with secure network for GE. A dedicated network hub was created in different regions to manage all third party connections securely. Prior to this all third party connection were ending in adhoc manner and team didn’t have clear visibility and control over that. This project included migration of third party connections as per their region hub and implement secure email connection between GE and respective suppliers. This project was completed in eight months with budget of about $650k.
+Technology Stack/Tools used – Network devices configuration changes (including routers & firewall), VPN concentrator, Network access server, TLS Gateway encryptionF5, Service Now, MS Project & Visio etc.
+SIEM tool implementation/configuration for enterprise application
+Customer – General Electric - Power
+Responsibilities 
+Responsible for Splunk server installation/configuration for Security Information and Event Management (SIEM) of enterprise application. This projects implementation was required to comply with export controlled data security requirement through logging and monitoring the individual user activity. This included server procurement and installation of Splunk server license and storage configuration for optimum storage for keeping archive logs for last two years for reporting and monitoring. I also worked with application team to understand the application available logs and enable others as required and then configuration changes on application server for log transfer automation.
+Technology Stack/Tools used – RHEL Server, Splunk Server license, Apache web server, Tomcat Application Server, MASKED_LOCATION, NAS Storage, Firewall configuration changes, MASKED_NAME balancer, Service Now, MS Project & Visio, Procurement tool, etc.
+Network Re-architecture of MASKED_LOCATION Technology
+Customer – General Electric - Aviation
+Responsibilities 
+Responsible for Turkey Technology center network re-architecture. This was a GE acquisition and the center (3000+ users) has to be brought to GE standards for integration to GE network. I started pulling the team together and collected the information about the existing network infrastructure and then assessed the existing setup with Architects and devised the scope that included new devices procurement and usage of existing infrastructure wherever possible. Prepared the design, got budget approval and progressed with planning, procurement and implementation. This project was achieved with budget of $1.3M.
+Technology Stack/Tools used – Cisco & Juniper Network devices (including Switches, routers, firewall, VPN Concentrator etc.), WLAN setup, MASKED_NAME, Racking and stacking, DNS, DHCP, Service Now, MS Project & Visio, Procurement tool, etc.
+Infosys Technologies Ltd., MASKED_LOCATION, MASKED_LOCATION	            
+Technology Transition Leader & IT Risk Manager	           Jul 2010 – Oct 2011
+Led a team of six and managed end-to-end IT Infrastructure implementation for all new clients of Infosys.
+Scope included network setup (MPLS/VPN), implementation of firewalls - IDS/IPS, DLP solutions, active directory setup, domain creation, desktop deployment, ODC setup, IVR solution, server room setup, access control environment and stabilization of IT Operations.
+Implemented server hardening as per corporate policies, monitored user compliance w.r.t network and internet security policies, analyzed and tested network to discover weaknesses and closed gaps
+Conducted IT risk assessment, ISO 27001(ISMS), SAS70 & PCI DSS audits for Infosys clients 
+Major Projects:
+IT Infrastructure setup for 16+ new client engagements
+Customer – MASKED_NAME, McClatchy, Charming shoppes Inc., Suncorp, Aviva, Kellogg Company, J&J etc.
+Responsibilities 
+I was responsible for setting up network connectivity between all client offices and Infosys office along with DR site. It included kickoff of meeting with Clients IT team to understand the IT Infrastructure setup requirements to meet the scope of work outsources to Infosys. This involved network setup, offshore delivery center setup (including MASKED_LOCATION controller, Windows server for MASKED_LOCATION, MASKED_NAME, group policy setup, User account management, Desktop setup etc.) and run the show until the operation is stabilized. Post which handover to the operations team and move with next setup or so. I was also managing six-member team.
+Technology Stack/Tools used – Windows server, MASKED_NAME, Windows Patch server, MASKED_LOCATION, MASKED_LOCATION network devices, Pix/Cisco Firewall, IDS/IPS devices, MPLS/VPN/IPSec Network, Service Now, remedy etc.
+Tata Consultancy Services Ltd., MASKED_LOCATION	             
+Team Leader, MASKED_NAME, MASKED_LOCATION (Deputed on 6-month assignment at MASKED_LOCATION, MASKED_LOCATION)	                      May 2008 – Jul 2010
+Managed IT Infrastructure team, responsible for delivering server and desktop solutions and managing IT Operation to MASKED_LOCATION based Energy utilities company (Customer – Centrica)
+Delivered IT service to customers as per SLA and acted as an escalation point for business (Fast-track urgent requests)
+Also managed active directory management/administration, anti-virus server management, Windows/Linux server & patch management, group policy creation & enforcement
+Team Member, MASKED_NAME, MASKED_LOCATION	Dec 2005 – Apr 2008
+Worked on Active Directory, Exchange server, SCCM, Remote Desktop, Desktop deployments, MASKED_NAME VDI/ MASKED_LOCATION for MASKED_LOCATION based Insurance company (Customer – Aviva Insurance company)
+Server Administration – Installing/Configuring different flavours of Windows servers, managing Active Directory service, monitoring servers, installing printers, installing web based applications, Patch Management, Antivirus server management, PCs troubleshooting and fixing OS and applications issues.
+VMware Administration - Installing, Configuring & Trouble shooting of VMware ESXi Server, managing more than 50 ESXi servers and around 500 VMs, Performance monitoring VM’S & ESXi Servers using virtual center, MASKED_NAME, Managing Virtual Machines using templates
+Network Design & Implementation – Network infrastructure design, VLAN Management – creation, adding ports to VLAN etc., WAN link optimization/solution design based on business requirements.
+Technical Skills
+Datacenter consolidation/migration/optimization – Identification of potential H/W candidates for virtualization, server candidates for consolidation and cloud migration
+Enterprise Network Design – Network infrastructure design, WAN link optimization, solution design based on business requirements (MPLS, VPN etc.) and engage network service provider to establish connectivity.
+Server Administration – Installation and configuration of Windows servers, active directory service management, patch management & antivirus server management.
+VMware Administration - Installation, configuration, management, creation and trouble shooting of VMs
+IT Service delivery and management, Project Management, Change Management, Problem Management, IT Procurement, Network Architecture, Infrastructure Architecture & Virtualization 
+Education & Certifications
+Bachelor of Engineering (Information Technology)	 Jun 2001 – May 2005
+(Saurashtra University, MASKED_LOCATION, MASKED_LOCATION)	
+ Splunk Certified User
+Cisco Certified Network Associate (CCNA)
+Six Sigma Green Belt Certification
+PMI PMP Certified
+Information Technology Infrastructure Library (ITIL V2 & V3 Foundation by EXIN)
+Information Technology Infrastructure Library (ITIL – Intermediate – Service Operations)

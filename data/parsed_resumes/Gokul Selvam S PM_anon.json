@@ -1,0 +1,23 @@
+{
+  "resume_id": "Gokul Selvam S PM_anon",
+  "skills": [
+    "sql",
+    "oracle",
+    "jira"
+  ],
+  "education": {
+    "degree": "Leading this enhancement will provide an automated process for searching on existing Vendors, Item and Customers in Sysco Unified Systems (SUS) built in AS400 technology. Currently, each OpCo is designed to pull data from MDM (Master Data Management) system built from Corporate which is a single unit connecting all the OpCos for billing, reporting and all other IT related services. Going forward, the corporate will be converted to a SAP technology application which means an Enhancement has to be made at each MASKED_LOCATION level to build a new interface with the SAP based corporate to fetch data all the required data for a Vendor/Item/Customer.",
+    "year": "Unknown"
+  },
+  "experience_years": 14,
+  "projects": [
+    "Client: The Bank of Newyork Mellon",
+    "Duration:  From 9 Feb 2004 to 30 Oct 2010",
+    "Role and Responsibilities :",
+    "Started at offshore as a team lead and went onsite for the new region creation",
+    "Got KT from clients (Onsite) and established the team at offshore single handedly for the application."
+  ],
+  "certifications": [
+    "Certified ScrumMaster (CSM)"
+  ]
+}

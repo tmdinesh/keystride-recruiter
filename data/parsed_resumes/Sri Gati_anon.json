@@ -1,0 +1,45 @@
+{
+  "resume_id": "Sri Gati_anon",
+  "skills": [
+    "java",
+    "javascript",
+    "php",
+    "ruby",
+    "scala",
+    "angular",
+    "html",
+    "css",
+    "jquery",
+    "node",
+    "flask",
+    "spring",
+    "express",
+    "rails",
+    "rest",
+    "soap",
+    "sql",
+    "mysql",
+    "mongodb",
+    "oracle",
+    "elasticsearch",
+    "aws",
+    "azure",
+    "docker",
+    "apache",
+    "spark",
+    "git"
+  ],
+  "education": {
+    "degree": "Education Details : Bachelor\u2019s degree in Computer Science Engineering from MASKED_NAME.",
+    "year": "Unknown"
+  },
+  "experience_years": 8,
+  "projects": [
+    "Actively participated in meetings with Business Analysts and Architects to identify the scope, requirements and architecture of the project.",
+    "Followed MVC model and used spring frameworks for developing the Web layer of the application.",
+    "Write front end code for developing new pages using HTML, CSS, JavaScript, and JQuery.",
+    "Involved in preparing Ant builds scripts (XML based), deployments, integration and configuration management of the entire application modules.",
+    "Created Stored Procedures to manipulate the database and to apply the business logic according to the user's specifications."
+  ],
+  "certifications": []
+}

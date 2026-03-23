@@ -1,0 +1,20 @@
+ROLE: Senior Backend Engineer Content
+SOURCE: RemoteOK
+URL: https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-content-onx-1130517
+
+ABOUT onX
+
+As a pioneer in digital outdoor navigation with a suite of apps, onX was founded in Montana, which in turn has inspired our mission to awaken the adventurer inside everyone. With more than 400 employees located around the country working in largely remote / hybrid roles, we have created regional Basecamps to help remote employees find connection and inspiration with other onXers. We bring our outdoor passion to work every day, coupling it with industry-leading technology to craft dynamic outdoor experiences.
+
+Through multiple years of growth, we haven't lost our entrepreneurial ethos at onX. We offer a fast-paced, growing, tech-forward environment where ownership, accountability, and passion for winning as a team are essential. We value diversity and believe it leads to different perspectives and inspires both new adventures and new growth. As a team, we're hungry to improve, value innovation, and believe great ideas come from any direction.
+
+Important Alert
+: Please note, onXmaps will
+never
+ ask for credit card or SSN details during the initial application process. For your digital safety, apply only through our legitimate website at 
+onXmaps.com
+or directly via our 
+LinkedIn page.
+WHAT YOU WILL DO
+
+onX is seeking a talented Senior Backend Engineer to join our Content Delivery team. In this role, you will build the backend infrastructure that powers offline map experiences for millions of outdoor enthusiasts. You will work on high-performance data pipelines, map tile generation and delivery systems, and large-scale geospatial

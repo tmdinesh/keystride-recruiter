@@ -1,0 +1,29 @@
+{
+  "resume_id": "Jennifer  M. Conte_anon",
+  "skills": [
+    "java",
+    "javascript",
+    "typescript",
+    "angular",
+    "html",
+    "css",
+    "jquery",
+    "spring",
+    "rest",
+    "soap",
+    "sql",
+    "mysql",
+    "mongodb",
+    "redis",
+    "oracle",
+    "aws",
+    "linux"
+  ],
+  "education": {
+    "degree": "Education:  Bachelor of Electronic Engineering, Beijing Union University, 1988.",
+    "year": "1988"
+  },
+  "experience_years": 11,
+  "projects": [],
+  "certifications": []
+}

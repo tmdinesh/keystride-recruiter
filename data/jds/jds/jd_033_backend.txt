@@ -1,0 +1,39 @@
+ROLE: SW-Developer (m/w/x) - JAVA, C++
+SOURCE: Arbeitnow
+URL: https://www.arbeitnow.com/jobs/companies/k-tronik-gmbh/sw-developer-java-c-stuttgart-393479
+
+Projektbeschreibung:
+
+Technologie begeistert Sie? Uns auch! Zur Verstrkung unseres Expertenteams bei unserem Kunden aus der Funk- und Kommunikationsbranche suchen wir einen SW-Developer (m/w/c) - JAVA, C++ fur taktische Funkeinsatzplanung in Festanstellung bei K-tronik. Wir freuen uns darauf, Sie persnlich kennen zu lernen - und gemeinsam mit Leidenschaft und Teamgeist an spannenden Projekten und zukunftsweisenden Technologien zu arbeiten.
+
+Aufgaben:
+
+Design und Implementierung der Applikationssoftware in Java auf Basis von User Stories in einem agilen SCRUM Team (SAFe) - Design und Implementierung der Applikationssoftware in C++ - Durchfuhrung von qualittssichernden Manahmen wie Code Reviews oder Peer Reviews - Implementierung von Unit- und Modultests und Integration in eine CI/CD Pipeline - Pflege und Erweiterung einer CI/CD Pipeline
+
+Qualifikationen:
+
+MUST HAVE: Abgeschlossenes Studium oder Ausbildung zum Fachinformatiker mit mehrjhriger Berufserfahrung - MUST HAVE: Mehrjhrige Berufserfahrung im Design und Implementierung in Java - MUST HAVE: Mehrjhrige Berufserfahrung im Design und Implementierung in C++ - Kenntnisse im Bereich Eclipse RCP und OSGi vorhanden - Kenntnisse in SOLID und Clean Code Prinzipien vorhanden - Kenntnisse in Skriptsprachen zur Unterstutzung der Test- und Integration (Python, Robot FW) - Agiles Mindset und pro-aktive Kommunikation im Team - Kenntnisse im Bereich Security wunschenswert - Sehr gute Deutsch- und Englischkenntnisse
+
+Benefits:
+
+Kollegiales und freundschaftliches Arbeitsklima
+
+Flexible Arbeitszeiten
+
+30 Urlaubstage und flexible Urlaubsplanung
+
+Regelmige Team-Events
+
+Auszeichnung als Kununu TOP Company
+
+Corporate Benefits (Mitarbeiterangebote)
+
+Kostenlose Getrnke
+
+Individuelle Weiterbildungsmglichkeiten
+
+360 Betreuung: Feedbackgesprche, Karriereplanung, Untersttzung bei Umzug, etc.
+
+Find more 
+English Speaking Jobs in Germany
+ on Arbeitnow

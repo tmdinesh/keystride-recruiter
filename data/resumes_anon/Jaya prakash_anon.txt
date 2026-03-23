@@ -1,0 +1,238 @@
+Resume
+
+Professional Summary:
+Having 10 years of experience in the development of web applications using JAVA/J2EE technologies.
+Experience in developing the Spring based applications using MASKED_NAME, MASKED_NAME, Spring Data, Spring Rest and Spring Security.
+Experience in developing the applications with Data access technologies like JPA, MASKED_NAME and MASKED_NAME. 
+Experience in developing the Message Oriented Middleware applications using JMS, AMQP, ActiveMQ and MASKED_NAME.
+Experience in developing SOAP Web Services using JAX-WS, Spring and Apache CXF.
+Experience in developing Restful Web Services using JAX-RS, MASKED_LOCATION, MASKED_LOCATION and Apache CXF.
+Experience in providing the security to SOAP web services using WS-Security.
+Experience in providing the security to Restful web services using oAuthorization.
+Experience in MASKED_NAME using MASKED_NAME, AWS EC2, Apache Mesos, Marathon, Kubernetes and MASKED_NAME.
+Experience in MASKED_NAME using Pivotal MASKED_NAME.
+Experience in Splunk Development and Administration.
+Experience in developing the applications using various design patterns.
+Expertise in database programming (SQL, PL/SQL) with MASKED_NAME and MySQL. 
+Expertise with NoSQL technologies like Cassandra, MongoDB and Elastic Search.
+Experience in developing SOA applications using MASKED_NAME.
+Experience in Integration Technologies such as Spring Integration and Apache Camel.
+Extensively used Eclipse and IntelliJ IDEA as IDE for application development and support. 
+Extensively used Maven, Gradle and ANT as build script for application build and deployment. 
+Extensively used MASKED_LOCATION, MASKED_LOCATION, Power Mock and TestNG for unit testing. 
+Worked with SVN, Git, Github, Source Tree, Stash, and MASKED_NAME for version control. 
+Experience with CI/CD technologies such as MASKED_LOCATION, MASKED_LOCATION, SVN, MASKED_NAME and MASKED_NAME.
+Experience with Agile, Test Driven Development (TDD) and Behavior Driven Development.
+Educational Qualification:
+Bachelor Degree in Computer Science from Acharya Nagarjuna University, MASKED_LOCATION.
+Technical Skills:
+Languages                         	: MASKED_NAME  Spring Boot, Cloud, Data, Restful Service, Security, Integration
+ORM Technologies		: JPA, MASKED_NAME
+Web Services		: SOAP, Restful Service
+Database Technologies		: MASKED_NAME, MySQL
+Messaging Systems		: JMS, AMQP, ActiveMQ, MASKED_NAME Technologies                    : AWS, PCF, MASKED_NAME, Mesos, Marathon, Kubernetes, MASKED_NAME                : Gemfire, Redis
+NoSQL                                         : Cassandra, MongoDB, ElasticSearch, Splunk
+Routing Technologies                 : Camel, MASKED_NAME
+IDE		: Eclipse, IntelliJ
+Testing Technologies                  : JUnit, MASKED_LOCATION, Power Mock, TestNG, Cucumber - JVM
+Version Control		: SVN, Git, Source Tree, Stash, MASKED_NAME, Jenkins
+Design Methodologies		: UML, OOAD, Design Patterns
+Development Methodologies	: Agile, CI/CD, TDD, BDD
+Scripting Technologies		: Shell Script, Python
+Certifications:
+Oracle Certified Professional, MASKED_NAME
+Oracle Certified Professional, MASKED_NAME Developer
+Pivotal Certified Cloud Foundry Developer.
+Professional Experience:
+Project Title:  Air Operations
+Client: MASKED_LOCATION
+Role:  Micorservices Developer
+Duration: April 2017 – Till Date.
+Project Description:  
+This project is FedEx Air Operations project. The main aim of the project is to provide the services such as enhancing navigation system, real time traffic updates, weather updates, weather alerts and integration with monitoring dashboard and smart phones. 
+Responsibilities:
+Involved in Requirement Analysis, Design, Develop and Implement the application using J2EE technology
+Translated business requirements into detailed design.
+Develop the web applications using Spring Boot.
+Develop the Micro Services using MASKED_NAME, Spring Data, Spring Restful Services, Spring Security, and MASKED_NAME.
+Provide the security to Micro Services using Spring Security.
+Develop the Data access layer using Spring JPA repositories.
+Build Micro Services for various business layers.
+Involved in DB design, SQL and PL/SQL programming.
+Develop the Unit test cases with MASKED_LOCATION, MASKED_LOCATION, Power Mock and TestNG.
+Involved in installation and configuration of MASKED_NAME and its ecosystem of components MASKED_NAME.
+Involved in creating the MASKED_NAME cluster setup.
+Develop the MASKED_NAME producer and consumer to produce and consume the data from MASKED_NAME topics.
+Load the real time data into MASKED_LOCATION database with Spark Streaming.
+Dockerizing applications into containers for development and testing.
+Involved in deploying the applications in Pivotal MASKED_NAME environment.
+Setup the environment in Pivotal MASKED_NAME to deploy the Micro Services.
+Configure the pipeline jobs in MASKED_LOCATION.
+Environment: MASKED_NAME, MASKED_NAME, Spring Data, Spring Rest, MASKED_NAME, Pivotal MASKED_NAME, AWS, Splunk, MASKED_LOCATION, MASKED_LOCATION, IntelliJ, SQL Developer, MASKED_NAME, MASKED_NAME, MASKED_NAME, MASKED_NAME, MASKED_LOCATION, MASKED_LOCATION, MASKED_LOCATION, Cucumber-JVM, JIRA, Unix, Agile.
+Project Title:  Deal Works
+Client: JPMC
+Role: Micorservices Developer
+Duration: May 2016 – Mar 2017.
+Project Description:  
+This is one of the major projects of JP Morgan Chase Investment Banking portfolio. This is one of the most revenue generation projects of JP Morgan Chase. This helps JP Morgan to process the deal management life cycle. 
+Responsibilities:
+Involved in Requirement Analysis, Design, Develop and Implement the application using J2EE technology
+Translated business requirements into detailed design.
+Develop the web applications using Spring Boot.
+Develop the Micro Services using MASKED_NAME, Spring Data, Spring Restful Services, Spring Security, and MASKED_NAME.
+Provide the security to Micro Services using Spring Security.
+Develop the Data access layer using Spring JPA repositories.
+Build Micro Services for various business layers.
+Involved in DB design, SQL and PL/SQL programming.
+Develop the Unit test cases with MASKED_LOCATION, MASKED_LOCATION, Power Mock and TestNG.
+Involved in installation and configuration of MASKED_NAME and its ecosystem of components MASKED_NAME.
+Involved in creating the MASKED_NAME cluster setup.
+Develop the MASKED_NAME producer and consumer to produce and consume the data from MASKED_NAME topics.
+Load the real time data into MASKED_LOCATION database with Spark Streaming.
+Dockerizing applications into containers for development and testing.
+Involved in deploying the applications in Pivotal MASKED_NAME environment.
+Setup the environment in Pivotal MASKED_NAME to deploy the Micro Services.
+Configure the pipeline jobs in MASKED_LOCATION.
+Environment: MASKED_NAME, MASKED_NAME, Spring Data, Spring Rest, MASKED_NAME, Pivotal MASKED_NAME, AWS, Splunk, Maven, Git, Source Tree, IntelliJ, SQL Developer, MASKED_NAME, MASKED_NAME, MASKED_NAME, MASKED_NAME, MASKED_LOCATION, MASKED_LOCATION, MASKED_LOCATION, Cucumber-JVM, JIRA, Confluence, Bit Bucket, Documentum, Unix, Agile.
+Project Title: Statement Redesign
+Client: Capital One
+Role: Senior MASKED_NAME
+Duration: Mar 2015 – May 2016.
+Project Description:  This is a credit card statement redesign project. The main aim of this project was simplify the design of the statement to easily understand the balances, due date, amount due and payment cutoff details. To clearly organize the transactions, interest and fees details. To clearly organize the reward balances. To clearly tell the important notifications.
+Responsibilities:
+Involved in Requirement Analysis, Design, and develop the applications.
+Translated business requirements into detailed design.
+Involved in the gathering different kinds of data from the different systems.
+Developed the DAO layer using Spring and MASKED_NAME.
+Worked on the Documentum database to manipulate the data.
+Developed the CI/CD environment to build and deploy the applications.
+Developed the TDD/BDD environment to test the applications.
+Involved in the Deployment process of the applications to AWS MASKED_NAME.
+Worked on Agile model.
+Environment: MASKED_NAME, Spring, MASKED_NAME, MASKED_LOCATION, Git, Source Tree, IntelliJ, SQL Developer, MASKED_NAME, MASKED_LOCATION, MASKED_NAME, AWS, Mesos, MASKED_LOCATION, MASKED_LOCATION, Cucumber-JVM, JIRA, Confluence, Bit Bucket, Documentum, Unix, Agile.
+Project Title: ATLAS
+Client: Discover Financial Services
+Role: Senior MASKED_NAME
+Duration: Jan 2014 – Mar 2015.
+Project Description: Discover Financial Services is an American financial services company, which issues the Discover Card and operates the MASKED_LOCATION and Pulse networks. Discover Card is the third largest credit card brand in MASKED_LOCATION, when measured by cards in force, with nearly 50 million cardholders. As now they had good name in the Cards domain the Company has started to move on in Account Origination process, this application helps the organization agents to handle the customer banking process such as Deposits, MASKED_LOCATION, Term change etc. but also provides the very feasible way for the organization to handle with the customer’s account opening process. This application helps agent to gather all the information related to customer /all accounts the customer have that can be any of the accounts i.e. savings, money market, IRA etc. whenever the customer calls in.
+Responsibilities:
+Involved in Requirement Analysis, Design, Develop and Implement the application using J2EE technology
+Translated business requirements into detailed design.
+Developed xml schemas and WSDL documents by understanding the business requirements.
+Developed the application as SOAP based web service using JAX-WS.
+Developed the application as a Restful web service using spring framework.
+Provided the security to Restful web services using OAuth Spring security authentication.
+Involved in providing the security to SOAP Web Service using trusted certificates.
+Developed the DAO layer using Spring DAO & ORM module.
+Wrote the SQL queries, functions, stored procedures for data access.
+Used Data models, spring, hibernate-config.xml, hibernate mapping files & HQL for building the persistence layer.
+Used Spring IOC design pattern to build the services layer. 
+Developed the concurrent and multi-threaded applications to process high volume of data.
+Used Maven build scripts for application build and deployment in Websphere application server.
+Involved in all phases of the Software development life cycle (SDLC) and responsible for planning and estimation of development effort for various modules.
+Integrate the applications using Apache Camel.
+Developed JMS based module for message processing.
+Developed the Test driven environment using MASKED_LOCATION and MASKED_LOCATION.
+Handle the Release Process and provide implementation support.
+Participate in Code,  Analysis, and Test Plan Reviews
+Involved in preparing test cases for System Testing and User Acceptance Testing
+Actively involved in production support, fixing the problem and provide appropriate documentation describing the root cause of the problem, actions taken to rectify etc.
+Involved in fixing the SIT and UAT issues.
+Environment: MASKED_NAME, J2EE, XML, Web Services-SOAP & Restful, MASKED_NAME, Apache CFX, JMS, Spring, RAD, Websphere, MASKED_NAME, Oracle, MASKED_LOCATION, MASKED_LOCATION, Maven, Log4J, SVN, UNIX.
+Project Title: Customer Account Services (eCAS)
+Client: Standard Chartered
+Role: MASKED_NAME: April 2012 – Dec 2013
+Project Description: E-CAS reporting application is new end to end reporting solution for eCAS (Client Account Services). Currently MASKED_NAME Manager (SCB reporting engine) is used for scheduling, generation and delivery of reports to external mail service application called MDIS. As part of this project, an eCAS report has been moved out from S2B generic reporting engine to a dedicated reporting framework for eCAS. This will be developed using MASKED_NAME, MASKED_LOCATION reporting engine and Oracle technologies.
+Following are the high level functionalities delivered by this application:-
+Data Loading – This includes receiving feeds from back offices (EBBS/HOGAN) and loads data into the database which included feed from CBS and IM (AD-HOC).
+Report Generation – This includes scheduling and generating Pre-Canned and Adhoc Reports.
+Report Delivery – This includes delivering the reports to the customers through various channels like MASKED_NAME (MDIS), MASKED_LOCATION, S2B, IDC, and S2B Message Center.
+Responsibilities:
+Involved in Requirement Analysis, Design and Develop and Implement the application using J2EE technology.
+Translated business requirements into detailed design.
+Designed and developed the customized framework for Data Loading, Report generation and Report Delivery using MASKED_NAME concurrency.
+Involved in loading the data into database using GREC and XML files.
+Implemented the DAO layer using Spring Dao module with Oracle Database to handle the data access layer.
+Involved in creating the different types of JRXML files to generate different kinds of reports.
+Developed the framework to generate different kinds of reports using Jasper engine.
+Developed the report scheduler to schedule and deliver the reports.
+Implemented the Message Driven Beans to process the messages asynchronously.
+Developed the message driven environment using JMS, IBM RAD and IBM MQ Series.
+Developed the test driven environment using JUnit.
+Developed stored procedures and Functions and Triggers.
+Used Log4J for logging and SVN for version management
+Handle the Release Process and provide implementation support
+Participate in Code,  Analysis, and Test Plan Reviews
+Involved in preparing test cases for System Testing and User Acceptance Testing
+Actively involved in production support, fixing the problem and provide appropriate documentation describing the root cause of the problem, actions taken to rectify etc.
+Environment: MASKED_NAME, spring, MASKED_LOCATION, XML, Web Services, MASKED_LOCATION reports, JUnit, Oracle, RAD, Web Sphere, ANT, Log4J, SVN, UNIX, JMS, IBM MQ Series.
+Project Title: Financial International Services (FINS)
+Client: American Express
+Role: Senior MASKED_NAME
+Duration: Aug 2010 – Mar 2012
+Project Description: American Express Company is an American multinational financial services corporation headquartered in Three World Financial Center, MASKED_LOCATION, MASKED_LOCATION, MASKED_LOCATION, and MASKED_LOCATION. The company is best known for its credit card, charge card, and traveler’s cheque businesses. American Express is providing the financial services in many countries. It has the Credit Card markets in many countries. Amex providing the credit cards as individual cards, small business cards and corporate cards. For every card member it enables the online E-Statement application. By login into that E-Statement site, card member can see the credit and cash limits. He can view the total outstanding and current billed outstanding. He can view the Data Billing cycles, Unbilled and Billed balances and transactions. He can view and download the statements up to 12 billed cycles. He can pay the payments. He can view the reward point summary. He can view the loan details. He can view the merchant and category summaries details and graphs. He can register and de-register the auto debit functionality and etc.
+ In this E-Statement application this is one of the projects. The main aim of this project is provide the financial service to front end applications like E-Statement Web, PDF Web and etc. Earlier this service is as Statement Service which was developed in normal java code. After this we migrated this project using our own workflow, spring, hibernate, JAX-WS, JUnit and etc.
+Responsibilities:
+Involved in Requirement Analysis, Design, Develop and Implement the application using J2EE technology
+Translated business requirements into detailed design.
+Implemented the customized workflow framework using threads concept to execute spring beans sequentially, parallel and parallel for each manner.
+Involved in creating the xml schemas and WSDL documents by understanding the business requirements.
+Developed the application as a web service component using JAX-WS.
+Involved in providing the security to Web Service using trusted certificates.
+Implemented the DAO layer using Spring DAO module.
+Implemented the customized exception handling framework using spring.
+Developed the build process using Maven.
+Involved in maven build and deployed the applications in Web Sphere.
+Developed the stored procedures and functions to process the data from Mainframe Systems.
+Implemented the JMeter scripts for Performance Testing.
+Developed the Unit, End-to-end and Integration test cases using JUnit.
+Involved in fixing the SIT and UAT issues.
+Participate in Code,  Analysis, and Test Plan Reviews
+Involved in CMR and IMR process.
+Environment: MASKED_NAME, spring, MASKED_NAME, XML, MASKED_LOCATION, Web Services, JAX-WS, JUnit, DB2, RAD, IBM Web Sphere, JMS, IBM MQ Series, MASKED_LOCATION, Log4J, SVN, JMeter, UNIX. 
+Project Title: Car Rental
+Client: MakeMyTrip
+Role: MASKED_NAME: Oct 2008 – July 2010
+Project Description: MakeMyTrip Limited is an Indian online travel agency that holds a major market share, with one-out-of-every-twelve domestic flights in MASKED_LOCATION booked using its services.MakeMyTrip.com offers its customers a variety of travel services and products, with international and domestic airline tickets, Indian Railways tickets, domestic bus tickets, international and domestic hotel reservations, car rentals, international and domestic holiday packages, MICE (Meetings, Incentives, Conferencing, Exhibitions), visa services, B2B services, and more. MakeMyTrip.com today has offices in 20 cities across MASKED_LOCATION and 2 international offices in MASKED_LOCATION and MASKED_LOCATION, in addition to several franchise locations.
+MakeMyTrip’s Cab Booking service gives the opportunity to book cabs online for local and outstation usage at cheap rates. Get best deals on car rental service, online cab booking and car hire for all Indian Cities. Take full advantage of MASKED_LOCATION’s car rental service by making a quick and convenient online booking. MASKED_LOCATION has a full array of cars to choose from-deluxe, luxury, or budget; take your pick and book cabs in any Indian city to enjoy a tour of MASKED_LOCATION’.
+MakeMyTrip’s Car Booking Service providing the easiest way of instant car booking by enter your requirements and search cabs. After that select the cab that suites you best and enter your details and make the secured payment with any one of credit card, debit card, cash cards and net banking. After successful payment you can receive instant confirmation. It is providing 24*7 customer support.
+Responsibilities:
+Development of JSP Pages using MASKED_LOCATION MASKED_NAME and Tag libraries. 
+Developed Action Forms, Action Classes and modified Struts-config.xml for individual Action mappings to build the controller. 
+Used MASKED_NAME tiles libraries for layout of Web page, MASKED_NAME validation using Validation.xml and validation-rules.xml for validation of user MASKED_LOCATION and MASKED_NAME using MASKED_NAME. 
+Deployed and tested JSPs, Servlets and MASKED_NAME in Websphere server. 
+MASKED_NAME build scripts deployments, integration and configuration management of the entire application modules. 
+Used Log4J for logging and performed Junit tests. 
+Identification of the relevant test cases and performing the system testing. 
+Used MASKED_NAME scripts for frond end Validation. 
+Development of the standards and guidelines for development of JSP’S for other modules. 
+Review and Random quality checks for other modules and maintenance of defect log. 
+Unit and End-to-End testing of the java server pages in co-ordination with the server side team. 
+Bug fixing and updating on new requirement from onsite team.
+Used Log4J for logging and SVN for version management 
+Worked with business analyst to understand the requirement.
+Handle the Release Process and provide implementation support
+Participate in Code,  Analysis, and Test Plan Reviews
+Involved in preparing test cases for System Testing and User Acceptance Testing
+Actively involved in production support, fixing the problem and provide appropriate documentation describing the root cause of the problem, actions taken to rectify etc.
+Environment: MASKED_NAME, MASKED_NAME, HTML, Struts1.2, MASKED_NAME, JSP, Oracle, J2EE, MASKED_LOCATION, Log4j, MASKED_LOCATION, RAD, Tomcat, SVN.
+MASKED_NAME: MyClassBoard
+Client: MyClassBoard
+Role: MASKED_NAME: Jan 2007 – Sep 2008
+Project Description: MyClassBoard is an ERP tool which helps institutions automates the entire process of running their operations. It offers an interactive, real-time medium to execute the functions of the institution. Be it a small school, college with thousands of students, university or a group of institutions located in multiple cities, MyClassBoard gives you the capability of conveniently managing all operations. It integrates all the processes, departments, and functions of an institution by consolidating information on a central server, making the functioning more organized and streamlined, thus ensuring an increase in efficiency due to enhanced productivity. MyClassBoard gives the communications suite incorporates web-based tools as well as SMS allowing you to communicate easily with your stakeholders in the fastest way possible.
+Responsibilities:
+Involved in Requirement Analysis, Design and Develop and Implement the application using J2EE technology.
+Translated business requirements into detailed design.
+Developed Action Forms, Action Classes and modified Struts-config.xml for individual Action mappings to build the controller. 
+Used MASKED_NAME tiles libraries for layout of Web page, MASKED_NAME validation using Validation.xml and validation-rules.xml for validation of user MASKED_LOCATION and Exception
+Used MASKED_LOCATION and DAO design pattern in the application design and implemented the Service and Data Layer.
+Implemented the DAO classed using MASKED_NAME with Oracle Database to handle the data layer.
+Implemented test driven environment using JUnit.
+Used MASKED_NAME scripts for frond end Validation.
+MASKED_NAME build scripts deployments, integration and configuration management of the entire application modules.
+Used Log4J for logging and performed Junit tests.
+Developed stored procedures, functions and triggers w.r.t MASKED_NAME database.
+Participate in Code,  Analysis, and Test Plan Reviews
+Involved in preparing test cases for System Testing and User Acceptance Testing
+Actively involved in production support, fixing the problem and provide appropriate documentation describing the root cause of the problem, actions taken to rectify etc.
+Environment:  MASKED_NAME, Servlets, JSP, MASKED_NAME, MASKED_NAME, Oracle, Tomcat, Eclipse, Ant, JUnit, Log4J, Web services, SVN.

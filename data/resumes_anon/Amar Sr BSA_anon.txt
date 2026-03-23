@@ -1,0 +1,203 @@
+MASKED_NAME : MASKED_PHONE
+Business System Analyst with over 8 years extensive experience in applications related to Credit cards, Mortgages and general Banking domain. Highly observant and analytical individual with keen focus on recognizing issues and developing effective solutions. Exemplify strong ability to grasp new things quickly, as demonstrated by seamless transitions made between several technologies, tools, and libraries both in development and project management roles. 
+Professional Summary:
+Domain knowledge in Mortgage Life Cycle including Conventional, MASKED_LOCATION, FHA, Non-Conventional mortgage loans.
+Experienced in MASKED_LOCATION lending and Wholesale lending in the mortgage life cycle management.
+Good understanding of mortgage workflow from end to end, risk associated with the Mortgage process.
+Familiar with federal lending regulations governing real estate lending within the primary and secondary market.
+Knowledge of underwriting, residential mortgage processing and closing procedures.
+Good Understanding of TRID i.e., TILA / RESPA and about Loan Estimator and MASKED_NAME forms.
+Knowledgeable about various regulatory bodies such as Dodd- MASKED_NAME act, Fannie Mae, Freddie Mac.
+Extensive knowledge of Mortgage Life Cycle starting from Point of Sale to Post closing services.
+Understanding of different parameters like Loan to value ratio, Debt to Income ratio and amortization period.
+Effective communication to identify needs and evaluate alternative business solutions with project management.
+Engaged with stakeholders to gather software requirements to ensure alignment with development team.
+Expertise in conducting Brainstorming sessions, Interviews, Joint Application Development Sessions (JAD), Focus sessions for requirements gathering, analysis and design with stakeholders, Developers and system architects.
+Well versed in documentation of Business Requirement Document (BRD), Use Cases, Requirements Traceability Matrix (RTM), System Requirement Specification (SRS) and Test Requirement Document (TRD).
+Facilitated GAP Analysis, Impact Analysis (Business/Technical), SWOT Analysis, Cost-Benefit Analysis, Root Cause Analysis and Risk Analysis along with creating As-Is and To-Be Business Models.
+Collaborated in identifying Key Performance Indicators (KPIs) to accurately analyze the needs of clients leading to optimization of the business processes, which eventually led to value creation for the organization and client.
+Created Use Cases, Data Flow diagrams and Activity diagrams using UML tools like MASKED_NAME and Rational Rose.
+MASKED_NAME, MASKED_NAME and Mock-Up Screens by assisting the UX team to visualize Graphical User Interface (GUI) according to GUI requirements using tools like Balsamiq Mockups and MASKED_NAME.
+Worked in close co-ordination with the QA and software testing team in developing test plans and test cases from functional and business requirements for Integration testing, Quality Assurance and User Acceptance Testing.
+Executed SQL queries using joins, group by and order by to extract data from different data sources and to perform DDL (Data defining language) operations to create, read, update and delete (CRUD) the data in the database.
+Familiar with DB concepts like Data Structures, Data Marts, Data-Entity Relationships and User Administration. 
+MASKED_NAME, table structures, mapping MASKED_LOCATION, Data Marts and OLAP operations such as Roll-up, MASKED_NAME-down, slice and dice and pivoting.
+Involved in client interactions and converting business functionalities into Service Oriented Architecture (SOA) models across heterogeneous IT environments. Extensive knowledge of SOAP/RESTful web services.
+Knowledge about SaaS cloud based architecture and services such as AWS EC2, S3, RDS, MASKED_NAME and EBS.
+Highly proficient in writing and slicing User Stories and handling the Requirements Churn.
+Efficient at user story prioritization techniques such as MoSCoW & KANO Model.
+User Story Estimation techniques such as Planning poker, Relative Mass Valuation & T-Shirt Sizing.
+Participated in Scrum ceremonies like Backlog/Grooming Refinement, Sprint Planning, Daily Scrum Meeting, Sprint Review and Sprint Retrospective Meetings for each sprint in Agile Scrum Methodology
+Experience in recording and maintaining the artifacts like impediments list, sprint burndown charts and sprint burnup charts to track the team’s performance and keeping it visible to the team members and owners.
+Self-Motivated and Objective driven professional with excellent communication and Interpersonal Skills with a sound understanding of the balance that must exist between customer satisfaction and technical excellence.
+Skills:
+Education:
+Bachelors in Computer Science & Technology, Mumbai University
+Professional Experience:
+PNC Bank, MASKED_LOCATION, PA                                                                                                                          October 2016 – Current
+Sr. Business Systems Analyst
+Digital Loan Process System
+The project was focused on developing an automated Mortgage Processing solution through which the company and loan mortgagors could communicate throughout the application processes by providing MASKED_NAME self-service, real time processing and contract transparency. The solution captured indexes and reviews all documentation, extracting key data from the legacy system for real-time workflow and compliance, prepares decision-ready loan files to maximize underwriter productivity. The new solution enabled borrowers to handle, in real-time, every aspect of the loan application process, including online application, uploading documents, acting on inquiries and monitoring loan approval status.
+Key Responsibilities:
+Created Business requirement document and functional specification document to tailor the needs of the client.
+Worked with the team for decomposing the functional specifications into user stories and acceptance criteria.
+Conducted User Mapping Workshop sessions with the stakeholders, end users and SME, to determine the critical business processes and identify key functional requirements for Loan system adhering to the Mortgage Servicing Industry practices.
+Performed GAP analysis using the AS-IS process flow document and the TO-BE process flow document.
+Performed business process automation through requirements and business process redesign with GAP analysis.
+Performed root cause analysis to identify data quality problems, and historical trends.
+Interviewed SME’s to understand the current TILA/RESPA Integrated Disclosure Rule.
+Led analysts in the system integration analysis, data analysis and requirements elicitation for the implementation of data in/from enterprise data services hub in data format. 
+Identified business changes and gathered the new regulatory rules from Fannie Mae and Freddie Mac.
+Worked to deliver the requirements as specified in the Statement of work document.
+Worked to integrate expere with Ellie Mae Encompass360 for maintaining different loan documents.
+Elicited API requirements for credit reports, employment verification of the borrower, Appraisal information and title search using external APIs’ like Transunion, Equifax, Experian, USPS web tools and Zillow.
+Created Use case diagrams, activity diagrams and class diagrams for graphical representation using MASKED_NAME.
+Created Mock-Up Screens and Wireframes using UI components such as Radio Buttons, Data-Entry Fields, MASKED_NAME, Drop-Down Lists to retrieve data for Loan lifecycle process to aid Client-Side Verification of the GUI.
+Worked with UI team to develop the web application, XML documents and validated XML, HTML and MASKED_NAME.
+Checked the format of the XSD files to validate the XML for Well-formed ness as well as validity.
+Used JIRA to allot task and track issues, user story management and requirement traceability.
+MASKED_NAME, Joins, Procedures, and Functions using PL/SQL & SQL to transform and structure data.
+Developed tables, reports, graphs and listings using various Stored procedures to perform data manipulations.
+Maintained RTM to trace the requirements with corresponding test cases to satisfy test scenarios.
+Actively involved in planning Test Cases, Test Plans and Test Scenarios to perform Functional Testing, Smoke Testing, Regression Testing and User Acceptance Testing and logged down defects and managed them in MASKED_LOCATION.
+Understanding in Saas infrastructure in Amazon Web Service such as EC2, RDS and S3.
+Environment:  Agile, Scrum, AWS, EC2, AWS RDS, Expere, AWS S3, MASKED_NAME, HP QC, Microsoft SQL, MASKED_NAME, MASKED_NAME, MS excel, MASKED_NAME, XML, MASKED_NAME, Bootstrap, AJAX, Jquery, Angular JS, Eclipse EDE, MASKED_NAME.
+Citi Group, MASKED_LOCATION, NJ                                                                                                                              June 2015 – September 2016
+Sr. Business System Analyst
+Automated Loan Mortgage system
+The project was intended to integrate different modules of legacy mortgage applications into a single application to manage loan lifecycle from loan origination to closing to save maintenance cost associated with maintaining multiple applications to serve a common goal. The legacy system was operating on MASKED_NAME systems and DB2 RDBMS which was integrated with new MASKED_NAME based applications.
+Key Responsibilities:
+Gathered project requirements, using techniques such as JAD, document analysis, interface analysis, requirements workshops, and interviews with Subject Matter Experts (SME) and stakeholders.
+Reviewed, analyzed and developed Business Requirement Document (BRD), Functional Requirement Document (FRD) and helped in transforming them into a complete System Requirement Specification (SRS).
+Assessed the current state business processes for loans maintained and identified the key pain areas and issues by performing Business Process Modeling (BPM) for delays in loan processing systems.
+Assisted the PM in drafting the Project Development Plans. Also, helped to identify and track Issues and Risks.  
+Facilitated Backlog Grooming Sessions, used various prioritization techniques to prioritize product backlog items, including MASKED_LOCATION which is business value based and MASKED_NAME which is customer satisfaction based.
+Drafted the definition of DONE and acceptance criteria for the well-defined low-level functional and non-functional requirement specifications.
+Helped in prioritizing Product Backlog Items by breaking down EPICS into user stories using INVEST criteria.
+Facilitated Product Backlog Grooming meeting whenever required for reprioritization of product Backlog.
+Assisted in preparing UI wireframes, MASKED_NAME screens for the lender’s home page requirements document.
+Created Use Case document by specifying actors, normal flow, alternative flows for all use cases.
+Created activity diagrams, context flow diagrams and sequence diagrams to specify the order of interactions.
+Wrote SQL queries for data analysis queried relational databases daily to resolve operational issues.
+Involved in Data Mapping and Data integration, developed source to target mapping (STM) documents.
+Involved in Data Extraction, Transformation and Loading (ETL) from Source to target systems using Informatica.
+Created SQL script to create/drop database objects viz: tables, views, indexes, constraints etc
+Worked on DB2 integration using the enhanced Apache Tomcat middleware server using MASKED_NAME drivers.
+Wrote SQL*Loader scripts to migrate the data from text files, MASKED_NAME to populate the intermediate tables.
+Gathered requirements to integrate mainframe legacy mortgage modules pertaining to loan lifecycle using MASKED_NAME based applications like SOAP for CICS which is a connectivity solution based on XML
+Assisted QA team to identify test scenarios pertaining to loan origination, underwriting, processing and closing.
+Coordinated with operations team to maintain stability and functionality pertaining to different environments of the application like System integration, UAT and production environment.
+Conducted UAT workshop in coordination with business user and ensured sign off by them.
+Assisted product owner in Sprint Review and solution demo meetings by facilitating product demos and backtracking them to the requirements to determine when it is DONE and shippable.
+Helped the team in creating visual information radiators. Managed timely communication between various internal and external stakeholders. Helped the team to inspect and adapt process in the retrospective meetings to improve their productivity
+Environment: MASKED_NAME, MASKED_NAME, Confluence V5.9, IBM DB2 V8.1.0, Mock-Up Screen, Informatica, MASKED_NAME, Subversion, Apache Tomcat V7.0, Tableau V8.2.1, JCL, CICS V3.2, XML, SOAP UI, SOA Architecture, Win-FTP, MASKED_NAME servlets V3.0, JSP V2.2, MASKED_NAME.
+State of MASKED_LOCATION, MASKED_LOCATION, MASKED_LOCATION       		                                                                    February 2014 – May MASKED_ADDRESS
+Enterprise Data Warehouse Project
+The project was aimed at creating Enterprise Data Warehouse system to provide budget allocation, expenditure tracking and enhanced financial reporting by integrating different data sources to Enterprise Data Center. Legacy non-integrated databases are a core to business processing. Integrated system would provide ease of access, analysis, transparency and enhanced reporting capabilities.
+Key Responsibilities:
+Understood state of art processes by interacting with stakeholders and analyzing the available documents.
+Facilitated JAD sessions as a Moderator and conducted interviews with various Subject Matter Experts (SMEs) and stakeholders, process reviews and policy & procedure reviews to elicit requirements.
+Conducted Gap Analysis to identify missing data attributes from source system coordinating with database team.
+Assisted in preparation of Business Requirement Document (BRD) and System Requirement Specification (SRS).
+Created Use Cases and built Use Case Diagram and Activity Diagram using MASKED_NAME.
+Managed and tracked requirements using HP ALM through Application Life-Cycle.
+Retrieving data from various sources, analyzing using statistical techniques and providing ongoing reports.
+Assisted in extracting data to staging area and loaded it to target database by ETL processing using Informatica.
+Assisted Database team to create database objects like tables, views, procedures and joins using PL/SQL.
+Responsible for data mapping with XML and RESTful APIs to integrate with different web services.
+Performed analysis and testing of relational databases and resolve any issues pertaining to data retrieval.
+Experienced in identifying different database schemas pertaining to specific information.
+Involved in creating data flow diagrams, data mapping from Source to Target mapping documents indicating the source tables, columns, data types, transformations required and business rules to be applied in SSIS.
+Worked with QA team in developing Test Plan and Test Cases to perform UAT, Functional and Regression Testing.
+Assisted in creating conceptual, logical ER diagrams and designed database schemas for accurate Data Warehouse Structure.
+Integrated various OLTP to the OLAP by using Informatica as an ETL tool and used MASKED_LOCATION as reporting tool. 
+Maintained Data Integrity by normalizing the data adding verification for accuracy and effectiveness of data.
+Assisted product owner in segregating user stories into different types such as data disclosure stories, data presentation stories, data augmentation stories, data validation stories and data configuration stories to identify specific requirements.
+Logged the defects using HP ALM. Created an error repository and managed the testing process with QA team.
+Analyzed Business Requirements from Black Box testing perspective. Reviewed Test Strategy and Test Plans to ensure that test cases reflect user needs for the functional, MASKED_NAME, Performance, Usability and Security requirements.
+Environment: Waterfall-Scrum Hybrid, Version one V13.1, Informatica V9.1, MASKED_NAME, MS Visio V14.0 HP ALM, Mock-Up Screens V4.32, Microsoft SQL Server 2012, MASKED_LOCATION, MASKED_NAME
+American Express, MASKED_LOCATION, NY			                                                               October 2012 – January MASKED_ADDRESS
+Payment Solution Gateway
+The project aimed for a Merchant Payment Solution Gateway from American Express. Features included authorization, AUTH-reversal, settlement, and refunding of credit card and electronic check payments for E-Commerce merchants, payment processing tracker, financial reporting for merchant activity, management of merchant account features and other administrative functions.
+Key Responsibilities
+Interacted with stakeholders and end users to define the scope of application and gather MASKED_NAME.
+Created Requirement Specification Documents after conducting JAD Sessions and analyzed the current systems.
+Conducted functional requirement reviews and walkthrough with the Integration experts and stakeholders. 
+Identified Use cases and UML diagrams like Use Case Diagrams, Activity Diagram using MS-Visio.
+Assisted the UI team in creating GUI mock-ups using MASKED_NAME according to the UI and UX requirements.
+Monitored Defect Tracking to ensure that testing efforts progressed with the development effort of the team.
+Created logical and physical models using best practices to ensure high quality and reduce redundancy.
+Created schema objects such as Tables, Views, Indexes and referential integrity depending on user requirements.
+Closely involved with developers to write SQL queries in order to populate different tables used for reporting.
+Wrote PL/SQL Packages and Stored procedures to implement business rules and validations.
+Drafted the Test Plan and prepared various test cases, test scenarios and test scripts for the project items.
+Designed Test Cases for User Acceptance, Regression, Black Box and White box testing with the help of MASKED_LOCATION teams.
+Analyzed Business Requirements from Black Box testing perspective. Reviewed Test Strategy and Test Plans to ensure that test cases reflect user needs for the functional, MASKED_NAME, Performance, Usability and Security requirements.
+Tested the final application for usability to verify whether all the user requirements were catered by the application.
+Environment: Oracle, MS Access, Rational Requisite Pro, Mercury Quality Center, MASKED_NAME, MS Project, Windows XP/2000
+Bank of Maharashtra, MASKED_LOCATION, MASKED_LOCATION                                                                                                    July 2011 - September MASKED_ADDRESS
+Online Banking Facility
+The project scope was to provide online banking facility to the bank’s customers. The project aimed at building software that would facilitate viewing of multiple account balances, statements, pending transactions and cancelled transactions, tracking deposits, transfer of funds between accounts, transfer history and maintenance of customer profile.
+Key Responsibilities
+Gathered requirements from key stakeholders, customers and SME’s to define the scope and requirements of online banking system and conducted GAP analysis to better understand To-Be scenario.
+Defined the context of the system by creating various Use Cases for the system requirements specifications (SRS) encompassing Functional and Non-Functional requirements.
+Created Requirements Traceability Matrix (RTM) using HP QC tool to map the test cases with the requirements.
+Used MASKED_NAME to create Use Cases, Activity Diagrams, Sequence Diagrams and Collaboration Diagrams. 
+Create logical and physical models using best practices to ensure high quality and reduced redundancy.
+Made use of SQL queries and MS Excel to perform a detailed analysis on the existing human resource data.
+Focused on creating database objects like tables, views, materialized views and functions using PL/SQL.
+Worked on all kinds of SQL Server Constraints (MASKED_NAME, Foreign Keys, Defaults and Check, MASKED_NAME, etc.)
+Used DDL and DML commands to write triggers, stored procedures and data manipulation.
+Developed data maps for retrieval of information from existing account systems.
+Outlined security measures for accessibility and transmission of information.
+Created ad-hoc reports using MS-Excel and MASKED_NAME tables to do the calculations and creating reports accordingly.
+Assisted in validating XML documents, SOAP services, client side and server-side validations.
+Worked with the development team to verify that business needs are fulfilled and produced within the Triple Constraints.
+Assisted the QA team to design Test Plan and Test Cases for the User Acceptance (UAT) and Regression Testing.
+Supported development of UAT cycle test scripts, Review User Acceptance Test Plan (UATP) and attend walkthroughs.
+Conducted UAT with clients to get UAT approval on all applications delivered with the correct client configuration.
+Engaged in MASKED_LOCATION, Smoke, Usability, Performance and Integration testing.
+Environment: Waterfall, MS Office, SQL, UAT Testing, HP QC, MS MASKED_NAME
+MASKED_NAME, MASKED_LOCATION, MASKED_LOCATION.                                                                                                                                   April 2010 - June 2011
+Jr. Business Analyst
+Banking Web Application
+micro servicesThe project was focused on develop web application for policyholders enabling them to login and perform various activities like monitoring their accounts, policy claiming, starting a new policy, upgrading existing policy and terminating their policy. New customers could get an instant customized quote.
+Key Responsibilities:
+Conducted JAD Sessions with the SMEs and managers to understand the business processes and functional details.
+Worked as a liaison for business and technical teams to communicate requirement prioritization.
+Performed GAP and Impact Analysis to identify solutions for key business issues and define project goals.
+Utilized MS Project to create Work MASKED_NAME (WBS), prioritize tasks and track progress of the project.
+Documented the gathered business requirements into a detailed Business Requirements Document (BRD).
+Validated BRD against business processes to ensure that requirements accurately meet the needs of stakeholders.
+Prioritized deliverables, identified gaps, tracked defects, defined system requirements, created artifacts for testing and development. Documented the Traceability Matrix for tracing Test Cases and requirements related to them.
+Translated Business Requirements into functional and non-functional requirements using industry standard documentation processes like Data Flow (DFDs) and UML Diagrams (Use Case, Sequence and Activities Diagrams).
+Carried out ETL processing of the data from different sources using transformations and control flow tasks.
+Conducted Requirement Walkthroughs with the development and test teams before the development and testing phases started respectively, to ensure that the requirements are accurately understood.
+Assisted the development team in creating Stored Procedures and triggers as per needs and deploying it.
+Assisted the QA team in creating the test plan, test conditions, and test cases by conducting knowledge transfer.
+Performed Manual Tests according to Test Plan to identify defects for web based application.
+Attended Change Control Process Meetings with Lead QA and PM to document changes and implemented those changes to corresponding test plans.
+Carried out regression testing to ensure builds were working efficiently after defect alterations had been made
+Created User Acceptance Testing (UAT) plans with several test scenarios to ensure that the proposed features are functioning correctly, and changes suggested by the users were incorporated into the application.
+MASKED_NAME was used as a data visualization tool to communicate information clearly and efficiently via the statistical graphics, plots, information graphics, tables, and charts selected throughout the project.
+Environment: Waterfall Methodology, Power designer, MASKED_NAME, MS Project, MASKED_NAME, My SQL, MASKED_NAME, HTML, HPQC.
+State bank of MASKED_LOCATION, MASKED_LOCATION, MASKED_LOCATION                                                                                                                June 2009 – March 2010
+Jr. SQL Developer
+Credit Card Application System
+The project dealt with implementation of Credit Information System where the system had centralized database to maintain all relevant information regarding Credit Information.
+Key Responsibilities:
+Involved in creating logical and physical models using MASKED_NAME.
+Wrote DDL and DML queries to implement data loads, data migrations and validations.
+Migrated data from heterogeneous data sources and legacy system to centralized SQL Server databases, which involved cleansing, data mapping and data conversion.
+Implemented and tested Referential Integrity rules and regulations through constraints, triggers and views.
+Created complex Stored Procedures, Functions, Indexes, Tables, Views, Triggers and SQL joins for application.
+Performed Query Optimization for improving the performance of the data warehouse.
+Converted various SQL statements into stored procedures thereby reducing the number of database accesses.
+Assisted in designing comprehensive backup plan, disaster recovery strategies and scheduled Replication process.
+Created Views for specific columns on a table to maintain privacy of a customer data.
+Created logins and users with specific roles and permissions as per security rules.
+Identified and automated repetitive tasks or processes to save time.
+Extensively worked in the performance tuning of the programs, ETL Procedures and processes
+Analyzed reports and fixed bugs in stored procedures on the ongoing operations, to resolve business problems.
+As per client requirements generate the reports in the form of Table and Matrix.
+Environment: Waterfall, Oracle 8i, PL/SQL, SQL*Plus, SQL*Loader, MASKED_NAME, UML, Payment Processing, SQL Server, Rational Requisite Pro, Rational Rose, MS Office, MS Project, SharePoint 2007, HTML, CSS.

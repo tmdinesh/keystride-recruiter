@@ -1,0 +1,36 @@
+{
+  "resume_id": "Drakshajavauidev_anon",
+  "skills": [
+    "java",
+    "javascript",
+    "swift",
+    "r",
+    "react",
+    "angular",
+    "html",
+    "css",
+    "bootstrap",
+    "jquery",
+    "spring",
+    "rest",
+    "soap",
+    "sql",
+    "oracle",
+    "aws",
+    "apache",
+    "git"
+  ],
+  "education": {
+    "degree": "Bachelor\u2019s Degree in Electronics & Communication",
+    "year": "Unknown"
+  },
+  "experience_years": 16,
+  "projects": [
+    "Designed the application using Agile Methodology",
+    "Followed Agile Scrum methodology that included iterative application development, weekly Sprints and stand up meetings.",
+    "Added interactivity to the UI pages using JavaScript.",
+    "Provided a new Web Service and Client using Spring-WS to get the alternate contractor details.",
+    "Wrote AngularJS controllers, views, and services"
+  ],
+  "certifications": []
+}

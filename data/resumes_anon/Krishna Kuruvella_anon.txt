@@ -1,0 +1,170 @@
+MASKED_NAME Id: MASKED_EMAIL
+Contact: MASKED_PHONE
+
+SUMMARY
+10 years of comprehensive experience in Analysis and Design, configuration, coding and deployment of test driven software, securing the web applications and maintenance and support.
+Areas of expertise Investment Banking, Insurance, Brokerage, Mutual funds, Finance
+Worked extensively on E-Commerce related Projects, Internet/Intranet applications using MASKED_NAME, JavaScript, XML, HTML, J2EE technologies, Web Containers – Servlets, JSP, EJB, JPA & Frameworks (Struts, Spring, MASKED_NAME), Message Broker, Maven applications.
+Expert in developing User Interface (UI) applications and professional web applications using JavaScript, JSP, MASKED_NAME /DHTML, DOM, XHTML, jQuery, CSS3, and MASKED_NAME. 
+Good knowledge of Responsive Web design using Custom CSS and Bootstrap.
+Expert in HTML5/CSS3 development and have experience in node.js, angular.js
+Proficiency in Client Side designing and validations using HTML, MASKED_NAME and MASKED_NAME.
+Experience on working with CSS MASKED_LOCATION, MASKED_NAME, CSS Positioning, CSS Animations, CSS Text, CSS Borders, CSS Margin, CSS Padding, and CSS Table.
+Involved in REST Web Services and XML.
+Experience in Multithreading and Thread pool concepts.
+Object Oriented Programming (OOP), Object Oriented Analysis and Design (OOAD), Software Engineering /SDLC, Design patterns.
+Experience as a middleware J2EE engineer with hands-on on a multitude of projects and products that cover EJB, MASKED_NAME, ORM, ODM, Message Broker and Web Services, WebSphere ESB.
+Strong experience in Application Servers and web servers like WebSphere 5.X/6.X, WebLogic 6.X/7.X and Tomcat 4.x/5.x.
+Experience in working with MASKED_NAME and MASKED_NAME integration tool.
+Open Source experience on frameworks like MASKED_NAME, ANT, JUnit, MASKED_LOCATION, Powermock,
+	AJAX, MASKED_NAME etc.
+Experience and excellent knowledge of databases (Oracle 9i/10g/11g, MS SQL Server 200X) including SQL, Stored Procedures, Triggers, etc. Data Warehousing Concepts, Unit testing tools like JUnit, Agitor, Code coveraging Clover.
+Knowledge and experience using  MASKED_NAME, Message Broker, Maven applications, MASKED_NAME
+Excellent MASKED_NAME, Analytical, Algorithmic understanding, hands on Data structures,
+Communication and Interpersonal skills with a good track record.
+Worked extensively on many complex modules, quick learner and a good team player.
+Certificates Achieved:  
+Sun Certified MASKED_NAME
+IBM Certified Database Associate -- DB2 Universal Database V8.1 Family
+Java EE 6 Web Services Developer Certified Expert 
+Six Sigma Green Belt Certification
+NSE's Certification in Financial Markets (NCFM)
+EDUCATION
+Bachelor Of Technology in Computer Sciences
+TECHNICAL SKILLS
+PROFESSIONAL SUMMARY:
+Anixter, MASKED_LOCATION, MASKED_LOCATION, MASKED_LOCATION							July 2016 to till date
+Senior MASKED_NAME Developer/ Architect			
+Title: Inter Company Payment Process
+Anixter is a leading global supplier of communications and security products and electrical and electronic wire and cable. Anixter helps its customers specify solutions and make informed purchasing decisions around technologies, applications and relevant standards. It also has the finance department for intercompany payment process. Its aim is to provide ability to users to pay the pending amounts for invoices
+Responsibilities	
+•	Analysis of Business Requirements.
+•	Developing the web application using Spring and AngularJS frameworks.
+•	Implementation of security for the web application and also for web services
+        Developing web Soap and Restful web services
+•	Working with testers and also with business partners.
+•	Writing tested, idiomatic, and documented JavaScript, MASKED_NAME and CSS3
+        Involved in the each and every phase of software development life cycle
+        Involved in the creation of project architecture.
+       Worked on oracle DB and MASKED_NAME to get the invoice list and also to insert the data into the DB2.
+       Coordination of offshore and Onsite team for development activities.
+       Involved in the deployment activities.
+       MASKED_LOCATION application until it goes into production environment.
+Environment J2EE/JAVA, SPRING 3.0, RestFul Webservices ,AngularJS, JSF, HPSM, BPM, MASKED_LOCATION, APACHE MAVEN 3.0, SVN, JUnit, MASKED_LOCATION, Powermock, MASKED_NAME, Web sphere MASKED_NAME , Modular design patterns, STS
+State Farm Insurance, MASKED_LOCATION, MASKED_LOCATION, MASKED_LOCATION				   May 2012 to June 2016
+Senior MASKED_NAME Analyst
+Title: DC2 Phase 0 ICP– Life Quote
+The Integrated Customer Platform (ICP) is being developed to provide customers the flexibility to do business with State Farm in the ways they choose – to acquire and service all of their State Farm insurance products across all access channels. Life Quote and MASKED_NAME is an Online Application for Customer to Generate a Quote based on his input. Customer will be able to choose a product, save and MASKED_NAME the quote and proceed to purchase the quote.
+Responsibilities	
+Analysis of Business Requirements.
+Coordination with offshore-site team 
+Involved in development of Soap Web Services 
+Used ESB layer to expose a web service to the web application.
+Extensively worked on developing a web application using spring web MVC 3 framework with the integration of Spring Security and transactions.
+Writing tested, idiomatic, and documented JavaScript, MASKED_NAME and CSS
+Validating user actions on the client side and providing responsive feedback using AngularJS
+Prepare and validate product architecture and design model	
+Team orchestration to effectively carry out all project activities such as analysis & design, coding, integration and testing.
+Integration test server box maintenance for all components
+Participated in deployment for all the environments till production implementation.(dev, syst, perf, pre prod and prod)
+ Created Dashboards, Charts, Reports using Splunk tool.
+Deployed the Application using Tomcat Web Server.
+Involved in deployments using Websphere portal server 8.0 / Self service portal.
+Below are the additional activities.
+Security: Life Quote Application– security implementation. (MASKED_NAME and MASKED_NAME), OpenAM security related issues, web service security implementation using basic and LDAP authentication
+WSRR: Creation of Service contracts, creation of new business capability versions and creation of business service versions.
+Tridion: Responsible for content data maintenance to launch ICP from ABS
+Project:  State Farm Insurance is a group of insurance and financial services companies in MASKED_LOCATION. The company also has operations in MASKED_LOCATION.
+Environment J2EE/JAVA, SPRING 3.0, RestFul Web services ,AngularJS, HPSM, BPM, MASKED_LOCATION, APACHE MAVEN 3.0, SVN, JUnit, MASKED_LOCATION, Powermock, MASKED_NAME, MASKED_NAME, Apache Tomcat 6.0, Modular design patterns, STS.
+United Services Auto mobile Association, MASKED_LOCATION, MASKED_LOCATION, MASKED_LOCATION 		Dec 2011 to May 2012
+Senior MASKED_NAME
+Title: Cost Basis Day3
+Project:  USAA is a fully integrated financial services company in MASKED_LOCATION serving more than 6 million military members.  USAA is one of just two MASKED_LOCATION property and casualty companies with the highest ratings from A.M. Best, Moody’s Investors Service, and Standard & Poor’s. USAA provides more than 150 products and services to its members through various channels.
+This project Installs an enterprise wire solution that provides wire transfer functionality for MSR’s and members to enable straight through processing and to increase the operational efficiencies via automated process of wire transactions based on a dual facing application utilizing the business rules. The rationale is to increase the transaction processing capacity and improve member experience by enabling member self service, strengthen member authentication, fraud and AML/OFAC risk mitigation via real time integration capitalizing on the USAA EFAM tools and integrating posting accuracy by systematically interfacing wires directly to member accounts for selective legacy applications.
+Responsibilities	
+Analysis of Business Requirements.
+Involved in the development Restful web services.
+Involved in using spring modules AOP and Core Application Context 
+Preparation of the estimates, time lines of the deliverables and project execution plan.
+Prepare and validate product architecture and design model	
+Analysis of the current customer system to plug-in new requirements
+Team orchestration to effectively carry out all project activities such as analysis & design, coding, integration and testing.
+Integration test server box maintenance for all components
+Configuration and Defect management using Star Team
+Environment: EJB 2.0, Spring, RestFul Web Services for J2EE , IBM Java Technology Version 1.4, JMS, UNIX, MASKED_LOCATION and Windows XP/VISTA, BM Web Sphere Application Server V6.0 (Development) / V5.1 (Test and Production), IBM Developer Kit, Java Technology Edition Version 1.4, Rational Application Developer v6.0.1,ODM,Message Brokers Tool Kit, Star Team.
+United Services Auto mobile Association, MASKED_LOCATION, MASKED_LOCATION 		June 2010 to Nov 2011
+Technical Lead Developer
+Title: Enterprise Wires Services
+Project:  USAA is a fully integrated financial services company in MASKED_LOCATION serving more than 6 million military members.  USAA is one of just two MASKED_LOCATION property and casualty companies with the highest ratings from A.M. Best, Moody’s Investors Service, and Standard & Poor’s. USAA provides more than 150 products and services to its members through various channels.
+This project Installs an enterprise wire solution that provides wire transfer functionality for MSR’s and members to enable straight through processing and to increase the operational efficiencies via automated process of wire transactions based on a dual facing application utilizing the business rules. The rationale is to increase the transaction processing capacity and improve member experience by enabling member self service, strengthen member authentication, fraud and AML/OFAC risk mitigation via real time integration capitalizing on the USAA EFAM tools and integrating posting accuracy by systematically interfacing wires directly to member accounts for selective legacy applications.
+Responsibilities	
+Analysis of Business Requirements.
+Coordination with on-site team to understand the requirements 
+System components construction using MASKED_NAME, XML, EJB, Web Services and Unix Script
+Preparation of the estimates, time lines of the deliverables and project execution plan.
+Prepare and validate product architecture and design model	
+Analysis of the current customer system to plug-in new requirements
+Time sheet management using IPMS
+Prepare and monitor Insight tool reports
+Team orchestration to effectively carry out all project activities such as analysis & design, coding, integration and testing.
+Integration test server box maintenance for all components
+Configuration and Defect management using Star Team
+Environment: UNIX, MASKED_LOCATION and Windows XP/VISTA, EJB 2.0, RestFul Web Services for J2EE (JSR-109 Version 1.0), IBM Java Technology Version 1.4, JMS, J2C Technology, IBM Web Sphere Application Server V6.0 (Development) / V5.1 (Test and Production), IBM Developer Kit,Spring, Java Technology Edition Version 1.4, Rational Application Developer v6.0.1,Message Brokers Tool Kit, Star Team.
+United Services Auto mobile Association, MASKED_LOCATION			 		Sep 2009 to May 2010
+MASKED_NAMETitle: Real-Time IDV OFAC
+Project: USAA is a fully integrated financial services company in MASKED_LOCATION serving more than 6 million military members.  USAA is one of just two MASKED_LOCATION property and casualty companies with the highest ratings from A.M. Best, Moody’s Investors Service, and Standard & Poor’s. USAA provides more than 150 products and services to its members through various channels.
+This project delivers an Enterprise OFAC and watch list service to ensure consistent application of MASKED_LOCATION and AML processes and screening rules across COSA's. Consolidate watch lists (including BUFRU migration.) into a centralized environment .Enable real time member and account level screening at product acquisition and/or during high risk transactions.(Wires).Provide Real Time Security indicator screening during IMCO account acquisition and maintenance. Execute fraud hot list screening during IMCO account acquisition.
+Responsibilities		
+Analysis of Business Requirements.
+Coordination with on-site team to understand the requirements 
+Status Reports to the clients for 2 times  in week
+System components construction using MASKED_NAME, XML, ILOG JRules
+Preparation of the estimates, time lines of the deliverables and project execution plan.
+Prepare and validate product architecture and design model	
+Analysis of the current customer system to plug-in new requirements
+Time sheet management using IPMS
+Team orchestration to effectively carry out all project activities such as analysis & design, coding, integration and testing.
+Integration test server box maintenance for all components
+Configuration and Defect management using Star Team
+Environment: Intel 0x86 Architecture, UNIX, MASKED_LOCATION and Windows XP/VISTA, EJB 2.0, Web Services for J2EE (JSR-109 Version 1.0), IBM Java Technology Version 1.4, ILOG MASKED_NAME, IBM Web Sphere Application Server V6.0 (Development) / V5.1 (Test and Production), IBM Developer Kit, Java Technology Edition Version 1.4, Rational Application Developer v6.0.1,ILOG MASKED_NAME, Rational Software Architecture v6,Star team
+United Services Auto mobile Association, MASKED_LOCATION			 		Feb 2009 to Aug 2009
+MASKED_NAME: MASKED_NAME Report Changes
+Project:  USAA is a fully integrated financial services company in MASKED_LOCATION serving more than 6 million military members.  USAA is one of just two MASKED_LOCATION property and casualty companies with the highest ratings from A.M. Best, Moody’s Investors Service, and Standard & Poor’s. USAA provides more than 150 products and services to its members through various channels.	
+This application project aims to make some modifications for the R SEC Money Market Reports Which includes displaying the money market funds assets that are liquid daily(Liquid =cast),direct obligation of the MASKED_LOCATION government or securities that will mature or subject to the demand feature that is exercisable  and payable within one business day.
+Responsibilities		
+Analysis of Business Requirements.
+Coordination with on-site team to understand the requirements 
+Prepare and validate product architecture and design model	
+Analysis of the current customer system to plug-in new requirements
+Involved in all project activities such as analysis & design, coding, integration and testing.
+Environment: Intel 0x86 Architecture, UNIX, MASKED_LOCATION and Windows XP/VISTA, 4GL, UNIX Scripts, MASKED_LOCATION, putty, 4GL
+United Services Auto mobile Association, MASKED_LOCATION			 		April 2008 to Jan 2009
+MASKED_NAME: CLO DB Purge/Archive
+Project:   USAA is a fully integrated financial services company in MASKED_LOCATION serving more than 6 million military members.  USAA is one of just two MASKED_LOCATION property and casualty companies with the highest ratings from A.M. Best, Moody’s Investors Service, and Standard & Poor’s. USAA provides more than 150 products and services to its members through various channels.
+This project aims to purge or archive the loan applications that are not get submitted. As we are aware information or data is increasing at an amazing rate. In fact some industry expects that collected information sizes will probably double in size every two to three years. Basically data which is no longer needed by the application to address business functionality should be purged or archived. If data is required for record retention requirements, then it should be archived from the DBMS to an application controlled format. Keeping unneeded data online or in warehouses have costs associated with them which can directly affect our membership. Transactions can take longer to process, and use more CPU which also increases the cost of each transaction. DBMS utilities like backups can run longer, takes more storage and use more CPU (Increase product cost)
+Responsibilities		
+Analysis of Business Requirements.
+Coordination with on-site team to understand the requirements 
+Involved in the DB design & Architecture (application) Design	
+Analysis of the current customer system to plug-in new requirements
+Involved in all project activities such as analysis & design, coding, integration and testing.
+Configuration and Defect management using Star Team
+Environment: Intel 0x86 Architecture, UNIX, MASKED_LOCATION and Windows XP/VISTA, IBM Java Technology Version 1.4, MySql,DB2, DB2,MySql
+United Services Auto mobile Association, MASKED_LOCATION			 		Mar 2007 to April 2008
+MASKED_NAME: USAA-Bank CLO E-Fulfilment-OF
+Project:  USAA is a fully integrated financial services company in MASKED_LOCATION serving more than 6 million military members.  USAA is one of just two MASKED_LOCATION property and casualty companies with the highest ratings from A.M. Best, Moody’s Investors Service, and Standard & Poor’s. USAA provides more than 150 products and services to its members through various channels.
+The project E-Fulfilment deals with member flow where a USAA member can acquire the Loan completely through an online application process. This includes, collecting member information, till funding the loan. The key aspect of the project involves electronically displaying the Loan documents and getting them e-Authorized from the member. The main task of this project being capturing the business requirements in the form of Use Cases, Process Flow Diagrams & Screen Flow Analysis of existing Loan Origination System and develop the same in CLO platform
+Responsibilities		
+Analysis of Business Requirements.
+Coordination with on-site team to understand the requirements 
+Involved in Low Level design.
+Code walkthroughs, Debugging and Error fixing.
+Handling the quality processes, IQA, EQA and Final Inspection by preparing estimation, detailed plan documents.
+Prepare and validate product architecture and design model	
+Analysis of the current customer system to plug-in new requirements
+Involved in all project activities such as analysis & design, coding, integration and testing.
+Merging the coded files through various releases till production using Star Team
+Preparation of Unit test cases and testing the codes with JUnit framework
+Configuration and Defect management using Star Team
+Environment: Intel 0x86 Architecture, UNIX, MASKED_LOCATION and Windows XP/VISTA, EJB 2.0, IBM Java Technology Version 1.4, MySQL, SUN Micro Java Technology Version 1.4, Oracle 9i, IBM Web Sphere Application Server V6.0 (Development) / V5.1 (Test and Production), IBM Developer Kit, Java Technology Edition Version 1.4, Rational Application Developer v6.0.1,ILOG MASKED_NAME, Rational Software Architecture v6,Star Team, AgitarOne.
+MASKED_NAME Attended

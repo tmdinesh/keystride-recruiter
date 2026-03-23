@@ -1,0 +1,23 @@
+ROLE: Senior Engineering Manager Data Pipeline
+SOURCE: RemoteOK
+URL: https://remoteOK.com/remote-jobs/remote-senior-engineering-manager-data-pipeline-bloomreach-1130612
+
+Bloomreach is building the world's premier agentic platform for personalization. We're revolutionizing how businesses connect with their customers, building and deploying AI agents to personalize the entire customer journey.
+
+- We're taking autonomous search mainstream, making product discovery more intuitive and conversational for customers, and more profitable for businesses.
+- We're making conversational shopping a reality, connecting every shopper with tailored guidance and product expertise  available on demand, at every touchpoint in their journey.
+- We're designing the future of autonomous marketing, taking the work out of workflows, and reclaiming the creative, strategic, and customer-first work marketers were always meant to do.
+
+And we're building all of that on the intelligence of a single AI engine  Loomi AI  so that personalization isn't only autonomousit's also consistent. From retail to financial services, hospitality to gaming, businesses use Bloomreach to drive higher growth and lasting loyalty. We power personalization for more than 1,400 global brands, including American Eagle, Sonepar, and Pandora.
+
+Become an Engineering Manager for Bloomreach!
+
+Lead our Data Pipeline team  the backbone of data ingestion, real-time event tracking, and long-term data storage for Bloomreach Engagement. Your leadership will directly impact how hundreds of millions of customer interactions are processed, routed, and stored every day across dozens of enterprise e-commerce and beyond-retail verticals.
+
+Your starting salary will be from 6 000  per month, along with stock options and other benefits. Working in one of our Central European offices (Bratislava or Brno) or from home on a full-time basis, you'll become a core part of the Engineering Team.
+
+What challenge awaits you?
+
+You will take over an established, high-performing Data Pipeline team of 67 engineers (including a Staff Engineer / Tech Lead, Senior Engineers, SREs, Data Engineers, and a QA Engineer) from the current Engineering Manager who is moving on to establish a new team.
+
+The team owns the hot-path tracking pipeline  the system that ingests, validates, routes, and processes all real-time customer events flowing into Bloomreach Engagement. With rapidly growing enterprise customers pushin

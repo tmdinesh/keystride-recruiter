@@ -1,0 +1,45 @@
+{
+  "resume_id": "Saiteja G_anon",
+  "skills": [
+    "python",
+    "java",
+    "javascript",
+    "php",
+    "r",
+    "angular",
+    "html",
+    "css",
+    "bootstrap",
+    "jquery",
+    "spring",
+    "rest",
+    "soap",
+    "sql",
+    "mysql",
+    "mongodb",
+    "oracle",
+    "aws",
+    "google cloud",
+    "docker",
+    "linux",
+    "apache",
+    "hadoop",
+    "git",
+    "jira"
+  ],
+  "education": {
+    "degree": "Unknown",
+    "year": "Unknown"
+  },
+  "experience_years": 8,
+  "projects": [
+    "Provided Technical support for production environments resolving the issues, analyzing the defects, providing and implementing the solution defects.",
+    "Client: BCBS\t\t\t\t\t\t\t\t\t\tDec 2014 \u2013 Jan 2016",
+    "Blue Cross and Blue Shield is a leading insurance company owned by its policyholder. BCBS is the health insurance and health care provider company. \u201cFind a plan\u201d is a web based J2EE application, created to help individuals and families easily shop for, and buy health insurance. Well mark offers a variety of insurance plans, as well as tools to help you choose the plan that\u2019s right for you.",
+    "Involved in SDLC requirements gathering, analysis, design, development and testing of application developed using AGILE methodology.",
+    "Installed and configured various components of Hadoop\u00a0ecosystem and maintained their integrity."
+  ],
+  "certifications": [
+    "Migrating servers, databases, and applications from AWS On-premises to  Google cloud platform"
+  ]
+}

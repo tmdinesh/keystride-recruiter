@@ -1,0 +1,105 @@
+                                   MASKED_NAME
+eGrove Systems Corporation
+Contact: Krish, MASKED_EMAIL, MASKED_PHONE
+------------------------------------------------------------------------------------------------------------------------------------------
+PROFILE:
+ISTQB certified Software Quality Assurance Test Engineer with more than 4 years of experience in MASKED_LOCATION, Manual Testing and Mobile testing.
+Experienced in Analyzing, Designing and MASKED_NAME-driven and Hybrid Automation Frameworks using Selenium WebDriver, MASKED_LOCATION,  TestNG and Maven. 
+Well-Versed in using Functional automation tool Selenium WebDriver /RC/IDE.
+Qualified to Degree level in Electronics and Communication Engineering, strong in analytically solving complex problems and logical questioning.
+Received Out-standing performance awards multiple times for my contribution in the team.
+SUMMARY:
+Over 4 years of professional experience in MASKED_LOCATION and Automated Functional and Regression Testing, and exposure to Unit Testing, Sanity Testing, System Testing and User-Acceptance Testing.
+Over a year of experience in MASKED_LOCATION and Automated Mobile Testing.
+ISTQB Certified Tester -Foundation Level.
+Excellent knowledge in testing methodologies like Waterfall, V- model and Agile (Scrum).
+Exposure to software development life cycle (SDLC), Software Testing Life Cycle (STLC), IEEE standards in software development process and documentation. 
+Expertise in in all phases of QA Life cycle and documentation, which includes Design, Development, and Implementation of Test-plans, Test-cases, defect tracking and reporting, and preparing RTM and Test-reports.
+Strong Experience in Automating Web Application Testing using Selenium WebDriver using MASKED_NAME along with TestNG framework and Maven (Build configuration). 
+Experience in MASKED_LOCATION mobile testing using Appium with Selenium WebDriver/Java
+Experienced in handling elements and performing Data-driven testing and Cross-Browser Testing using Selenium WebDriver.
+Experience testing REST/SOAP API web services using SOAP UI and POSTMAN.
+MASKED_NAME files and identifying web elements using various element locators including x-path.
+Worked using various bug-tracking tools (MASKED_NAME, Bugzilla), project management tools (HP QC/ALM, Open Project) and source-code management tools(Tortoise-SVN).
+Experienced in understanding Test Requirements and preparing test data, testing scenarios and testing strategy.
+Interacted efficiently with clients, coordinated with developers and stakeholders, thus ensuring the delivery of a quality product.
+Knowledge on HP QTP/UFT.
+TECHNICAL SKILLS:
+Core Skills:
+Automation tools and frameworks: Selenium WebDriver, TestNG, Maven, Appium, SOAP UI, PostMan, MASKED_NAME, Jira, Open Project, HP ALM.
+Programming: MASKED_NAME, C, MASKED_NAME, J2EE 
+Operating Systems: Windows XP/Vista/7/10, Macintosh
+Tools & Utilities: MS-Office, Outlook Express.
+Exposure to: 
+HP UFT, VB Scripting and MASKED_NAME.
+EDUCATION & CERTIFICATIONS:
+ISTQB Certified Tester-Foundation Level (ASTQB board certification)
+Bachelor of Technology, Electronics and communication engineering, June 2013
+Bandari Srinivas Institute of technology, JNT University, Hyderabad
+Aggregate: 78.2 % (First Class with Distinction)
+WORK EXPERIENCE_______________________________________________ ___________ _____
+eGrove Systems Corporation 						         Jan’18-Till date
+Role: Software QA Test Engineer
+EMC 3.0
+Project: The project involves the development and testing of eCommerce applications and their corresponding Web based MASKED_NAME applications. This includes Mobile Testing of front end apps and Automated software API testing of MASKED_NAME.
+Responsibilities:
+Develop Test-Plans and Test-cases for Manual and Automated Mobile Testing using Appium with MASKED_NAME.
+Develop Test-Plans and Test-cases for API testing for REST services using POSTMAN.
+Worked in cohesion with Developers and other teams right from the initial stages of Testing to ensure the delivery of a defect-free Application.
+Used Open Project for Creation, Execution and Managing Test Cases, raising and managing Defects.
+Developed test cases using work flows and API responses.
+Involved in MASKED_LOCATION and providing MASKED_NAME for new Team Members.
+Environment: AGILE, Appium(Selenium) with MASKED_NAME, MASKED_NAME, MASKED_NAME, Windows 10, iOS, Android, Open Project, MS Office Suite
+YiiPack:
+Project: The project involves the development and testing of a Web Based application called “YiiPack” which is an application that enables a person to either send a package to any part of the world at his price or a person who is travelling to transport a package and get paid.
+Responsibilities:
+Developed Test-plans and Test-cases for Manual and Automated Functional and Regression Testing using Selenium with MASKED_NAME.
+Developed Test cases from business use cases and work flows and prepared Test data and Selenium Test Scripts.
+Conducted 80% of testing using MASKED_NAME, remaining was achieved through cross-browser testing using MASKED_NAME browser (using x-path element locator), MASKED_NAME and IE. 
+Co-ordinated with developers and other teams regarding defects results and worked together for the development of a reliable and highly efficient software.
+Developed test cases using work flows and use cases.
+Used Open Project for Creating, managing and executing the Test Cases.
+MASKED_NAME and MASKED_NAME transfer for new team members
+Environment: AGILE, Selenium WebDriver 3.0, JAVA, TestNG, Maven, Windows 2008, Windows 10, Web applications, Open Project, MS Office suite
+MASKED_LOCATION, MASKED_LOCATION.                                                                                                                          Jul ’16-Dec’17
+Client: Nationwide Insurance
+Role: Software QA Test Engineer
+Project: This project involved the development of a Mobile application for customers to access complete account information, view the status of the claimed insurance and manage his/her policies. 
+Responsibilities:
+Worked in a highly dynamic Agile environment.
+Developed Test-plans and Test-cases for Automated Functional and Regression Testing using Appium with MASKED_NAME.
+Used MASKED_NAME for defect tracking and reporting.
+Performed Failure Analysis and fixed issues using automation test reports.
+Involved in MASKED_LOCATION app testing using Appium (Selenium WebDriver) and API testing using SOAP UI.
+Coordinated with manual testers and developers for providing quick updates on automation test results either for pre-release testing or updating results after version release.
+Providing knowledge transfer and support for new team members
+Environment: AGILE, Appium Selenium WebDriver, JAVA, SOAP UI, Windows 2008, Macintosh, Web applications, Jira, MS Office suite
+Genpact Hyderabad                                                                                                          Apr’ 15 – Jun’ 16
+Client: Penske Corporation                                                      
+Role: Quality Assurance Tester
+Project: This project involved the development of a Web based application for logistics team to log-in, access and manage complete information of IT department. 
+Responsibilities:
+Created, executed and maintained Test-Cases in Selenium WebDriver using MASKED_NAME through HP- QC/ALM for Functional and Regression Testing.
+Analyzed business requirements to better understand business logic and process flow and was involved in documentation.
+Involved in developing Automation Framework from scratch and test cases for the project using SELENIUM WebDriver 3.0, TestNG and MASKED_LOCATION.
+Was involved in MASKED_LOCATION Integration and Acceptance test phases.
+Developed Test cases from business use cases, Test data and Selenium scripts for UI testing.
+Used Selenium WebDriver and TestNG for automating Cross-Browser testing and MASKED_NAME testing on MASKED_NAME, MASKED_NAME, MASKED_NAME and IE.
+Automated about 65% of Test-Cases on MASKED_NAME browser. Used MASKED_NAME and Fire-Path plugins to locate elements.
+Prepared Traceability Matrix and reported defects/results to the team using Bugzilla.
+Performing Back end testing with extensive use of SQL Queries. 
+Interaction with client in deploying the Application and explaining the functionalities of the Product to client to make him familiar with the Product.
+Worked effectively with Developers, AGILE Team and Project Management to achieve Selenium automation, high quality, release deadlines and QA processes improvements.
+Achievements:  Received “Best- Performance Award” for contributing to around 40% of Test-Cases, identifying problems in internal MASKED_LOCATION process, suggesting and implementing improvements.
+Environment: AGILE, Selenium WebDriver, JAVA, TestNG, Maven, Windows 2008, Windows 7, Web applications, Bugzilla, MS Office suite
+Genpact Hyderabad                                                                                                         July’ 13– Mar’ 15
+Client: GE GRC- Niskayuna and MASKED_NAME
+Role:  Quality Assurance Tester
+Project: Develop a web application which enables the end-user and the IT team to log and manage IT tickets.
+Responsibilities:
+Worked closely with Business Analysts and Developers to gather Application Requirements and Business Processes to formulate the test plan.
+Extensively involved in the Manual and Automation Testing of the applications.
+Conducted Functional Testing, Integration Testing on a Developed Regression Test Suite for the Application Under Test
+Actively conducted defect resolution meetings, QA status meetings. Also participated in MASKED_LOCATION transfer sessions.
+Developed Test data and Test-cases for positive and negative test scenarios using Decision Table and BVA for functional testing as documented in the test plan.
+Environment: HP Quality Center 10.0, J2EE, Oracle WebLogic 10g, MASKED_LOCATION server 2008, MASKED_LOCATIONVista

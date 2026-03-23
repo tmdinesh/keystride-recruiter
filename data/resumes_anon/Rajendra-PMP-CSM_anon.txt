@@ -1,0 +1,123 @@
+PROFESSIONAL SUMMARY
+MASKED_LOCATION is a multi-skilled IT professional with 15+ years of experience in directing cross functional   teams of large/small scale projects/products in various environments. Proven record on developing solutions that improve efficiency of IT and Business operations. Strong management skills with planning, scheduling, communication, organizational and decision making ability to successfully direct concurrent projects. Expert of handling projects with more than $25M with 20+ wide-ranging skilled team as Project Manager/ Scrum Master. Now looking for an opportunity to work on more challenging projects where he can enhance the skills and help achieve organizational goals.
+Areas of Excellence
+          Project/Program Management/PMO	              Enterprise Resource Planning (ERP)                      
+          Client Relation Management		              Business/Stakeholders Engagement
+          Budget Planning /Administration			Full Cycle of SDLC/STLC
+          Risks(Qualitative/Quantitative) Analysis 		QA Planning & Execution
+          Metrics Collection & Reporting			Resource recruiting/mentoring/training
+          Multi-Vendor/Offshore coordination		Agile/Scrum Project Management
+          Communication/Conflict Management		Strategic Analysis/ Process Improvement
+          Human Resources/Team Building                                Customer Relationship Management (CRM)
+          MDM/REST Services/Webservices                               ITSM-Process Improvement
+          DevOps/ SAFe                                                                  MASKED_NAME
+    MCA: Master of Computer Applications from Andhra University in 2002
+    PMP®: Certified Project Management Professional from PMI active till 2019
+    CSM®: Certified Scrum Master from MASKED_NAME 
+    QTP/QC: Certifications on QTP and QC (Quality Center) from HP
+    ISTQB: Certification on Software Testing from ISTQB
+Trainings/Knowledge Base
+         ITIL/ITSM                   	 Oracle Apps- CRM                         P&C Insurance      	 	
+         Health Care                             Banking and Financial                  Information Security Fundamentals
+         SAFe Methodologies 	 Installations/Infrastructure         Web/Content Management
+         SAP- CRM                                Sales Force (SFDC)                         E-Business and Retail Marketing 
+Technical Skills
+MS Office Suite (Word, Excel, PowerPoint, MASKED_NAME, OneNote and Project), Primavera, Quality Center,  Test Link, MASKED_NAME, MS SharePoint, Lotus Notes, HP Service Manager, BMC Ticket Tracking, QTP, MASKED_NAME, SoupUI, Selenium, MASKED_NAME, .Net, MASKED_NAME, MDM(Master Data Management), Oracle Applications (MASKED_LOCATION, MASKED_LOCATION, CDM), DB2, PL SQL,  COBOL, Service Virtualization, SFDC, SAP-CRM, Version One, MASKED_LOCATION, Pointing Poker, MASKED_LOCATION, Maven, GitHub, JIRA, Version One, JBehave, Splunk, Eclipse.
+Project Experience
+#1
+Role: Project Manager
+Client: State Farm Insurance, MASKED_LOCATION, MASKED_NAME MASKED_ADDRESS map and release planning
+Collaborate with PMO and Business to identify the processes 
+MASKED_NAME workshops/brainstorming sessions to gather requirements
+Ensure team following Agile/Safe methodologies for continuous delivery
+Acted as liaison between Business, IT systems, Finance and Operations/Support teams
+Identified and documented risks/issues proactively to avoid delays in project delivery
+Collaborating with cross functional teams for suitable resources allocation
+Coaching/Mentoring the team to transform from waterfall to SAFe/DevOps environments
+Performed qualitative/quantitative analysis to measure the impact from identified risks
+Monitors/Maintains project budget against baselines and prepared forecasts
+MASKED_NAME for integration of E2E application 
+Developed status reports, forecasts, project trends and resource plans
+Implemented and maintained best practices for each phase of the project life cycle
+Participated in Release planning/Sprint planning/Reviews/Retrospectives
+Monitor and reports the project/team performance against the committed goals
+Guided/Planned selenium/MASKED_NAME scripting for E2E acceptance testing
+Working closely with key stakeholders and business leadership to prioritize the scope
+Reporting timely status to all user groups via specified communication channels
+Manage and Control of stakeholders to keep up to date on project progress
+Environment: MASKED_NAME, DB2, MASKED_NAME, J2EE, Lotus Notes, Selenium, Version One, SoupUI, Splunk, JBehave,                     Jenkins, GitHub, Maven, Pointing poker, Primavera P6
+#2
+Role: Scrum Master
+Client: State Farm Insurance - Bloomington, IL                                                             Jun 2014 to Oct 2015
+Interface with PMT, MASKED_LOCATION, and Stakeholders to define the backlog items
+Prepare for and facilitate daily scrum meetings, sprint planning, review, retrospective, backlog grooming meetings, and planning sessions for release/deployments
+Provide input to release planning using team capacity and skill set information
+Compile, analyze, and present statistics about time estimation accuracy, team velocity, and burndown rate to development team and management for each sprint
+Create and maintain statistics on story lifetime to assess efficiency of requirements throughput
+Meet with product owners and operational business managers for selected modules to introduce scrum and program processes and outline expectations
+Review and provide feedback on drafted user stories and epics to ensure alignment with general Agile user story standards
+Managing dependencies and tracking risks/issues to maintain the WBS items 
+Assist the team to follow agile principles and achieve sprint goals
+Remove impediments of dev team and helps teams to improve productivity
+Documenting lessons learned and knowledge sharing
+Environment: MASKED_NAME, DB2, MASKED_NAME, Test Link, Trac, Lotus Notes, Selenium, Ice Scrum, Pointing Poker
+#3
+Role: Project Manager
+Client: State Farm Insurance - Bloomington, IL                                                            Mar 2012 to May 2014
+Interface with PMO, Business Teams, Stakeholders to gather processes and 
+Created roadmap for E2E application development 
+Involved in full implementation cycle of SDLC (Creating Charter to Project Closure)
+Created business case, project charter to initiate the project
+Provide input to identify high level risks and define acceptance criteria 
+Create and maintain requirements to capture the key capabilities with respect to scope
+MASKED_NAME and coordinate with cross functional teams to build successful project team
+Planning and work allocations based on task priorities
+Review the legacy applications and define the project objectives to interact with new features
+Managing dependencies and tracking risks/issues to maintain the WBS items 
+Resource allocation, conflict management and team building 
+Provided training/mentoring the resources on project key deliverables
+Established quality measurements with respect to compliance regulations
+Provided service transition to operation to sustain the application without any impediments
+Created KCD/KIs to provide documentation assistance to support team
+Documenting lessons learned and knowledge sharing
+MASKED_NAME between Leadership, Business, Developers, Testers and Deployment team
+Environment: MASKED_NAME, DB2, MASKED_NAME, Test Link, Trac, Lotus Notes, Selenium, Primavera P6
+#4
+Role: Project Manager
+Client: Ricoh Americas Corporation- Norristown, PA                                                Apr 2011 to Mar 2012
+Followed traditional(waterfall) project management methodologies
+Involved from creating project charter to close the project
+Coordinated with customer to gather requirements and manage expectations
+Performed estimations using functional point techniques(PERT)
+Understand the scope and identify the success criteria
+Document and monitor risks and issues across all phases of the project
+Trained team members on development and change management process
+Drive the team to follow organizational standards to achieve quality goals
+Identify the environment needs and help building multiple environments 
+Established communication channels to engage stakeholders
+Supported design, development and quality assurance to ensure meeting business needs
+Monitored performance of the project and adjusted milestones/baselines
+Conduct performance reviews on team performance and individual resource performances
+Involved in creating business decision/ architectural decision diagrams
+Documented transition/support documents and updated knowledge items
+Collaborated with diversified team from various time zones
+Environment: MASKED_NAME, MASKED_LOCATION, Java, Quality Center, MASKED_NAME, MASKED_NAME, QTP, MS Project
+#4
+Role: Project Lead/Coordinator
+Client: Starbucks Coffee Company- MASKED_LOCATION, WA                                                        Jun 2009 to Mar 2011
+Led the team(onsite/offshore) to understand requirements and expectations
+Conducted requirement gathering workshops, brainstorming sessions
+Develop and Implement resource plans and project budgets
+Created detailed level business documents, communication strategies
+Engage business stakeholders to analyze, implement, 
+Prepare project meeting agenda and facilitate project planning meetings
+Document meeting minutes and follow-up on action items
+Developed RTM and identified gaps in requirements
+Proactively identified and documented risks/issues 
+Monitor project timelines and track project milestones for reports
+Provided optimize solutions on resource management and process improvements
+Created test coverage/traceability to again customer acceptance on test deliverables
+MASKED_NAME between business, development, quality and support teams 
+Managed customer communications, escalation support and status updates
+Environment: MASKED_NAME, MASKED_LOCATION, MS Project, Quality Center, MASKED_NAME, Lotus Notes, QTP
+Other Professional Experience

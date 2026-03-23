@@ -1,0 +1,27 @@
+{
+  "resume_id": "Shaker Resume_anon",
+  "skills": [
+    "html",
+    "css",
+    "node",
+    "soap",
+    "sql",
+    "oracle",
+    "jira"
+  ],
+  "education": {
+    "degree": "Business Systems Analyst/Scrum Master                                                                                    Sep 2016 \u2013 Present",
+    "year": "2016"
+  },
+  "experience_years": 9,
+  "projects": [
+    "My Roles & Responsibilities:",
+    "Gathered Business requirements by conducting JRP session, One on One interview and Group sessions with Stakeholders and business Users",
+    "Involved in Developing asset allocation models diversifying risk by researching funds using fundamental analysis.",
+    "Facilitated sprint planning meetings, daily standup meetings, sprint review, sprint retrospectives.",
+    "Closely monitored burn down charts to keep track of outstanding work and tracked the velocity and capacity."
+  ],
+  "certifications": [
+    "Scrum Master Certification from International Scrum Institute"
+  ]
+}

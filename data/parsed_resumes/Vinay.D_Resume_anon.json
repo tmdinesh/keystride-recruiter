@@ -1,0 +1,35 @@
+{
+  "resume_id": "Vinay.D_Resume_anon",
+  "skills": [
+    "java",
+    "javascript",
+    "r",
+    "angular",
+    "html",
+    "css",
+    "bootstrap",
+    "jquery",
+    "spring",
+    "rest",
+    "soap",
+    "sql",
+    "mysql",
+    "mongodb",
+    "oracle",
+    "aws",
+    "azure",
+    "docker",
+    "jenkins",
+    "linux",
+    "apache",
+    "git",
+    "jira"
+  ],
+  "education": {
+    "degree": "Unknown",
+    "year": "Unknown"
+  },
+  "experience_years": 8,
+  "projects": [],
+  "certifications": []
+}

@@ -1,0 +1,22 @@
+{
+  "resume_id": "Jagan S Iyer PM_anon",
+  "skills": [
+    "css",
+    "sql",
+    "oracle",
+    "hadoop"
+  ],
+  "education": {
+    "degree": "Master of Science in\u00a0Information Resource Management,\u00a0MS Central Michigan University,\u00a0Detroit Metro Center,\u00a0MI, MASKED_LOCATION - 2005",
+    "year": "2005"
+  },
+  "experience_years": 20,
+  "projects": [
+    "Joined the program in TIAA-CREF to successfully execute the enterprise wide conversion of ETL tool from Informatica to DataStage which spanned over 26 applications and 12 departments",
+    "Managed, as part of PMO, enterprise wide ETL conversion from Informatica to DataStage",
+    "Extensive experience with infrastructure resources within the client, their customers, and hosted service providers",
+    "Helped to reduce cost of contract by 10% by tactful development of SOW and negotiation with vendors",
+    "Instrumental in development of budgets"
+  ],
+  "certifications": []
+}

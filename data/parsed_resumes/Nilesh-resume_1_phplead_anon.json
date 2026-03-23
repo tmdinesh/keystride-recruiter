@@ -1,0 +1,26 @@
+{
+  "resume_id": "Nilesh-resume_1_phplead_anon",
+  "skills": [
+    "javascript",
+    "php",
+    "angular",
+    "css",
+    "bootstrap",
+    "jquery",
+    "laravel",
+    "mysql"
+  ],
+  "education": {
+    "degree": "Unknown",
+    "year": "Unknown"
+  },
+  "experience_years": 11,
+  "projects": [
+    "Team Leader \u2013 Silver touch Technologies LTD.",
+    "(Apr 2007 \u2013 Dec 2009)",
+    "Monitoring the overall progression of department and staff",
+    "Maintaining performance of client websites",
+    "Suggesting improvements on design and functionality"
+  ],
+  "certifications": []
+}

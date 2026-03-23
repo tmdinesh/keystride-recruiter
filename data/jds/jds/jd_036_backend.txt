@@ -1,0 +1,145 @@
+ROLE: Head of Engineering
+SOURCE: Arbeitnow
+URL: https://www.arbeitnow.com/jobs/companies/glsnxt/head-of-engineering-berlin-216960
+
+Join 
+GLS/NXT
+ as our 
+Head of Engineering
+ and take the wheel on one of the most exciting engineering challenges in European logistics.
+
+We're building the next generation of logistics technology - scalable, high-traffic products that serve 
+GLS, one of Europe's largest parcel carriers
+, operating across 40+ countries. At GLS/NXT, you'll work at the intersection of 
+startup speed and enterprise scale
+ - shipping fast, owning outcomes end-to-end, and leading an engineering organisation that genuinely moves the needle.
+
+This is a role for a leader who earns trust by example: someone who can 
+mentor and grow engineering managers
+, bring rigour to how we build and operate software, and be the engineering voice in the room when it matters.
+
+Tasks
+
+People & Organisation
+
+Lead, mentor, and develop 
+Engineering Leadership
+ and their teams (30-35 engineers total), creating an environment where people do their best work.
+
+Own the growth and wellbeing of the engineering org - hiring, onboarding, performance, and retention.
+
+Be the engineering culture carrier: fostering ownership, technical excellence, and psychological safety across teams.
+
+Engineering Excellence & Governance
+
+Establish and continuously improve the standards, processes, and tooling that enable teams to ship reliable, secure, and high-quality software at pace.
+
+Own the engineering governance framework: tech stack decisions, cost management, security posture, and architectural standards.
+
+Drive cross-team alignment on best practices, ensuring consistency without stifling autonomy.
+
+Technical Leadership
+
+Be a credible technical partner - able to get into the weeds on distributed systems, cloud architecture, and engineering trade-offs when teams need it.
+
+Evaluate and guide architectural decisions, ensuring our systems scale to meet the demands of high-volume, mission-critical logistics operations.
+
+Stay close to the stack without being in the critical path of delivery.
+
+Cross-Functional Partnership
+
+Collaborate closely with Product leadership on roadmap planning - contributing the engineering perspective on feasibility, risk, and opportunity.
+
+Act as the bridge between business objectives and engineering execution, translating strategy into team-level priorities.
+
+Requirements
+
+Experience
+
+Proven track record as an 
+Engineering Manager or similar role -
+ ideally in a fast-moving startup or scale-up environment.
+
+Experience leading and growing engineering teams of 20+ people, including managing managers.
+
+Background in 
+building and operating distributed systems at scale
+, with a solid understanding of what it takes to run high-traffic, high-availability products in production.
+
+Hands-on experience with 
+AWS
+ and modern cloud-native architectures.
+
+Leadership & Mindset
+
+Servant leader
+ at heart - you build trust through listening, removing blockers, and making your teams better.
+
+Extreme ownership
+: you hold yourself accountable and instil that same culture in your teams, without blame or excuses.
+
+Strong communicator
+: you can talk architecture with engineers and strategy with the management in the same afternoon, and you're equally good at both.
+
+Data-driven
+: you make decisions grounded in evidence, not gut feel alone, and you build that habit into your teams.
+
+Technical Depth
+
+Solid grasp of modern backend engineering: microservices, event-driven architectures, API design, containerisation.
+
+Comfortable evaluating engineering costs, tooling choices, and build-vs-buy trade-offs at an organisational level.
+
+Security and reliability are not afterthoughts for you they're built in from the start.
+
+Why This Role
+
+Real scale, real impact
+: You'll lead engineering on products used across the GLS markets - one of Europe's largest logistics organisations - meaning your decisions affect millions of parcels and users every day.
+
+Greenfield influence
+: GLS/NXT is still early enough that you'll shape the engineering culture, processes, and architecture - not inherit a rigid legacy.
+
+Startup energy, corporate muscle
+: Move fast and experiment freely, with the stability and distribution muscle of a major European corporate behind you.
+
+Benefits
+
+Dynamic workplace:
+ A digital environment with international projects and space to learn and grow
+
+Flexible work conditions:
+ Hybrid working mode with a tailored remote policy.
+
+Focus on learning:
+ A personal budget (1.000) for learning and development initiatives.
+
+Physical space for ideas:
+ A great office space in Berlin Mitte with top-tier equipment.
+
+Transparent and competitive compensation:
+ A salary package that reflects your expertise and experience.
+
+Active participation:
+ A clear bonus system enabling participation in your and the teams performance
+
+Engaging team culture:
+ Monthly team cooking, regular events and offsites
+
+Vacation policy:
+ 30 days of yearly holiday
+
+Reward system:
+ Rewards for the recommendation of additional team members
+
+About GLS/NXT
+
+GLS/NXT was founded with the mission to build the next generation of logistic experiences driven by technology - core, adjacent & beyond. More specifically, our sphere of interest is the Logistics and eCommerce sector. We are entrepreneurs and hence always start with the user's needs. We are located between Corporate and Startups and leverage the benefits from both (startup speed and corporate muscle). GLS/NXT inhabits different project teams, acting as startups with business responsibility and setting their own vision and mission. GLS/NXT is part of the GLS IT Services GmbH.
+
+Commitment to Diversity
+
+GLS/NXT is an equal opportunity employer, which means we do not discriminate on the basis of race, colour, religion, marital status, age, national origin, ancestry, physical or mental disability, medical condition, pregnancy, genetic information, gender, sexual orientation, gender identity or expression. We celebrate diversity and are committed to creating an inclusive environment for all employees.
+
+Find 
+Jobs in Germany
+ on Arbeitnow

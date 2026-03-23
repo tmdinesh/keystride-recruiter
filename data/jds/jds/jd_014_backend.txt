@@ -1,0 +1,45 @@
+ROLE: Backend Engineer
+SOURCE: Synthetic
+URL: N/A
+COMPANY: Quantum Builds
+
+============================================================
+  BACKEND ENGINEER
+  Quantum Builds
+============================================================
+
+ABOUT THE COMPANY
+----------------------------------------
+Quantum Builds is an innovative technology company dedicated to developing robust and scalable software solutions that empower businesses. We specialize in creating cutting-edge platforms that streamline operations and enhance user experiences. Our mission is to build the future, one elegant and efficient system at a time.
+
+RESPONSIBILITIES
+----------------------------------------
+  • Design, develop, and maintain high-performance, scalable Node.js-based microservices and APIs.
+  • Collaborate with product managers, frontend engineers, and other stakeholders to define, design, and ship new features.
+  • Write clean, maintainable, and well-documented code, along with comprehensive unit and integration tests.
+  • Participate in code reviews to ensure code quality, best practices, and knowledge sharing within the team.
+  • Identify and troubleshoot complex issues, debug production problems, and optimize application performance.
+
+REQUIRED SKILLS (Must-Have)
+----------------------------------------
+  ✅ Node.js (LTS versions)
+  ✅ Express.js or similar web framework
+  ✅ PostgreSQL or MongoDB (experience with ORM/ODM)
+  ✅ RESTful API design and implementation
+  ✅ Git version control
+  ✅ Jest or Mocha/Chai for testing
+
+PREFERRED SKILLS (Nice-to-Have)
+----------------------------------------
+  ⭐ TypeScript
+  ⭐ AWS, Google Cloud Platform (GCP), or Azure experience
+  ⭐ Docker and Kubernetes
+
+EXPERIENCE & EDUCATION
+----------------------------------------
+  Experience: 2-4 years
+  Education:  Bachelor's degree in Computer Science, Software Engineering, or a related technical field, or equivalent practical experience.
+
+COMPENSATION
+----------------------------------------
+  $95,000 - $125,000 USD

@@ -1,0 +1,90 @@
+PROFILE SUMMARY                                                                                                                    
+11 years of work experience in Program Management, Project Management, Strategic Research, Business Analysis, Requirement Elicitation, Identifying root causes and developing work product in Agile (SCRUM) and waterfall SDLC methodologies.
+Extensive experience in Insurance (Life and P&C) and Banking (Mortgage, claims) domain
+Go to person regarding all client communications, client escalations, budgeting, reporting and planning.
+Extensive client facing experience leading strategic Initiatives including offshoring IT projects and systems replacement by working with product partners and geographically diverse teams.
+SCRUM certified professional experienced in MASKED_LOCATION management and defining the Project Roadmap, Velocity planning and Leadership reports.
+Extensive experience in defining project scope, project initiation, implementing planning and strategy and closure as a Scrum Master.
+Extensive experience to manage the project and track the progress by using the MASKED_NAME like JIRA.
+Extensive experience to manage the RISK by using Impact Probability grid and define the mitigation strategy.
+EDUCATION	
+Masters of Business Administration (M.B.A.) – 2009 – NMIMS University, MASKED_LOCATION, MASKED_LOCATION
+Bachelor of Engineering (B.E.) (Computer Engineering) – 2004 – University of Rajasthan, MASKED_LOCATION
+Certifications and MASKED_NAME:
+Certified Professional Scrum Master™ level I (PSM I)
+JIRA, Confluence, Microsoft Project, MASKED_NAME, Microsoft Office
+PROFESSIONAL EXPERIENCE                                                                                           11 YEARS 4 MONTHS
+Client: DXC Technology   								    Apr ‘17 – Jan’18
+Role: Senior Manager – DXC Channel
+MASKED_ADDRESS
+Program Manager handling projects for Metlife account at DXC 
+Single point of contact for all client escalations and new project discussions
+Responsible for client management and exploring and initializing new projects and opportunities
+The work profile includes creating a plan to address project goals and working with customer stakeholders/SME’s while owning tracking and resolution.
+Maintain accurate program reporting information and up-to-date project assets and metrics while identifying risks and roadblocks.
+Program managing solution roadmap workshops, use case discussions and vendor relations for capability procurement and use case definition.
+Discussing business performance, value generation and lead generation to track business growth goals
+Project: Metlife, USA
+Project Description: G2C is a MASKED_NAME application migrated from mainframe applications which helps the clients to send the most up to date employee information and loaded to consumer database. This data will be used by various portals like member portal, client portal and doctor portal. G2C makes sure that the data coming from the clients is valid and accurate. G2C does all the complex validations, and generate reports for the clients and necessary actions in case of failure to load the data.
+Role: SCRUM Master/PM 
+Responsibilities:
+Release coordinator for corporate efforts and define/identify the scope of works
+Create the Project reports to forecast the future work, team velocity and time taken by each process
+Define the definition of done and work with Mphasis PM on resource management
+Coordinate with APO, Business SME’s and Implementation team.
+Conduct the SCRUM ceremonies like MASKED_LOCATION standup, Sprint Planning, Backlog grooming, Sprint Review/Retrospective.
+Participate/Conduct SCRUM of SCRUMs
+Manage the production issues and adhoc request by leadership team.
+Resolve Impediments, conflicts and shields the team.
+Participate proactively in developing and maintaining standards, tools and best practices. 
+Track, monitor and communicate team metrics and progress.
+Walkthrough on Burn down chart and Risk management chart.
+Deflect team distractions, remove execution impediments and escalate issues appropriately.
+Ensure transparency within and outside of team.
+Client: USAA										  Apr ‘15 – Apr’-17
+Role: Program manager/ Principal Research Analyst
+MASKED_ADDRESS
+Program Manager for CTO Architecture and Strategic Research/Innovation Group at USAA
+Primarily focused on handling team providing innovative research and approach towards business problems faced by Business and Architects in the IT strategic roadmap planning and execution
+Responsibilities include leading a team of Research Analysts performing market profiling, identifying desirable functionalities/approach and providing actionable business solutions and approach
+Understanding the client needs, prioritizing the research with Architecture board and responsible for presenting team KPI and performance metrics to client senior management.
+An integral part of profile includes bringing product vendor solutions in the lab and performing specific business use cases to validate functionality and client requirements to prepare a comparison score card
+The deliverables include detailed Project plan, performance metrics, Team forecast, Budget adherence, Research whitepapers, product/approach recommendation and business use case validations
+Company: HCL Technologies Ltd							  Feb ‘10 – Apr ’15
+Role: Deputy Manager
+MASKED_ADDRESS
+Client Name: Genworth - a leading provider of Lenders Mortgage Insurance (LMI)
+Industry Sector: Insurance
+Project Description: We were working with the client in claims administration area. The client was using MASKED_NAME Claims center for Mortgage claims. The scope of work included Application Maintenance, Enhancement and Support and product version upgrade for : 
+MASKED_NAME – This is a claims application based on ClaimCenter V5.0. It includes claims application interfaces, Reporting and Configuration
+Duration: (Mar 2014 – Apr 2015)
+Role: SCRUM Master/Business Analyst 
+Responsibilities:
+Mentored the core IT team to follow Agile practices instead of waterfall and deliver the project using Scrum
+Gathered requirements from various business teams
+Created stories out of various requirements and planned for implementing them in various iterations
+Created a story backlog in JIRA and keeps on updating them accordingly
+Base lining of all the business artifacts and requirements implemented in each iteration and release accordingly
+Compliance to schedule and containment of defect leakage
+Duration: (Feb 2010 - Mar 2014) – Business Solutions Group
+Proactive proposals, Response to RFP’s and collateral preparation
+Responsible for end-to-end opportunity life-cycle including bid management & planning, proposal handling, win strategy formulation, solution development, estimations, bid pricing, deal reviews & approvals, proposal defense, due diligence, best & final offer (BAFO) and contract negotiation.
+Understanding customer pain points and recommending solutions, Market research, and competitive intelligence based on sales pursuits.
+Strategic Initiatives
+Spearheaded Solution workshops with clients to validate scope and refine the solution offerings  
+Worked extensively in giving joint proposals with product partner like eBao, CSC etc. to cement long term partnership and evolution of go to market strategy
+Company: Office Depot Reliance
+Role: Management Trainee, IT, Supply Chain and Merchandising                                      Jul ‘09 – Feb’10
+Locations: MASKED_NAME, MASKED_LOCATION                
+Identified problem areas and suggested ways to tackle business issues by data generation and analysis for catalogue marketing campaigns.
+Redesigning SKU creation process to improve follow ups by defining department specific response time and escalation matrix
+Involved in process improvements for transparency and better compliance during Supply Chain training.
+Company: Schneider Electric India
+Role: Software Engineer                                                                                                        Aug ‘04 – May’07
+Locations: MASKED_NAME, MASKED_LOCATION                
+Led a team for a prestigious firmware verification project, coordinating across four countries.
+Responsible for project execution, planning, resource requirements, duration, risk analysis and mitigation.
+Member of steering committee responsible for obtaining quality certification (CMMI Level 3).
+SUMMER INTERNSHIP                                         TATA COMMUNICATIONS (Corporate Strategy Department)
+Formulated Market Entry Strategy for TATA Communications in middle-east markets (U.A.E., MASKED_LOCATION and MASKED_LOCATION) 
+Assessed market attractiveness from the macroeconomic, regulatory and telecom market perspective

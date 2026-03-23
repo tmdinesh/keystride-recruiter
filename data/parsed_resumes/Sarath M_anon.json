@@ -1,0 +1,30 @@
+{
+  "resume_id": "Sarath M_anon",
+  "skills": [
+    "java",
+    "javascript",
+    "react",
+    "angular",
+    "html",
+    "css",
+    "bootstrap",
+    "jquery",
+    "spring",
+    "rest",
+    "soap",
+    "sql",
+    "postgresql",
+    "mysql",
+    "mongodb",
+    "oracle",
+    "apache",
+    "jira"
+  ],
+  "education": {
+    "degree": "Education: Bachelor\u2019s from JNTU-India",
+    "year": "Unknown"
+  },
+  "experience_years": 7,
+  "projects": [],
+  "certifications": []
+}

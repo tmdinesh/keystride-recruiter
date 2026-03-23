@@ -1,0 +1,182 @@
+                                                                              RESUME
+                                                             RAMA KARTHIK NANDYALA
+                                                                MOBILE NO: MASKED_PHONE
+                                          EMAIL-ID: MASKED_EMAIL
+PROFESSIONAL SUMMARY
+Overall 8+ years of experience in Software design and development activities including requirement analysis, design, implementations and testing of various client server based applications using MASKED_NAME and J2EE technologies. 
+Extensive experience in MASKED_NAME, Servlets, JSP, JavaScript, MASKED_NAME, JSTL, MASKED_NAME, JSF, EJB, AJAX and Custom Tag Libraries. 
+Extensive experience in working with different MASKED_NAME like Spring, MASKED_NAME and ORM (Object Relational mapping tools) like MASKED_NAME. 
+Experienced working with databases like DB2, MY SQL, MASKED_LOCATION, MS SQL Server and Application Servers like BEA WebLogic, IBM WebSphere, MASKED_NAME.
+Expertise in developing critical & responsive GUI / front-end components using HTML, MASKED_LOCATION, DHTML, JavaScript, CSS2/CSS3, JSON, JSP, Servlets, MASKED_NAME, JQuery, EXT.JS, JSTL and JavaScript using frameworks like Bootstrap, AngularJS, MASKED_NAME 
+Experience in application of MVC and MVVM client-side JavaScript frameworks such as Angular 2.0, Angular.JS, Back Bone.JS, MASKED_NAME.JS, MASKED_LOCATION.JS.
+Experienced on Server-side JavaScript structures like NodeJS, Hapi.JS, Express.JS.
+Experience in performing unit testing using MASKED_NAME and ridiculing systems like JMock and MASKED_LOCATION integration and development of applications done using Ant and MASKED_LOCATION tools. 
+Worked on MASKED_LOCATION databases like MongoDB and Apache Cassandra.
+Swagger usage and testing structures like Mock MVC, Mock MASKED_NAME.
+Experience in Integration of Amazon Web Services AWS application like Amazon EC2, Amazon S3, Amazon Simple DB, Amazon Elastic Load Balancing, Amazon SQS, Amazon EBS and Amazon MASKED_NAME. 
+Experience in conveying and arranging application servers, for example, IBM WebSphere, Oracle WebLogic, MASKED_NAME and Apache Tomcat.
+Expertise in Database Drivers Like JDBC, Spring JSBC to summon DB stores strategies. 
+Experience in ORM systems like MASKED_NAME, Spring information, MASKED_LOCATION and JPA. 
+Extensive experience with MASKED_NAME in ORM (MASKED_NAME) and Spring (Spring MVC, MASKED_NAME, MASKED_NAME, Spring AOP, Spring Batch Spring Security).
+Experience in using test tools like Selenium for Unit and Integration Testing and used Cucumber for Acceptance Testing.
+Sound learning on bundle directors, for example, NPM, Bower, Web pack.
+Extensive working background with different J2EE MASKED_NAME like Spring MVC, MASKED_NAME, JSF and master level aptitudes in spring system modules like Spring Batch, Spring Security, Spring Boot, MASKED_NAME, Spring JTA, Spring AOP. 
+Profound learning on MASKED_LOCATION, Gradle, ANT as fabricate content for application assemble and arrangement. 
+Worked under a business rule management system (BRMS) like MASKED_NAME.
+Worked on utilizing Rabbit MQ, IBM MQ, MASKED_NAME as a Message Oriented Middleware for coordinating applications.
+Strong learning in SOAP, WSDL, and RESTful for trading organized data in the usage of web administrations. 
+Developed small scale administrations like RESTful web benefit MASKED_NAME with MASKED_LOCATION, Apache CXF.
+Extensive experience using Spring Framework in business layer for Dependency Injection, AOP, Spring MVC, transaction management and using MASKED_NAME as a persistence layer. 
+Experienced in utilizing source code variant administration apparatuses like SVN, MASKED_NAME and undertaking sprinters like Grunt, Gulp and Web pack.  
+Designed and developed Spring SOAP and RESTful web services and Spring JMS modules to interact with enterprise and legacy applications.
+Worked in developing web applications on MVC based frameworks like Spring, Spring IOC, Spring Security, Spring Boot, MASKED_NAME, and Spring MVC. 
+Implemented Spring Cloud- MASKED_NAME to building microservices to communicate with each other.
+Implemented Spring Circuit Breaker pattern, integrated MASKED_NAME to monitor Spring micro services.
+Worked on Microservices using MASKED_NAME container using Amazon EC2 container service and using AWS admin console.
+Excellent working knowledge on popular frameworks like MASKED_NAME, Spring, MASKED_NAME.
+Sound learning on consistent mix and persistent improvement devices like MASKED_LOCATION, Hudson, Puppet and Bamboo. Strong involvement in UNIX and Shell Scripting.
+Extensive experience in MASKED_LOCATION, Stored Procedures, Functions and Triggers with databases such as Oracle, IBM DB2 and MS SQL Server.
+Worked under the latest standardized version of JavaScript like ECMAScript 6.
+Experienced in using WSDL, SOAP, and Apache AXIS for Web Services. 
+Excellent communication, interpersonal and analytical skills and a highly motivated team player with the ability to work independently.
+TECHNICAL SKILLS
+EDUCATION
+Bachelor of Technology in Computer Science from Bonam Venkata Chalamayya Engineering  college.
+                                                        PROFESSIONAL EXPERIENCE
+Client6                                                                                                                  Sep 2016 – Till Date
+Fidelity National Information Services Inc.(FIS)
+MASKED_LOCATION, MASKED_LOCATION
+Full Stack Java Developer
+Project Description: FIS company delivers an innovation Consumer eBanking product that provides on-line banking solutions for over 2 million customers of over 200 financial institutions nationwide. This Project involved in developing a Web-based application. I worked with technical services team to build applications which are easily interact with users and full fill their needs.
+Responsibilities: 
+Developed the login portal using framework AngularJS 2.0 along with MASKED_NAME, CSS3 and Type Script. 
+Worked with Angular CLI and Typescript in Angular 2.0 to create Controllers and Angular components for the Web Pages.
+ Implemented form validation on HTML forms using the built-in validation properties and methods in Angular 2.0.
+Implemented a metrics collection mechanism for the server by utilizing Apache Kafka to stream server-side events.
+Worked on Microservices using MASKED_NAME container using Amazon EC2 container service and using AWS admin console.
+Worked under the latest standardized version of JavaScript like ECMAScript 6.
+Worked in developing web applications on MVC based frameworks like Spring, Spring IOC, Spring Security, Spring Boot, MASKED_NAME, and Spring MVC. 
+Implemented Spring Cloud- MASKED_NAME to building microservices to communicate with each other.
+Implemented Spring Circuit breaker pattern, integrated Hystrix dashboard to monitor Spring micro services.
+Worked under a business rule management system (BRMS) like MASKED_NAME.
+Involved in working with web-based apps use Site Minder for security and authentication purposes. 
+Created is a new cluster and container management tool using Kubernetes 
+Created a display framework that reads the Open API specification document and generates an interactive documentation website using MASKED_NAME.
+Worked under Scripting languages like MASKED_NAME. 
+MASKED_NAME and to provide the security to RestFull web services using OAUTH 2.0.
+Writing server-side request handling and automated functional test cases to validate UI functionality using Node.js.
+Used Angular JS -1.x to create views to hook up models to the DOM and synchronize data with server as a Single Page Applications.
+Designed and built a Web socket server in MASKED_LOCATION to process MASKED_NAME requests and synchronize events within distributed groups.
+Involved in various single page applications(SPA) using REACT JS and used various components in the REDUX library.
+Worked with Web pack for bundling application source code in convenient chunks and for loading that code from a server into a browser.
+Developing stand-alone, and production-grade Spring based Applications using MASKED_NAME.
+Using Spring Boot to provide 'starter' POMs to simplify the Maven configuration
+Implemented Virtual Dom for Client-Side view rendering services using REACT JS.
+REACT JS Virtual DOM used for client-side view rendering services, MASKED_LOCATION-Redux for state management and React-Router for programmatic navigation. 
+Environment: AWS, MASKED_NAME, Node-JS, Angular2, Type script, Web pack, ECMA6, MASKED_NAME and jasmine, MASKED_NAME, Spring cloud like MASKED_NAME, Hystix, Netflix ZUL, Angular2 Injection annotations, Angular2 Shadow Dom, Micro services architecture, MASKED_NAME, MASKED_NAME, OAUTH, MASKED_NAME, MASKED_NAME 
+Client5                                                                                                                             Aug 2015-Sep 2016
+Viva Health care, MASKED_LOCATION, MASKED_LOCATION 
+Full Stack Java Developer
+Project Description: VIVA Health, Inc. is an MASKED_LOCATION based HMO insurance company that is a part of the UAB Health System. As part of an innovative network of services we develop Web-based MASKED_NAME application which provides premiums based on customer information. I worked in Creating Responsive User Interface website for Online Payment of Payroll and Health Care benefit.
+Responsibilities:
+Worked in Developing stand-alone, and production-grade Spring based Applications using MASKED_NAME.
+Extensively used MASKED_LOCATION technologies provided by SPRING BOOT like MASKED_NAME which is used as an Database for this project.
+Worked under implementing JSX in MASKED_LOCATION JS with react tools to compile JSX code to JavaScript
+Developed various single page applications(SPA) using REACT JS and used various components in the REDUX library.
+Writing server-side request handling and automated functional test cases to validate UI functionality using Node.js.
+Experience in Docker Engine and Docker Machine environment, to deploy the micro services-oriented environments for scalable application.
+Implemented Virtual Dom for Client-Side view rendering services using REACT JS.
+Extensively worked in writing minimal code in building re-usable forms with their validations using REACT with Redux Architecture.
+Also, Extensively ES6 To Create Components in REACT using BABEL because it is not supported in all MASKED_NAME.  
+Worked with Jenkins Continuous Integration and MASKED_NAME Deployment(CI/CD).
+Implemented Spring Circuit breaker pattern, integrated Hystrix dashboard to monitor Spring micro services.
+Created is a new cluster and container management tool using Kubernetes 
+Used Maven and MASKED_LOCATION to automate the construct and convey process and SVN was utilized for project administration and version management. 
+Experience in Docker Engine and Docker Machine environment, to deploy the micro services-oriented environments for scalable application.
+Installed Microservices using Docker container using Amazon EC2 container service and using AWS admin console.
+Experience in using NoSQL (MongoDB) data models document, key-value & wide column, or graph model.
+Worked with mongoose connector for database persistence using Node.js to interact with MongoDB
+Used Express JS which is fast, assertive, essential and moderate web framework of MASKED_LOCATION that helps manage a sever and routes.
+Implemented various Business rules in the drools file using MASKED_NAME rule engine.
+Implemented where MASKED_NAME are used to test MASKED_LOCATION Js components and MASKED_NAME for MASKED_LOCATION for testing endpoints.
+Deployed our Application on Pivotal Cloud Foundry which is used to reduce the development overhead by providing a ready to use platform.
+Environment: MASKED_NAME/J2EE 1.6, JSP, Spring boot, AngularJS, Node-JS, CSS3 and JavaScript, XML, Eclipse IDE, MASKED_LOCATION, MASKED_LOCATION, MASKED_LOCATION js, MASKED_LOCATION, Spring boot, MASKED_NAME, Express js, NPM, Web pack, MASKED_NAME, Kubernetes, Cloud foundry, MASKED_NAME, ECMS 6, JSX-react, AXIOS, MASKED_LOCATION life cycle, MONGO DB, Mongoose connection, NODE JS service, OPEN ID CONNECTION, OAUTH, HTML, CSS3.
+Client4                                                                                                                         Nov 2014 - Aug MASKED_ADDRESS Bank, MASKED_LOCATION, MASKED_LOCATION.                                                                                         
+MASKED_NAME
+Project Description: Business Foundation System (BFS) is an insurance policy underwriting system under the Commercial Small Insurance vertical. This application provides quotes for customers and enables agents to issue and renew insurance. The underwriters can update with the new rates and edits. Property and liability, auto insurance, worker's compensation are the three lines of busiesses supported by this application. It also interacts with some third party applications and has the facility of accepting quote requests from other vendors. I worked under Cash Management and Financial Admin under this project.
+Responsibilities:
+Implemented a metrics collection mechanism for the server by utilizing Apache Kafka to stream server-side events.
+Designed, configured and deployed Amazon Web Services (AWS) for a multitude of applications utilizing the AWS stack (Including EC2, S3), focusing on high-availability, fault tolerance, and auto-scaling.
+Worked in various Business rules in the drools file using MASKED_NAME rule engine.
+Configured AWS EC2 instances, domain mapping via MASKED_NAME.
+Extensively used CSS and Bootstrap for styling the HTML elements. 
+ MASKED_NAME using Rest Template with SpringBoot and gradle. 
+ Containerized the SpringBoot microservice using MASKED_NAME. 
+ Participated in front end development using JSF 2.0, JavaScript, HTML 5, CSS 3.0. 
+Designed Frontend with in object oriented MASKED_NAME with Angular.js.
+MASKED_NAME for using AWS Lambda to manage the servers and run the code in the AWS.
+Developed dynamic web pages using MASKED_NAME, CSS3, jQuery, Bootstrap, Less, CSS3(SASS) and AJAX.
+Tested JavaScript using MASKED_NAME frameworks. 
+Configuring and managed public/private cloud infrastructure utilizing Amazon Web Services like Amazon Ec2, Amazon S3.
+Implemented ODBC which is used for connecting to the database MASKED_NAME.
+Integrated testing methods implemented by using MASKED_NAME and MASKED_NAME application on Spring framework by utilizing its features like MASKED_NAME, Spring Dependency injection, Spring Beans, Spring Security, Spring JPA, Spring Web flow using MVC.
+Apache CXF helps you build and develop services using frontend programming APIs, like JAX-WS and JAX-RS.
+Developed RESTful Services and Web Service Clients (JAX-RS or JAX-WS) with data representation in different formats such as XML and MASKED_NAME.
+Environment: MASKED_NAME, J2EE, MASKED_NAME, MASKED_NAME, Spring Frame work, JSF, EJB, JMS, AJAX, JavaScript, Spring MVC, MASKED_NAME, spring security, Spring IOC, Apache CXF, Rest Service, Jax RS, BROOLS, Angular JS, Angular controllers, Angular customs directions, digestive cycle, MASKED_NAME and jasmine, Multi Threading, AWS, MASKED_LOCATION, MASKED_NAME, CSS3, MASKED_NAME, ORACLE, Rabbit MQ.
+Client3                                                                                                                        Dec 2013 – Nov 2014
+Connexions Loyalty Group, MASKED_LOCATION, MASKED_LOCATION.                                                                        
+MASKED_NAME: The objective of Company is to have a framework in place for the organization, which allows the business users to add new customer configurations, customer product catalog, excluded product details list etc without depending on the development team. 
+Responsibilities: 
+Used Backbone JS to utilize its rendering functions and create controllers to handle events triggered by clients and send request to server.
+Developed application on Spring framework by utilizing its features like MASKED_NAME, Spring Dependency injection, Spring Beans, Spring Security, Spring JPA, Spring Web flow using MVC
+These applications need to maintain privacy and restrict illegal users. To achieve the functionality, we used Spring Security.
+We kept up bean life cycle by utilizing Spring IOC which keep up session information of beans.
+ Implemented Spring AOP for cross cutting concerns.
+MASKED_NAME ORM framework used to interact with database through Hibernate query language(HQL).
+Used ANT to deploy application in IBM WebSphere in UNIX environment IBM AIX. Tested the application after making the necessary configuration.
+Provided daily support for production, stage and testing environments for WebSphere MQ operations and problem determination.
+Involved in multi-tiered J2EE design utilizing Spring Inversion of Control (IOC) architecture and Spring JPA.
+Worked with MASKED_NAME JS to code some new functionality and developed application front end using HTML, CSS, MASKED_NAME.
+Worked on Hibernate persistence tier. This involves developing mapping files and MASKED_NAME (POJOs/ DAOs). 
+Used SOA, UDDI lookups and Web Services Description Language(WSDL) using SOAP protocol.
+Used JaxWS framework to create SOAP web services.
+Used Web services for sending and getting data from different applications using SOAP messages
+Involved in development of SOAP Webservices using Apache Axis to extract client related data from databases.
+Involved in Design UI Screen, created several mock up Using HTML, CSS and JavaScript.
+Implemented SOAP Services (JAX-WS) to interact with external systems. Involved in writing client code for invoking SOAP based web services.
+MASKED_NAME prototypes and ready XHTML documents with CSS style sheets.
+Environment: MASKED_NAME/J2ee, SQL, PL/SQL, XML, MASKED_LOCATION, MASKED_LOCATION, Spring MVC, Spring IOC, spring Security, JSP, MASKED_NAME, MASKED_NAME script, JQUERY, Backbone JS, Handle bar JS, MASKED_NAME, MASKED_LOCATION, Unix script, Shell Scripts, Jax WS, Soap Services, Jax WS security, wsdl-2,HTML,CSS,AJAX, IBM MQ, MASKED_LOCATION. 
+Client2                                                                                                                             July2011 – Aug 2013
+Virtusa Consulting Services, MASKED_LOCATION, MASKED_LOCATION                                                                     
+Java/J2EE Developer
+Project Description:  
+The system provides online access to Members, Employers and Brokers regarding Patient Administration, MASKED_LOCATION and Pharmacy Management functions for the hospital. The major functions are Member registration and Medical Record information, Pharmacy Information, Appointments, Handling Hospital Admissions, and Assigning Insurance Details for Billing, Recording Transfers within the hospital and Creation of Discharge Summary and Details. The system is developed using J2EE Technologies with Spring Frame Work and Hibernate Technologies.
+Responsibilities:
+Used Spring AOP module to handle transaction management, logging and profiling.
+Implemented various Business rules in the drl (drools file) using MASKED_NAME rule engine.
+Involved in Design UI Screen, created several mock up Using HTML, CSS and JavaScript.
+Created Stored Procedure, MASKED_NAME for database access and events.
+We kept up bean life cycle by utilizing Spring IOC which keep up session information of beans.
+MASKED_NAME prototypes and ready XHTML documents with CSS style sheets.
+Implemented Multithreading feature for processing the multiple requests to achieve high performance. 
+Used SQL which is JavaScript database which is a lightweight client-side in-memory SQL database designed to work in browser.
+Used JaxWS framework to create SOAP web services.
+Used Web services for sending and getting data from different applications using SOAP messages. 
+Involved in development of SOAP Webservices using Apache Axis to extract client related data from databases.
+Implemented SOAP Services (JAX-WS) to interact with external systems. Involved in writing client code for invoking SOAP based web services.
+Environment:  J2EE, JSF, MASKED_NAME, MASKED_LOCATION, JSON, JavaScript, MASKED_LOCATION, Spring framework, Spring IOC, MASKED_NAME, Prime faces, MASKED_NAME, jax WS, soap services, stored procedures in sql server, Drools, Spring AOP, IBATIS, MASKED_NAME, MySQL , PL/SQL, XML, WSDL, SOAP, SOAP UI, IBM WebSphere JUnit, Web sphere Application Server, Tomcat. 
+MASKED_NAME
+Global Tele Systems, MASKED_LOCATION, MASKED_LOCATION
+MASKED_NAME Global Insurance System is software designed for a group of insurance agents, which supports the maintenance activities of Insurance Policies and their associated company details, their procedures in maintaining various types of policies, with the corresponding details of Policy holders, associated agents involved in the policy maintenance and etc. 
+Responsibilities: 
+Implemented Multithreading feature for processing the multiple requests to achieve high performance.
+Used various MASKED_NAME concepts such as Exception Handling, Collections.
+Developed the modules using Servlets, Java2EE and MASKED_NAME for connecting with MySQL.
+Developed stored procedures, triggers in MySQL for lowering traffic between servers & clients.
+Performance tuning of JVM heap size, Garbage collections, MASKED_NAME stack and Native thread & production performance.
+Developed and implemented the MVC Architectural pattern using MASKED_NAME framework including JSP, Servlets, and EJB.
+Deployed Application using MASKED_NAME Web logic Server.
+ Expert in MASKED_NAME with strong understanding of Garbage Collector, SWING, Collections, Multithreading, Event handling, Exception handling and MASKED_NAME.
+Developed and implemented the MVC Architectural pattern using MASKED_NAME framework including JSP, Servlets, and EJB.
+Used Structs Framework in the application, which is based on MVC design pattern.
+Environment: MASKED_NAME, J2EE, JSP, JSTL, Swing, JSP, HTML, CSS, servlets, MASKED_NAME, EJB, MASKED_NAME, XML, JavaScript, MASKED_NAME like multithreading, collections, Interface and abstract classes, strings.

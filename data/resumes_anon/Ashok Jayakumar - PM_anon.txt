@@ -1,0 +1,118 @@
+       Ashok Jayakumar                           
+Phone No: MASKED_PHONE EXT 104								       
+MASKED_EMAIL
+CAREER SUMMARY
+Management and maintenance of banking and automotive supply chain based applications for 12 years spanning the roles of a Developer, MASKED_NAME, Onsite Coordinator, Subject Matter Expert, Business Analyst, Project Manager and Scrum Master.
+Execute projects using both Waterfall and Agile methodology.
+Create Business Cases, Request for Proposals and Statement of Work on new projects.
+Establish Service Management procedures between client and vendors.
+Create WBS and project plans with inputs from the team.
+Determine standards, processes and procedures to execute the project.
+Effective and Efficient communication with identified stakeholders.
+Direct the Sarbanes-Oxley compliance of changes deployed to production.
+Oversee quality of deliverables and ensure they meet defined standards.
+Conduct audits on changes and relevant documentation and track action items to closure.
+Manage team, remove roadblocks and perform appraisals on individual performance.
+Solution driver who bridges the gap between business and technology with expertise in managing complex business requirements.
+Guide offshore teams and onsite teams in planning and execution of projects.
+Monitor problem areas and devise improvement plans to help business and IT function better.
+Manage business and technology needs with realistic project commitment and also generate cost-effective solutions within the allocated budget.
+Chair, own and steer defects triage meetings.
+Document business functions as Application Information Documents to be used as reference by the entire team and as a value add to existing client documentation.
+Implement standardized project management methodologies, cost controls, and best practices.
+Manage daily operations, prioritize work and develop creative solutions to broad issues.
+Lead initiatives on continuous improvement activities thus reducing year on year cost to clients.
+Create Proof of Concept to understand requirements of clients and taking it for development.
+Communicate with the upper management team for obtaining people, resources, share project status and address areas of concern.
+Suggest optimal solutions to business problems making use of the right tools.
+Review and suggest designs for User Interfaces on IT applications.
+Designed and developed a lockbox reporting solution independently.
+Translate business rules into corresponding IT system rules without any gaps.
+Protect team from external disturbances and highlight team’s achievements.
+Gather data, analyze and present cases to clients for starting new projects.
+Lead meetings and take action items to completion.
+Create monthly vehicle reports for NHTSA.
+EDUCATION
+Bachelor of Engineering in Computer Science and Engineering from Anna University, MASKED_LOCATION, MASKED_LOCATION.
+IT SKILLS
+Design and Planning		MS Project and MASKED_NAME: 			COBOL, SQL, REXX, MASKED_LOCATION/DB, CICS, JCL, HTML, XML, MASKED_NAME, MASKED_NAME
+Databases: 			DB2, MS-Access, IMS DB
+Operating System: 		MASKED_LOCATION, MVS/OS390 
+Other Software/Tools:		HP ITSM, SharePoint, MASKED_NAME, MASKED_LOCATION, Endevor, Panvalet,  IMS utilities, IBM utilities, BMC Utilities, File-aid, VSAM, SPUFI, MQ Utilities, ISPF, Expeditor, RPC, Elixir, DTCN, MASKED_NAME, Clear Quest, SVN, Systemware.
+PROFESSIONAL EXPERIENCE
+Mazda North American Operations, CA, USA					Jun 2015 – till date
+Project Manager/Analyst for Marketing and Sales Operations Projects
+Initiate and plan implementation of projects. Interact with the business unit for specifications and translate them into application specifications. Study current applications, document and communicate the required information to offshore team for development. Clear hindrances and coordinate with multiple teams for project execution. Demonstrate application usage to business users and improve functions based on their feedback. Provide support for critical issues to ensure smooth functioning of business processes. Report on project performance on a weekly basis and be a liaison between clients and project team. Identify areas of improvement and propose projects to enhance system efficiency.
+Led and implemented a new critical Brand Experience Program in multiple phases that qualifies millions of dollars in dealer payout based on a defined set of elements and business rules.
+Provide visual concepts and system behavior.
+Perform the role of a Scrum Master for projects executed using Agile methodologies.
+Managed a project for Windows 10 compatibility of applications.
+Planned and executed projects for modernization of legacy systems.
+Create business cases and SOWs for new projects.
+Chair status meetings with offshore and clients.
+Effectively manage requirement changes by negotiating with clients on when to accommodate the changes without disrupting normal behavior.
+Work with business unit to resolve dealer payment issues, avoid litigations and to maintain dealer satisfaction.
+Build and maintain strong client relationship and ensure overall customer delight.
+Identify gaps in business processes and suggest projects to enhance business operations.
+Manage a tablet based web application that is used for pitching sales of vehicles at dealerships.
+Coordinate with application teams to adapt internal dealer applications on mobile devices.
+Managing and mentoring team with members in multiple remote locations.
+Conducted technical audits and project health check reviews.
+Gained two new projects based on the success of the Brand Experience Program.
+Monitoring the effectiveness of incident and request management and making recommendations for improvement.
+Suggested User Interface behaviors that became the standard for all application migrations.
+Managed changes effectively by suggesting alternate solutions thus protecting project baselines.
+Gained expertise on managing the project and application that enabled team cooperation and recognition from other project managers
+Obtained appreciations from client on team performance thus increasing their chances of rewards from the organization.
+Coordinated with various third party DMS vendors such as CDK, R&R, MASKED_LOCATION and MASKED_LOCATION in building integrations between DMS systems and native applications.
+Conducted project closure meetings to get feedback, lessons learnt and improvement opportunities.
+Scrum Master for a geographically distributed team.
+Technology - Web Services, XML, MASKED_NAME, MASKED_NAME, HTML, Stored Procedures, Mainframes, .Net
+Mercedes-Benz, NJ, USA							Oct 2013 – Jun 2015
+Project Lead for Dealer Claims, Warranty Systems and Overall Dealer Website Projects
+Manage the support team and work towards solving reported issues within defined Service Level Agreements. Define workloads and deliverables, mentor team and conduct performance reviews. Plan for bimonthly release of ranked enhancements based on priority and team’s bandwidth. Advice team on providing value added services besides regular work to bring in customer delight and goodwill. Prepare project health status reports and meet with clients every week for review.
+Proposed for a new project to convert an excel sheet based application into an online application and managed the successful implementation of the project. This helped the business user community to manage all issues related to any vehicle in a systematic way.
+MASKED_NAME the nightly batch cycle time optimization exercise and achieved a 15% reduction of the total cycle time. Earned appreciations from the client for improving the cycle time.
+Participated in new project proposals showcasing domain knowledge and capability of the organization to execute the projects efficiently.
+Revised project plan to accommodate new scope of work and also restructured the offshore team to align with the new plan.
+Automated a manual process that created dealer comparison reports with the help of a series of backend jobs achieving a total effort reduction of 2 days per report.
+Led a dealer warranty scorecard facelift project to modernize the screen that increased website hits by 36%.
+Worked with the Scrum Master of a new development project to maintain the Scrum artifacts.
+MASKED_NAME and published trackers on progress of all projects every week to client management.
+Conducted periodic audits on source changes to track if the changes are relevant to the projects.
+Maintained multiple development environments shared by multiple teams. Recorded and reported the availability of each environment every week.
+Performed the first round of User Acceptance Testing before delivery to the clients. Demonstrated application functions to clients for sign-off and deployment to production.
+Drive calls with offshore team on Incident Management, ageing and backlog tickets.
+Monitor system for any improvement opportunities and suggest solutions.
+Technology - Java, MASKED_NAME, Mainframes, Remote Procedure Calls
+Toyota Motor Sales, CA, USA							Feb 2009 – Sep 2013
+Project Lead for multiple Vehicle Supply Chain Applications
+Lead the enhancements and support of the logistics portfolio of applications. Perform internal IT audits for Sarbanes-Oxley compliance check of all work done by the team. Analyze areas of improvements and start initiatives to implement them. Develop work breakdown structures and implementation schedules.
+Proposed and materialized a project to automate user access to different applications.
+Designed and implemented a new version of sales reports to be displayed on mobile devices with a one-page layout.
+Convinced the incumbent vendor to integrate new applications with the existing user access system instead of creating a new one.
+Achieved 50% system efficiency by redesigning an events recycling system.
+Coordinated with external vendor teams to perform a disaster recovery exercise in 3 hours on a cycle that takes about 1 day.
+Provided business analysis on a logistics application system that helped senior management to bid for a new logistics portfolio.
+Established the end to end process for incident management and enhancements to be followed by all projects in the engagement.
+MASKED_LOCATION sales reports used by the Office of the Chief Information Officer.
+Designed a new sales report that lists sales data of each vehicle series on the company intranet.
+Created interfaces with Next Generation Telematics system to pass vehicle related information.
+Tracked enhancements and bug fixes using IBM ClearQuest tool.
+Performed internal audits on mandatory documentation required for each request for change. Followed-up on audit action items and track them to closure.
+Created User Acceptance test cases, reviewed results with offshore team and followed-up with Business User Group for sign-off.
+Maintained the SOX tool that controls the user access thus maintaining data security.
+Conducted weekly meetings on incident ageing and discuss solutions to address them without causing a breach in SLA.
+SME for a variety of applications in the Vehicle Supply Chain and also acted as the backup in the absence of a lead for other applications.
+Gained confidence with the logistics business unit as an expert so much that my solutions were taken as the final solutions without any arguments.
+Technology - Web Services, XML, MASKED_NAME, MASKED_NAME, HTML, Mainframes
+The Bank of New York Mellon, Offshore Dev Team, MASKED_LOCATION			Jun 2005 – Feb 2009
+Developer/Module Lead/Business Analyst for Reporting and Liquidity Management Systems Projects
+Design and develop financial service systems based on given specifications. Lead the Balance Reporting module managing a two-member team on development projects. Conduct and drive appraisal meetings, defect management meetings, configuration control meetings and knowledge management meetings. 
+Developed a new Lockbox reporting system that calculates and reports activities on all of the bank’s lockboxes within 3 months.
+Headed a project that rebranded the entire system after the merger of Mellon Financial Corporation and The Bank of New York.
+Conducted a system study on effort spent by the team on assigned tasks that helped to change the Statement of Work from a fixed price project to a time and material project.
+Managed the transition of the account by conducting sessions and creating documents for an external vendor without any interruptions in daily support activities.
+Educate new team members regarding tools of the trade.
+Business Analyst for a new balance reporting system to work in an efficient way since the existing system was causing performance issues. The response time was reduced by half as a result of this project.
+Technology - Web Services, XML, MASKED_NAME, MASKED_NAME, HTML, Mainframes.

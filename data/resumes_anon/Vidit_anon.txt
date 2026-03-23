@@ -1,0 +1,87 @@
+Vidit khemka
+Knowledgeable in various avenues of Machine
+Learning. Ability to develop suitable Product
+Codes and MASKED_NAME. Proactive with a
+problem-solving attitude. Ability to build
+innovative MASKED_LOCATION solutions for real-life concerns.
+MASKED_EMAIL
+MASKED_PHONE
+MASKED_LOCATION, MASKED_LOCATION
+14 November, 1997
+linkedin.com/in/vidit-khemka-486061143
+github.com/viditkhemka63
+EDUCATION
+07/2016 – 06/2020
+B.Tech CSE
+MASKED_NAME Singh Indraprastha University
+83.27
+07/2013 – 03/MASKED_ADDRESS of Secondary Education
+89.2
+07/2011 – 03/MASKED_ADDRESS of Secondary Education
+8.4
+PERSONAL PROJECTS
+IEEE-CIS Fraud Detection (08/2019 – Present)
+Do feature engineering
+Predicting tags for StackOverﬂow
+(06/2019 – 06/2019)
+Do text pre-processing ;
+Use multiple models and hyper-parameter tuning.
+Movie Recommended System (04/2019 – 04/2019)
+Do data cleaning;
+Use multiple models.
+WORK EXPERIENCE
+06/2019 – 08/2019
+MASKED_NAME
+Work on AWS;
+MASKED_NAME containerization;
+Machine Learning webinar
+12/2018 – 01/2019
+Web Developer
+Complay Digital Media
+Database management
+MYSQL Server
+CMS Installation
+File management
+Contact: MASKED_NAME – MASKED_PHONE
+PROGRAMMING LANGUAGES
+JavaScript ES6
+Python 3.6
+MASKED_NAME SE 8
+C++
+PHP
+TECHNICAL SKILLS
+MASKED_NAME ( linear, polynomial, ridge, MASKED_NAME and logistic ), Decision trees,
+K-means clustering, KNN, PCA, SVM , XGBoost, recommended system-
+collaborative and content based ﬁltering.
+Machine learning libraries and framework
+Tensorﬂow, pandas, numpy, scikit-learn, MASKED_NAME, nltk
+Natural Language Processing
+RNN, LSTM, GRU, sequence to sequence model
+MASKED_NAME JS
+Express, socket.io, mongoose passport, multer; MASKED_LOCATION
+Angular 2+
+component, routing and navigation, authguard, services, forms,
+MASKED_LOCATION, HttpClient;
+UI
+HTML5, CSS3, Bootstrap;
+Database
+MongoDB, MYSQL, SQL;
+AWS
+ec2, cloudFormation, MASKED_NAME, CodeStar, SageMaker, S3;
+React js
+JSX, Components and props, state and lifecycle, list and key, react-router
+WordPress
+CERTIFICATES
+CodeChef CCDSAP
+Complete the Foundation level of CodeChef Certiﬁed Data Structure &
+MASKED_NAME.
+LANGUAGES
+English
+Professional Working Proﬁciency
+Hindi
+Professional Working Proﬁciency
+INTERESTS
+Watching TV Shows and movies
+Listening music
+Achievements/Tasks
+Achievements/Tasks

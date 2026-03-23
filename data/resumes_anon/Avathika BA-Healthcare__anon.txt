@@ -1,0 +1,97 @@
+MASKED_NAME. Business Analyst
+Ph No: MASKED_PHONE
+Email ID: MASKED_EMAIL
+SUMMARY
+Over Seven years of experience as a Sr. Business Analyst/Quality Analyst.
+Solid understanding of Business Requirement gathering, Business Process flow, Business Process Modeling and Analysis, design documentation. 
+Experience in all phases of the Software Development Life Cycle (SDLC) including Requirement gathering, Design, Development, Testing and Deployment.
+Organized Joint Application Development (JAD), workshops and interview sessions.
+Expertise in Documentation and Review of Software and Business/Technical Requirement Documents. 
+Managed complex business initiatives to balance requirements for functionality, efficiency and quality. 
+Excellent knowledge of Health Insurance Portability and Accountability Act (HIPAA) transaction, code set rules such as EDI 837,270,271,276,277,834,835, NCPDP and ICD9-ICD10.
+Experienced with Rational tools like ReqPro, MASKED_LOCATION, MASKED_NAME, Rational soda, Rational Rose.
+Experienced working in MASKED_LOCATION care, Medicare and Medicaid projects.
+Exceptional Documentation Skills for writing Use Cases and Functional Requirement Documents.
+Design and review of various documents including the Software Requirement Specifications (SRS), Business Requirements Document (BRD), Use Case Specifications, Functional Specifications (FSD), Systems Design Specification (SDS), Requirement Traceability Matrix (RTM) and testing documents.
+Strong experience with MASKED_NAME for creating visual representation of Software/Data Architecture, Use Case diagrams (specially in an Agile environment), Sequence diagrams, Class diagrams, Business Process Flows and basic flowcharts. 
+Extensive experience in configuring data mapping of files using MASKED_NAME.
+Through knowledge of various phases of Edifacs Specbuilder- MASKED_NAME and MASKED_LOCATION.
+Conducted JAD Sessions to develop an architectural solution that the application meets the business requirements, resolve open issues, and change requests. 
+MASKED_NAME of Test Plan, Test Scripts and Test Cases for Functional, System, Integration, UAT, and Regression Testing based on the Design Document for the Functional, Security, and MASKED_NAME. 
+Excellent written and verbal communication. 
+Consistently demonstrated ability to achieve tight deadlines. 
+AREAS OF EXPERTISE
+Operating Systems: Win 98/XP/Vista/Windows 7, UNIX, MASKED_LOCATION, MASKED_NAME.
+Languages: C, MASKED_NAME, MASKED_NAME, SQL, HTML, XML, C#, VB, ASP, .Net
+Databases: Oracle, MS SQL server, MS Access, MY SQL
+Tools: MS Office: Word, Excel, Access, Power point, Project, Visio, Front Office, Rational Rose, SoDA, Software MASKED_NAME, Team Test, Doors, PROLOG, Clearcase, Clearquest, WinRunner, LoadRunner, WebSphere, Business Modeler, HP Quality  Centre, Ultra Edit, TOAD and Test Director, MMIS, JIRA.
+Industry Standards: HIPAA 5010, ICD 10, PPACA (Patient Protection and Affordable Care Act)
+PROFESSIONAL PROFILE
+MASKED_LOCATION Medicaid, MASKED_LOCATION, WV			
+Sr. Business Analyst
+ MAY 2014–Present
+The delivery of the 5010 transactions executed in multiple integrated releases along with system upgrade from ICD 9-10 in MMIS.
+Another project involved helping the department in creating documents for Integrated Eligibility Determination system for Medicaid, QHP and SNAP so it can help later vendor to implement the project effectively.
+MASKED_NAME and Responsibilities
+Worked with client to gather Business/Technical Requirements, Approval of MASKED_LOCATION (Change request), Design and Implementations for State MMIS. 
+Responsible for designing future state processes for ICD 9-10 Crosswalk Table and drafted High Level Business Requirements for ICD 9-10 conversion mapping.
+Worked on creating State based Rule requirement document with Rule ID (CFR number).
+Researched on state based rules, configuration to be implemented in integrated eligibility system.
+Gained extensive experience in designing/modifying the CICS screens for various areas such as Enrollment, Billing, Provider Record and Reimbursement Status in MMIS..
+Wrote clear, concise detailed System MASKED_NAME) documents and user documentation in accordance to guidelines and standards of a level where developers can interpret, design and develop the application with minimum guidance
+Experience in implementation of ICD-9-CM codes and ICD-10-CM codes changes in the current claim processing modules in MMIS. 
+Worked on HP Quality Center 10.0 which include Defects Management, Test Plan and MASKED_NAME. 
+Talking to the client based on requirements of that particular defect, uploading document required, checking history, status notes, setting up resources to handle and fix it.
+Worked on Rational Requisite Pro application to handle various requirements including Functional requirements, High-level requirements, Non-functional requirements, Scope statement and User requirements. 
+Provided online support to users for various applications such as IPCS (Internet Professional Claims Submission). 
+Environment: HP ALM, JIRA, Salesforce, MS Office, Windows 7, MASKED_NAME, HP SharePoint, MS Project, MASKED_NAME, SQL, SOAP, XML, MMIS, Agile.
+Medica health Plans, Minnetonka, MN
+May 2013-MAY 2014					
+Sr. Business Analyst
+ Project was involved working on the design and configuration changes as per the PPACA (Patient protection and Affordable Care Act) in the current healthcare plans
+Roles and Responsibilities:
+Responsible for gathering and documenting Legislative, Business, Functional requirements for all the provisions and their impact on the existing products and systems.
+Responsible for integrating with MASKED_LOCATION. Designing test scripts for testing of Claims in Development, Integration and production environment.    
+MASKED_NAME in the CORE (Committee on Operating Rules for Information Exchange) compliance process for the company.
+Responsible for creating test scenarios, scripting test cases using testing tool and defect management for Policy Management Systems, Payables/Receivables and Claims processing.
+Worked on the PPACA for various mandates such as MASKED_NAME, Rescissions, D-26, MASKED_NAME, Preventive Care, Operating Rules, and Early Retirees Fund etc.
+Wrote test cases and test scripts for the User Acceptance Testing.
+Performed Requirement Analysis and developed Use Cases and Activity Diagrams.
+Traced High Level Requirements (HLR) to Detailed Level Requirements (DLR) using MKS Integrity.
+Conducted meetings with SME's to understand current business process and performed Gap Analysis to meet future business needs.
+Created and managed project templates, use case project templates, requirement types and traceability relationships in MKS Integrity.
+Developed Systems Specifications document to define the impact of the new requirements on the existing system.
+Developed and managed creation of product documentation to communicate features, benefits, positioning and impacts to different audiences and ensured that documentation deliverables from various groups are produced as needed.
+Created Business Requirement Document (BRD), Functional Requirement Specification (FRS) document, User Requirement Specification (URS) and MASKED_NAME (CR) document for system application development.
+Environment:- SQL, Rational Unified Process (RUP), Rational Requisite Pro, Rational Rose, Clear Quest, MASKED_NAME, MASKED_NAME, Mercury Test-Director. MASKED_NAME, 
+ENS Health, MASKED_LOCATION, CO
+APR 2011-APR 2013
+Sr. Business Analyst                                                                                                                                
+Duties included building various applications for physicians, clearinghouses, billing services, and hospitals who submit or receive electronic claim data. Duties include working with the Web Based systems, Desktop Applications and other Clinical Applications.
+MASKED_NAME and Responsibilities:  
+Aided Valuable Information’s in the collection of User Requirements and Business Requirements to create the Business Requirement Documentation (BRDs), using MS Word and MS Visio that provided appropriate scope of work for technical team to develop prototype and overall system.
+Conducted AS-IS and TO-BE analysis and assisted in developed process models and systems integration structure. 
+Conducted and facilitated Joint Application Development (JAD) sessions to reduce time spent in moving information between stakeholders and team members.
+Wrote test cases and test plans for the related and assigned scripts according to the test strategies defined in the project and testing team guidelines in Rational Quality Manager.
+Identified critical areas of business risk and modified business processes to reduce risk by using the Risk-Management Process.
+Knowledge of the complete EDI format used in electronic documentation which was part of the knowledge transfer program to the vendors as per the requirements.
+Worked with Source system Subject Matter Expert (SME) to ensure that the extracts are properly mapped. Used SQL for data mapping and querying.
+As part of the data mapping procedures, assisted in writing requirement document for ETL - Data Extraction, Data Analysis and Loading process of collected data.
+Involved in various types of Audits and the Financials involved through different stages.
+Gained Compliance audit experience due to exposure to the legal/audit consulting groups.
+Environment: MS Office, Rational Quality Manager, My SQL, MS Project, MASKED_NAME, .Net, Mainframes and MASKED_LOCATION
+SFHP, MASKED_LOCATION, CA							
+FEB2010– MAR 2011
+Business/Requirements Analyst
+San Francisco Health Plan (SFHP) is a licensed community health plan that provides affordable health care coverage to over 70,000 low and moderate-income families. Members have access to a full spectrum of medical services including preventive care, specialty care, hospitalization, prescription drugs and family planning services. 
+MASKED_NAME and Responsibilities:
+Worked with a cross functional and diverse team of business users and developers to enable accurate communication of requirements and ensure consensus.
+Attended the training sessions provided by SFHP to make sure that I have an understanding of all the modules in QNXT for example: Members, Providers, Claims, Utilization Management, Finance, Underwriting etc. 
+Had meetings with business users and managers to understand the process what is required/to understand the AS IS process and providing them with the best solutions
+Conducted JAD sessions with management, SMEs, developers and users for open and pending issues.
+Worked on )
+Was involved in the documenting the BRDs for letters to be sent out to members. Had meetings with developers and managers to make sure that letters are coming out of QNXT using SSRS. Users were able to generate letters from reporting services or letters were sent directly to folders using subscription.
+Was involved in MASKED_LOCATION the reports/letters before user testing and was communicating with developers if correction needed.
+Facilitated User Acceptance Testing (UAT) with the stakeholders and the business users, and the errors discovered were fixed and then verified via regression testing.
+Used SharePoint to for documentation and saved all the BRD, Sign off documents and other documents in it. 
+Environment: MS Office, Quality Center, SQL Server, MS Project, MASKED_NAME, Unix, J2ee, MASKED_NAME, XML, Water fall, MASKED_LOCATION

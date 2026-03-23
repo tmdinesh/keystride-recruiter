@@ -1,0 +1,69 @@
+ 
+ 
+Contact
+www.linkedin.com/in/m-
+MASKED_LOCATION (LinkedIn)
+MASKED_NAME 
+MASKED_NAME
+Numpy
+M. Yilmaz
+Python Machine Learning Engineer
+Greater New York City Area
+Summary
+Experienced Data Engineer with a demonstrated history of
+working in the information technology and services industry.
+Skilled in Visualization, Gensim, MongoDB, Scikit-Learn, and
+Python (Programming Language). Strong information technology
+professional with a Bachelor's degree focused in English from
+Binghamton University. 
+Experience
+Summitworks Technologies
+Python data scientist
+June 2014 - Present (5 years 10 months)
+-Analytical programming, back-end development, database design and agile
+methodologies using Python, MASKED_NAME, AWS, Typescript and SQL.
+-Skilled in Machine learning using MASKED_NAME, SciPy, Scikit-Learn, MASKED_LOCATION,
+Gensim and MASKED_NAME.
+-Experienced with MongoDB and SQL databases like MySQL, PostgresQL
+-Skilled in scraping using BeautifulSoup and Regex.
+-Skilled in using SciPy, MASKED_NAME, and MASKED_LOCATION for statistical analysis and data
+visualization.
+-Designed text classification tools using Scikit-Learn, SpaCy, RE and Natural
+Language Processing in Python.
+-Developed predictive and classification models in Python using Scikit-Learn,
+MASKED_LOCATION, MASKED_LOCATION, MASKED_NAME.
+-Experienced with regression analysis, supervised and unsupervised learning.
+-Good knowledge of machine learning algorithms like MASKED_LOCATION,
+PCA, Decision Trees, Random Forest, MASKED_NAME, K-means, Naive
+Bayes,  KNN, SVM, and Neural Networks.
+-Worked with packages like Numpy and MASKED_NAME in Python to understand data
+and develop MASKED_NAME applications.
+-Experienced with analyzing visualizations to obtain insight into large datasets,
+creating visually powerful and actionable interactive reports and dashboards.
+ 
+Page 1 of 2
+
+ 
+ 
+-Excellent at analyzing and documenting business requirements into functional
+and technical terminology.
+-Automated recurring reports using SQL and Python and visualized them in
+MASKED_LOCATION.
+-Experienced in identifying problems and providing solutions to business
+problems using data processing, data visualization and graphical data
+analysis.
+-Solid knowledge of mathematics and experience in applying it to technical and
+research fields.
+-Worked on design and configuration of database and back-end applications
+and programs.
+-Worked within Amazon web services environment.
+-Comprehensive knowledge and experience in data extraction, and data
+loading.
+-Experienced using MASKED_NAME for version control.
+Education
+Binghamton University
+Bachelor's degree, English
+Queens College
+Master's degree, Hydrogeology
+ 
+Page 2 of 2

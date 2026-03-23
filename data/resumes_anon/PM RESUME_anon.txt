@@ -1,0 +1,136 @@
+Avinash
+MASKED_PHONE
+MASKED_EMAIL
+Summary:
+Over 9+ years of Project Management experience working in the Information Technology industry. 
+C level reporting and presentations 
+Strong proven experience in MASKED_LOCATION management, Schedule and Cost Management, Client relationship management, Consulting, contract negotiations and management 
+Strong PMO structuring, modeling, processes, procedures, methodologies and best practices. 
+Strong technical expertise in IT Infrastructure, Application Development, MASKED_NAME, familiarity with IaaS, PaaS, SaaS Azure, AWS, CLC cloud onboarding, cloud portal provisioning. MASKED_NAME, LAN's WAN's, Fiber Optics, wireless. Data Center build outs, migrations, Consolidations, Disaster recovery sites. 
+Full life cycle hardware and applications implementations working cross functionally with engineering, facilities, Operations. 
+Experience in utilizing JIRA to create projects with specified workflows, screens, permissions and fields for different teams.
+Expertise in creating change management plan and utilizing the change management to control project change requests and other changes such as those changes that do not affect project triple constraints. 
+Proven track record of delivering high visibility, large scale initiatives for multiple Fortune 100 companies with an emphasis on Cloud and Data center technology. 
+Experience in working at Information Technology, Manufacturing, and Telecommunications companies. 
+Extensive experience in both client and vendor management. 
+Utilizes strong verbal and written communication skills to brief C-level executives, stakeholders and clients as to all phases of project status. 
+Well versed in using Team Foundation Server (TFS), Microsoft Test Manager (MTM), HP-QTP, and HP Quality Center (QC). 
+Managed business and technical requirements across multiple lines of business and diverse technologies. Possesses a passion for excellence and consistently drives programs to successful completion.
+Adept at identifying issues with product design through subjective assessment and comprehensive analysis and strong pecialization in applying a sound knowledge of various technologies to ensure optimal quality
+Experience in working under SCRUM methodology as a part of Agile environment.
+Ensured all release specific test documentations are complete towards the end of a project release
+Project Management Institute (PMI) member and PMP Certified.
+Areas of Expertise:
+Management knowledge, Financial management, Planning & organizing Business planning, 
+Progress reports, triple constraints (cost, time, and scope) control, and Risk management
+Skills & Competencies:
+Program Management 
+Business requirements gathering, Scope definitions, executive status reporting, budgeting, and managing change control/requests 
+Proficient in PMBOK, SDLC, PMLC, project delivery and methodologies. 
+Experience with the NYS Project Management Guidebook and updating project records in ITSM.
+Project technology, technical scope, solution design, technical architecture and documentation. 
+Infrastructure Technology 
+Cloud, UCS, WMware virtual environments, Active directory, DNS, group policy, Microsoft Windows, Unix, 
+MASKED_LOCATION, MASKED_LOCATION, server maintenance and management, physical and virtual server solutions and 
+configuration in VMware, Microsoft Server support, data center management and delivery. 
+Network Technology 
+Solution, design and deployment of WAN & LAN Enterprise Networks, wireless networks, procurement installation, 
+testing and operations and support of enterprise networks, high speed fiber, TCPIP, MASKED_NAME, F5 Big IP routers, 
+load balancers, switches, hubs, firewalls, intrusion detection devices (IDS). 
+Enterprise Applications
+MS Office - Excel, Word, Access, MS Project, Visio & Project, AutoCAD, Visual Basic, Adobe, Remedy IMS, and 
+Service Station, VMware.
+Professional Experience:
+MASKED_LOCATION ITS – DA Cluster, Schenectady, NY    				        September 2016 – Present
+Project Manager
+Managed migration of servers from MASKED_ADDRESS data center to the new data center at CNSE. Managed the project from the scope of the effort, project initiation, planning, execution, monitoring & controlling, site inventory and labeling methodology, identification of application downtime tolerance, application replication strategy, data backup verifications, third-party vendor management, site preparation, move-day logistics, to site operation verification. 
+Manage NYConnects and Certified Residential Opportunities (CRO) Database projects.
+Daily update of project records in MS Project and ITSM. 
+Consulted and negotiated with internal customers, suppliers and vendors.
+Develop change management plan and utilizing the change management to control project change requests and other changes such as those changes that do not affect project triple constraints. 
+Developed detailed scope statements, and document project requirements for data center consolidation project, NYConnects and CRO projects by eliciting business goals, information needs, and relative priorities from end users, subject experts and others.
+Develop project plan, scope management plan, schedule management plan, cost management plan, communications plan, change management plan, risk management plan, and stakeholder management plan. 
+Direct and manage project work, perform quality assurance, acquire project team, develop project team, and manage project team. Also, manage communications and stakeholder engagement. 
+Managing, facilitating, and reporting status of Data Center Consolidation, NYConnects, and CRO projects.
+Develop project schedules, including identifying and scheduling project deliverables, milestones and required tasks, using MASKED_LOCATION project plan as the scheduling software. 
+Document and present resource needs to Disabilities and Aging (DA) Cluster ITS management and coordinate project activities within program areas.
+Verified weekly change requests (MASKED_LOCATION's) and other maintenance items rolling to production and discussed them on the next sprint planning session. 
+Utilizing JIRA to create projects with specified workflows, screens, permissions and fields for different teams.
+Generating metrics and reports using HP Quality Center (QC) to help the team understand project’s health and progress and to set goals.
+Using HP QC to create projects, configured board, set up access and permissions, created dashboards and filters for easy status visualization.
+Used HP QC to plan, track and report issues and tasks on projects.
+Identify risks and their potential impact on each project; manage contract relationships.
+Provide recommendations and make decisions on changes in the project schedule.
+Plan and conduct project analysis sessions, such as JADs, requirements analysis, and project close-out.
+Develop and document project management artifacts such as Business Case, Charter and MASKED_NAME, Communication Plans, Project Schedules, etc. 
+Environment: MASKED_NAME, Oracle, Quality Center 9.0, MS Access, TABS. 
+Microsoft Corporation, MASKED_LOCATION, WA                                      			             November 2014 – August 2016
+Sr. Project Manager
+Microsoft Corporation is an American multinational technology company headquartered in MASKED_LOCATION, MASKED_LOCATION, that develops, manufactures, licenses, supports and sells computer software, consumer electronics and personal computers and services.
+Responsibilities: 
+Responsible for delivering projects against agreed scope, budget, schedule & customer expectations. 
+Supervised, directed, and motivated teams of multi-discipline contractors and employees.
+Participated in reviewing Business Requirement Documents (BRD) and writing test plans, test scenarios and test cases to ensure that each deliverable is based on the details outlined in the BRD
+Organized, participated, and led project meetings, daily review meetings, and initiated conference calls to discuss issues originated while testing.
+Prepared SOW and conducted the vendor selection process for the setup of the company's network, servers and workstations
+Developed change management plan and utilized the change management to control project change requests and other changes such as those changes that do not affect project triple constraints 
+Used TFS to plan, track and report issues and tasks on a predefined workflow.
+Tracked, reviewed, analyzed and compared defects using Quality Center.
+Monitoring project risks and scope creep to identify potential problems and proactively identifying solutions to address them in advance.
+Developed program level release plan, & developed project plans
+Developed detailed scope statements, and documented project requirements for complex projects by eliciting business goals, information needs, and relative priorities from end users and subject experts
+Escalating promptly any issues that may impact operations.
+Managed project risks using MS Projects
+Producing stage plans, highlight reports, risk logs, requests for change etc
+Providing strategic direction during the implementation stages.
+Prepared economic justification for projects, reviewed scope documents with the project managers to define and develop the design basis and scope of work for projects
+Managing client expectations by ensuring the delivery of the highest quality service
+Performed User Acceptance Testing (UAT)
+Acting on client feedback.
+Monitoring staff & team performance.
+Environment: SAP ERP 6.0, MASKED_NAME, Quick Test Professional 10.0, Frog logic Squish, Quality Center 9.0, TFS, MTM. 
+Verizon Communications, Inc., MASKED_LOCATION, CA                			           December 2012 –  October MASKED_ADDRESS MASKED_LOCATION wireless communications service provider as of September 2014
+Responsibilities:
+Analyzed Business Requirements Document (BRD), Functional Specifications Document (FSD), and MASKED_NAME, prepared Test Strategy and Test plan for UAT testing
+Interacted with Functional and Technical Leads/Developers for understanding the requirements. 
+Involved in task creation, task estimation, task distribution, task prioritization and communication among Onsite and Offshore Team Members.
+Accountable for managing large, cross-functional infrastructure projects. 
+Designed, managed, and delivered effective change management plan for changes impacting the project
+Developed metrics and reports using JIRA to help the team understand its health and progress and to set goals.
+Used JIRA to create projects, configured board, set up access and permissions, created dashboards and filters for easy status visualization.
+Used JIRA to plan, track and report issues and tasks on a predefined workflow.
+Responsible for initiating, planning, executing, controlling and closing multiple large technical projects that address the operational needs of multiple departments to drive and deliver specified requirements, budgets, quality assurance, risk management, vendor management, customer management, supplier involvement throughout the project lifecycle. 
+Facilitated strategic planning with internal customers for deployment of infrastructure services and products. Proactively communicate with, inform and influence others to achieve success for assigned projects and programs. 
+Managed, defined and coordinated project scope and objectives to development teams, Developed project plans and design objectives and project timelines. 
+Developed and deliver presentations to management, senior leadership and other stakeholders.
+Maintain timely and accurate documentation in support of project analysis and daily operations. 
+Oversee the migration and implementation of tier 1 enterprise data center. 
+Project Manager for the implementation of over 1300 applications and hardware. 
+Administered and maintained customer expectations through the project lifecycle and ensured PMO best practices and methodologies that all projects meet established standards.
+Involved in all standards ERP SDLC activities for Functional Testing, System Integration Testing, User Acceptance Testing, Preparation of Training material, and conducting actual User testing
+Published daily, weekly, and manual status to show the progress of the manual testing effort.
+Hughes Network Systems, MASKED_LOCATION, MASKED_LOCATION               			       September 2008 – December 2012
+Project Manager
+Hughes is the world’s leading provider of broadband satellite services, products, and managed network solutions.
+Responsibilities:
+Participated in the analysis of Business Requirement Document (BRD) and documenting Business Use Cases 
+Participated in the work-scope meetings and peer review meetings to evaluate Use Cases with Business and Design team 
+Managed teams of 10 SAP Analysts, 5 SAP Developers, 5 QA Testers, and network and Infrastructure engineers. 
+Created project planning artifacts and adhered to the artifacts during project execution, monitoring & controlling, and close out. The artifacts included but not limited to project management plan, schedule management plan, cost management plan, risk management plan, scope management plan, change management plan, etc. 
+Regulated operational issues and Infrastructure projects including capacity and resource planning. 
+Used Land Desk Service desk for ticketing. 
+Migrated other subsidiaries into a single help desk organization. 
+Established a global enterprise IT infrastructure strategy moving forward. 
+Utilized MS Project, Word, PowerPoint, MASKED_NAME, Excel.
+Member of the Change Approval Board for all operational changes to the environment. 
+Establish and structure Portfolio projects and resources. 
+Managed all PMO organization activities, ie. Funding, prioritization and kicked off for implementation. 
+MASKED_NAME infrastructure environment consisting of 12 offices on the mainland and MASKED_LOCATION. 
+Initiated projects of entire infrastructure upgrade from MASKED_LOCATION directory 2003 to active directory 2012. 
+Built out Business continuity and disaster recovery network. 
+Manage the integration of multiple networks to provide a single global network infrastructure for the company. 
+Train and mentor young engineers who want to pursue a career in management and project management.
+Created test cases, test scenarios in HP Quality Center and ensured traceability to Business Use Cases and according to the application. 
+Stepped in when requirements were not moving forward and mentored analysts on documentation, facilitation and agile processes.
+Organized and attended daily, weekly, and monthly status meeting provided daily, weekly, and monthly reports that included project metrics and existing, prior, and future status reports. 
+Prepared status reports and maintained data of all tests conducted on systems.

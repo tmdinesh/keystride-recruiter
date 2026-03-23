@@ -1,0 +1,42 @@
+{
+  "resume_id": "Sumanth Manne Java Developer_anon",
+  "skills": [
+    "java",
+    "javascript",
+    "typescript",
+    "react",
+    "angular",
+    "html",
+    "css",
+    "sass",
+    "bootstrap",
+    "jquery",
+    "node",
+    "spring",
+    "express",
+    "rest",
+    "soap",
+    "sql",
+    "mysql",
+    "mongodb",
+    "oracle",
+    "aws",
+    "jenkins",
+    "linux",
+    "apache",
+    "jira"
+  ],
+  "education": {
+    "degree": "Unknown",
+    "year": "Unknown"
+  },
+  "experience_years": 8,
+  "projects": [
+    "Deployed the application on a WebLogic server on a UNIX platform.",
+    "Managed the development team at offshore and provided necessary information and artifacts.",
+    "Involved in complete software development life cycle.",
+    "Involved in Design and Development of the System using Rational Rose and UML.",
+    "Involved in Business Analysis and developed Use Cases to capture the business functionality."
+  ],
+  "certifications": []
+}

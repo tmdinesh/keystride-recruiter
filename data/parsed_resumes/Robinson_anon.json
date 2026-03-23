@@ -1,0 +1,21 @@
+{
+  "resume_id": "Robinson_anon",
+  "skills": [
+    "java",
+    "sql",
+    "jira"
+  ],
+  "education": {
+    "degree": "Unknown",
+    "year": "Unknown"
+  },
+  "experience_years": 12,
+  "projects": [
+    "Understanding the Business requirements and Functional specification documents.",
+    "Preparation of Testware - Test Scope, Test Scenarios, Data Guidelines & Run Plan",
+    "Guided and facilitated the team by answering queries promptly especially during UAT execution.",
+    "Performed data analysis using\u00a0SQL queries.",
+    "Involved in migration of Data from one DB to another DB"
+  ],
+  "certifications": []
+}

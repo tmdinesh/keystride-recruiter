@@ -1,0 +1,44 @@
+{
+  "resume_id": "vema reddy_anon",
+  "skills": [
+    "python",
+    "java",
+    "javascript",
+    "angular",
+    "html",
+    "css",
+    "bootstrap",
+    "jquery",
+    "spring",
+    "rest",
+    "soap",
+    "sql",
+    "mysql",
+    "mongodb",
+    "oracle",
+    "aws",
+    "azure",
+    "jenkins",
+    "linux",
+    "apache",
+    "machine learning",
+    "spark",
+    "hadoop",
+    "git",
+    "jira",
+    "postman"
+  ],
+  "education": {
+    "degree": "Bachelor of Technology in Computer Science from MASKED_LOCATION, MASKED_LOCATION.",
+    "year": "Unknown"
+  },
+  "experience_years": 8,
+  "projects": [
+    "Co-coordinated Application testing with the help of testing team.",
+    "Writing database queries on Oracle 9i.",
+    "Writing stored procedures, Packages, Views, Cursors, Functions and triggers using SQL in the back end.",
+    "Wrote SQL commands and Stored Procedures to retrieve data from Oracle database.",
+    "Generated proper correspondence for Health Benefits such as SNAP,\u00a0TANF\u00a0and LiHeap Program."
+  ],
+  "certifications": []
+}

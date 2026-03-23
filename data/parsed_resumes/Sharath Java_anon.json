@@ -1,0 +1,43 @@
+{
+  "resume_id": "Sharath Java_anon",
+  "skills": [
+    "java",
+    "javascript",
+    "r",
+    "react",
+    "angular",
+    "html",
+    "css",
+    "sass",
+    "bootstrap",
+    "jquery",
+    "node",
+    "spring",
+    "express",
+    "rest",
+    "soap",
+    "sql",
+    "mysql",
+    "mongodb",
+    "oracle",
+    "aws",
+    "azure",
+    "apache",
+    "hadoop",
+    "git",
+    "jira"
+  ],
+  "education": {
+    "degree": "Unknown",
+    "year": "Unknown"
+  },
+  "experience_years": 7,
+  "projects": [
+    "Experience with Circle CI, GitHub, and Productive Auto Scaling(PAS) in AWS",
+    "Troubleshoot, analyze, and check production issues in the existing EMS application and fixed bug in given timeframe",
+    "Web application development using AngularJS with cutting edge HTML5 and CSS3.",
+    "Built the project upon the Single Page Application (SPA) criteria.",
+    "Involved in building applications using ReactJS by building re-usable UI Components."
+  ],
+  "certifications": []
+}

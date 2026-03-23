@@ -1,0 +1,163 @@
+Bapuji
+Sr. Hadoop Developer
+Phone: MASKED_PHONE   
+Email: MASKED_EMAIL 
+------------------------------------------------------------------------------------------------------------------------------------------
+PROFESSIONAL SUMMARY:
+Over 8+ years of experience including 4 years of Big Data Ecosystem related technologies with full project development, implementation and deployment.
+Strong Experience working with various Hadoop ecosystem components like, MASKED_NAME, HDFS, MASKED_NAME, Sqoop, Pig, MASKED_NAME, and MASKED_NAME.
+MASKED_NAME on Architecture of Distributed systems and MASKED_NAME processing frameworks. 
+In-depth understanding of MapReduce Framework and Spark execution model.
+Worked extensively on fine-tuning long running Spark Applications to utilize better parallelism and executor memory for more caching.
+Strong experience working with both batch and real-time processing using Spark framework.
+Expertise in developing production ready Spark applications utilizing Spark-Core, Data frames, Spark-SQL, Spark-ML and Spark-Streaming API's.
+Hands on experience in installing, configuring and deploying Hadoop distributions in cloud environments (Amazon Web Services).
+Expertise in developing production ready Spark applications utilizing Spark-Core, Data frames, Spark-SQL, Spark-ML and Spark-Streaming API's.
+Worked on building real time data workflows using MASKED_NAME, Spark streaming and HBase. 
+Worked extensively on MASKED_NAME for building complex data analytical applications.
+Very good understanding of Partitions, bucketing concepts in Hive and designed both Managed and External tables in Hive to optimize performance.
+Used custom serDes like MASKED_NAME, MASKED_NAME, CSV SerDe etc., in hive to handle multiple formats of data. 
+Having knowledge in MASKED_LOCATION platform for securing, managing and monitoring Hadoop clusters.
+Experienced in MASKED_LOCATION coordination services through zookeeper.
+Strong experience using different columnar file formats like Avro, RCFile, ORC and MASKED_NAME formats.
+Worked with Sqoop to move (import/export) data from a relational database into Hadoop.
+Experience working with Hadoop clusters using MASKED_NAME, Amazon EMR and MASKED_NAME distributions.
+Extensive experience in performing ETL on structured, semi-structured data using Pig MASKED_LOCATION.
+Designed and implemented MASKED_NAME and Pig UDF's using MASKED_NAME for evaluation, filtering, loading and storing of data.
+Experienced in job workflow scheduling and monitoring tools like MASKED_NAME.
+Well versed with UNIX and MASKED_LOCATION command line and shell script.
+Adequate knowledge and working experience with agile methodology.
+TECHNICAL SKILLS:
+EDUCATION:
+Bachelor of Technology in Computer Science Engineering at JNTU, Kakinada, MASKED_NAME, MASKED_LOCATION.
+WORK EXPERIENCE:
+MASKED_LOCATION – MASKED_LOCATION, MASKED_LOCATION                                                             		       Jul’17 – Present 
+Role: Hadoop/Spark Developer 
+Responsibilities:
+Developed Spark applications using Scala utilizing Data frames and Spark SQL API for faster processing of data.
+Developed highly optimized Spark applications to perform various data cleansing, validation, transformation and summarization activities according to the requirement
+Data pipeline consists Spark, MASKED_NAME and Sqoop and custom built MASKED_NAME to ingest, transform and analyze operational data.
+MASKED_NAME jobs and MASKED_NAME to summarize and transform data.
+Used Spark for interactive queries, processing of streaming data and integration with MASKED_LOCATION database HBase, MASKED_NAME for interactive access patterns.
+Involved in converting Hive queries into Spark transformations using Spark Data Frames in MASKED_LOCATION.
+Automated creation and termination of AWS EMR clusters using AWS, MASKED_NAME.
+Built real time data pipelines by developing MASKED_NAME producers and spark streaming applications for consuming.
+Ingested syslog messages to MASKED_NAME.
+Worked on Apache Airflow to schedule single and sometimes complex chains of tasks that depend on each other on regular intervals.
+Handled importing data from relational databases into HDFS using Sqoop and performing transformations using MASKED_NAME and MASKED_LOCATION.
+Having knowledge in MASKED_LOCATION platform for securing, managing and monitoring Hadoop clusters.
+Exported the processed data to the relational databases using Sqoop, to further visualize and generate reports for the BI team.
+Experienced in cluster coordination services through MASKED_LOCATION.
+Installed, tested and deployed monitoring solutions with Splunk services.
+Used MASKED_NAME to analyze the partitioned and bucketed data and computed various metrics for reporting.
+MASKED_NAME scripts in Hive QL to de-normalize and aggregate the data.
+Scheduled and executed workflows in MASKED_NAME to run various jobs.
+Designing & creating ETL jobs through Talend to load huge volumes of data into Cassandra, Hadoop Ecosystem and relational databases.
+Environment: Hadoop, Spark, MASKED_NAME, MASKED_NAME, MASKED_NAME, MASKED_LOCATION, MASKED_LOCATION, MASKED_NAME, MASKED_NAME, Ambari, GitHub, MASKED_LOCATION, Unix, MASKED_NAME, Apache MASKED_NAME, MASKED_NAME, Sqoop, Cassandra, Talend, Splunk, HBase.
+MASKED_NAME -- MASKED_LOCATION, CA                                                                   		          Dec’16 – Jun’17                                                                                            
+Role: Hadoop/Spark Developer
+Responsibilities:
+Part of Big Data Center of Excellence (CoE), responsible for designing and building enterprise data analytics platform.
+Worked with respective business units in understanding the scope of the analytics requirements.
+Performed core ETL transformations in MASKED_LOCATION.
+Automated data pipelines which involve data ingestion, data cleansing, data preparation and data analytics.
+Created end to end MASKED_NAME applications using MASKED_NAME to perform various data cleansing, validation, transformation and summarization activities on user behavioral data.
+MASKED_NAME end-to-end data pipeline using FTP Adaptor, Spark, MASKED_NAME and MASKED_LOCATION.
+Implemented Spark utilizing Spark-SQL heavily for faster development, and processing of data.  
+Exploring with Spark for improving the performance and optimization of the existing jobs in Hadoop using Spark-SQL, Data Frame running in Yarn mode.
+Handled importing other enterprise data from different data sources into HDFS using Sqoop and performing transformations using MASKED_NAME, MASKED_NAME and then loading data into HBase tables.
+Collecting and aggregating large amounts of log data using Flume and staging data in HDFS for further analysis
+Wrapper developed in Python for instantiating multithreaded application and running with other applications.
+Analyzed the data by performing Hive queries (Hive QL) and running Pig scripts (Pig Latin) to study customer behavior.
+Data warehousing, experience in design, development and testing, implementation and support of enterprise data warehouse.
+Used MASKED_NAME to analyze the partitioned and bucketed data and compute various metrics for reporting.
+Created components like MASKED_NAME UDFs for missing functionality in HIVE for analytics.
+Worked on various performance optimizations like using distributed cache for small datasets, Partition, MASKED_NAME in MASKED_NAME and MASKED_NAME joins.
+MASKED_NAME workflows and coordinators to automate data pipelines daily, weekly and monthly.
+Automated creation and termination of AWS EMR clusters using AWS, MASKED_NAME.
+Environment: AWS MASKED_NAME, Hadoop, Spark, MASKED_NAME, Sqoop, HBase, UNIX, Talend, Pig, MASKED_NAME, MASKED_NAME, MASKED_NAME, Python, Ambari, MASKED_NAME.
+MASKED_NAME
+McKesson - Alpharetta, GA                                                                   		        Dec’15 – Nov’16
+Hadoop/Spark Developer
+Responsibilities:
+Developed multithreaded MASKED_NAME based MASKED_NAME adaptors for ingesting click stream data from external sources like ftp server and S3 buckets on daily basis.
+Created various spark applications using MASKED_NAME to perform various enrichment of these click stream data combined with enterprise data of the users.
+Implemented batch processing of jobs using MASKED_NAME.
+Developed Sqoop scripts to import/export data from MASKED_LOCATION to HDFS and into MASKED_NAME tables. 
+Stored the data in columnar formats using MASKED_NAME.
+Involved building and managing NoSQL Database models using HBase.
+Worked in MASKED_LOCATION to read the data from Hive and write it to Hbase.
+Optimized the Hive tables using optimization techniques like partitions and bucketing to provide better performance with MASKED_NAME queries. 
+Worked with multiple file formats like Avro, MASKED_NAME, MASKED_NAME and Orc.
+Converted existing MapReduce programs to Spark Applications for handling semi structured data like MASKED_NAME files, Apache Log files, and other custom log data.
+Loaded the final processed data to HBase tables to allow downstream application team to build rich and data driven applications.
+Worked with a team to improve the performance and optimization of the existing algorithms in Hadoop using Spark, Spark -SQL, Data Frame.
+Implemented business logic in Hive and written UDF’s to process the data for analysis.
+Used MASKED_NAME to define a workflow to coordinate the execution of MASKED_LOCATION, MASKED_NAME and Sqoop jobs.
+Addressing the issues occurring due to the huge volume of data and transitions.
+Designed, documented operational problems by following standards and procedures using JIRA. 
+Environment: MASKED_NAME, Hadoop 2.1.0, MASKED_NAME Reduce2, Spark, Unix, Pig 0.12.0, Hive 0.13.0, MASKED_LOCATION, Sqoop 1.4.2, Flume 1.3.1, Eclipse, AWS EC2, and MASKED_NAME CDH 4.  
+American Home Shield - Memphis, TN                                                		         Dec’14 – Nov’15
+Role: Hadoop Developer
+Responsibilities:
+Migrated the needed data from MySQL into HDFS using Sqoop and importing various formats of flat files in to HDFS.
+Mainly worked on Hive queries to categorize data of different claims.
+Involved in loading data from MASKED_NAME file system to HDFS
+Written customized MASKED_NAME UDFs in MASKED_NAME where the functionality is too complex.
+MASKED_NAME, Dynamic Partitions, Buckets in HIVE.
+Designing and creating Hive external tables using shared meta-store instead of derby with partitioning, dynamic partitioning and buckets.
+Generate final reporting data using MASKED_NAME for testing by connecting to the corresponding MASKED_NAME tables using Hive ODBC connector.
+Responsible to manage the test data coming from different sources
+Reviewing peer table creation in Hive, data loading and queries.
+Weekly meetings with technical collaborators and active participation in code review sessions with senior and junior developers.
+Monitored System health and logs and respond accordingly to any warning or failure conditions.
+Gained experience in managing and reviewing Hadoop log files.
+Involved in scheduling MASKED_NAME workflow engine to run multiple MASKED_NAME and pig jobs
+Involved unit testing, interface testing, system testing and user acceptance testing of the workflow tool.
+Created and maintained Technical documentation for launching Hadoop Clusters and for executing MASKED_NAME queries and Pig Scripts
+Environment: Apache Hadoop, HDFS, MASKED_NAME, MASKED_NAME, MASKED_NAME, Pig, Sqoop, MASKED_NAME, MASKED_NAME, MySQL.
+Protective Life - Edina, MN                                                                      		         Oct’13 - Nov’14     
+Role: MASKED_NAME:
+Implemented a Web based Application using Servlets, JSP, spring, MASKED_NAME, XML. 
+Involved in writing Spring Configuration XML file that contains declarations and other   dependent objects declarations. 
+Used hibernate to connect to Database to create the DAO layer. 
+Developed Application Framework using Model-View-Controller using the technology Spring. 
+Used HTML, MASKED_NAME, XML, MASKED_LOCATION, XPATH, JSP and Tag Libraries to develop view pages 
+Multilayer Applications construction using Open JPA, MASKED_NAME, Spring MVC. 
+Annotated Spring Architecture (Spring Beans) 
+Implemented UNIX shell scripts to migrate various data files to S&P ratings repository 
+Implemented smooth pagination capability using JSP to remove existing pagination utility 
+Worked on Geo API to provide geological access capability to S&P.com site. 
+Involved in Agile process to streamline development process with iterative development. 
+Code reviews and Managing the CVS Repository. 
+Prepare builds for DEV and UAT environments. 
+Participating in the regular team meetings sprint planning meetings, user story review meetings etc. 
+Involved in preparing High & low level design docs with UML diagrams using Microsoft VISIO tool. 
+Environment: JDK 1.5, XML, HTML, XHTML, JSP, Spring, DAO, Oracle Express edition, Apache ANT, CVS, MASKED_LOCATION, UNIX, Log4J, CSS Style Sheets, Apache Tomcat, J2EE, Maven 3
+Accenture – Hyderabad, MASKED_LOCATION                                                                 		       Oct’11– Sep’13
+Role: MASKED_NAME:
+Involved in Requirements analysis, design, and development and testing.
+Involved in setting up the different roles & maintained authentication to the application.
+Designed, deployed and tested Multi-tier application using the MASKED_NAME technologies.
+Involved in front end development using JSP, HTML & CSS.
+Implemented the Application using Servlets
+Deployed the application on Oracle Web logic server
+Implemented Multithreading concepts in java classes to avoid deadlocking.
+Used MySQL database to store data and execute SQL queries on the backend.
+Prepared and MASKED_NAME test environment.
+Tested the application before going live to production.
+Documented and communicated test result to the team lead on daily basis.
+Involved in weekly meeting with team leads and manager to discuss the issues and status of the projects.
+Environment: J2EE (MASKED_NAME, JSP, MASKED_NAME, Multi-Threading), HTML, MASKED_NAME Web logic server, Eclipse, MySQL, JUnit.
+Golan Technologies – Hyderabad, MASKED_LOCATION                                                		          MASKED_NAME 
+Role: MASKED_NAME range from turnkey solutions to custom, client-driven solutions in a variety of product categories including website development and platform based applications, demand intelligence and business insight generation. Smart sites have the ability to provide a unified user experience and consistent messaging on websites across the globe, driving a favorable brand impression. 
+Responsibilities:
+Involved in the analysis, design, implementation, and testing of the project.
+MASKED_NAME using HTML, JavaScript, CSS and JSP for interactive cross browser functionality and complex user interface.
+Implemented the end-to-end functionality of the client requirement during the development phase.
+Implemented the functionality of mapping entities to the database using MASKED_NAME.
+Written SQL queries involved in the MASKED_NAME connection in accordance with the business logic.
+Performed various levels of unit testing for the entire application using the test cases, which included preparation of detail documentation for the results.
+Actively participated in client meetings and taking the inputs for the additional functionality.
+Involved in fixing bugs and unit testing with test cases using JUnit.
+Environment: J2EE, Spring, MASKED_NAME, JavaScript, CSS, Servlets, MySQL

@@ -1,0 +1,48 @@
+{
+  "resume_id": "nithin Reddy_anon",
+  "skills": [
+    "java",
+    "javascript",
+    "react",
+    "angular",
+    "html",
+    "css",
+    "bootstrap",
+    "jquery",
+    "node",
+    "spring",
+    "express",
+    "rails",
+    "rest",
+    "soap",
+    "sql",
+    "mysql",
+    "mongodb",
+    "oracle",
+    "cassandra",
+    "aws",
+    "azure",
+    "docker",
+    "kubernetes",
+    "ansible",
+    "jenkins",
+    "ci/cd",
+    "apache",
+    "git",
+    "jira",
+    "postman"
+  ],
+  "education": {
+    "degree": "Bachelor\u2019s in Computer Science - Osmania University, MASKED_LOCATION                                                                   June 2004 \u2013 April 2008",
+    "year": "2004"
+  },
+  "experience_years": 8,
+  "projects": [
+    "Involved in migration of the application from Sun Java Application server to Glassfish 3.2 environment.",
+    "My SQL and MS SQL database design.",
+    "Design applications on AWS taking advantage of disaster recovery design guidelines",
+    "Application deployment and data migration on AWS.",
+    "Expertise with Jboss Application server and Apache tomcat web server."
+  ],
+  "certifications": []
+}

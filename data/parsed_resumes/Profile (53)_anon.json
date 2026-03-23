@@ -1,0 +1,31 @@
+{
+  "resume_id": "Profile (53)_anon",
+  "skills": [
+    "python",
+    "java",
+    "php",
+    "ruby",
+    "r",
+    "rails",
+    "rest",
+    "mysql",
+    "oracle",
+    "linux",
+    "machine learning",
+    "deep learning",
+    "computer vision"
+  ],
+  "education": {
+    "degree": "Doctor of Philosophy - PhD,\u00a0MASKED_NAME\u00a0\u00b7\u00a0(2005\u00a0-\u00a02008)",
+    "year": "2005"
+  },
+  "experience_years": 6,
+  "projects": [
+    "+ Responsible for development and maintenance of Web/Ruby-on-Rails",
+    "software as a service (SaaS) applications.",
+    "+ Responsible for the content marketing of the business and applications.",
+    "+ Spicy Elephant (flash cards)",
+    "+ Screen Sponge (movie tracking and lending)"
+  ],
+  "certifications": []
+}

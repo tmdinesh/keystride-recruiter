@@ -1,0 +1,34 @@
+{
+  "resume_id": "Tarun_Developer_anon",
+  "skills": [
+    "python",
+    "java",
+    "javascript",
+    "angular",
+    "html",
+    "css",
+    "bootstrap",
+    "jquery",
+    "spring",
+    "rest",
+    "soap",
+    "sql",
+    "mysql",
+    "mongodb",
+    "oracle",
+    "aws",
+    "docker",
+    "kubernetes",
+    "jenkins",
+    "ci/cd",
+    "apache",
+    "jira"
+  ],
+  "education": {
+    "degree": "Unknown",
+    "year": "Unknown"
+  },
+  "experience_years": 8,
+  "projects": [],
+  "certifications": []
+}

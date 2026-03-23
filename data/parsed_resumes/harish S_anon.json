@@ -1,0 +1,37 @@
+{
+  "resume_id": "harish S_anon",
+  "skills": [
+    "java",
+    "javascript",
+    "php",
+    "ruby",
+    "react",
+    "angular",
+    "html",
+    "css",
+    "bootstrap",
+    "jquery",
+    "node",
+    "spring",
+    "rest",
+    "soap",
+    "sql",
+    "mysql",
+    "mongodb",
+    "oracle",
+    "dynamodb",
+    "aws",
+    "docker",
+    "linux",
+    "apache",
+    "spark",
+    "git"
+  ],
+  "education": {
+    "degree": "Unknown",
+    "year": "Unknown"
+  },
+  "experience_years": 8,
+  "projects": [],
+  "certifications": []
+}

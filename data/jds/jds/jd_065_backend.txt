@@ -1,0 +1,5 @@
+ROLE: Backend Developer
+SOURCE: Adzuna
+URL: https://www.adzuna.com/land/ad/5643224948?se=Ml8SrIsY8RGJZfgUeQyxLw&utm_medium=api&utm_source=e34e223e&v=DBFEB8AB3F2B2B87D1653DAC6B5456B4C122853F
+
+3 days WFH This Jobot Job is hosted by: Christian Aviles Are you a fit? Easy Apply now by clicking the "Apply Now" button and sending us your resume. Salary: $105,000 - $125,000 per year A bit about us: Software Company Why join us? Tons of growth potential Job Details Position: Backend Developer We are looking for an experienced Backend Developer skilled in Java (8/17) and Spring Boot. The role focuses on designing, developing, and deploying high-performance microservices and backend systems.

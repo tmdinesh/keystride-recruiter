@@ -1,0 +1,249 @@
+Ram.
+MASKED_EMAIL
+Cell :  MASKED_PHONE
+Professional Summary:
+10 years of total IT experience in all phases of Software Development Life Cycle including Analysis, Design, Implementation, integration, Testing, and MASKED_NAME.
+8 years of experience in developing web, enterprise and SOA applications using MASKED_NAME, OOAD, Multi-Threading, JavaBeans, JSP, Servlets, JNDI, MASKED_NAME, MASKED_NAME, MASKED_LOCATION, MASKED_LOCATION, MASKED_LOCATION, Restful and Micro-Service), XSD, XML, MASKED_LOCATION, MASKED_LOCATION, JAX-B, Apache Commons, EJB, JMS, MQ-Series, HTML, MASKED_NAME, MASKED_NAME and MASKED_LOCATION/UNIX.
+2 years of experience in Big Data and MASKED_NAME based technologies like HDFS, SPARK, MASKED_NAME, MASKED_NAME, Sqoop and AWS.
+Extensive experience on developing web applications using MASKED_NAME, MASKED_NAME, Spring MVC, Spring ORM, Spring JPA,MASKED_NAME and MASKED_NAME).
+Expertise in implementing persistence layer using JPA and MASKED_NAME.
+Expertise working with SOAP, Rest and Microservices using CXF, MASKED_LOCATION and CloudFoundary.
+Implemented Microservices using Spring Core, MASKED_NAME, Spring Data, Spring Rest and MASKED_NAME).
+Experience in MASKED_LOCATION, Multi threading, MASKED_NAME and memory management. 
+Extensive experience in working with servers like WebLogic, WebSphere, JBOSS and Tomcat.
+Expertise in using XML Parsers SAX and DOM.
+Good experience in data structures and algorithms.
+Good experience in MASKED_LOCATION and MASKED_LOCATION.
+Implemented  AWS(EC2, RDS, SNS, SQS, S3) to move customer care application in to MASKED_NAME environment.
+Good Experience in using Maven and ANT for building projects and Log4j for logging and debugging purposes.
+Effectiveness in coordinating with business team to fix defects and resolve issues.
+Experience in writing SQL queries, Stored Procedures for accessing and managing databases such as Oracle, DB2, MySQL.
+Experience with Tools: RAD, Eclipse, My Eclipse, Jenkins, MASKED_LOCATION, Maven, Mercurial, MASKED_LOCATION, GIT, SVN, CVS, Perforce, MASKED_NAME, SQLDeveloper, Code-Collaborator, SOAP-UI, RestClient-UI and Postman(chrome).
+Experience in Agile and waterfall modals.
+Practicing Agile  development frameworks Jira, Rally, VersionOne and standards, Test Driven Design & Development.
+Possess excellent communication, interpersonal, analytical and problem solving skills.
+Technical Skills:
+J2EE Technologies	            : MASKED_NAME, JavaBeans, JSP, Servlets, EJB, JNDI, JMS. 
+Languages		            : MASKED_NAME, Groovy, Python.
+Web Technologies 	            : HTML, DHTML, JavaScript, MASKED_NAME, AJAX.
+XML Technologies	            : XML, DTD, MASKED_LOCATION, XSD, MASKED_NAME, JAXB SAX, DOM.
+Databases		            : Oracle 10g, 9i, MySQL, DB2 and MASKED_NAME.
+Operating Systems	            : UNIX, MASKED_LOCATION, Windows 98/2000/NT/XP.
+Application Servers	     	: WebSphere, MASKED_NAME and MASKED_NAME.
+Middleware		     	: Apache CAMEL, Oracle ESB, JMS and MQ-Series.
+IDE’s			     	: Eclipse, RAD and MASKED_NAME, TOAD, SQL Developer.
+MASKED_NAME		     	: Apache CAMEL, Spring and MASKED_NAME.
+ORM Technologies 	     	: MASKED_NAME and JPA.
+Webservice Specifications	: JAX-WS , JAX-RS and AXWAY APIGateway.
+UI Technologies	        	: JSP, JavaScript, JQuery, AJAX, CSS and HTML.
+Version Control 	       	: MASKED_NAME, SVN, CVS and Perforce
+Cloud Technologies 		: MASKED_NAME and AWS.                                                 
+Tools	                                	: MASKED_NAME, Version One, MASKED_LOCATION, MASKED_NAME, 
+                                                  RestClient-UI and Postman(Chrome) and SOAP UI.
+Fraud Prevention Platform	: 41st parameter(device  identification) and
+                                                  Fircosoft(to filter transactions and customers).
+Education:                               Master of Computer Applications(MCA),  MASKED_LOCATION.  
+Professional Experience:
+MASKED_LOCATION, TX.
+Dec’16 – Tilldate.
+Role : MASKED_NAME.
+Description :  Verizon DVS Migration(CPF, Reconciliation, MASKED_NAME) consist of 800+ APIs currently running on the IBM Main Frame system. Intented of this program is to rewrite all the API in Java 1.8, MASKED_NAME. Currently MASKED_LOCATION pays IBM based on the no., of MIPS the API gets MASKED_NAME in the day. Re-write API in MASKED_NAME with will reduce the cost spent for the IBM and the API scalability will be greatly increased with MASKED_NAME. 
+Responsibility: 
+Implemented Microservice’s(Read API’s, Write API’s) using cloudfoundary.
+Used MASKED_NAME OSS stack to provide infrastructure for micro-services(config server, eureka server, zuul proxy, ribbon and hystrix).
+Created shell scripts on MASKED_NAME for enabling seed data loading into MASKED_NAME tables.
+Created application for data modelling to allow various DB2 to MASKED_NAME table migration use cases.   
+Enabled code generation DDL files, Control Files, Spark Configuration files, Spring Boot Artifacts.
+Developed spark scripts by using MASKED_NAME shell as per requirements. 
+Worked with spark core, Spark Streaming and spark SQL modules of Spark 
+Developed multiple POCs using Spark and deployed on the MASKED_NAME cluster, compared the performance of MASKED_LOCATION, with MASKED_NAME and SQL/Teradata. 
+MASKED_NAME producer and consumers, MASKED_NAME clients and Spark along with components on HDFS, MASKED_NAME. 
+Involved in converting Hive/SQL queries into Spark transformations using Spark RDDs, MASKED_NAME and MASKED_NAME.
+Created application to create control files for performing seed data migration from DB2 to MASKED_NAME called init load. Data files are created by Mainframe system. Various formats of data files are Fixed MASKED_NAME and delimited.
+Created CPFTestSuite Automation tool for measuring CPF functionality, essential for detecting any configuration issues in preload tables.
+Created ReconLogAnalyzer tool that will perform log analysis for missing and mismatch log statements and produce the output in an excel file.
+Created application to create control files for performing seed data migration from DB2 to MASKED_NAME called init load. Data files are created by Mainframe system. Various formats of data files are Fixed MASKED_NAME and delimited.
+MASKED_LOCATION builds for few custom applications.
+Implemented Test cases using MASKED_NAME and Tested web services with REST Client.
+Proactively monitor database systems ensuring availability and performance.
+Environment: MASKED_NAME/J2EE, MASKED_NAME, Spring Boot, Spring JPA, MASKED_NAME, Spring Security, MASKED_NAME, JPA, MASKED_LOCATION), MASKED_LOCATION, HDFS(Hadoop), MASKED_NAME, MASKED_NAME, AWS, GIT, Maven, MQ-Series, MASKED_NAME, RAD, MASKED_NAME, MASKED_NAME and MASKED_NAME.
+Google Inc, MASKED_LOCATION.
+March’16 – Dec’16.
+Role : MASKED_NAME.
+Description: Cyber-insurance is a predictive risk analytics tool implemented to analyse businesses and individual users Internet-based risks(Security Breach, Data Breach, MASKED_LOCATION, Phishing, MASKED_NAME, hacking and cloud service down) including the company’s industry, geography, scale, services and security posture.
+Responsibility: 
+Involved in the requirement gathering, design and development of Catastrophe modeling.
+Used MASKED_NAME OSS stack to provide infrastructure for micro-services(config server, eureka server, zuul proxy, ribbon and hystrix).
+Extensively used different Spring modules like MASKED_NAME, MASKED_NAME, Spring JPA  Spring Rest and MASKED_NAME.  
+Implemented cost calculator engines for AAL(Average Annual Loss), SD(Standard Deviation) and CV(Coefficient of Variation).
+Used Spring Rest to implement controller layer.
+Used JPA to implement Service and Repository layers.
+Implemented Micro-service’s using Pivotal MASKED_NAME).  
+Used MASKED_NAME script for test automation. 
+Used Swagger to Document API’s. 
+Involved in converting Hive/SQL queries into Spark transformations using Spark RDDs, MASKED_NAME and MASKED_NAME. 
+Developed the code for Importing and exporting data into HDFS and Hive using Sqoop. 
+Responsible for writing Hive Queries for analyzing data in Hive warehouse using HQL. 
+Wrote complex MASKED_NAME queries and UDFs in MASKED_NAME and Python 
+Involved in defining job flows using MASKED_NAME for scheduling jobs to manage apache Hadoop jobs by directed.
+MASKED_NAME in java, compiling them into jars and adding them to the HDFS and executing them with Hive Queries.
+Designed and deployed isolated Search DCs for Datastax Solr Clusters. 
+MASKED_NAME indexes and queries to span over multiple DCs. 
+Involved in writing API Testing,MASKED_NAME testing, enhancements, bug fixing.
+Environment: Core Java(java 8), J2EE, JPA, MASKED_NAME,Spring MVC, Spring JPA, MASKED_NAME, Spring Security, MASKED_NAME, HDFS, HIVE, SPARK, Apache SOLR, MASKED_NAME, MASKED_NAME, XML, Groovy, JSON, JavaScript, AngularJS, MASKED_NAME, MASKED_NAME,  MASKED_LOCATION, Tomcat, Postman(Chrome), MASKED_NAME, MYSQL and UNIX/Linux.
+Wells Fargo,  MASKED_LOCATION, CA.                                                          
+May’15  – March’2016.
+Role: MASKED_NAME.
+Description:  New Device Fingerprinting is one of the core application in Gen 3 FP&A (Fraud Prevention & Authentication ) for building a more intelligent and efficient fraud mitigation, authentication and alerting strategies  for online  and cross channel authentication use cases.
+Responsibility: 
+Involved in the requirement gathering and architecture design and development of New Device Fingerprint project.
+Reengineering existing platform to a Microservices based architecture.
+Reengineered platform to support 100% virtualization.
+involved in  development using 41st Parameter, MASKED_NAME, Multi-threading, Groovy,  Spring, MASKED_NAME, Apache CAMEL, Web services(SOAP and MASKED_NAME), MASKED_LOCATION, MASKED_NAME and MASKED_NAME.
+installed an updated version of 41st Parameter (external vendor) code to do Device fingerprinting.
+Implemented different features related to Device fingerprinting in  AuthC Service .
+Used Apache Camel for creating routes using Web service.
+Used spring boot to bootstrap the basic configuration of the project. 
+Developed Data access layer using ORM framework hibernate for mapping database scheme to Object model.
+Extensively used different Spring modules like MASKED_NAME, MASKED_NAME, Spring MVC, MASKED_NAME and Spring JMS. 
+Used MASKED_NAME to Implement functional and integation tests.
+Performed Unit testing using JUNIT and MASKED_NAME.
+Used Splunk tool in order to analyze the logs in the applications.
+Extensively used Groovy for functional tests.
+Used MASKED_NAME CQL with MASKED_NAME to retrieve data from MASKED_NAME tables.
+Involved in writing different DDL and DML scripts for functional tests.
+Managed code for different releases by branching and merging using SVN.
+Used CI tools like MASKED_NAME.
+Used JIRA as a change request , defect tracking and project status tracking system in the project.
+Environment: 41st Parameter, MASKED_NAME, Groovy, J2EE, MASKED_NAME, Spring,MASKED_NAME, EJB, Apache CAMEL, MASKED_LOCATION, Restful and Amazon), XML, MASKED_NAME,  MASKED_NAME, Log4j, MASKED_NAME, ActiveMQ, SQL Developer,MQ-Series, MASKED_LOCATION, Splunk, MASKED_LOCATION, MASKED_LOCATION, MASKED_NAME, Oracle DB, MASKED_NAME, Putty and UNIX/Linux.
+Bank of America, MASKED_LOCATION,CA.                                                                         
+MASKED_NAME 14  – Apr 15 .
+Role: MASKED_NAME.
+Description:  This project will be used by the RMD Department of BOFA. RMD will issue loans to the borrowers based on collateral Status before issuing the loan RMD checks that whether that collateral is insured or not and collateral’s Social Security Number through third party agencies and finally RMD checks whether borrowers is paying tax properly for that collateral or not with the help of third party agency.
+Responsibility: 
+Used Agile methodology for design and development of project.
+Implemented User Interface using JSP, HTML, CSS, MASKED_NAME, JavaScript and AngularJS.
+Implemented Tax  and  Loan ID modules using Spring Framework.
+Implemented Persistence layer using Hibernate JPA.
+Created and maintained the configuration of the Spring Application Framework (IOC) and implemented business logic using EJB.
+Implemented SOAP Services(JAX-WS) to interact with external systems like Fidelity.
+Converted  Business to customer services into Restful Services.
+Have good experience on continuous integration tool MASKED_LOCATION.
+Implemented some fuzzy logic’s using Hadoop MapReduce Programming.
+Implemented  AWS Redshift (a petabyte-scale data warehouse service in the cloud).
+Converted EJB MDB’s in to Spring MDP’s using Spring JMS Module and moved into Amazon cloud(AWS).
+Handled all the service nodes and components on Amazon cloud, including handling Amazon service outages.
+Implemented NO-SQL DB(Cassandra) to store poisoned messages.
+CQL is used to query MASKED_LOCATION data from dev center.
+Performed importing data from various sources to the MASKED_NAME cluster using Java/Python APIs or Sqoop. 
+Responsible for bug fixes and documentation.
+Used Linux OS for Development and Production Environment.
+Ability to learn and adapt quickly to the emerging new technologies.
+Environment: MASKED_NAME, J2EE, JSP, Servlets, Hadoop/Big Data, Splunk Spring Core, Spring MVC, Spring Data, Hibernate-JPA, EJB, MASKED_LOCATION, Restful and Amazon WebService), MASKED_NAME, MASKED_LOCATION, AngularJS, MASKED_NAME, XML,  JavaScript, MASKED_NAME, CSS, HTML, Log4j, SONOR,MASKED_NAME, Putty, UNIX/MASKED_LOCATION, SQL, SQL Developer, MASKED_NAME, Sqoop, MASKED_NAME, MySQL and Oracle DB.
+Bank of America, MASKED_LOCATION, NJ.                   	   		                                 
+May’13 – March’14.
+Title:  Enterprise Transaction Scanning in AML (Anti Money Laundering).
+Role:  MASKED_NAME.
+Description: Anti Money Laundering(AML) is the policy in Bank of America where Bank of America does not want to be  used  in the  process to conceal the true source of funds that were originally derived from criminal activity or in the process of funding criminal activity, including terrorism.
+AML Policy Statement is intended to guard against Bank of America’s unintentional involvement in criminal activity, and to reinforce Bank of America’s policy of cooperation with law enforcement and regulatory agencies.
+Under the Project AML, Bank of America will,
+Take reasonable steps to determine the true identity of all customers and beneficial ownership of Bank of America products and services .
+Report all identified instances of suspicious activity to the extent that it can do so under all applicable foreign and domestic laws .
+Avoid providing support or assistance to customers seeking to deceive law enforcement agencies through the provision of false, altered, incomplete or missing information or by informing customers that their activities are, may be, or have been investigated or reported as suspicious.
+AML uses the tool called MASKED_NAME for scanning the Enterprise transactions and report the suspicious activities through the system called ‘ETS (Enterprise Transaction Scanning)’. ETS will scan all the wired transactions against the watch list (central repository of suspicious individuals, countries and cities) stored in ETS database. 
+Responsibilites:
+Interaction with Business users on daily basis for gathering the Requirements.
+Involving in the preparing low level design.
+Involved in the development of Report Generation module. Which includes volume statistics report, Sanctions Monitoring Metrics report, TPS report.
+Implemented Spring MVC, dependency MASKED_NAME (DI) features along with MASKED_NAME 
+Implemented  Online List Management (OLM)  and  FMM module  using Spring and MASKED_NAME.
+Created Configuration files for the application using Spring framework.
+Implemented a RESTful interface for the search and Address services
+Implemented SOAP Services(JAX-WS) to interact with external systems.
+Wrote various SQL, PL/SQL queries and stored procedures for data retrieval.
+Performed Unit testing using JUNIT and MASKED_NAME.
+Used Linux OS for Development and Production Environment, Wrote UNIX Shell scripts and used UNIX environment to deploy the EAR and read the logs.
+Environment: MASKED_NAME, multithreading, MASKED_NAME, J2EE, JSP, Servlets, Spring Core, Spring MVC, Spring ORM, MASKED_NAME, MASKED_NAME, JPA, MASKED_LOCATION and Restful), AnjularJS, MASKED_NAME, XML,  JavaScript, MASKED_NAME, CSS , HTML, MASKED_LOCATION, MASKED_LOCATION, Log4j, MASKED_NAME, Putty, UNIX/MASKED_LOCATION, SQL, SQL Developer, MASKED_LOCATION, MASKED_LOCATION, MASKED_LOCATION, MASKED_LOCATION and Oracle DB.
+Fidelity Investments, MASKED_LOCATION, GA.      		                              
+Feb’12 – April’13.
+Title: TradeClearing System.
+Role: MASKED_NAME had following functionalities:
+Centralized clearing: Listed Derivatives are traded on numerous exchanges and booked into a large number of front office booking systems within the firm. TradeClear consolidates information flow from substantially all relevant booking systems and most major clearing houses where MASKED_LOCATION has membership rights. 
+Real-time Processing: Listed derivative transactions must be balanced and cleared on the same day they are traded. This gives a little as 90 minutes to identify mismatches in bookings and correctly clear the day’s business. 
+Responsibility:
+Responsible for gathering business requirements, review the requirements and converting them to detailed design documents and clarification documents.
+MASKED_NAME and backend applications using MASKED_NAME, Spring, MASKED_NAME, MASKED_NAME, EJB 3.0, JSP, HTML, DHTML, JavaScript and AJAX.
+Implemented JSP, MASKED_NAME, MASKED_NAME and CSS for developing User for creating/generating MASKED_NAME classes and configuration XML’s and to also manage CRUD operations (insert, update, and delete).
+Implemented a RESTful interface for the Front-end response.
+Used Web Services to get price from external Business Entities.
+Developed reusable services using BPEL to transfer data between heterogeneous systems
+Using different Adapters.
+Implemented messaging using TIBCO EMS.
+Implemented integration between the BPEL worklist and Oracle eBusiness MASKED_NAME .
+Implemented security for BPEL services using OWSM. 
+Responsible for integration of different modules. 
+Created JUnit test cases, and Development of JUnit classes.
+Configured log4j to enable/disable logging in application.
+Involved in Code Reviews of other modules, documents, test cases.
+Wrote UNIX Shell scripts and used UNIX environment to deploy the application.
+Responsible in coordination with offshore team, attending daily and weekly scrum meetings to update the work status, issues clarifications etc.
+Environment: MASKED_NAME,J2EE, MASKED_NAME, Spring, MASKED_NAME, SOA 10g(BPEL), MASKED_NAME, MASKED_LOCATION and Restful), JMS, PL/SQL, Sql Developer, MASKED_NAME, JavaScript, SVN, MASKED_LOCATION, Log4j, JUnit, Sybase , MASKED_NAME, MASKED_LOCATION, DB2, MASKED_LOCATION, Mainframe(COBOL), MQ-Series,MySQL, MASKED_LOCATION, RAD and Unix. 
+Prudential,   MASKED_LOCATION, NJ.      	          	           	                                 
+May’10 – Dec’11
+Role: MASKED_NAME.    
+Project: 4Front is an application provides a single point of access for teleconsultants for legacy 
+systems (E.g.: CAPSIL, SALAS, OPAL and OB).  It allows users in Customer Services and other areas of the business to Verify the identification of a caller, Maintain a history of a caller’s contact, Make with enquiries, Perform alterations to a customer’s policy, Investigate the New Business, Review the Direct Debit instructions, Produce outputs (fax, letter, etc.), Provide valuations, Pass the call to another 4Front user and Automate the call hand-off.
+
+Responsibility:      
+Day to day support activities. 
+Meeting the Client SLA on the production tickets.
+Design and development of new change requests using  MASKED_NAME, struts, JSP and EJB.
+Implemented integration between the BPEL worklist and Oracle eBusiness MASKED_NAME.
+Responsible for all the SDLC phases of a change request including testing and live support.
+Environment: MASKED_NAME , J2ee, Oracle Fusion(BPEL), JSP, Eclipse, Servlet, XML, MASKED_NAME, Tiles, AJAX, EJB, JUnit, JBoss, websphere Application Server , Ant, JavaScript, CSS, Log4J, MASKED_NAME,HTML, PL/SQL, CVS, MQ-Series, Mainframe(COBOL), RAD and  DB2. 
+MASKED_NAME, MASKED_LOCATION.		                                                     
+Sep’ 08 – Feb’ 2010
+Title:  Custom Business Application.
+Role: MASKED_NAME.
+Description: This project has been designed and developed to process online order request. This project consist of different module such as online User Registration, Update User Information, Submit order online, payment, process order and delivery of order.
+Responsibility:
+Involved in gathering requirements, Analysis, Design, Development and testing of the entire Application.
+Involved in all phases of SDLC (Software Development Life Cycle).
+Created UML diagrams like class diagrams and activity diagrams using the Rational Rose.
+Participated in the design and development of application using JSP, HTML, CSS and JavaScript.
+Used Eclipse as IDE tool to develop the application and JIRA for bug and issue tracking.
+Designed and Developed the presentation layer using AJAX for RUI(Rich User Interface).
+MASKED_NAME is used in conjunction with JavaScript for making HTTP requests.
+JQuery is used for validation.
+Developed the presentation tier of the application using MASKED_NAME framework and MVC design pattern.
+Configured the Hibernate ORM framework as persistence layer for the backend by using hibernate.confg.xml 
+Designed and developed DAO’s for accessing the POJO’s and updating the DB tables using the POJO’s, MASKED_NAME, and Synchronization etc.
+Used MASKED_NAME object relation mappings (ORM) for the database operations on MySQL.
+Developed and modified the stored procedures, the DAO (Data Access Objects) and VO (value Object) classes for separating the Data Access logic and business logic.
+Extensively participated in application integration. Spring is used to integrate MASKED_NAME and MASKED_NAME. Implemented interceptors for Spring and MASKED_NAME.
+Transactions were implemented using declarative transactions in Spring with transaction managers capable of supporting MASKED_NAME.
+Configuration issues in the various frameworks used were identified and resolved to extract an acceptable level of performance in terms of efficiency, response and robustness.
+Consumed Web Services as a gateway for the payment through the third-party.
+Developed Web Services using SOA, SOAP, WSDL, UDDI and JAX-WS,JAX-RPC programming models.
+Used Ant as build tool for building and deploying it into MASKED_NAME. Ant scripts are used for automating build process.
+Developed and execute unit tests and test suites for product components using JUnit Testing Used.
+Environment: MASKED_NAME, J2EE1.6.x, JDK, JSP, Struts 2.x, Tiles, JMS, Spring 3.x, MASKED_NAME 3.0, MySQL, Eclipse, WebSphere Application Server, JBOSS, JSON, AJAX, JQuery, Web Services(SOAP,WSDL),Ant, JavaScript, CSS, Log4J, MASKED_NAME,HTML, PL/SQL, CVS, MySQL and DB2.
+R-Systems International Ltd, MASKED_LOCATION.		    	                       
+MASKED_LOCATION
+Title: RMS (Repayment Management System).
+Role: Software Programmer.
+Description: RMS is Repayment Management System. Case appears in RMS only after the final disbursement of loan amount. In case of partial disbursement; only after the last disbursement the case will appear in RMS. RMS deals with how does the customer repays the Loan i.e. through his salary deduction or online transfer from checking a/c, etc.
+Responsibility: 
+Involved in Development of RMS Enhancements like RMS Transaction, RMS Monthly History, Scheme Change maker/checker, Customer service query, Non Provisioning Assets screens like specific provision manual marking, writeoff manual marking, sale of asset, property value updating, collateral value updating and ground rent prospect entry.
+Developed sub-modules of non provisioning Assets like sale of asset, writeoff manual marking and ground rent prospect entry.
+Involved in requirements planning, analysis and design discussions with the technical team.
+Documentation & review of requirements with design team.
+Involved in preparing program specifications and testing scripts and updating the same.
+Developed stored procedures, Functions, views and also wrote PL/SQL scripts.
+Used JSF layout for view of MVC.
+Responsible in troubleshooting application and understanding the same.
+Used web services to fetch data synchronously from the other interfaces
+MASKED_LOCATION Spring DAO for data access using with MASKED_NAME.
+Coordinated with team in troubleshooting and fixing production application issues.
+Involved in setting up processes, procedures, knowledge transfer to offshore teams.
+Environment: MASKED_NAME, J2EE, XSL, XML, JSP, MASKED_NAME, MASKED_LOCATION, Spring 2.x, MASKED_NAME, JavaScript, HTML, CSS, Oracle, Websphere Application Server, DB2, Web Services (WSDL, SOAP), SQL/PL SQL and windows. 

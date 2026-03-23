@@ -1,0 +1,87 @@
+ROLE: Fullstack Engineer - Billing & Subscription
+SOURCE: Arbeitnow
+URL: https://www.arbeitnow.com/jobs/companies/sumup/fullstack-engineer-billing-subscription-berlin-87295
+
+About the team:
+
+We're looking for a Fullstack Engineer to join our Billing & Subscription squad within the Platform tribe. This team is responsible for building and evolving the systems that power merchant billing, subscriptions, and wallet experiences across SumUp. The work sits at the core of our financial platform, ensuring that merchants can easily manage payments, subscriptions, and billing interactions across multiple markets.
+
+In this role, you will contribute to key initiatives such as improving the merchant wallet and billing user interfaces, while also supporting the backend services that power these experiences.
+
+As a Fullstack Engineer, you'll collaborate closely with product managers, designers, and other engineers to build scalable and reliable solutions. The team values pragmatic decision-making, strong ownership, and a focus on delivering high-impact products that support SumUp's growing ecosystem.
+
+What you'll do:
+
+Build and enhance user interfaces for the merchant wallet and billing areas using modern frontend technologies such as React and TypeScript
+
+Contribute to ongoing UI improvements by updating and standardizing components across billing-related products
+
+Design and implement backend functionality that supports billing and wallet experiences using languages such as Go or Node.js
+
+Collaborate with product managers, designers, and engineers to deliver features that support new subscription and billing capabilities across different markets
+
+Participate in a weekly support rotation to help maintain platform stability and assist with resolving merchant-related support requests
+Contribute to improving and refactoring core billing components to support better integration with other payment and commerce systems
+
+You'll be great for this position if you have:
+
+Hands-on experience with Golang in a production environment, with Node.js experience considered a plus
+
+Experience building user interfaces with modern frontend technologies, such as React and TypeScript, with a focus on performance, maintainability, and usability
+
+Experience building and consuming RESTful APIs within a microservices environment
+
+Familiarity with building and deploying infrastructure using AWS, Kubernetes, Helm, and Terraform
+
+Experience working with SQL and event-driven architectures, particularly with PostgreSQL and Kafka
+
+Understanding of system architecture fundamentals, software design principles, data modeling, and API design
+
+A collaborative approach and openness to feedback when working in team environments
+
+A sense of ownership over engineering work and attention to the quality and reliability of delivered solutions
+
+Why you should join SumUp:
+
+ Opportunity to work with SumUppers globally on large-scale fintech products used by millions of businesses worldwide, from our Berlin office. This involves an office-first setup.
+
+ Commitment to Diversity and Inclusion: Be part of a workplace that values and promotes diversity, fostering an inclusive environment where everyone's perspectives are respected and embraced
+
+ A dedicated annual L&D budget of 2,000 for attending conferences and/or advancing your career through further education.
+
+ Enrolment onto our VSOP program: You will own a stake in SumUp's future success
+
+ A corporate pension scheme where we match up to 20% of your contributions
+
+ 30 Days Sabbatical: Enjoy the unique opportunity to take a well-deserved break with our 30 days sabbatical benefit after completing 3 years of employment with SumUp.
+
+ Referral Bonus: Earn additional rewards by referring talented individuals to join the SumUp team.
+
+ Numerous other benefits such as Urban Sports Club subsidy, Kita placement assistance, relocation assistance, subsidised office lunches.
+
+About us:
+
+Be empowered to do more that matters.
+
+At SumUp, we're on a mission to empower small businesses across the globe by providing simple and affordable tools that allow them to thrive. Today, over 4 million businesses in 36 markets rely on SumUp as their financial partner to manage payments, finance and customer relationships.
+
+Our commitment to small businesses is reflected in our diverse team of over 3,000 SumUppers from over 90 nationalities, united by global collaboration and an innovative mindset. 
+Our core values
+ lay the foundation for who we are and what we stand for, shaping our work culture and driving our success. We foster inclusivity and a continuous learning culture, providing a safe space for personal and professional growth. Our differences make us unique and strong as we strive to create an environment where everyone belongs and feels supported, no matter how they identify.
+
+SumUp is proud to be an Equal Employment Opportunity employer, actively seeking and embracing diversity in our workforce. We don't make hiring or employment decisions based on race, colour, religion or religious belief, ethnic or national origin, nationality, sex, gender, gender identity, sexual orientation, disability, age or any other basis protected by applicable laws or prohibited by company policy. Our commitment extends beyond recruitment to creating a safe and respectful workplace where harassment of any form is strictly prohibited.
+
+Explore career opportunities with us and join a team driven by collaboration, innovation, and a shared vision of creating a world where everyone can build a thriving business. Discover more about our vibrant and inclusive work culture and how we work on our 
+careers website
+, and follow our journey on 
+LinkedIn
+ and 
+Instagram
+.
+
+Job Application Tip
+
+We recognise that candidates feel they need to meet 100% of the job criteria in order to apply for a job. Please note that this is only a guide. If you don't tick every box, it's ok too because it means you have room to learn and develop your career at SumUp.
+Find more 
+English Speaking Jobs in Germany
+ on Arbeitnow

@@ -1,0 +1,137 @@
+SUMMARY:
+17 years of IT experience currently working as Group Project Manager, Engineering/R&D with HARMAN Connected Services (a Samsung Company)  
+Agile/Scrum/PMP 
+Certified PMP, MASKED_NAME and Trained Lead SaFE Agilist (4.0) with proven competence in building, training MASKED_NAME teams and facilitating Scrum Masters 
+Extensive experience in Sprint planning and estimation, tools like Poker Estimation, KANBAN 
+Hands on experience in Change management and accommodate new business requirements by prioritizing and performing impact analysis 
+Involved in driving the team to achieve high velocity and burn down rates  Conducted RTE activities across product lines 
+Currently undergoing Nanodegree certification on Data Science using Python 
+Technical Skills: Software Development/Management 
+Domain  
+Expertise in business domains including Retail, Finance, Legal, ALM and B2C, catering to building grounds up applications to their maintenance. 
+Acted as proxy product owner in the geo absence of Product Management team. 
+Project Management/People Management 
+Skilful in Conflict Resolution, Risk Identification and Mitigation and Performance Management & People Management 
+Highly capable in multi-tasking and managing multiple projects for processing requirements from conceptualization to final delivery. 
+Solid understanding of SDLC from Requirements Analysis to Post Implementation 
+Extensive expertise in project planning, schedules, resources, cost & overall project management plan. 
+High degree of collaborations & effective communication among stakeholders. 
+Good knowledge handling releases and deployment via CI / CD. 
+Conduct Scrum ceremonies; daily stand up, backlog grooming, Iteration planning, Iteration close & Retrospection. Facilitated code reviews, created best practices knowledge base, and created Lessons learnt knowledge base at the end of each sprint & project 
+Manage project budget, time lines, quality and P&L parameters 
+EDUCATION: Bachelor of Engineering (Electronics & Communication) 1998, .Karnataka University   MASKED_LOCATION 
+PROFESSIONAL TRAINING AND CERTIFICATIONS: 
+Lead SAFe Agilist ~ PMP ~ Scrum professional ~Java Sun certification (2000) ~ TQMI Internal Auditor IS0 9001:2000 ~ Soft skills development 
+PROFESSIONAL EXPERIENCE:
+Client: NCR Corporation, MASKED_LOCATION USA                                                                        May, 2017 to till Date
+Role: Group Project Manager/Agile Program Manager
+Project Description: 
+ It’s a leading transaction based Hardware and software company
+Responsibilities: 
+As a Group project manager, I was responsible for delivery of the above requirements which was 25 people engagement and was spread across 4 different locations (MASKED_NAME, OMAHA(USA), Atlanta(USA), Plano(USA)) 
+Responsible for acting as Scrum of Scrum conducting daily meetings to review the progress made by scrum teams and helping to resolve their impediments. 
+Involve in techno/Functional discussions and coordinate with customer to provide right solutions and clarifications; 
+Coordinate and manage CICD deployment & releases and dependency within different teams. 
+Estimate work efforts for project sizing, and efficient work flow with risk free technical approaches. 
+Guided & Coached teams with Agile / Scrum Processes, managed & groomed backlog.  
+Administering the MASKED_NAME board and presenting it to customer on alternate day basis. 
+Managing project health through Process excellence team for providing better quality deliverables conducting code reviews, documents reviews and demos, Managing project budget, time lines, quality and P& L Parameters. 
+Environment:  MDM, MASKED_NAME, MASKED_NAME, SQL Server, DB2, HTML, JavaScript, Tomcat/Apache, WMS, .NET Framework 4.6, ASP.NET web forms. MSMQ, SQL Server 2008 R2, Pricing, MASKED_NAME, SQL Server
+Client: CitiXsys Inc, MASKED_LOCATION                                                                         November, 2015 to May, 2017
+Role: Group Project Manager/Lead Agile Program Manager
+Project Description: 
+Modernizing CitiXsys core suite is highly essential due to change in technologies and use cases in retail. Modernization program objective is to have complete suite re-engineering on technology agnostic, seamless and ease of deployment, maintenance, secure and highly scalable. 
+Responsibilities:
+As a Group project manager, I was responsible for delivery of the above requirements which was 55 people engagement and was spread across 4 different locations (MASKED_NAME, Coimbatore, MASKED_LOCATION and MASKED_LOCATION) 
+Conducting meetings with customer on Technical Requirements initially, document and sign off. 
+Responsible for acting as Scrum of Scrum conducting daily meetings to review the progress made by 4 scrum teams and helping to resolve their impediments. 
+Involved in driving the team to achieve higher velocity & huge burn down rates in small two week Iterations. 
+Coordinate and manage CICD deployment & releases and dependency within different teams. 
+Estimate work efforts for project sizing, and efficient work flow with risk free technical approaches. 
+Guided & Coached teams with Agile / Scrum Processes, managed & groomed backlog.
+Administrating the JIRA board and presenting it to the customer on alternate basis.
+Conducting monthly and quarterly business reviews with customer with agile project metrics and dashboards. 
+Visiting customer counterparts at their location and helping team to provide effective demo and feedback and sign off. 
+Managing project health through Process excellence team for providing better quality deliverables conducting code reviews, documents reviews and demos.
+Managing project budget, time lines, quality and P& L Parameters
+Environment: MVC 5.0, 4.0, ASP.NET 2.0, ASP.NET 3.5, 4.5,  .NET C#, Web Service, Sql Server 2013
+Client: Consensus Inc (Subsidiary of Target Corporation), MASKED_LOCATION  July, 2015-November, 2015
+Role: Group Project Manager/Senior Delivery Manager
+Project Description: 
+The Consensus Engineering project is to maintain the existing POA application with feature enhancements. This caters to the in-house need of Target Corporation. Design and develop next generation POA and OOPIS systems. These caters to the Target sales team (in-store) and opens up a new sales channel on MASKED_NAME These applications/products will help Target to on-board customers, maintain their profiles, carrier selection, tariff plans, credit scores, insurance and other workflows of the telecom retail.
+Responsibilities: 
+As a Group project manager, I was responsible for delivery of the above requirements which was 120 people engagement and was spread across 2 different locations (San Francisco & Bangalore) 
+Responsible for acting as Scrum of Scrum conducting daily meetings to review the progress made by 8 scrum teams and helping to resolve their impediments. 
+Involved in driving the team to achieve higher velocity & huge burn down rates in small two week Iterations. 
+Coordinate and manage CICD deployment & releases and dependency within different teams. 
+Estimate work efforts for project sizing, and efficient work flow with risk free technical approaches. 
+Guided & Coached teams with Agile / Scrum Processes, managed & groomed backlog.  
+Administering the MASKED_NAME board and presenting it to customer on alternate day basis. 
+Managing project health through Process excellence team for providing better quality deliverables conducting code reviews, documents reviews and demos
+Environment: Development: Linux, PHP 5.x, MySQL 5.x, MASKED_NAME, CSS3, Angular JS, jQuery, AWS cloud Services Third-party Integration Libraries: Verizon, AT&T, Sprint APIs,  Cyber Source auth, MASKED_NAME, AppleCare Insurance, Square Trade Insurance Build/Release and others: GitHub, JIRA, Confluence, Jenkins
+Client: Acesse Corporation, MASKED_LOCATION, CA                                                    April, 2014 to June, 2015
+Role: Senior Project Manager/Agile Program Manager/Scrum Master
+Project Description: 
+MASKED_LOCATION has suite of online software products which are mainly used in MASKED_LOCATION for content management, online marketing, Conference meetings and Mobile Chat related products 
+Responsibilities:
+Set up the entire MASKED_NAME processes, boards, trainings. 
+Trained the entire organization on Agile and Scrum. 
+Agile Program management for 4 of their scrum teams which were spread across MASKED_LOCATION, MASKED_LOCATION USA, Redwood City USA and Hyderabad. 
+Conducted monthly management meetings and helped then with metrics and analysis of all scrum teams with respect to schedule, delivery and quality/ 
+Conducted all sprint ceremonies like Sprint Planning, daily stand up, reviews & retrospective meetings for all scrum teams 
+Worked as co-product owner for some of their products and helped to build requirements and 
+Traceability. Bridged the gap between PO & QA teams. 
+Being a single point of contact for their 50 member offshore team, conducted daily review meetings, monthly project progress reviews and coordinated production releases.
+Environment: PHP, My SQL, MS SQL, Android and IOS  
+Client: Angie’s List, MASKED_LOCATION, IN, USA                                                       Sep, 2012 to March, 2014
+Role: Senior Project Manager/Scrum Master
+Project Description: 
+MASKED_NAME's List is an American home services website. It is an online directory that allows users to read and publish crowd-sourced reviews of local businesses and contractors. Formerly a subscription-only service, MASKED_NAME's List added a free membership tier in July 2016 
+Responsibilities: 
+Set up the entire MASKED_NAME processes, boards, trainings. 
+Trained the entire organization on Agile and Scrum. 
+Agile Program management for 3 of their scrum teams which were spread across MASKED_LOCATION & MASKED_LOCATION in MASKED_LOCATION. 
+Conducted monthly management meetings and helped then with metrics and analysis of all scrum teams with respect to schedule, delivery and quality/ 
+Conducted all sprint ceremonies like Sprint Planning, daily stand up, reviews & retrospective meetings for all scrum teams
+Environment: C#, MASKED_NAME, CSS3, MS SQL Server 2010 
+Client: MASKED_NAME a business of Thomson Reuters, MASKED_LOCATION, WA                Dec 2010 –August 2012
+Role: Senior Manager, Project Manager
+Project Description: 
+Serengeti Intelligence System – Analytics Dashboards  
+MASKED_NAME—a revolutionary way for law departments to easily access comparative and analytical information about your own performance—is ready to use within your MASKED_NAME subscription at no additional charge. And, we do it right in the context of your matters, invoices, and workflows. 
+Financial – Compare your spending and risk data against similarly situated law departments to give you insights into your performance  
+Operational – Assess the efficiency of your law department operations and management  
+Firm – Evaluate your law firm portfolio and the performance of your law firms  
+Evaluator – Improve analysis of law firm rates, rate increases, discounts and how your company’s bottom line is affected
+Responsibilities:
+Preparing and maintaining project Management Plan. 
+Managing the schedule and quality of the deliverables through day-to-day planning, tracking and monitoring of the project. 
+Triaging and prioritizing the requirements with the designated MASKED_NAME project/product Manager. 
+MASKED_NAME, Project Planning & Tracking 
+Maintaining Quality Standards 
+Interaction with the client and coordinating offshore activities. 
+Maintaining billing & other finance details of the project 
+Data analysis, RCA, CAPA & Reporting 
+Risk Management 
+Conducting Monthly and Quarterly Business reviews 
+Building Proposals, SOW and working on Presales. 
+Resource Management
+Environment: MASKED_NAME, SQL Server 2008, SSIS, SSAS, SSRS, XML 
+Projects managed and delivered between Jan 2009 – July 2007 at Aditi 
+Technologies as PROJECT MANAGER 
+Client: Datacard Software India Pvt Ltd, Bangalore                                        Jan 2003 – July 2007
+Role: MASKED_NAME, Performance Engineer, MASKED_NAME in MASKED_NAME based
+MASKED_NAME  	:  Affina – Smart Cards Life Cycle Managing System
+Client: Infosys Technologies Pvt Ltd, Bangalore                                August 2002 to January 2003
+Role: Software Automation Test Engineer
+Project Title   	:  CAMPUS PIPELINE 	
+Environment 	: RTM Rational Robot, Clear Quest, and CP Table Builder.
+Client: Webwavez Technologies, MASKED_NAME                                                   July 2000 to July 2002
+Role: Software Engineer
+Environment: MASKED_NAME, JSP, MSSQL, JavaScript
+ACHIEVEMENTS:
+Best Program Manager award from MASKED_LOCATION (Angie’s List – 2013) 
+CEO, Aditi appreciations for contributions towards a Business Initiative in 2012.  
+“Best Mechanized Project” for a project Aditi Technologies, MASKED_NAME ~“Best 
+Performer” award in Aditi Technologies, MASKED_NAME  
+‘‘Most Significant Contributor’ (For MASKED_NAME release) award at Datacard Software India Pvt Ltd, MASKED_NAME 

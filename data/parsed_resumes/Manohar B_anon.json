@@ -1,0 +1,32 @@
+{
+  "resume_id": "Manohar B_anon",
+  "skills": [
+    "java",
+    "javascript",
+    "angular",
+    "html",
+    "css",
+    "bootstrap",
+    "jquery",
+    "node",
+    "spring",
+    "rest",
+    "soap",
+    "sql",
+    "mongodb",
+    "oracle",
+    "aws",
+    "jenkins",
+    "linux",
+    "apache",
+    "git",
+    "jira"
+  ],
+  "education": {
+    "degree": "Bachelor of Technology Electronics & Communication Engineering",
+    "year": "Unknown"
+  },
+  "experience_years": 7,
+  "projects": [],
+  "certifications": []
+}

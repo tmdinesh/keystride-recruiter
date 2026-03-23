@@ -1,0 +1,40 @@
+{
+  "resume_id": "Profile (32)_anon",
+  "skills": [
+    "python",
+    "javascript",
+    "jquery",
+    "spring",
+    "rest",
+    "soap",
+    "sql",
+    "mysql",
+    "cassandra",
+    "dynamodb",
+    "elasticsearch",
+    "aws",
+    "jenkins",
+    "apache",
+    "machine learning",
+    "tensorflow",
+    "scikit-learn",
+    "spark",
+    "hadoop",
+    "airflow",
+    "jira",
+    "confluence"
+  ],
+  "education": {
+    "degree": "Ph.D.,\u00a0Computer Engineering\u00a0\u00b7\u00a0(1993\u00a0-\u00a01999)",
+    "year": "1993"
+  },
+  "experience_years": 18,
+  "projects": [
+    "(Object Oriented Programming), Functional Programming, Apache",
+    "Advanced UNIX Shell Scripting, Virtualization, Jenkins, Atlassian",
+    "and Credit Card Processing.  I am extremely hands on as far as",
+    "field; I am also a great technical writer.  In addition, I have deep",
+    "understanding of stock market, options, futures, commodities,"
+  ],
+  "certifications": []
+}

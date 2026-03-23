@@ -1,0 +1,153 @@
+Mehul Panchal
+MASKED_LOCATION, MASKED_LOCATION
+Green Card
+MASKED_EMAIL	                                  MASKED_PHONE
+ Summary
+Over MASKED_ADDRESS & Quality Analyst in Agile, Scrum and Waterfall methodologies for various web-based, client MASKED_LOCATION, MASKED_LOCATION and Windows Applications
+Experience in Agile methodologies and Test driven development.
+Understanding, and transmitting the business requirements of the project into application functionality and detailed test plans.
+Skilled in Eliciting User Requirements, translating them into data, functional, quality, and usability requirements.
+Experienced in requirements management, controlling change and preparing RTM (Requirement Traceability Matrix).
+Extensively worked on Business Process Models with understanding of Business Process Modeling Notations (BPMN). Created new models and updated the existing models. Used tools like Rational Rose, MS Visio.
+Strong experience in preparing Business Requirements Document (BRD), Use Case Specifications, Functional Specifications.
+Well acquainted with MASKED_NAME and (UML) (Unified Modeling Language) diagrams such as, Use case diagrams, activity diagrams and Sequence diagrams.
+Actively used Joint Requirement Planning (JRP), Joint Application Development (JAD) and Rapid Application Development (RAD) sessions for requirements gathering and brainstorming ideas.
+Proven track record in analysis and evaluation of Information Systems issues, analytical problem solving, decision-making and technical writing.
+Researched on Best Industry Practices and explained the Business Users of the benefits and costs associated in implementing the same.
+Experience in end-to-end testing, UAT (User Acceptance Test) and user training for customers.
+Familiar with SOX compliance standards. Exposure to QA Principles like CMM levels and Six Sigma.
+Multi-Tasking and Organizational Aptitudes, with proven experience in Development and Implementation of Strategies.
+Highly disciplined and yet flexible approach to software development. A sound understanding of the balance that must exist between customer satisfaction and technical excellence. Proficient at all levels and stages of the software development cycle, from conception to production and maintenance.
+Self-motivated and objective driven, with the philosophy that “change is the only constant”. Expert in the development of adaptable software infrastructures and frameworks designed to support transformations and growth.
+Excellent communication and interpersonal skills, capable of communicating with highly technical engineering teams. Exceptional mediator between external and internal customers, capable of interpreting their needs and positions to ensure the coherence and success of the projects Proficient with tools such as MS Office, Visual Source Safe, CVS.
+Strong Analytical and MASKED_NAME skills.
+TECHNOLOGIES 
+Project Management Tools: MASKED_NAME, Rational Clear Quest, MS Project.
+Marketing/BPM/ETL/BI: Primo Marketing Studio (AMS), IBM Data Stage, Oracle Warehouse Builder, SQL*Loader, Business Objects, Micro Strategy, SSRS, PACE.
+Testing tools: Quality Center, QTP, REST, SOAP UI, Selenium WebDriver/RC/IDE/GRID, TOAD Facets.
+Bug Tracking/Testing: Quality Center, JIRA, MS Visual Studio, Rational Quality Manager, Rational Functional Tester, Rational MASKED_NAME, QTP, UAT.
+Business Modeling: MASKED_NAME, Rational Requisite Pro, Concept Draw Pro.
+Project Methodologies: Rational Unified Process (RUP), Software Development Life Cycle (SDLC), Agile (Scrum, XP),Waterfall, RAD, Six Sigma, V-Model.
+Databases/Web server:  Oracle 10g/9i, MySQL, MS-Access, SQL.
+Strengths: Good innovation streak, Quick learner, Team player, excellent interpersonal communication skills.
+
+Professional Experience
+PayPal, MASKED_LOCATION, MASKED_LOCATION	 					                                          May 2014 – Present 
+Business Analyst/Scrum Master
+PayPal Holdings, Inc. is an American company operating a worldwide online payments system that supports online money transfers and serves as an electronic alternative to traditional paper methods like checks and money orders. As a quality Business Analyst I worked on projects related to online Banking Portal applications that allow the customers to check the status of the credit card and allow the user to activate/de-activate mobile alerts using the web portal.
+Responsibilities:
+Interacted with the client as part of the Requirements Engineering team to finalize the project scope.
+Conducted interviews with end-users to collect requirement and business process information.
+Designed and developed project document templates based on SDLC methodology.
+Participated in various stages of data and requirement analysis for project needs.
+Identified internal and external system requirements, design and configuration set-up, also created User Documentation and conducted training classes.
+Successfully conducted JAD sessions, which helped synchronize the different stakeholders on their objectives and helped the developers to have a clear-cut picture of the project.
+Worked with Subject Matter Experts (SME), project team members (business and technical), to define technology application for the business and system requirements. Also worked with the QA Team Lead to develop QA standards and ensure compliance with all regulatory requirements.
+Performed task decomposition (WBS), delegated tasks and monitored project milestones using MS Project.
+Assisted the PM in setting realistic project expectations and in evaluating the impact of changes on the project plans accordingly and conducted project related presentations.
+Developed business requirement specification documents as well as high-level project plan.
+Developed User Stories within JIRA by working closely with the Product Owner, and took the User story from story phrase to story narrative to story scope and all the way to MASKED_NAME acceptance criteria. 
+Conducted Sprint Planning Meeting, Sprint Review/Demo and Sprint Retrospective Meeting
+Designed and developed Use Cases, Activity Diagrams, Sequence Diagrams, and OOD using UML.
+Assisted the PM in performing Risk Assessment, Management and Mitigation.
+Responsible for data load reviews, analysis and verification of ETL logic design for Data Warehouse and data marts in star schema methodology with conformed dimension and fact tables.
+Data mapping, logical data modelling, created class diagrams and ER diagrams and used SQL queries to filter data within the MASKED_NAME database
+Responsible for maintaining and help build client relationships between the offshore team, to bridge the gap with clients, able to comfortably converse with all facets in the clients organization.
+Assumed ownership of Use Case Diagrams, Use Case narratives and other various artifacts.
+Co-ordinate with developers, testers, business managers, and clients to implement the requirements and incorporated the changes as per client needs for the MASKED_NAME purpose.
+Participated in the logical and physical design sessions, assisted and developed high and low level design documents.
+Managed scope creep and worked with the scrum master to manage sprint time-box when business would request to change the requirements after development had started.
+Assisted with user testing of systems, developing and maintaining quality procedures, and ensuring that appropriate documentation is in place.
+Executed Systems Integration Test Plan, including the comparison of actual results to expected results.
+Performed Integration Testing and System Testing and bug fixing.
+MASKED_NAME, MASKED_LOCATION, NH	 					                 March 2012 – April 2014
+Quality &Business Analyst
+Liberty Mutual Insurance, is an American diversified global insurer, and the fourth-largest property and casualty insurer in MASKED_LOCATION. Worked on Projects on claim adjudication, claim processing and provider Management.
+Responsibilities:
+Analyzed Business Requirements and developed Test Procedures, Test Cases using Quality Center. 
+Defining and performing the Test strategies and associated scripts for the verification and validation of the application and ensuring that it meets all defined business requirements and associated functionality.
+Worked on Project Charter, BRD (Business Requirement Document), User Stories, FSD (Functional Specification Document), and Use Case document. 
+Experienced in designing and developing project document templates based on SDLC methodology. 
+Participated in all phases of Software Development Life Cycle (Agile, SCRUM, RUP, and MASKED_NAME).  
+Created test cases from the business user requirements specifications for GUI, Functionality, Security, and Boundary testing 
+Executed all the test cases using the Quality Center 
+Performed testing for positive and negative test cases to test the response of the system 
+Conducted Functional testing, Regression testing, Integration testing to check the system is working according to the requirement specifications 
+MASKED_NAME testing, Functional testing, and Smoke testing. 
+Tested the validity of the data cleaning done by the ETL by writing SQL and Scripts.
+Prepare and use test data/cases to verify accuracy and completeness of ETL programs/objects. 
+Used TOAD to confirm the correctness of the data in the backend. 
+Writing SQL queries to retrieve data from data warehouse and source databases. 
+Used ETL Tools to validate and compare data of source and target databases. 
+Developed QTP test scripts to support regression testing 
+Enhanced the test programming with conditional statements, and comments to the test scripts 
+Conducted splitting of the different actions and making them reusable in QTP scripts 
+Used checkpoints to verify the properties of various objects in QTP 
+Used the Test MASKED_NAME to run several tests in succession using QTP 
+Parameterized the scripts and conducted regression testing using different data from the datasheets in QTP 
+Used MASKED_NAME for web service testing. 
+User MASKED_NAME testing was done to validate so that the navigation of the application properly reflects business functions and requirements, including window-to-window, screen-to-screen, image-to-image, field-to-field and use of access methods. 
+Keep track of the Daily Defect Status with the help of QA Metrics and then entering them into Test Director 
+Automated the daily, weekly and monthly reports by executing through CRON and sending the reports as an attachment as email to Microsoft outlook, which reduced manual intervention of using ftp.
+Participated in the meetings with the project manager, business analyst and team lead for the planning of testing schedules and prioritizing the deliverables.
+Capital One, MASKED_LOCATION, NH	 					           February 2010 – March 2011
+Quality/Business Analyst
+Capital One is a financial holding company which offers a broad spectrum of financial products and services. The central idea behind the project was to easily enable the travel benefit program on a new card Venture which includes enrollment of card members, qualification and statement crediting, customer servicing and financial settlement and reporting. 
+Responsibilities:
+Worked with stakeholders and management team in gathering various requirements for the project.
+Written Use Cases, Use Cases designed detailed logical class and activity diagrams, other high-level process flows.
+Analyzed business requirements and segregated them into high level and low level Use Cases, Activity Diagrams, State Chart Diagrams using Rational Rose according to UML standard thus defining the Data Process Models. 
+Performed Requirement Elicitation and Analysis and conducted JAD sessions for communicating with Stakeholders and Project directors during MASKED_LOCATION.
+Assisted in preparing User Stories in MASKED_LOCATION after the collection of Functional Requirements from System Users that provided appropriate scope of work for technical team to develop prototype and overall system. 
+Discussed requirements with other members of the team like the Application developers, Project Manager and Data Base Administrators. 
+MASKED_NAME and helped on the work with the easily implementation of web services by RESTful 
+Designed detailed logical class, use case, activity diagrams and other high-level process flows. 
+Interacted with clients to assess needs, identify key challenges, and define project Scope and deliverables. 
+Liaised with teams in Business, Team Leads and PMs in global offices for various operations. 
+Worked in a Scrum Agile process with 2 week iterations and was involved in MASKED_LOCATION/Release planning. Participated in daily SCRUM meetings in an agile environment, retrospective meetings for issues, incorporate suggestions, decisions in code development. 
+Gathered requirements from SMEs and generated reports to help the business to visualize the design. 
+Interpreted customer business needs and translate them into application requirements. 
+Created reports to help users track cash flows by business areas/department. 
+Prioritized project efforts, develop project plans, process flows, UML Model and Use Cases. 
+MASKED_NAME and update digital reports and dashboards based on client requirements. 
+Identified and prepared business requirements- gap analysis.
+Developed Project management plan which included background including "CONSTRAINTS" AND "ASSUMPTIONS, business process, success measures, roles, & responsibilities, project plan for schedule/timelines and resource utilization. 
+Reported status, milestones, and project plan tracking to project management and project owners on a weekly basis. Used MASKED_NAME for flow-charts, process model of the application.
+Health Now, MASKED_LOCATION, MASKED_LOCATION	 					      February 2009 – January  2010
+Quality &Business Analyst
+HealthNow is an American managed health care company, which sells traditional and consumer directed health care insurance plans and related services, such as medical, pharmaceutical, dental, behavioral health, long-term care, and disability plans.  Worked on Projects on claim adjudication, claim processing and provider Management.
+Responsibilities:
+Analyzed requirements, participated in Design Discussions and prepared Design document.
+Worked on all phases of SDLC (Software Development Life Cycle) and Quality Assurance methodologies of Agile.
+Served as a lead for the MASKED_LOCATION testing effort, involved in the Reviewing of Requirements Specification with functional manger and technical specialists.
+Develop testing strategy and test plan, outlined various capabilities of the testing process. Describe the tasks of each testing capability, outlined roles and responsibilities related to the testing process.
+Wrote test cases in Quality Center derived from the BRD and generated a Traceability Matrix for testing purposes.
+Implemented manual testing of a web-based application, including backend, functional and integration testing 
+Did gap analysis MASKED_NAME to 5010 and 837 transactions, and analyzed error.
+Wrote Test scenarios and test cases for testing the migration of EDI4010 to 5010 and the processing of member enrollment and benefits, (834) batch jobs corresponding to the claims (837).
+Involved in forward mapping from ICD MASKED_ADDRESS mapping from ICD10 to ICD9 using General equivalence Mappings (GEM).
+Experience with Networks pricer-testing and figuring pricing for procedures and claims based on information inputted into MASKED_LOCATION.
+Performed data validation testing after the ETL process using Informatica. 
+Used Rally for making the development organization faster, leaner and more agile and to get on the track with the User stories and to improve iteration planning practices. 
+Involved in manual testing, preparation of Business Process Test Cases and Test Execution. 
+Involved in the review of test cases and test scenarios of the Policy module. 
+Performed report testing for both SSRS Reports and BI Reports via Business Objects. 
+MASKED_NAME all the documentation in Share point. 
+Worked on Guidewire Policy Center for ETL Testing. 
+Used Informatica Workflow Manager to schedule and run Informatica mappings and MASKED_NAME to monitor ETL execution and logs.
+Involved in configuration testing and end-to-end testing of FACETS Enrollment, Claim Processing, MASKED_NAME/Member, Provider and Utilization Management module.
+Identify scope systems that will be modified by the ICD-10 project to accommodate ICD-10code and /or downstream impacts steaming from ICD-10 codes.
+Tested the HIPPA EDI transactions according to test scenarios and verify the data on different modules.
+Involved in Black box testing, System testing, integration testing, Functional testing, MASKED_NAME testing, Regression Testing and User Acceptance Testing (UAT) manually and Automation tool.
+Executed Automated Test scripts using MASKED_LOCATION
+Wrote SQL queries to test the application for data integrity and verified the contents of the data table.
+Extensively used SQL queries to check storage and accuracy of data in database table
+Managed defect tracking process, which include prioritize bugs, assign bugs and verifying bugs using MASKED_LOCATION.
+Handling/Tracking defect in the Quality center and export in to Excel by using filter.
+Education
+Professional SCRUM Master (PSM) in agile methodology (2017)
+Scrum.org
+Masters in Science 
+Sandiego State, CA
+Bachelors in Science 
+JNTU University Hyderabad, MASKED_LOCATION

@@ -1,0 +1,103 @@
+ROLE: Dynatrace Monitoring Specialist (m/w/d)
+SOURCE: Arbeitnow
+URL: https://www.arbeitnow.com/jobs/companies/flexit-consulting-gmbh/dynatrace-monitoring-specialist-dusseldorf-232013
+
+In dieser Rolle verantwortest du das Monitoring komplexer IT-Systemlandschaften mit Fokus auf 
+Dynatrace
+. Du sorgst fr Transparenz in der Performance von Anwendungen und Infrastruktur, untersttzt bei der Analyse von Strungen und entwickelst Monitoring- und Observability-Konzepte kontinuierlich weiter. Dabei arbeitest du eng mit Entwicklung, Betrieb und Infrastrukturteams zusammen und trgst aktiv zur Stabilitt und Optimierung der Systemlandschaft bei.
+
+Aufgaben
+
+Betrieb, Administration und Weiterentwicklung einer Dynatrace Monitoring-Plattform
+
+Einrichtung und Pflege von Monitoring-Konfigurationen, Metriken, Dashboards und Alerting-Regeln
+
+Analyse von Performance-Daten und Systemmetriken zur frhzeitigen Erkennung von Problemen
+
+Untersttzung bei der Analyse und Behebung von Incidents sowie Performance-Engpssen
+
+Durchfhrung regelmiger Health Checks der Monitoring-Umgebung
+
+Verwaltung von Benutzerrollen, Berechtigungen und Zugriffsstrukturen innerhalb der Plattform
+
+Aufbau und Pflege von Automatisierungen sowie Integration von Monitoring in bestehende Systeme
+
+Erstellung und Pflege technischer Dokumentationen und Betriebsprozesse
+
+Untersttzung von Entwicklungs- und Betriebsteams bei der Integration neuer Anwendungen ins Monitoring
+
+Wissensweitergabe rund um Dynatrace, Monitoring und Observability innerhalb technischer Teams
+
+Mitarbeit im Umfeld von Application Servern (z. B. Konfiguration, Updates oder Betrieb)
+
+berwachung von Verfgbarkeit, Stabilitt und Performance von Application Servern und den darauf betriebenen Anwendungen
+
+Qualifikation
+
+Abgeschlossene Ausbildung oder Studium im IT-Bereich (z. B. Fachinformatik Systemintegration, Informatik oder vergleichbare Qualifikation)
+
+Mehrjhrige praktische Erfahrung im Betrieb und in der Administration von 
+Dynatrace
+ oder vergleichbaren Monitoring-/APM-Lsungen
+
+Erfahrung im Bereich 
+Application Performance Monitoring (APM)
+ und 
+Observability
+
+Kenntnisse im Betrieb von Application Servern wie 
+Apache Tomcat, JBoss oder IBM WebSphere
+ sind von Vorteil
+
+Gute Kenntnisse im 
+Linux-Umfeld
+ sowie Erfahrung mit 
+Shell- oder Bash-Scripting
+
+Verstndnis fr komplexe Systemarchitekturen und verteilte Anwendungen
+
+Strukturierte und analytische Vorgehensweise bei der Fehleranalyse
+
+Teamorientierte Arbeitsweise und gute Kommunikationsfhigkeiten
+
+Gute Deutschkenntnisse sowie Englischkenntnisse in Wort und Schrift
+
+Technologien und Themen
+
+Dynatrace
+
+Application Performance Monitoring (APM)
+
+Observability & Monitoring
+
+Linux / Bash
+
+Apache Tomcat / JBoss / IBM WebSphere
+
+Performanceanalyse und Incidentanalyse
+
+Dashboarding, Alerting und Automatisierung
+
+Benefits
+
+Flexible Arbeitszeiten
+
+30 Tage oder mehr Urlaub pro Jahr
+
+Weiterbildungsmglichkeiten zur fachlichen und persnlichen Entwicklung
+
+Betriebliche Altersvorsorge
+
+Einsatz im Umfeld moderner Monitoring- und Observability-Plattformen
+
+Zusammenarbeit mit interdisziplinren IT-Teams aus Entwicklung, Infrastruktur und Betrieb
+
+Fokus auf Stabilitt, Performance und Transparenz komplexer IT-Systemlandschaften
+
+Haben wir dein Interesse geweckt? Dann freuen wir uns auf deine Bewerbung
+
+und stehen Ihnen fr weitere Informationen gerne zur Verfgung.
+
+Find 
+Jobs in Germany
+ on Arbeitnow

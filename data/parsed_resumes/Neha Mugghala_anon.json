@@ -1,0 +1,39 @@
+{
+  "resume_id": "Neha Mugghala_anon",
+  "skills": [
+    "python",
+    "java",
+    "javascript",
+    "html",
+    "css",
+    "bootstrap",
+    "jquery",
+    "node",
+    "spring",
+    "rest",
+    "soap",
+    "sql",
+    "mysql",
+    "mongodb",
+    "oracle",
+    "cassandra",
+    "aws",
+    "jenkins",
+    "apache",
+    "git",
+    "jira"
+  ],
+  "education": {
+    "degree": "Unknown",
+    "year": "Unknown"
+  },
+  "experience_years": 8,
+  "projects": [
+    "Eclipse and used JPA annotations.",
+    "Created applications, connection pools, deployment of JSPs, Servlets, and EJBs in WebSphere also Soap web srvice.",
+    "Designed the application based on the architecture of the\u00a0MVC design\u00a0pattern.",
+    "Requirement Analysis and Documentation as per SDLC methodologies.",
+    "Performed data loading using\u00a0spring\u00a0-\u00a0Hibernate."
+  ],
+  "certifications": []
+}

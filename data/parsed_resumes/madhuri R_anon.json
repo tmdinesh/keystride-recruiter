@@ -1,0 +1,43 @@
+{
+  "resume_id": "madhuri R_anon",
+  "skills": [
+    "java",
+    "javascript",
+    "angular",
+    "html",
+    "css",
+    "bootstrap",
+    "jquery",
+    "spring",
+    "express",
+    "rest",
+    "soap",
+    "sql",
+    "mysql",
+    "mongodb",
+    "oracle",
+    "elasticsearch",
+    "aws",
+    "azure",
+    "docker",
+    "jenkins",
+    "apache",
+    "git",
+    "jira"
+  ],
+  "education": {
+    "degree": "AWS Certified Developer \u2013 Associate (KDNJ3B41CBQQQXSF)\t\t       \t\t\t Nov \u201817",
+    "year": "Unknown"
+  },
+  "experience_years": 8,
+  "projects": [
+    "Description: Techno soft provides a range of professional services delivered by experts with operational experience building and running the largest E-Mail, messaging, and Internet networks. These services range from architecture and design of software solutions, website design & development to deployment services and operational support.",
+    "Involved in developing the Routings and configured Routing Program as scheduled the concurrent request.",
+    "Involved in raising the Notifications to Oracle Users through Mailing Concept for intimating to start the next process using workflow.",
+    "Involved in Analysis and Design of the project, and developing prototypes of the product.",
+    "Wrote custom support modules for upgrade implementation using PL/SQL, UNIX Shell scripts."
+  ],
+  "certifications": [
+    "AWS Certified Developer \u2013 Associate (KDNJ3B41CBQQQXSF)\t\t       \t\t\t Nov \u201817"
+  ]
+}

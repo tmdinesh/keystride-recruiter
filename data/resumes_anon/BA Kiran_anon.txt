@@ -1,0 +1,117 @@
+PROFESSIONAL SUMMARY
+More than MASKED_ADDRESS in diverse fields such as Finance, Mortgage, Trading, Insurance, Wealth Management, Banking, Investment Management and Accounting. 
+Extensive experience in the development, implementation and integration strategies towards a team-oriented environment, utilizing quantitative and qualitative analytical skills. With ease in communicating/converting clients vague/non-technical requirements into precise/concise representation to the team. 
+Knowledge of Capital Markets, Initial Public Offering(IPO), Fixed Income Securities, Equity Securities, derivatives. 
+Experience with investment banking regulatory/compliance reporting regulations like Basel II and III Accord. 
+Experience in interviewing Business users & SME providing recommendations to resolve issues for various business/technical groups & defining strategic solutions to business problems in a multiple project environment. 
+Extensive experience in Banking Industry group including Credit, Risk, Investment and Operational Risk Banking that involve knowledge in CCAR, Basel II, Basel III
+Experienced in working with User Interface team in creating MASKED_NAME and Wireframes 
+Proficient in authoring Business Requirement Documents (BRD), System Requirement Specifications (SRS) and identifying interfaces and business process specifications. 
+Experience in developing detailed functional specs through JAD sessions, interviews, on site meetings with business users & development team. 
+Strong experience in working with all phases of SDLC throughout the project life cycle in Waterfall and Agile (SCRUM) environment. 
+Mature understanding of Quality Assurance Methodology relative to SDLC.
+Experienced in creating various Unified MASKED_NAME (UML) Diagrams using UML modeling tools such as MASKED_NAME. 
+Proficient in documentation of As-is and To-be business processes. 
+Proficient in utilizing Project Management tools, project plans, project schedules, resource planning and management, budgeting, project kickoff meetings, status meetings, and timeline management. 
+Knowledge of GAP Analysis, Traceability Matrices, SWOT Analysis, Risk Analysis, Data Analysis, Competitive Analysis, Impact Analysis, and Cost Benefit Analysis 
+Knowledge of Commercial Off the Shelf Products (COTS) 
+Did User Acceptance Testing (UAT) and Manual testing (Functionality Testing) of UI and Web Applications. 
+Worked with the Testing Team in reviewing Test Procedures, Test plans, Test cases for quality assurance. 
+Tracking defects and interacting with team members in fixing errors. 
+Experienced in creating MASKED_NAME and providing End User Training 
+Excellent interpersonal and customer relational Skills. Enthusiastic and a self-starter with a need of minimal inputs.
+EDUCATIONAL DETAILS:
+Bachelor’s in engineering and Technology.
+TECHNICAL SKILLS:
+PROFESSIONAL EXPERIENCE:
+Citi Bank, NJ                                                                                                                      Aug MASKED_ADDRESS, Commercial Banking IT
+Responsibilities:	
+IT Business Analyst & QA Analyst for Commercial Banking, dealing with releases involving compliance and regulatory Projects. 
+Documented business requirements and system functional specifications in the form of BRDs and FSDs respectively and created Impact Matrix and Requirements Traceability Matrix. 
+Interacted with business users and software development teams as a liaison in helping translate the business Requirements in technical standards ensuring the proposed applications and solutions comply with Business specifications. 
+Collaborated with system architects, SMEs, Developers, QA and UAT teams and played a key role in planning, analysis, Design, and development and implementation phases to accomplish timely release objectives. 
+Involved in Build Verification Testing, positive, negative and boundary testing, conducted system testing, and Regression Testing.
+Documented Daily Defect Status with the help of QA metrics 
+Reviewed and triaged defects. Bug reporting, Defect tracking and re-testing using ALM. 
+Wrote SQL queries to test the database and to perform validations. 
+Trained new joiners to the team on business functionalities and the processes. Organized daily calls with QA and DEV teams to clarify queries and triage issues during releases. 
+Provided production support and clarified business queries for impacts and prioritization of any issues. 
+Preparation of induction manuals and application documents. 
+Worked closely with business users to develop the test scenarios. 
+UAT kick off call and testing sessions with business users. 
+Worked with Strategy team to provide feedback on sworn document future state process mapping. 
+Logged critical defects and was appreciated by the UAT Program team.
+Chase Bank, MASKED_LOCATION, Ohio                                                                                             Sep MASKED_ADDRESS
+Responsibilities:
+Facilitated Scrum planning meetings to coordinate between Clients, Product Owner, MASKED_NAME and MASKED_LOCATION teams. 
+Shadow and assist some of the Product Owner activities by providing high level estimates, prioritizing stories for the sprint and maintaining backlogs and release plans. 
+Performed GAP analysis by communicating with business head regarding the existing system and upgrades required. 
+Interfaced with users to gather reporting and business requirements to create user stories, analyzed workflow and created new business processes and used JIRA to document use cases and user stories. 
+Helped create sprint backlogs from the product backlog after sprint planning. 
+Defined process flows for Lead Management, Application Processing, Underwriting and Closing and funding.
+Defined the various business transactions and business rules dealing with digital payments, online banking, credit and debit cards. 
+Developed user screens prototype and performed management sign-off. 
+Created business process flows using MASKED_NAME for operations process. 
+Worked with the MASKED_LOCATION and architect team to review and evaluate the Application for credit and debit card holders to view their activity and pay their bills online without any problem. 
+Used UML diagrams to document the deployment scenarios. 
+Coordinated with data modeling team in building the new data model, which will serve the better needs for Reports Development. 
+Organized weekly Bug Triage meetings with the MASKED_NAME team and testing team to clear any pending tickets in regard to Bug fixing. 
+Documented Test Plans that contains Test Scripts, Test Cases, Test Data and expected results for the Unit, Integration, Functional, Performance, and User Acceptance Testing, using Test Manager. 
+Proactively worked with development and QA teams to fasten the project delivery. 
+Conducted walkthroughs and documented and involved User Acceptance Test (UAT), provided training to user. 
+Provided production support and released software updates. 
+Documented the entire business process, user manuals with screen-shots for hand over. 
+Provided on call support to end users for Tier 2 level. 
+Escalated technical problem to the Tier 3 level support team and document it. 
+Tracked the sheet until the problem is solved by the tier 2 team and document it.
+Channelized Service request using Service Now for Tier 1 and 2 Production Support and Maintain release for builds created. 
+Fidelity Investments, MASKED_LOCATION, MASKED_LOCATION                                                                                  Jan MASKED_ADDRESS
+Responsibilities:
+Documented and validated the business process flow of Online Securities Trading System to use MS Word 
+Continuously engage stake holders on MASKED_LOCATION II.5/ III requirements gathering especially on liquidity risk.
+Outstanding expertise and professional experience across credit risk, market risk or liquidity risk.
+Interacted with SMEs in Fixed Income, Bonds and Bond Trading Cycle, Bond Pricing, and Asset Management & used MS Outlook.
+Wrote the functional and technical specifications and communicated requirements to development teams. 
+Followed project development lifecycle, responsible for performing gap analysis, prepared the Project Plan according to the project scope, prepared BRD, FSD & used MS word for documentation & made slide to use, MS Power point.
+Analyzed and investigated business user issues and worked with SME's and Managers to identify related "defects" and required "enhancements" in the application and captures business requirements.
+Created and maintained complete development plans that included functional specifications, requirements engineering, Use Case modeling, risk assessment and mitigation, internal and external workflow. 
+Involved in System test in the URL
+Union Bank of India, MASKED_LOCATION                                                                                        Aug 2011 to Dec 2013
+Business System / QA Analyst 
+Responsibilities: 
+System study and preparing business requirement documents and followed Agile Methodology. 
+Dealt with Fixed income, Wealth Management, and Sales & Marketing. 
+As a Technical Business Analyst Conducted requirements gathering sessions with different SOX Compliance Applications Development (AD) Managers, their teams, understand the current provision/authorization process, analyze it and provide the technical solutions to automate their application provision process. 
+Provided feasible solutions and proof of concepts (POC) to the business users based on analysis. 
+As a Business Analyst, Analyzed and Prepared Business Requirement Document (BRD), Functional Requirement Documents (FRD), Test Case Document (TCD) and Technical Requirement Documents (TRD) Deriving Implementation solutions. 
+Serves as a conduit between the Business users/customers (internal and external customers) and the technology teams through which requirements flow. 
+Assisted in identifying and quantifying Credit Risk, Operational Risk and Market Risk 
+Gather all the functional and technical requirements, maintain the info in internal 'Wiki/Confluence' sites. 
+Coordinating functional requirements of application to Technical Lead and Team. 
+Prepared SQL Stored Procedures APIs, performed debugging and fixed the issues. 
+Define Project Scope, Goals and Deliverables that support business goals in collaboration with senior management and stakeholders. 
+Preparing Test Scenarios, Test Cases and Test scripts and performed Functional and Integration Testing Report & Track the issues with Technical Team, Make sure all the issues resolved before moving to Production. 
+Coordinated as a Single Point of Contact for business users with regards to essential interactions during design, development and testing phases with offshore/onshore teams. 
+Understand and analyzed the existing provision process directly which was in MASKED_LOCATION as a Service (SaaS) and provided the automation solutions. 
+Attended weekly Business Analysis (BA's) meetings and provide all the changes/implementations of the application as part of the application release process. 
+Had a discussion with MASKED_NAME and convey the Database schema changes. 
+Taken Full responsibility of Application Changes (UI/DB/API's) in all the environments (Test, QA and Production), validate it and performed necessary Tests and finally validate the data. 
+Conducting User Acceptance Test (UAT) with Business, execute test cases and get approval of the UAT. 
+Discussed with Business Users about New Changes or Enhancements of Application and explained them about the technical feasibility of the same and provided the high-level estimation to complete it. 
+MASKED_NAME and let technical team knows if any issues in application, create issue tickets, track it and make sure all issues get resolved well in time before production move. 
+Providing Transition to Support knowledge to support team. 
+Evoke Technologies, Hyderabad                                                                             December MASKED_ADDRESS, Mortgage Banking IT
+Responsibilities: 
+IT Business Analyst for Mortgage Banking, dealing with releases involving MASKED_NAME, RESPA-TILA/TRID.
+Developed and managed the formal Software Development Life Cycle (SDLC) Methodology which includes Configuration Management, Requirements Management, UML Analysis and Design. 
+Worked under Agile methodology and interacted with business heads to finalize the Business Requirements for the Application. Performed the requirement Ad-Hoc Analysis and documented the requirements. 
+Closely interacted with designers and software developers to understand application functionality and navigational flow and keep them updated about Business users' sentiments.
+Developed BRD, FRD, Use Case diagrams, business flow diagrams, Activity/State diagrams and Wire Frame Diagrams So that developers and other stakeholders can understand the business process. 
+Analyzed and investigated business user issues and worked with SME's and Managers to identify related "defects" and Required "enhancements" in the application and captures business requirements. 
+Peer review, inspection, and Code Walkthroughs. 
+Update the business on the progress of the testing effort. 
+Handled the Defect tracking calls. 
+Application training and domain knowledge.
+Provided production support and clarified business queries for impacts and prioritization of any issues. 
+Preparation of induction manuals and application documents. 
+Preparation of test strategy, test requirements, test cases and test procedures based on Functional Requirement.

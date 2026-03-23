@@ -1,0 +1,148 @@
+ROLE: Staff Full-Stack Engineer (all genders)
+SOURCE: Arbeitnow
+URL: https://www.arbeitnow.com/jobs/companies/kaufland-e-commerce/staff-full-stack-engineer-all-genders-cologne-343142
+
+Anstellungsdetails
+
+Permanent Contract, Full- or Part-Time, Remote or Cologne / Darmstadt / Dsseldorf / Berlin
+
+Info
+
+Who we are
+
+We operate the international 
+online marketplaces
+ of Kaufland: Several thousand sellers and millions of products make us one of the fastest growing online marketplaces. Ours is a dynamic corporate culture that merges a start-up mentality with the opportunities offered by a large corporation. We combine knowledge and many years of experience in e-commerce with flat hierarchies and a highly motivated team.
+
+We love flexibility! You have the freedom to choose whether you want to work remotely (within Germany) or at one of our offices in Cologne, Darmstadt, Dsseldorf, or in our co-working space in Berlin. You decide what works best for you!
+
+Day by day, our Tech & Product Team of about 400 experts pursues the goal of creating the best possible customer shopping experience for our online marketplace. Through innovative technical developments, they not only create an outstanding shopping experience but also lay the foundation for an optimal selling experience for our sellers. Learn more about our division, areas, and cross-functional teams 
+here
+!
+
+Aufgaben
+
+Your tasks  this is what awaits you in detail
+
+You handle complex technical dependencies independently to ensure smooth integration and minimal conflicts across our entire system landscape
+
+You drive performance optimization continuously by identifying and addressing bottlenecks across our entire application landscape
+
+You develop and maintain complex web applications autonomously using our core technologies, Node.js and Vue.js
+
+You manage system monitoring, including the integration of tools like Datadog, to ensure the high performance and reliability of our systems
+
+You implement reliable and scalable Server-Side Rendering (SSR) solutions within your domain of ownership to enhance the user experience
+
+You design, develop, and deploy scalable, maintainable, and efficient microservices to support our long-term architecture
+
+You provide expert technical guidance and mentorship to cross-functional teams, acting as a key consultant within your area of expertise
+
+Profil
+
+Your profile  this is what we expect from you
+
+You bring extensive experience in solving diverse engineering problems using the tools and frameworks that best serve the problem domain
+
+You possess profound knowledge of TypeScript and Vue.js, or you are highly accomplished with other modern frontend frameworks
+
+You have a solid background in backend application development, specifically in Node.js, PHP, or other relevant languages
+
+You demonstrate operational excellence through your knowledge of modern testing, debugging, monitoring, and deployment techniques
+
+You use your adaptive technical thinking to build responsive applications across various API paradigms while maintaining a solid understanding of infrastructure
+
+You ideally have experience running efficient A/B tests and validating ideas through high-iteration cycles to drive product growth
+
+You are a proactive communicator who takes ownership, challenges inefficient processes, and thrives in an international environment
+
+You are fluent in English (C1) and enjoy working in an international environment
+
+Benefits
+
+What we offer
+
+Create your own work-life balance:
+ You have the flexibility to choose between working remotely (within Germany) or from one of our locations in Cologne, Darmstadt, Dsseldorf, or our co-working space in Berlin!
+
+Do you want to move to Germany?
+ No problem  we offer you an attractive relocation package to give you a smooth start.
+
+Urban Sports Club and RSG Group Fitness Studios:
+ Get top deals for fitness, swimming, yoga and more
+
+Mental Well-Being:
+ We support you on your well-being journey with special offerings such as Instahelp, the digital platform for online psychological counseling
+
+Vacation & Sabbatical:
+ Enjoy 30 days of vacation per year and the opportunity to take a sabbatical once you have been part of the team for a certain period!
+
+Option for Pluxee restaurant vouchers:
+ Buy Pluxee vouchers through us and benefit from tax-advantaged meal allowances!
+
+Deutschlandticket:
+ We subsidise your train season ticket for more mobility
+
+Employee Discount:
+ You will receive a monthly coupon for 
+Kaufland.de
+
+Free choice of operating system:
+ MacOS or Ubuntu Linux, it's up to you
+
+Boost your growth:
+ Benefit from our online language learning programs, diverse in-house training, and our automated 360-degree feedback. We cover the costs for relevant conferences, training opportunities, and approved team workshops to strengthen personal interactions
+
+This is who we are:
+ Our dynamic culture combines flat hierarchies, a start-up mentality, an international team of over 65 nationalities, and the strength of the Schwarz Group to provide you an agile and secure working environment.
+
+We are team players:
+ From day one, you will connect not only with your team but also with others through our 
+digital onboarding journey
+, the 
+buddy program
+, and regular team and company events, all-hands meetings, 
+powerful mornings
+, and much more!
+
+Check out our 
+Principles
+ & our 
+blog
+ for even more insights into our company culture!
+
+Diversity at Kaufland e-commerce
+
+We welcome applications from everyone, regardless of skin colour, sexual orientation, gender identity, age, disability, ethnic origin, religion and ideology. We are signatories to the Charta der Vielfalt (German Diversity Charter)  because we know that extraordinary things can only be achieved with diversity. Read more 
+here
+!
+
+Bewerben
+
+Why are you the perfect fit for this position?
+
+Don't bother with cover letters - we're interested in facts and figures! Feel free to share your Github profile with us in your application.
+
+How would you like to be addressed?
+
+Feel free to add the following pronouns "she/her", "him/he" or "they/them" optionally (e.g. after your name) in your CV.
+
+As we have very international teams, we would highly appreciate it to receive your CV or profile link in English.
+
+Ansprechpartner
+
+Your contact person: Verena Schilmann
+
+Kaufland e-commerce Services GmbH & Co. KG
+
+Postal address:
+
+Habsburgerring 2
+
+50674 Kln
+
+We are looking forward to your application!
+
+Find 
+Jobs in Germany
+ on Arbeitnow

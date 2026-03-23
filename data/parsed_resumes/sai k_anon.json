@@ -1,0 +1,33 @@
+{
+  "resume_id": "sai k_anon",
+  "skills": [
+    "java",
+    "javascript",
+    "angular",
+    "html",
+    "css",
+    "bootstrap",
+    "jquery",
+    "spring",
+    "rest",
+    "soap",
+    "sql",
+    "oracle",
+    "nginx",
+    "apache",
+    "jira"
+  ],
+  "education": {
+    "degree": "Unknown",
+    "year": "Unknown"
+  },
+  "experience_years": 8,
+  "projects": [
+    "With the e-HIS product we can perform lot of functionalities which will be beneficial to the patient and the doctor. All the patient's history will be maintained in the database pertaining to that Hospital provided a Patient ID. A Doctor can know to how many patients he needs to do diagnosis for a period of time. A Patient can be diagnosed by the doctor perfectly provided his details (PatientID). No Paper work.",
+    "Involved in development, customization and enhancement of the product.",
+    "In this module we will provide facilities to the doctors to place orders and reporting the result (state). In this module we will give all the permissions to admin, so that to configure the privileges for the different practitioner (who serves the patient).",
+    "I am one of the 7 members of the team and developed Master Functions and Transaction Functions based on the requirement and done enhancements and optimizations to the existing code.",
+    "Also involved in continuous enhancement, maintenance and bug fixing."
+  ],
+  "certifications": []
+}

@@ -1,0 +1,26 @@
+{
+  "resume_id": "Raja Santhosam_PM Scrum Master_anon",
+  "skills": [
+    "rest",
+    "sql",
+    "oracle",
+    "jira"
+  ],
+  "education": {
+    "degree": "Master of Business Administration (HR & Marketing), 2007-09, Anna University, MASKED_LOCATION, MASKED_LOCATION.",
+    "year": "2007"
+  },
+  "experience_years": 13,
+  "projects": [
+    "Roles and Responsibilities:",
+    "Interacting with the business representatives to understand the requirements and determine the best approach for timely delivery of information.",
+    "Involved in Implementing ETL standards and Best practices.",
+    "Review of Data Model and validating its feasibility to physical implementation.",
+    "Facilitated all the Sprint Ceremonies: Backlog Refinement, Sprint Planning, Daily SCRUM, and Sprint Review."
+  ],
+  "certifications": [
+    "Certified Scrum Master\u00ae from Scrum Alliance License No: 000491155",
+    "Certified Scrum Product Owner\u00ae from Scrum Alliance License No: 000491155",
+    "Trained on PMP and planning to take up the exam tentatively by Jan 2018"
+  ]
+}

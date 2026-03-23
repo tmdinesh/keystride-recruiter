@@ -1,0 +1,27 @@
+{
+  "resume_id": "Profile (46)_anon",
+  "skills": [
+    "python",
+    "javascript",
+    "golang",
+    "rust",
+    "ruby",
+    "r",
+    "rest",
+    "sql",
+    "mongodb",
+    "aws",
+    "machine learning",
+    "tensorflow",
+    "numpy",
+    "spark",
+    "hadoop"
+  ],
+  "education": {
+    "degree": "Analytics, Psychology and Quantitative MBA.",
+    "year": "Unknown"
+  },
+  "experience_years": 4,
+  "projects": [],
+  "certifications": []
+}

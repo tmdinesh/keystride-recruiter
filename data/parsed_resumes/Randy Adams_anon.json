@@ -1,0 +1,36 @@
+{
+  "resume_id": "Randy Adams_anon",
+  "skills": [
+    "java",
+    "javascript",
+    "php",
+    "ruby",
+    "angular",
+    "html",
+    "css",
+    "bootstrap",
+    "jquery",
+    "node",
+    "spring",
+    "rails",
+    "rest",
+    "soap",
+    "sql",
+    "mysql",
+    "mongodb",
+    "oracle",
+    "azure",
+    "jenkins",
+    "linux",
+    "apache",
+    "jira",
+    "confluence"
+  ],
+  "education": {
+    "degree": "Master of Science and Engineering, from BRANDEIS UNIVERSITY",
+    "year": "Unknown"
+  },
+  "experience_years": 8,
+  "projects": [],
+  "certifications": []
+}

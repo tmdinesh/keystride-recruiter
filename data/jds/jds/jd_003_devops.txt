@@ -1,0 +1,45 @@
+ROLE: DevOps Engineer
+SOURCE: Synthetic
+URL: N/A
+COMPANY: DataSpark Labs
+
+============================================================
+  DEVOPS ENGINEER
+  DataSpark Labs
+============================================================
+
+ABOUT THE COMPANY
+----------------------------------------
+DataSpark Labs is a cutting-edge technology company specializing in transforming complex data into actionable insights and innovative solutions. We build scalable, high-performance platforms that empower businesses to make data-driven decisions and drive growth. Join us to work on challenging problems at the intersection of data science and cloud infrastructure.
+
+RESPONSIBILITIES
+----------------------------------------
+  • Design, implement, and manage scalable, secure, and highly available cloud infrastructure on AWS using Infrastructure as Code (IaC) principles with Terraform.
+  • Develop and maintain robust CI/CD pipelines to automate software delivery, testing, and deployment processes for various applications.
+  • Monitor system performance, troubleshoot issues across the full stack, and implement proactive measures to ensure optimal uptime and reliability.
+  • Collaborate with development teams to optimize application performance, implement best practices for containerization, and enhance observability.
+  • Implement and enforce security best practices, access controls, and compliance standards across all cloud environments and CI/CD workflows.
+
+REQUIRED SKILLS (Must-Have)
+----------------------------------------
+  ✅ AWS Cloud Services (EC2, S3, RDS, VPC, IAM, CloudWatch, SQS, SNS, Route 53)
+  ✅ Terraform for Infrastructure as Code (IaC)
+  ✅ CI/CD Tools (e.g., Jenkins, GitLab CI, AWS CodePipeline, CircleCI)
+  ✅ Containerization Technologies (Docker)
+  ✅ Scripting Languages (Python, Bash)
+  ✅ Linux/Unix System Administration
+
+PREFERRED SKILLS (Nice-to-Have)
+----------------------------------------
+  ⭐ Kubernetes (EKS) and Helm for container orchestration
+  ⭐ Monitoring and Logging Tools (Prometheus, Grafana, ELK Stack)
+  ⭐ Serverless Technologies (AWS Lambda, API Gateway)
+
+EXPERIENCE & EDUCATION
+----------------------------------------
+  Experience: 2-4 years
+  Education:  Bachelor's degree in Computer Science, Engineering, or a related technical field, or equivalent practical experience.
+
+COMPENSATION
+----------------------------------------
+  $95,000 - $135,000 USD

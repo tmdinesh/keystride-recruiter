@@ -1,0 +1,42 @@
+{
+  "resume_id": "chenna kesava_anon",
+  "skills": [
+    "python",
+    "java",
+    "javascript",
+    "react",
+    "html",
+    "css",
+    "sass",
+    "bootstrap",
+    "jquery",
+    "node",
+    "spring",
+    "rest",
+    "soap",
+    "sql",
+    "mysql",
+    "mongodb",
+    "oracle",
+    "dynamodb",
+    "aws",
+    "docker",
+    "linux",
+    "apache",
+    "git",
+    "jira"
+  ],
+  "education": {
+    "degree": "Unknown",
+    "year": "Unknown"
+  },
+  "experience_years": 8,
+  "projects": [
+    "Involved in Use Case Diagrams, Class Diagrams and Sequence diagrams using Rational Rose.",
+    "Tested\u00a0Web\u00a0Services\u00a0using SOAP UI and involved in composing test suites for operations.",
+    "Got exposure to build and deploy the changes in a production environment by executing the build script and deploying the compiled\u00a0GWT\u00a0client side code and server side code to the production server.",
+    "Designed and developed web pages using with HTML, DHTML, XHTML, CSS, and JSP.",
+    "Achieved role control functionality mainly by retrieving JSON data from AJAX and combining the retrieved data with jQuery to manipulate nodes in DOM tree."
+  ],
+  "certifications": []
+}

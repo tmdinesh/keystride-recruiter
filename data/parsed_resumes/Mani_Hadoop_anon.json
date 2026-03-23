@@ -1,0 +1,29 @@
+{
+  "resume_id": "Mani_Hadoop_anon",
+  "skills": [
+    "python",
+    "java",
+    "javascript",
+    "html",
+    "css",
+    "node",
+    "spring",
+    "rest",
+    "soap",
+    "sql",
+    "mysql",
+    "mongodb",
+    "oracle",
+    "aws",
+    "spark",
+    "hadoop",
+    "jira"
+  ],
+  "education": {
+    "degree": "Bachelor of Technology in Computer Science from National Institute of Technology, MASKED_NAME.",
+    "year": "Unknown"
+  },
+  "experience_years": 8,
+  "projects": [],
+  "certifications": []
+}

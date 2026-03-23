@@ -1,0 +1,22 @@
+{
+  "resume_id": "Mehul_anon",
+  "skills": [
+    "rest",
+    "soap",
+    "sql",
+    "mysql",
+    "oracle",
+    "jira"
+  ],
+  "education": {
+    "degree": "Professional SCRUM Master (PSM) in agile methodology (2017)",
+    "year": "2017"
+  },
+  "experience_years": 8,
+  "projects": [],
+  "certifications": [
+    "Business Analyst/Scrum Master",
+    "Managed scope creep and worked with the scrum master to manage sprint time-box when business would request to change the requirements after development had started.",
+    "Professional SCRUM Master (PSM) in agile methodology (2017)"
+  ]
+}

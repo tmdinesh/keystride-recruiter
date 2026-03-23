@@ -1,0 +1,148 @@
+Technology professional with MASKED_ADDRESS with extensive work experience and good in-depth knowledge in Healthcare, MASKED_LOCATION, Finance, Insurance and Pharmaceutical Industry. Possess a solid balance of technical experience and smart business assessment and translate them to functional and usability requirements throughout the Software Development Life Cycle (SDLC). Have strong Project Management skills. Ability to analyze and design business processes and requirements using established system process design and implementation methodologies applying business modeling and Unified Modeling Language (UML). Have hands on experience on eliciting Business requirements and creating BRDs and experience in RUP, MASKED_NAME and Waterfall Methodologies. Possess excellent verbal and written communication skills that help communicate with stakeholders, end users, project managers and testing team and create professional documentation.
+Expert level knowledge of Software Development Life Cycle (SDLC) and Software Testing Life Cycle (STLC).
+Proficient in understanding the various phases including Requirements, analysis, design, development, testing and implementation of software applications.
+Highly experienced in implementing Waterfall, Agile Scrum methodology and Rational Unified Process (RUP).
+Experienced in UML, modeling Activity, Use case and Sequence diagrams using tools such as Rational Rose, MASKED_NAME.
+Competent in conversing with the Business Users, Subject Matter Experts (SMEs) Developers and the QA Team.
+Expert in project plan development and analysis.Extensive experience working with MS Project.
+Experience in defect tracking for web based client/server applications. Proficient in prioritizing, implementing and managing product enhancements in MASKED_LOCATION.
+Conducted Joint Application Development (JAD) sessions and interacted with the stakeholders in order to elicit requirements and prioritize them thus acting as a liaison between the management, developers and the IT team.
+Expert documentation skills and comfortable with eliciting correct requirements from business users
+Documenting key content deliverables (Requirements and Functional Design Docs, test scripts, UAT sessions and Acceptance Report, Training Materials).
+Multiple projects experience working with cross-functional teams across multiple time zones.
+Exceptional ability to maintain and build client relationships, frequent meetings one on one with clients, able to comfortably converse with all facets in the client's organization.
+Experienced in appraisal of the AS-IS and TO-BE business processes (Gap analysis) and experienced in converting these requirements into technical specifications for preparing test plans.
+Performed Data and workflow analysis with the help of Use Case diagrams, Collaboration Diagrams, Sequence Diagrams and Activity Diagrams in Rational Rose and MASKED_NAME to clearly communicate requirements, architecture and designs.
+Providing traceability matrix across the project by linking business requirements, functional specifications and corresponding test cases.
+Implemented SQL scripts, stored procedures, triggers and indexes for various database operations.
+Strong knowledge of SQL and extraction/ transformation/ loading (ETL) process using SQL scripts.
+Good knowledge on ETL tool Informatica PowerCenter on Designer, repository Manager, Workflow Manager and MASKED_NAME.
+Experience with Quality Center, Rational Requisitepro and Selenium.
+Experience working with open source tools and technologies.
+Strong presentation skills and ability in presentations towards different functional areas of business.
+Demonstrated an exceptional ability to adapt to new developments in the world of technology and working environment. Ability to prioritize and schedule multiple tasks on a day-to-day basis.
+Excellent communication and leadership skills, self-motivated and a quick learner.
+Pennsylvania Department of Health, MASKED_LOCATION, PA                                            April 2017 – Current
+Sr. Business Analyst
+Description: MASKED_LOCATION is implementing an Electronic Death Registration System (EDRS) to report death events in MASKED_LOCATION. EDRS is a web-based application that simplifies the data collection process and enhances communication between funeral directors, local registrars, coroners/medical examiners and certifying health care providers as they work together to register deaths online.
+Responsibilities:
+Attended reviews and walkthroughs to better understand the Requirement documents.
+Analyzed FRS and BRDs to get a better understanding of the system on both functional and business perspectives.
+Reviewed and analyzed business requirements document to derive the functional requirement document and systems requirements specification document.
+Liaise with Cross Functional Teams for gathering requirements
+Assisted in the release of project-related materials for internal and external stakeholders by creating reasonable plans
+Involved in meetings and training in between the project phase to communicate the project phase progress to the stakeholders
+MASKED_NAME analysis of the requirements to identify the key business risks areas for the project and prioritized the application development and testing as-is to-be process
+Involved in Walkthroughs and meetings with the development team.
+Anticipated risks to the project success and escalates accordingly.
+Tracked and maintained user requested enhancements and changes.
+Assisted in Project Impact and Process Control Plan documents.
+Participated in calls with business users, developers and weekly status meetings.
+Created Product Backlog, MASKED_NAME, managed User stories, epics and led daily stand-up meetings.
+Participated in Release Planning, MASKED_NAME off, Sprint review and daily scrum meetings.
+Responsible for Leading JAD sessions with Business, Stakeholders and other impacted project team including developers and architects.
+Actively participated in creating the Training Plan documents for technical as well as workflow training for the appropriate users to enable production hand-off using MS - Word
+Prepared Reports (weekly) and maintained Weekly Project Tracker
+Participated in User Acceptance Testing (UAT) and regression testing
+Worked with Development teams investigating and correcting software bugs and deficiencies based on testing results.
+Environment: HTML, XML, MS Access, ORACLE, MASKED_NAME Excel, Quality Center, Sharepoint 
+Comcast, MASKED_LOCATION, PA	                                                                   Jan 2015 - March MASKED_ADDRESS
+Description: Comcast is the second largest pay-tv company in MASKED_LOCATION and the nation's third-largest home telephone service provider. Comcast has invested in Technology to build a sophisticated network that delivers the fastest MASKED_LOCATION speeds. Comcast is a producer of feature and television programs intended for theatrical exhibition and over-the-air and cable television broadcast. The Project Master Data Management includes Web-based software, hosted by Comcast, and a range of customer-focused services.
+Responsibilities:
+Collaborated with the business team to understand and determine the overall Business goals
+Conducted JAD sessions and captured Procurement documents for Business Requirements
+Worked with IT and Business personnel for gathering, understanding and implementing requirements accordingly as-is to-be
+Interviewed SMEs and other staff personnel to understand and interpret Business needs, performed document analysis to understanding current state and determine future needs
+Prepared Business Requirement Documents and Functional/Non-functional/ Requirement Documents and Technical Requirement Documents
+Responsible for meetings with users and stakeholders to identify problems, resolve issues and improve the process to ensure a stable and accurate solution
+Created, traced and maintained requirements in RTM (Requirements Traceability Matrix) through design, development and testing phases
+Performed Gap Analysis and identified potential issues/gaps.
+Worked on Large Scale, Complex IT Project (e.g., Custom Applications Development and COTS Implementations)
+Prepared and contributed in creating Test plan and Test Strategy along with arranging and executing Test Cases for Manual Testing
+Identified, analyzed, documented and communicated Defects and inconsistencies in software program content, functions, outputs, and online modules in HP Quality Center (QC)
+Performed Functional Testing and Integration Testing on Web Services.
+Coordinated with QA Manager to develop Business scenario test Cases based on the Business Requirement Documents (BRD) and Technical Requirement Documents (TRD)
+Worked with development teams to identify, debug and retest system bugs and deficiencies, based on testing results & following the defined Bug Life Cycle (BLC) process
+Evaluated and verified test data systems through Quality Metrics created in HP Quality Center & Excel
+Performed Functional, Integration, System Testing for the different types of customer transactions & processes.
+Developed Test Cases for User Acceptance Testing(UAT)
+Used HP Quality Center (QC) for requirement management, planning, scheduling & running tests, also tracking & managing defects in the Defects module.
+Ensured business requirements are verifiable as identified and covered in testing cycles to ensure delivery of expected functionality.
+Environment: HTML, XML, JavaScript, Web Services – Axis 2.0, DB2, MASKED_LOCATION, Unix, Selenium, Quality Center.
+Union Bank, MASKED_LOCATION, CA                                                                                   May 2012- Dec MASKED_ADDRESS
+Description: Union Bank is a full-service bank with offices across MASKED_LOCATION. It provides a wide spectrum of corporate, commercial, retail banking, and wealth management solutions to meet the needs of customers. The bank also offers an extensive portfolio of value-added solutions for customers, including access to investment banking, personal and corporate trust, capital markets, global custody, transaction banking, and other services. The project was implemented as a Data Warehousing and BI initiative to process data for Customer Information, Credit Cards and the analyzed data was used for marketing, Credit Cards Processing, Billing, Payment.
+Responsibilities:
+Gathered Business Requirements from the Subject Matter Experts (SMEs) and documented 
+Business Requirements Document (BRD)
+Utilized data flow diagrams, user story/ use case diagrams and process flow diagrams to represent information provided by the Business Owners
+Experienced in facilitating and conducting Joint Application Design (JAD) and Joint Requirement Planning (JRP) sessions, interviews, workshops and requirement elicitation sessions with end-users, clients, stakeholders and development team.
+Effectively elaborated the current process and gave a clear picture of the proposed process for the projects in the organization. 
+Worked with Development Team to resolve issues and clarify Business Requirements from the Business Owners
+Maintained the Traceability Matrix table to track the Business Requirements.
+Logged the defects using Quality Center and tracked the defects back to the test cases and the requirements 
+MASKED_NAME analyst with the ability to keep company risk low while building 
+Review and prepare the procurement documents involving third party vendors
+Periodically prepared requests to provide insides to internal stakeholders, financial advisory services, risk assessments and support
+Reviewed Functional specification documents, design documents, requirements traceability matrix and involved in developing test plan document
+Supervise and guide testers in the team and monitor day-to-day test activities with business analyst team and onsite development teams and suggest necessary changes if required in relevant use
+Worked with the UAT and QA teams to conduct an assessment and determine how effective UAT and QA guidelines can help the company achieve timely completion of projects.
+Validated performance of the systems by running scripts and gather the response times. Prepared results of the performance tests
+Prepared reports on defects and conducted defect meetings with the development team
+Led the Change Control Process for changes submitted for the BRD once the document was submitted to IT department
+Worked aggressively towards timely completion of high priority tasks.
+Environment: Web Portal - Heads Down & PEPs, MS Access, ORACLE, MASKED_NAME, Excel, PowerPoint.
+Health First, MASKED_LOCATION, NY                                                                                  July 2011 – April MASKED_ADDRESS
+Description: .Healthfirst is a provider-sponsored health insurance company that serves more than 1.2 million members in downstate MASKED_LOCATION. Healthfirst offers top-quality Medicaid, MASKED_NAME, Child Health Plus, and Managed Long Term Care plans. Healthfirst Leaf Qualified Health Plans and the Healthfirst Essential Plan are offered on NY State of Health.The Health Insurance Portability and Accountability Act (HIPAA) require that all health insurance payers in MASKED_LOCATION comply with the EDI standards for health care.Health First is a leading insurance organization that caters to the health insurance needs of the residents
+Responsibilities:
+Gathered and documented requirements in Requisitepro those are critical to the business mission and using those requirements to design application software using a Use Case approach
+Created EDI documents for EDI maps to generate requirement documents and Project Charter, and logical design documents for EDI transactions and code sets
+Interacted with the “Users” by interviewing them, by preparing questionnaire and getting feedback
+Attended Client Meetings Project Steering Committee Meetings and Project Management Committee Meetings
+Prepared BRD, Business Cases, and presentation to the clients, Business Re-engineering proposals
+Assisted JAD sessions to identify the business flows and determine whether any current or proposed systems are impacted by the EDI 837 Transaction, Code set and Identifier aspects of HIPAA
+Managed the team of consultants responsible for developing on-demand Medicaid Management System reports
+Designed the online screens and reports for the Medicaid Online Electronic Claims Submission System
+Analyzed business requirements for new system requests, system upgrades, and system replacements to ensure compatibility with IT security policies and HIPAA standards
+Managed the team of consultants responsible for developing on-demand Medicaid Management System reports
+Designed the online screens and reports for the Medicaid Online Electronic Claims Submission System
+Responsible for creating test scenarios, scripting test cases using testing tool and defect management for Policy Management Systems, Payables/Receivables and Claims processing
+Developed Use Case diagrams, business flow diagrams, Activity/State diagrams and Sequence diagrams so that developers and other stakeholders can understand the business process by using UML
+Worked as an interface between the users and the different teams involved in the application development for the better understanding of the business and IT processes
+Analyzed various corporate statistics with the help of financial modeling and forecasting to predict potential risks factors
+MASKED_NAME a requirements traceability matrix in order to keep the clients and all the teams up-to-date with the current progress of the project
+Involved in the documentation and technical writing of the requirements in an elaborate way.
+Conducted User-Acceptance Testing(UAT).
+Environment: Rational Unified Process (RUP), DB2, Rational Test Manager, MASKED_NAME, HTML, XML
+Highmark, Camp Hill, PA                                                                             November 2010 - June MASKED_ADDRESS
+Description: Highmark Inc. and its health insurance subsidiaries and affiliates collectively are among the ten largest health insurers in MASKED_LOCATION and comprise the fourth-largest Blue Cross and Blue Shield-affiliated organization.This X12 Transaction Set contains the format and establishes the data contents of the Healthcare Claim Transaction Set (837) for use within the context of an Electronic Data Interchange (EDI) environment. This transaction set can be used to submit healthcare claim billing information, encounter information, or both, from providers of healthcare services to payers, either directly or via intermediary billers and claims clearinghouses
+Responsibilities:
+Studied the existing business system and pattern for efficiently making the changes.
+Held meetings with the SME and developers to complete the given task on timely basis.
+Studied existing business application and processes, collected end user requirements, analyzed sources of revenue leakage and suggested the improvised business process model.
+Facilitated collection of Functional Requirements Specification (FRS) from system users and prepared of Business Requirement Documents (BRD) by using Rational Requisitepro along with applied MS-Visio for creating Use Case Models and Use Case Specification documents.
+Involved in HIPAA assessment and HIPAA X12 EDI transaction (837, 834) mapping and identified changes that needed to be done to comply with HIPAA regulation and HL7 compliant
+Provided SDLC Methodology for developing EDI applications to completely automate payments posting for Medicare, Medicaid and commercial payers electronic payments files.
+Worked on Member Management, Eligibility and Claims
+Documented, clarify, and communicate requests for change requests with the requestor and coordinate with the development and testing team.
+Created and also assisted the team during Test case creations and reviewed it on individual functionality of what the application has to perform making sure it covers all the business rules. 
+Developed use case diagrams, use case models and class diagrams based on UML methodology
+Logged the defects using Quality Center and tracked the defects back to the test cases and the requirements 
+MASKED_NAME analyst with the ability to keep company risk low while building 
+Conducted UAT in the final phase of software development process to check the functionality of the software
+Ranves IT solutions Pvt Ltd, Hyd, MASKED_LOCATION                                                    April 2009 - October 2010
+Jr. Business Analyst
+Description: Implemented a centralized database that collects and organizes and stores data from different operating systems to provide a single source of integrated and historical data for the purpose of end user reporting, analysis and decision support and to improve the client services by preventing errors, providing real-time data and updating records as transactions are completed for MASKED_LOCATION and Payment purposes.
+Acted as a liaison between the business users and technical teams to build applications based on the business requirements. 
+MASKED_NAME in creating business use case scenarios, and documented system specifications with information obtained through subject matter experts, and stakeholders/steering committee meetings. 
+Created Functional Requirement Specifications following the Agile Methodology using MS Word/Visio. Worked with MASKED_NAME, warehouse designer, MASKED_NAME, Mapplets, and MASKED_NAME
+Using Informatica Designer Designed Mappings, that populated the Data from Source to staging area to Sales & Marketing Data Mart 
+Worked within software development methodologies to quickly achieve business process. 
+Wrote functional and non-functional specifications, and scenarios. 
+Designed and documented process flow of system functionality via diagrams, screen mockups, use case, work flows.  
+Worked with developers to map data to requirements. 
+Worked with the Project Manager and BA to estimate best/worst case scenarios, tracked progress for weekly estimates of remaining work to do, conducted informal meetings as needed. 
+Created activity and sequence diagrams to provide direction to developers. 
+Conducted JAD sessions to communicate expectations, and managed issues. 
+Created test plans, identified and coordinated testers, performed user acceptance testing (UAT). 
+Performed defect tracking using MASKED_LOCATION, and ensured resolution of issues.
+Bachelors in Engineering					                              MASKED_NAME, MASKED_LOCATION

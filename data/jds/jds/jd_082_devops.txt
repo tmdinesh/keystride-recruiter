@@ -1,0 +1,5 @@
+ROLE: DevOps Engineer
+SOURCE: Adzuna
+URL: https://www.adzuna.com/land/ad/5597179447?se=grQ5y4sY8RGbM9_FMNqlUA&utm_medium=api&utm_source=e34e223e&v=C686108BDB65E94A26EB0BC49F54388345190F0A
+
+DevOps Engineers are essential when it comes to keeping both our customers and engineering team running. As part of the Cloud Platform and DevOps group you will work on products critical to our operations and software that proactively detects issues with systems in the data centre, in the cloud, or at customer sites. At a Glance The DevOps Engineer here at Vectra AI designs and implements pipelines and tools to ensure continuous integration, delivery, and deployment for our products and ensure

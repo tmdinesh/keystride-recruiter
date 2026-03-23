@@ -1,0 +1,61 @@
+ 
+ 
+联系方式
+www.linkedin.com/in/zewei-
+liu-117b98b5 (LinkedIn)
+热门技能
+Java
+Python
+MASKED_NAME (Native or Bilingual)
+English (Full Professional)
+Honors-Awards
+National Scholarship and “Excellent
+Student”  of the 2012-MASKED_ADDRESS-class scholarship and
+“Outstanding Student” of 2011-MASKED_ADDRESS-class scholarship and
+“Outstanding Student” of 2013-MASKED_ADDRESS Place at Iowa MBA Business
+Analytics Case Competition
+MASKED_NAME
+Machine Learning Engineer at Petuum, Inc.
+MASKED_LOCATION, MASKED_LOCATION
+个人简介
+Passion for big data practices, new technology as well as sharing
+knowledge and experience and creating useful data insight and
+application. Excellent verbal and written communicator.  
+Now actively seeking full-time opportunities in data science related
+field.
+工作经历
+Petuum, Inc.
+Machine Learning Engineer
+2017 年 9 月 - Present (2 年 7 个月)
+MASKED_LOCATION in solution team as a data scientist/machine learning engineer. 50% Data
+Scientist, 50% software Engineer. Deploy multiple data science usecases for
+company
+Comcast
+Data Scientist Internship
+2016 年 6 月 - 2016 年 8 月 (3 个月)
+Comcast Entech Intern Program.
+·Research on TV rating prediction and design machine learning algorithms for
+it 
+·Write TV rating prediction API, then speed up the API by using multi-process
+strategy
+·Optimize the original order plan system by using dynamic programming, the
+system can solve 10\% more orders afterwards
+LAUDGLOBE
+Software Engineer
+2014 年 2 月 - 2014 年 8 月 (7 个月)
+Developed E-commerce platform and the company forum based on Opencart
+secondary development
+ 
+Page 1 of 2
+
+ 
+ 
+教育经历
+NYU Center for Data Science
+Master of Science (MASKED_LOCATION), Data Science · (2015 - 2017)
+Jilin University
+Bachelor of Engineering (B.Eng.), Software Engineering · (2011 - 2015)
+Jilin University
+Mathematics · (2011 - 2012)
+ 
+Page 2 of 2

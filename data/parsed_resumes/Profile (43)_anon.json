@@ -1,0 +1,21 @@
+{
+  "resume_id": "Profile (43)_anon",
+  "skills": [
+    "python",
+    "machine learning",
+    "tensorflow"
+  ],
+  "education": {
+    "degree": "Master's degree,\u00a0Electrical and Electronics Engineering\u00a0\u00b7\u00a0(2002\u00a0-\u00a02005)",
+    "year": "2002"
+  },
+  "experience_years": 7,
+  "projects": [
+    "Automated statistical analysis and anomaly detection of real time data from a",
+    "40MW solar power plant",
+    "Created pre-failure detection method to identify problematic systems through",
+    "data analysis and mining",
+    "Built a physics-based parametric model to predict electro-optical and thermal"
+  ],
+  "certifications": []
+}

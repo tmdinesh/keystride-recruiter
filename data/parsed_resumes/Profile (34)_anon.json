@@ -1,0 +1,23 @@
+{
+  "resume_id": "Profile (34)_anon",
+  "skills": [
+    "python",
+    "aws",
+    "machine learning",
+    "deep learning",
+    "computer vision"
+  ],
+  "education": {
+    "degree": "PhD,\u00a0Computer Science\u00a0\u00b7\u00a0(1996\u00a0-\u00a01998)",
+    "year": "1996"
+  },
+  "experience_years": 4,
+  "projects": [
+    "Finished Yahoo in May 2012",
+    "Working at Google until end of 2012.",
+    "Professor at CMU 2013-2017",
+    "Director at Amazon Machine Learning from July 2016 on",
+    "I work on machine learning and statistical data analysis. This"
+  ],
+  "certifications": []
+}

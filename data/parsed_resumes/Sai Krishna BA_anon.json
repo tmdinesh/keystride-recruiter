@@ -1,0 +1,19 @@
+{
+  "resume_id": "Sai Krishna BA_anon",
+  "skills": [
+    "sql"
+  ],
+  "education": {
+    "degree": "Unknown",
+    "year": "Unknown"
+  },
+  "experience_years": 5,
+  "projects": [
+    "Followed the HIPAA implementation guides for preparing the EDI files.",
+    "Prioritize the work backlog for the team, and communicate backlog status to the customers, as appropriate",
+    "Performed ongoing quality assurance to ensure accuracy and consistency of output in the system",
+    "Acted as project team member on initiative to combine a local and national claims processing system into one single platform",
+    "Conducted user acceptance testing and data validation of web applications used to present benefit information"
+  ],
+  "certifications": []
+}

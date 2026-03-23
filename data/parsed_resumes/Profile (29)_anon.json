@@ -1,0 +1,22 @@
+{
+  "resume_id": "Profile (29)_anon",
+  "skills": [
+    "python",
+    "typescript",
+    "sql",
+    "postgresql",
+    "mysql",
+    "mongodb",
+    "aws",
+    "machine learning",
+    "scikit-learn",
+    "numpy"
+  ],
+  "education": {
+    "degree": "professional with a Bachelor's degree focused in English from",
+    "year": "Unknown"
+  },
+  "experience_years": 5,
+  "projects": [],
+  "certifications": []
+}

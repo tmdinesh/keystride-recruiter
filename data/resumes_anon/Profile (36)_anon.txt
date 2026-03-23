@@ -1,0 +1,193 @@
+ 
+ 
+Contact
+www.linkedin.com/in/vikram-
+MASKED_LOCATION (LinkedIn)
+MASKED_NAME Language Processing
+Neural Networks
+Deep Learning
+Languages
+English (Native or Bilingual)
+Hindi (Native or Bilingual)
+Publications
+A Language Independent Approach
+to Audio Search
+Out-of-Distribution Detection for
+MASKED_NAME Modelling for Online and
+Early Gesture Detection
+ProtoGAN: Towards Few Shot
+Learning For Action Recognition
+Patents
+DETECTION OF DRIVING
+ACTIONS THAT MITIGATE RISK
+MASKED_NAMEMachine Learning Researcher | MBUX Intelligent Interior, Mercedes-
+Benz Research and Development India
+MASKED_LOCATION, MASKED_LOCATION, MASKED_LOCATION
+Summary
+Computer Vision Researcher with experience in Natural Language
+Processing and Speech processing. My work has been published in
+CVPR, 3DV, ICCV and Interspeech. 
+Worked on Gesture Recognition, Few Shot/Zero Shot Activity
+Recognition, Image classification, Negative mining, Multilingual
+Audio Search, MASKED_LOCATION, Speaker Recognition, Time
+Series data mining.
+In my previous life, I developed a strong foundation in full stack
+software development. I have developed micro-services, android
+games, android applications, web interfaces, elastic search based
+solutions and big data solutions (Hadoop).
+Experience
+Mercedes-Benz Research and Development India
+Machine Learning Researcher
+March 2018 - Present (2 years 1 month)
+MASKED_LOCATION, MASKED_LOCATION, MASKED_LOCATION
+Netradyne
+Senior Research Engineer
+August 2017 - February 2018 (7 months)
+MASKED_LOCATION, MASKED_LOCATION, MASKED_LOCATION
+Driving Behaviour Mining  
+Worked on mining actionable insights from the driving data of the fleets of
+our clients. Visual and Inertial data is captured by our devices installed in the
+vehicles.  Used unsupervised clustering techniques over this data to cluster
+similar driving patterns (Hard braking, sudden acceleration) as well as extract
+new patterns. These driving patterns can be used to train the drivers and
+promote safe driving. Explored possibilities where the inertial data can be used
+as the golden source when visual algorithms fail. 
+ 
+MASKED_NAME MASKED_ADDRESS for an existing model to classify. Instead of labelling the
+complete data, only these hard frames should be labelled by the annotators.
+This helps in faster and cheaper annotation process without compromising on
+the performance of the computer vision models.
+Self-Employed
+Deeplearning Researcher
+February 2017 - July 2017 (6 months)
+MASKED_LOCATION, MASKED_LOCATION
+Explored Deep Learning and it's applications in the field of Computer Vision,
+particularly Object Identification.
+Developed a good understanding of applying CNNs for object classification.
+Worked on standard datasets like CIFAR10, imbalanced medical dataset like
+Melanoma Cancer Dataset and also on client's proprietary datasets.
+As a consultant for a startup, I developed models for detecting the age/
+gender of a person. Also developed models for classifying cars into various
+categories.
+In the process, I have explored various ideas to improve the accuracy of the
+models like deeper networks, dropout, local response normalisation, batch
+normalisation, pre-trained networks, data augmentation etc.
+Kiwi India Private Limited
+3 years 11 months
+Senior Software Engineer - Machine Learning
+October 2015 - January 2017 (1 year 4 months)
+MASKED_LOCATION, MASKED_LOCATION, MASKED_LOCATION
+As part of the Artificial Intelligence team, developed NLP solutions to enable
+creation of intelligent and smart bots.
+Auto Reply
+Developed an end to end Auto-Reply solution using deep LSTM encoder-
+decoder network. Trained and deployed Seq2Seq models on standard and
+custom conversational datasets.
+ 
+Page 2 of 6
+
+ 
+ 
+Semantic Similarity
+Developed an algorithm to find semantic similarity between two text phrases
+using advanced NLP techniques. Developed a custom algorithm to handle
+negations in text phrases by using constituency parse of the text.
+Structured Question Answering 
+Developed a prototype of a Question Answering System for Structured Data.
+Profanity Filters
+The above solutions were exposed as REST APIs for the other teams to
+consume. The objective was to enable the bots to understand the intent of the
+users and give appropriate responses.
+Earlier, I have been involved from the initial stages in the design and
+development of our flow based Bot making platform - onsequel.com. 
+Worked closely with the product managers,authors and UX designers to
+design and develop the core features of the platform including front end and
+backend.
+Integrated ElasticSearch in the tool for providing advanced search functionality
+to our clients.
+Also, worked on a demo chat application as a POC using QuickBlox on the
+Android platform.
+Technologies: Torch, LUA, MASKED_LOCATION, ElasticSearch, MASKED_NAME, Python,
+MASKED_NAME, MySql, Redis, Angular JS, HTML, CSS
+Software Engineer
+March 2013 - September 2015 (2 years 7 months)
+Worked as a full stack software engineer with specialization in developing high
+quality social games on Android over LibGDX library.
+Integral part of the team which developed the famous game title "Westbound".
+Was involved from the conceptualisation phase till the release and
+maintenance of the game. Worked closely with the product managers, game
+designers and UI artists.
+ 
+Page 3 of 6
+
+ 
+ 
+Designed and developed lot of addictive features and mini-games to enhance
+the overall game experience.
+Solved complex problems and came up with design solutions for both client
+and server side.
+Technologies: MASKED_NAME, MASKED_NAME, LibGdx, MASKED_NAME framework, Android, MASKED_NAME Associate
+September 2011 - March 2013 (1 year 7 months)
+MASKED_LOCATION Area, MASKED_LOCATION
+Worked as part of the backend team of the Investment Recommendation
+Engine. Involved in the understanding of the existing code base, underlying
+algorithm and the HADOOP framework. 
+Developed a Text Classification prototype with an accuracy of more than 93%
+using SVM classifier and TFIDF as the features.
+Developed WCF web services for accessing data from the RTA DB2 database.
+Designed and developed UI modules using JQuery, Ajax, HTML and CSS.
+Explored Microsoft Speech API to develop a speech to text conversion
+prototype. Developed an algorithm to interpret semantics from the text.
+Indian Institute of Technology, MASKED_LOCATION
+Research Associate - Speech Processing
+June 2009 - January 2012 (2 years 8 months)
+MASKED_LOCATION, MASKED_LOCATION
+As part of my M.Tech project, I worked on "Language Independent Audio
+Search" under the able guidance of Prof.MASKED_NAME, MASKED_LOCATION, MASKED_NAME, IBM-IRL and Ashish Verma, IBM-IRL.
+The objective of the research was to search and extract the audio files from
+a large database containing spoken keywords from a huge audio database
+without using any language specific information. We trained Neural Networks
+models on English language data and then evaluated our models on the same
+task on MASKED_LOCATION language. 
+ 
+Page 4 of 6
+
+ 
+ 
+We observed that neural networks are able to generalize well across
+languages without any language specific training. 
+The results were published in the 2011 INTERSPEECH conference - 
+MASKED_URL
+Voxta Communications
+Text Independent Speaker Identification
+May 2009 - July 2009 (3 months)
+I worked as an intern with Voxta Communications under the able guidance of
+MASKED_NAME, Sirish Reddi and MASKED_NAME.
+I developed a "Text Independent Speaker Identification" prototype using
+Gaussian Mixture Models (GMM) and MASKED_NAME (HMM) obtaining
+accuracies of over 95% on more than 200 speakers.
+Technologies: CMU Sphinx, Matlab, Perl 
+Loughborough University
+Optically Switched Reconfigurable Antennas
+May 2008 - July 2008 (3 months)
+Pravak Cybernetics
+Embedded Programming
+October 2007 - March 2008 (6 months)
+Developed a Graphics User Interface(GUI) for a six motor robotic arm.
+Integrated a wireless transmitter receiver with a ATMEL Mega 16 micro
+controller. 
+Developed a line tracer robot using IR sensors and PIC microcontroller.
+Visesh Infotecnics Ltd
+Vehicle Tracking
+May 2007 - July 2007 (3 months)
+Education
+ 
+Page 5 of 6
+
+ 
+ 
+Indian Institute of Technology, MASKED_LOCATION
+M.Tech, Information and Communication Technology · (2010 - 2011)
+Indian Institute of Technology, MASKED_NAME, Electrical Engineering · (2006 - 2010)
+ 
+Page 6 of 6

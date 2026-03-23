@@ -1,0 +1,39 @@
+{
+  "resume_id": "Vamshi L_anon",
+  "skills": [
+    "python",
+    "java",
+    "javascript",
+    "scala",
+    "angular",
+    "html",
+    "css",
+    "sass",
+    "bootstrap",
+    "jquery",
+    "node",
+    "spring",
+    "rest",
+    "soap",
+    "sql",
+    "mongodb",
+    "oracle",
+    "aws",
+    "apache",
+    "git",
+    "jira"
+  ],
+  "education": {
+    "degree": "Unknown",
+    "year": "Unknown"
+  },
+  "experience_years": 8,
+  "projects": [
+    "Involved in complete development of \u2018Agile Development Methodology/SCRUM\u2019, developed and tested the application during various iterations.",
+    "Involved in fitting the Data power SOA\u00a0web\u00a0sphere appliance in the\u00a0web\u00a0services\u00a0for the ease of error handling and load balancing.",
+    "Tested\u00a0Web\u00a0Services\u00a0using SOAP UI and involved in composing test suites for operations.",
+    "Achieved role control functionality mainly by retrieving JSON data from AJAX and combining the retrieved data with jQuery to manipulate nodes in DOM tree.",
+    "While in the newer sub project, conducted validation in AngularJS way."
+  ],
+  "certifications": []
+}

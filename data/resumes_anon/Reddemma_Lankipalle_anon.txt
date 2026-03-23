@@ -1,0 +1,195 @@
+MASKED_NAME, PA 19403
+MASKED_EMAIL - MASKED_PHONE
+Having 8 years of experience in Software testing in the areas of Web based, MASKED_LOCATION-Server applications using Manual and Automation testing techniques. Well versed in MASKED_LOCATION testing techniques and methodologies.
+Summary
+Hands on experience in Quality Assurance including Functional, System, Smoke, GUI, Regression, and Integration, Retesting, User Acceptance Test (UAT) and Compatibility Testing of Web and Client server based Applications.
+Experience in both Agile and Waterfall Software Development Models.
+Extensive experience in designing Test Cases, Test Scenarios, Test Scripts and Test reports of manual and automated tests.
+Extensive experience in coordinating testing effort, responsible for test deliverables, status reporting to management and issue escalations.
+Experienced in complete Software Development Life Cycle (SDLC), Software Testing Life Cycle (STLC) and Bug Life Cycles
+Expertise on Black-Box testing techniques like BVA and ECP.
+Experienced in creating Requirement Traceability Matrix (RTM) to ensure comprehensive test coverage of requirements.
+Experienced in creating Test Summary Report for each sprint.
+Involved in Testing in Agile Development Environment using TDD and ATDD approach.
+Experience in effectively coordinating with development team for any clarification on defects or reproducing the defects.
+Experienced in UI Automation Testing for Android/iOS Mobile Application using Appium.
+MASKED_NAME for Native Android/iOS MASKED_LOCATION using MASKED_NAME.
+Actively involved in peer review meetings, requirement analysis, defect reviews with the development team and training the team members
+Working experience with defect tracking tools like Jira, Quality Center (QC) and Microsoft Test Manager (MTM).
+Good experience in database testing (SQL Server/Oracle) and SQL queries.
+Experience in web applications testing with Selenium IDE, Selenium RC, Selenium Grid and MASKED_NAME, JUnit and TestNG, Maven, ANT, MASKED_LOCATION.
+Developed framework using Cucumber, Junit, TestNG, Page Object Model, and Page Factory
+Developed BDD tests using MASKED_NAME by writing behavior and step definitions & developed required Selenium support code in MASKED_NAME for MASKED_NAME.
+Good experience in testing both SOAP and REST services using SOAP UI and Tested both XML and MASKED_NAME formats.
+Excellent experience with source version control tools such as Subversion (SVN), TFS & Git.
+MASKED_NAME testing using Selenium Web Driver and Microsoft JDBC API.
+Experience in doing performance testing of service using MASKED_NAME.
+Excellent experience with Protractor, MASKED_NAME scripts to automate Angular JS application.
+Extensive experience in Functional Automation Testing tool Quick Test Professional ( QTP )
+Experienced in Test coordination between Onsite and Offshore team.
+Worked collaboratively and cross-functionally as part of a team as well as an independently.
+Ability to interact with end users, also quick learner and team player with good communication skills.
+Excellent analytical and problem solving skills with the ability to troubleshoot and strong oral and written communication skills.
+WORK EXPERIENCE
+Software Test Engineer
+Crozer-Keystone Health System	-	MASKED_LOCATION, PA -
+2017-01 - Present
+Description: The job of the TPA is to maintain databases of policyholders and issue them identity cards with unique identification numbers and handle all the post policy issues including claim settlements.
+Third party administrators are prominent players in the Managed Care industry and have the expertise and capability to administer all or a portion of the claims process. They are normally contracted by a health insurer or self-insuring companies to administer services, including claims administration, premium collection, enrollment and other administrative activities. A hospital or provider organization desiring to set up its own health plan will often outsource certain responsibilities to a TPA.
+Responsibilities:
+Involved in creating Test Scenarios and Test Cases based on Use Cases and Business Requirements.
+Tested application utilizing the Agile methodology and worked on multiple sprints on the project
+Tested in Development, Staging and Production Environments.
+Prepared Test Summary Report.
+Executed Tests, and evaluated Test results
+Used MASKED_NAME for bug tracking and reporting, also followed up with development team to verify bug fixes, and update bug status, Manage requirements and maintained test repository.
+Helped new team members to understand the Business requirement and system flow of an application
+Working with the SQL statements to extract data from Oracle tables and verify the output data.
+Used emulators and IOS simulators to perform the Mobile Testing.
+Validated the both MASKED_NAME and Response messages for REST Web Service.
+Actively involved in daily "Scrum meeting" and provide status report.
+Involved in design and implementation of Selenium WebDriver automation framework for smoke and regression test suites (TestNG, Maven).
+Conducted the team meetings for discussing the status and issues.
+Involved in writing automated scripts for angular JS application using protractor and MASKED_NAME scripts.
+Lead a small team off shore and onshore, prioritize tasks and deliver.
+Performed end-to-end testing of application and also verified compliance for software quality standards of the organization.
+Developed reusable functions and maintained in the function libraries.
+Good Experience in Agile methodology with SCRUM Process for the product development.
+Used Selenium Grid to run test cases in multiple browsers and Platforms.
+Design and developing the automation framework (Page Object Model Framework) for web and mobile application automation using selenium and MASKED_LOCATION.
+Experienced in load and performance testing tool JMeter.
+Deployment of jobs on individual stages on MASKED_NAME, and running automated and regression tests.
+Environment: MASKED_NAME, Selenium, MASKED_NAME, Git, Oracle, MS Office, HTML, MASKED_LOCATIONVista, MASKED_LOCATION (IOS/Android), Eclipse, Soap UI, Jmeter, Cucumber, MASKED_NAME.
+Software Test Engineer
+InQuicker	-	MASKED_LOCATION, TN -
+2015-07 - 2016-12
+Description: This is a web based application provides different features to Customers and Employees of the Organization. Ones The Client tie-up with this organization the organization will give user name and password, if he gets and go through the portal the customer should be submit user name and password then after, that application is worth full to him, then he can access anywhere to this application. Front-end application entirely shows the customer medical reports and as well as MASKED_NAME questioner that is client medical details, After customer finish the CAP questioner the Vidal organization employee's will handle the rest of thing issues of client's. Vidal Application has a set of features commonly deployed using two types of views,
+Front-End View (This is entirely for MASKED_LOCATION or customer, he only use this application) the Standard tabs for application (Login, Fitness, Diet, Illness, Stress, MASKED_NAME)
+Back-End view (This is entirely for organization employees, they only use this application) the Standard tabs for application (Login, Manage corporate, Data entry, Reports (Client Information, Manage password)). Responsibilities:
+• Involved in designing of Automation Test cases using Selenium WebDriver, MASKED_NAME, TestNG, and MASKED_LOCATION.
+• Used Selenium Grid to run test cases in multiple browsers and Platforms.
+• Involved in implementation of Hybrid Test Automation Framework, Page Object Model using Selenium WebDriver, TestNG and Maven and MASKED_NAME.
+• Integrated Automation scripts (Selenium MASKED_NAME) in Continuous Integration tools (MASKED_NAME) for nightly batch run of the MASKED_LOCATION.
+MASKED_NAME and managed defects using Microsoft Test Manager (MTM) defect management tool.
+• Developed automation script for Mobile Native applications (IOS, Android) using Appium, MASKED_NAME.
+• Used emulators and IOS simulators to perform the manual Mobile Testing.
+• Involved in preparing the functional test cases using Test design techniques data validation concepts MASKED_LOCATION partitioning, boundary value analysis.
+• Strong experience with SOA architecture which include Soap and Restful Web Services Testing.
+MASKED_NAME web services testing with SOAP UI by validating request and response for XML, MASKED_NAME files.
+• Involved in testing of services using SOAP/REST services using SOAP UI, MASKED_NAME.
+• Performed data driven testing by using MASKED_NAME and MASKED_NAME script as a data source in SOAP UI and configured SQL queries to fetch data from the Oracle database.
+• Involved in writing automated scripts for angular JS application using protractor and MASKED_NAME scripts.
+• Developed Selenium scripts in TestNG for parameterization using Data Provider annotation.
+• Involved in MASKED_LOCATION configuration for running servers and scripts after the build.
+• Prepared manual & function test cases on web and mobile applications (Apple & Android) as per requirements.
+• Used Selenium Grid to run test cases in multiple browsers and Platforms.
+• Used Jenkins as continuous integration server to run automated test suites.
+• Used web-debugging tools like XPath, MASKED_NAME and Fire path to locate elements.
+Environment: Selenium WebDriver, MASKED_LOCATION, Cucumber, SOAP UI, Maven, Appium (IOS/Android), TestNG, Jmeter, Eclipse, XPATH, MASKED_NAME, MASKED_NAME, SQL Server, JMeter, Protractor, SVN, Test Manager, Selenium Grid.
+Software Test Engineer
+Alliant Healthcare Products	-	Richland, MI -
+2014-06 - 2015-07
+Description: Alliant Healthcare Products is a division of Alliant Enterprises LLC, established in 2002, to provide
+quality, cost-effective medical device products and services. The company's owner and CEO is MASKED_NAME,
+a U.S. Air Force and Air Force Reserve veteran with a track record of creating value for customers and
+partners in the medical device industry. Today, many of Alliant Healthcare's employees are veterans, and the
+company remains committed to supporting the veteran community. With a core focus on the federal market,
+MASKED_NAME is not your average SDVOSB. Alliant employs an extensive team of government contracting
+experts, customer service representatives, field sales representatives, and many more talented individuals.
+With resources that surpass other SDVOSB's, Alliant is able to make sure government purchases receive the
+care and attention they deserve.
+Responsibilities:
+Project is developed using agile methodology.
+Performed Positive and Negative testing by inputting valid and invalid data
+Participated in daily Scrum meetings to discuss the status of work done.
+Used Selenium Grid to run test cases in multiple browsers and Platforms.
+MASKED_NAME testing to ensure that changes made to software did not introduce any new bugs.
+Involved in creating Requirement Traceability Matrix (RTM).
+Implemented Try Catch Block to handle unexpected events or errors.
+Involved in designing of Automation Test cases using Selenium WebDriver, MASKED_NAME, Junit, and ANT.
+Logged and managed defects using Rally defect management tool.
+Involved in MASKED_LOCATION testing by using Sql Developer Tool.
+Involved in testing of services using SOAP/REST services using SOAP UI, MASKED_NAME.
+Built automation test framework for client side products using Selenium WebDriver.
+Involved in Knowledge Transfer, Training Session and Brainstorming.
+Prepared the Test Results document which summarizes testing activities and results.
+Environment: Selenium, MASKED_NAME, Rally, Ruby, Appium (IOS), MASKED_NAME, Oracle, UNIX, MS Office, HTML, MASKED_LOCATIONVista, MASKED_NAME, Selenium Grid.
+QA Engineer
+Communication Infrastructure Corporation	-	Oxnard, CA -
+2013-01 - 2014-05
+Description: Communication Infrastructure Corporation (CIC) is an industry leader and single source provider
+for microwave and point to multipoint radio networks. The CIC team has over 1,000 years of collective
+experience in applications for wireless backhaul, ultra-low latency, oil & gas, rural broadband, mobility, and
+wireless communication links.
+Responsibilities:
+Reviewed Business Requirement and Software Specification Requirements to achieve better understanding of the AUT.
+Analyzed and reviewed MASKED_NAME to gain overall understanding of the functionality of the application.
+Developed automated test scripts from manual test cases for Regression testing based on the requirement documents using Quick Test Professional.
+Developed and executed test cases integration, system and regression testing throughout the software development life cycle.
+Implemented Recovery Scenario Manager to handle unexpected events or errors.
+Defects were Tracked, Reviewed, Analyzed and Compared using Quality Center.
+Participated in Test Case review and Test case sign off meetings.
+• Tested in Development, Staging and for Production Environments.
+Performed end-to-end testing of application and also verified compliance for software quality standards of the organization.
+MASKED_NAME Regression tests for every modified build.
+Conducted weekly meetings with the developers and build Team.
+Environment: QTP 9, Quality center, MASKED_LOCATION, MASKED_NAME, Tomcat, XML, VBScript, HTML, MASKED_NAME and TFS.
+QA Engineer
+Vidal Healthcare	-	MASKED_LOCATION, MASKED_LOCATION
+Description: Our dedication to payment technology and industry innovation is consistent; our mission is clear:
+to make it simple for business owners to collect money. Whether business owners accepts credit cards at
+a retail storefront, processes payments on a mobile phone, promote gift cards, operates an online shopping
+cart, or electronically invoice clients, Pays cape offers financial products and services guaranteed to satisfy
+cash flow needs.
+Responsibilities:
+Developed Test Cases, Test Scripts, Test Scenarios, Test Data and Traceability Matrix.
+Developed and Implemented Test suites, which include features like Data Driven Framework for automated scripts using QTP.
+Performed functional, regression, smoke, and end-end testing.
+Generated automated scripts using QTP and documented them. Created and maintained functional & regression test suites.
+Played a key role in script enhancement process to streamline the regression testing process and to achieve continuous automatic test run.
+Performed Mobile Testing and Automated Mobile Simulator using QTP.
+Experience in creation of library functions, Checkpoints, Data Validation Descriptive Programming using QTP.
+MASKED_NAME and executed SQL Queries to perform database testing Environment.
+Designed and documented test cases derived from requirements.
+MASKED_NAME verified the applications according to the requirements. Modified automation scripts as test case changes.
+Analyzed the specifications in the User Requirements Document, Functional Requirement
+Participated in Weekly meetings and walk through to discuss Defect Priorities.
+Environment: HTML, SQL Server 2005, and Windows 2003, Testing Tools: QTP 8.2, Mercury Quality Center 9, VBScript, and SVN.
+QA Tester
+HSBC	-	MASKED_LOCATION, MASKED_LOCATION2009-10 - 2010-12
+HSBC is one of the world's largest banking and financial services organizations. With around 6,600 offices in both established and faster-growing markets, we aim to be where the growth is, connecting customers to opportunities, enabling businesses to thrive and economies to prosper and, ultimately, helping people to fulfil their hopes and realize their ambitions. We serve around 58 million customers through our four global businesses: Retail Banking and Wealth Management, Commercial Banking, Global Banking and Markets, and
+Global Private Banking. Our network covers 80 countries and territories in MASKED_LOCATION, MASKED_LOCATION, the
+MASKED_LOCATION, MASKED_LOCATION, MASKED_LOCATION and MASKED_LOCATION. Our aim is to be acknowledged as the world's leading
+international bank.
+Responsibilities:
+Project is developed using Waterfall methodology.
+Understanding the customer requirements and functionality of the application.
+Identifying Test Scenarios by using Use cases.
+Involved in Test Data preparation and Test execution
+Analyzing the impacts of new CRs on existing scenarios and updating the Test cases.
+Conducting various tests such as Smoke testing, GUI, functional and retesting, regression testing, user interface testing etc.
+Involved in creating the Requirement Traceability Matrix (RTM).
+Prepared Test Summary Report.
+Analyzing the Results.
+Executed SQL queries for data verification to compare the expected results with database.
+Environment: Bugzilla, Oracle9i, MASKED_NAME, Toad, IE, Mozilla, MASKED_NAME.
+EDUCATION
+Bachelors of Technology in Technology
+SVU University
+2007
+SKILLS
+TESTING, SQL, JAVA, HTML, ORACLE
+ADDITIONAL INFORMATION
+TECHNICAL SKILLS
+Testing Tools Selenium 2 Web Driver/RC/IDE/Grid, Quick Test Pro (QTP/UFT), MASKED_NAME,Protractor, JMeter, Appium (iOS/Android), MASKED_NAME, Cucumber
+Defect Tracking Tools Rally, Quality Center (9, 10, 11.0), MASKED_NAME, Bugzilla, Microsoft Test Manager (MTM) Browsers Internet Explorer, MASKED_NAME, MASKED_NAME, Safari Programming Languages Java, Ruby, SQL, PL/SQL
+Web Services SOA, REST, SOAP UI
+Web Technologies HTML, Angular JS, AJAX, CSS, MASKED_NAME, XML, MASKED_LOCATION Insure web service, SOAP, XSL, MASKED_LOCATION, MASKED_NAME, JSON
+Script Languages MASKED_NAME, UNIX Basics, SQL scripting, VB Script Platforms Windows 2003 Server, UNIX, MASKED_LOCATIONVista/7/8, MAC OS X Databases Oracle R12, MS SQL Server 2005, 2008 , 2014 Processes
+Software Testing Life Cycle, Defect Life Cycle, Testing Methodologies, Black Box Testing Techniques, MASKED_NAME, BDD,TDD,ATDD
+IDE & Reporting Tools Eclipse 3.5,3.7,4.0, NetBeans 6.8
+Methodologies Agile Scrum, Waterfall
+Build Tools Ant & Maven
+CI MASKED_NAME
+Unit Test Frameworks Junit & TestNG
+Domain Knowledge Health Care, Insurance, Wellness, Banking, ecommerce

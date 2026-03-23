@@ -1,0 +1,45 @@
+{
+  "resume_id": "srinivas b_anon",
+  "skills": [
+    "java",
+    "javascript",
+    "r",
+    "react",
+    "angular",
+    "html",
+    "css",
+    "sass",
+    "bootstrap",
+    "jquery",
+    "node",
+    "spring",
+    "rest",
+    "soap",
+    "sql",
+    "postgresql",
+    "mysql",
+    "mongodb",
+    "oracle",
+    "aws",
+    "docker",
+    "jenkins",
+    "linux",
+    "apache",
+    "git",
+    "jira",
+    "swagger"
+  ],
+  "education": {
+    "degree": "Unknown",
+    "year": "Unknown"
+  },
+  "experience_years": 8,
+  "projects": [
+    "Involved in bug fixing during the System testing, Joint System testing and User acceptance testing.",
+    "Created user-friendly GUI interface and Web pages using HTML, CSS and JSP.",
+    "Involved in development, testing and implementation of the complete business solution.",
+    "Involved in database design and developed SQL Queries on MySQL.",
+    "Configured the product for different application servers."
+  ],
+  "certifications": []
+}

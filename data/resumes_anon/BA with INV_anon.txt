@@ -1,0 +1,106 @@
+MASKED_NAME
+Email: MASKED_EMAIL Phone: MASKED_PHONE
+PROFESSIONAL SUMMARY
+Over MASKED_ADDRESS, Business systems analyst, Scrum Master in Finance and Banking industries in application enhancement and development projects.
+A wide range of functional and technical knowledge on Derivatives, Equities, Wealth Management, Risk Management systems, Portfolio Management, Asset Management, Scaled MASKED_NAME, knowledge on Regulations like SEC, MIFID, MASKED_NAME and Basel III.
+Expertise in employing guidelines & developing artifacts as per various software development lifecycle methodologies, such as Agile, waterfall & Hybrid in developing new standalone/ web-based department wide applications, enhancing the existing applications to satisfy new business objectives
+Expertise in requirement gathering, data analysis, development, testing, and defect tracking
+Proven expertise in facilitating Joint Application Development sessions
+Requirement elicitation by interacting with various stakeholder groups and analyzing existing business processes and creating Business Requirements Document (BRD) and functional specifications document (FSD) with excellent business writing skill to articulate all the business artifacts
+Sound understanding of Capital Market securities, front, middle and back office functions, order capturing, trade execution and settlement
+Hands-on experience in performing feasibility study, gap analysis, risk analysis, impact analysis and cost vs benefit analysis to accommodate change requests and evaluate the scope of new system functionality development, based on stake holder needs
+Analyze design and create requirements or specifications and uses cases, apply key concepts and techniques in design and construction of the components of multi process application.
+Extensive experience in incorporating Unified Modeling Language (UML) diagrams to better facilitate system development, such as written use cases, use case diagrams, sequence diagrams, activity diagram, process flows, screen mockups and data flow diagram using MASKED_NAME and process modeling techniques, Data models, ER Diagrams
+Experience in resource planning, tasks assignment, change management and escalations
+Experienced in ETL and Data Warehouse Management
+Expertise in developing test plans comprising of test cases to perform functional testing, system integration testing, smoke testing and regression testing
+Proven expertise in facilitating user acceptance testing (UAT) and triage defects and ensure resolution
+Conducted Requirement Traceability Matrix (RTM) to ensure all requirements are tested
+Experience in implementation and customization of 3rd party vendor applications to client’s systems
+Experience in creating complex data mapping document to support ETL processes; identifying source, target and defining business rules for accurate data mapping and data massaging to ensure data integrity
+Experienced working with multiple teams on different levels of Scaled Agile Frameworks (SAFe)
+Facilitated scrum ceremonies such as MASKED_NAME meeting, Daily Scrum meetings, Sprint Planning meeting, Sprint Review meeting and MASKED_NAME meeting and Extensive knowledge in maintaining Product backlog, MASKED_NAME down chart and Team Velocity
+TECHNICAL SKILLS
+PROFESSIONAL EXPERIENCE
+Client: MASKED_LOCATION Group- MASKED_LOCATION, FL			          			(Sep 2016- Till date)
+Title: Sr. Business Analyst
+The scope of the project was to develop an application that can help customers to calculate risk margins for their portfolio. Portfolio may consist of options, stocks, futures and options on future based on the same underlying instrument or on different highly correlated underlying instrument. Option position includes equity and currency products. 
+MASKED_NAME and Responsibilities:
+One of the biggest capital market experiences with margin trading and settlements, dealing with various data sources like Bloomberg, Thomson Reuters, 3M, data on various stocks, derivatives etc.
+Was the SME for the above-mentioned application which is a part of CITI Group Risk Management
+Prepared approach documents and technical design document, updated requirements documents
+Constructed workflow models using MASKED_NAME like Activity flow, MASKED_NAME and use case diagrams
+Act as a liaison between the business users and the development team
+Created screen mockups using MASKED_NAME to showcase the new screen changes
+Prepared data mapping document to capture the data from RBH schema to FIXML format and reciprocate text files to FIXML files
+Performed various kinds of testing – Integration testing, Functional testing, Smoke testing and wrote a test cases and test plans for various defects/ enhancements and applications
+Monitor performance and integrity of reporting and data management systems
+Was assisting the QA team in conducting various kinds of testing and assisted them in creating test plan, test scripts and writing test cases
+MASKED_NAME, develop, and deliver on change management initiatives through day-to-day management, change agents and targets. Manage communications and interactions with leadership sponsors and staff as appropriate
+Involved in various kinds of manual testing, assisted QA team with requirements, conducted Triage call meetings
+Updated changes made by capital market regulator body SEC
+Designed training plans and develop a SharePoint curriculum to train customers on SharePoint functionality and encourage self-sufficiency
+Created and implement communications plan and outreach strategy for communicating governance changes, business efficiencies, and other SharePoint features
+Developed requirement traceability matrix and wrote numerous test cases to ensure no requirement is left without being tested
+Used Quality center for defect logging and defect tracking, and worked on various defects related to the application
+Environment: Oracle 11.g, MS-Visio, HP-ALM, MASKED_LOCATION, MASKED_NAME, SharePoint, SOA, Web services, Tubule, Informatica
+Client: Merrill Lynch- Pennington, NJ					(Mar-2015 to Sep-2016)     Title: Business Analyst
+Equity Management System (EMS) is a global buy-side order management and trading system. It provides Equity Portfolio Managers and Traders with a highly customizable MASKED_NAME, pre-trade and post-execution compliance monitoring tools and what-if analysis tools. 
+MASKED_NAME and Responsibilities:
+Involved in all phases of software development life cycle
+EMS was part of Merrill Lynch Wealth Management LOB where my experience was on front office, middle and back office  
+Elicited requirements using various techniques, facilitated various sessions and sorted out difference of opinion among stakeholders like traders, portfolio managers, market makers in capital market
+Conducted GAP analysis to understand the AS-IS process and came up with improvements in TO-BE process
+Reviewed the business processes and made a variety of recommendations for improving efficiency through creating a workflow  
+Update and process data onto the Company database in a timely manner and MASKED_NAME relationships with market participants to acquire source documents
+Involved in analyzing the current business process gaps and establishing the improved standard processes with business process reengineering
+Analyzed the existing SQL queries for the performance and wrote new SQL scripts for back end testing and data validation
+Developed and maintained the issue / defect matrix and provided the status reports to senior management
+Conducted project related tests which include: detailed test plans, test cases and expected results; conducting tests; evaluating and documenting results
+Worked in middle and back office in verifying trade execution and trade validations and settlements
+Involved in the creation of project status reports as well as Requirements Traceability Matrix (RTM)
+Prepared technical documents and user documentation & conducted the user training sessions for super users and supported the super users during their training sessions for other users
+Provided on-going support and troubleshooting production and test issues to perform root cause analysis, reconciliations, recommending corrective action and resolution efforts
+Taking deep analytical dives on data while being able to conceptualize, synthesize and critically evaluate gathered information, and communicate findings and recommendations
+Developed the UAT test plans and facilitated user acceptance testing
+Developed the user guides and operational manuals for new features, upgrades and modifications
+Environment: MS Office, MASKED_NAME, MySQL, UNIX, MASKED_NAME, Share point, TFS, HP-ALM, Tubule
+Client: Key Bank- MASKED_LOCATION, OH				 		   (Sep-2012 to Mar 2015)
+Title: Scrum Master/Business Analyst
+The scope of the project is to enhance credit appraisal and loan origination system application where we implemented service oriented architecture to enhance the application process by implementing the web services. 
+MASKED_NAME and Responsibilities
+Delivered in Scaled Agile Framework
+Participated in PI planning and Breakout session for new features
+Organized and facilitated sprint planning, daily stand-up meetings, reviews, retrospectives, participated in release planning, demos and other Scrum-related meetings
+Instructed and modeled core Agile principles of collaboration, prioritization, team accountability and visibility; ensured consistent application of scrum methodologies across the team
+Coordinate and facilitate business stakeholder engagement and user acceptance testing for business intelligence initiatives
+Manage process of performance tuning ETL/reports/dashboards and tune SQL used to create the report/dashboards
+Collaborate with cross functional teams and build schedules and plans, MASKED_NAME and manage dependencies with other internal or external teams to align deliverables.
+Handled risks proactively and worked with the Senior Management Teams to deliver the projects
+Participated in Community of Practice (COP) groups in creating, and sharing techniques, best practices, and ideas for improving project success and fostering a healthy and productive work environment
+Facilitated Scrum meeting with technical/non-technical team, SME’s to clarify business rules & solve impediments and translated Functional requirements into User stories using Rally
+Facilitate sprint planning, daily scrums, retrospectives, stakeholder meetings, and software demonstrations and adopted scrum techniques using MASKED_LOCATION and planning poker
+Day-to-day management of cross functional, global software development project teams
+Directed and lead development team from project initiation through delivery of final product
+Environment: Rally, Restful web services, UNIX, JAVA, MASKED_NAME: MASKED_NAME, MASKED_LOCATION                                     (May,2010 –August,2012) 
+Title: Business Analyst
+The Intent of the project was to develop a Fixed Income Operations tool (FIO) in order to improve the efficiency of Middle and Back Office Operations. FIO also helped Fixed Income Portfolio Managers to monitor the Interest and Libor Rates of Bonds and other Debt securities.
+Responsibilities
+One of the initial capital market experiences focusing on fixed Income securities
+Involved in Requirement Scoping and analyzing high priority requirement for implementation
+Defined exception handling scenarios with respect to assumption engine user interface
+Assured that all the deliverables and artifacts are in compliance with SDLC procedures
+Analyzed Requirements and created Use case models, UML/Use Case diagrams, Activity Diagrams
+Coordinated with the development team, database team, data warehousing team and Assisted QA team to develop test plans, test strategies and test cases and also used Quality Center for defect logging and defect tracking
+Wrote SQL queries to retrieve data from the database and perform data validation testing
+Facilitated User Acceptance Testing by preparing test schedules, training the business users to perform the testing and addressing open issues
+Environment MS MASKED_NAME, MASKED_LOCATION office suite, MASKED_NAME, HTML, MASKED_NAME, MASKED_NAME for ETL and MASKED_NAME for Data modeling
+Client: HDFC Bank- MASKED_NAME, MASKED_LOCATION                                                        (Sep,2008 –May,2010) 
+Title: Business Analyst
+The Scope of this project was to improve the overall efficiency in document handling by avoiding manual intervention and enforce straight through processing. This project was aimed in the new account opening division to reduce the document lifecycle by real time scanning and status update capabilities and reduce the mailing cost for transport of documents. 
+Responsibilities:
+Prepared the Business Requirements Document (BRD) after analyzing the requirements and translated the business requirements into Technical Design Document
+Extensively used MASKED_NAME for UML modeling - use case diagrams, sequence diagrams, activity diagrams, and business process flow diagrams in designing the document life cycle
+Prepared data mapping document to capture the data integration process from the data source to identify key data attributes such as document ID, expiration date, etc.
+Facilitated UAT by setting up the test environments, identify the test data and provided guide lines and required training to conduct testing
+Environment: MS Team Foundation Server/Team Edition, HP QTP 11.5, HP ALM QC, SharePoint, XML, HTML, MS Test Manager, SQL Server, PL/SQL, WSDL, SOA, Crystal Reports, Web Services.

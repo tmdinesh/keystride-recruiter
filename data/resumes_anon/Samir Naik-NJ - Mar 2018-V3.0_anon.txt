@@ -1,0 +1,133 @@
+MASKED_NAME
+A multi-certified Project Manager, Remediation Specialist/ Business Analyst having track-record of success in leading all phases of diverse techno-functional projects; with certification & affiliations that include MASKED_NAME, Project Management, Scrum Master, CloudU, ISO, ITIL, MMP,  E-MBA, Strategic Management and Six Sigma Black Belt, managing stakeholder expectations and willing to take full accountability for delivering of project objectives
+Core Expertise:
+Experience of managing  series of projects(PPM) within or across IT platforms & ensuring exceptional IT performance standards BY maintaining high standards of support, enterprise wide IT Management, ensuring user satisfaction & comprehending user needs; and adapting to support operations
+Executing IT systems/processes, IT services & operational excellence initiatives; while enhancing performance, improving quality, reducing costs and generating sustainable revenue gains vs. EV analysis
+Business process reengineering, Active involvement in design & implementation with an average impacting 30% costs reduction; and high productivity improvement through newer & more efficient processes
+Business strategist; plan & manage multimillion-dollar projects aligning business goals with technology solutions to drive process improvements, competitive advantage and bottom-line gains
+Excellent communication while leveraging technical, business, programs acumen to communicate effectively with client executives and their respective teams; core interaction with Portfolio Managers, Analysts, Compliance and Risk Managers
+Operational leadership capabilities, showing direct capital creation efforts, identifying business opportunities and spearheading strategic global expansion & growth plans
+Result-focus & effectual leadership while demonstrating skills and expertise in software management & support for global applications based on PMLC, PDLC, SDLC Service & Business Process Management across, Banking  & Financial, P&C/ Life/ Healthcare Insurance, O&G & Web-Retail domains
+Applauded for leading onshore & offshore engagements across career with appropriate change management approach wherever necessary, regarding cost optimization & benchmark with ROI
+Waterfall, managed services, service management, RUP, Agile scrum methodologies; ability to manage large project teams and high-quality deliverables that meet or exceed timeline and budgetary targets
+Key tools used across the project lifecycle v.i.z., MS Project, MASKED_NAME, FishEye, Git, Crucible, MASKED_NAME, PlanView, Project Connect, Teamwork, Clarity, Confluence, Tabular, MASKED_LOCATION, SVN, Visual Studio, HP ALM & Geneos, Deploy, AppDy & OEM.
+Possessing willingness to continually embrace personal and professional development
+Plan, Monitor, Execute & Control Quality, Process & Lean Management
+Change & Strategic Management
+System Migrations/ Integration
+Enterprise-wide Implementations	
+   BA Planning and Monitoring
+   IT Infrastructure Operations
+   Budgeting & Forecasting
+   Project Support Services
+   Testing/QA/Rollout/Support	
+Application Remediation
+Risk Management
+Client Relations & Management
+Business & IT Planning
+Data Analysis & Management
+Career Progression
+Managing projects involving both technical and non-technical components, managing large programs to develop governance framework, strategic roadmaps, execution plans across global functional teams; well-versed in managing business cases, ADM, IT Infrastructure and the resources necessary to execute with cost optimization approach
+Driving high-quality completion of project management, process engineering; project/ software development life cycle and enterprise-wide implementation projects for F500 clients using onshore & offshore model with the best fit approach including managed services, IT services management, waterfall or mix using plain agile keeping baseline regards with quality, efforts, schedule & cost effective approach with core objective for deliverables
+PROFESSIONAL EXPERIENCE
+DEUTSCHE BANK, NJ							                                        August MASKED_ADDRESS Environment Regulatory Remediation/ Business Analyst: 
+Defining project tasks and resource scope & exhibiting techno functional project management role for BA/ RAD functions, collection, monitoring & reporting of data management & business requirements, gap & impact analysis, functional specification, planning, remediation and providing solutions required for supporting architecture, defining test strategy under Test Environment & IT infra. UAT support.
+Collaborating amongst projects across multiple work streams, multiple regions & application teams, Product, Compliance, QA, Production Support and project ITAO/ stakeholders using Kanban, SAFe, and Waterfall approach.
+Lead to collaborate with analytics consulting group to understand the needs and expectations of the remediation programs.
+Leading initiatives for improving new business & IT processes, tools & services for enterprise-wide requirements
+Perform Gap Analysis, Identify area of improvement and propose solution for remediation & preventions.
+Perform Application Level Environment using data modelling & Analysis/ Tableau – collect existing environmental landscapes and evaluate them against audit, regulatory, standard/policy or programme guidelines
+Proactively suggest the most adapted solutions & ensure the solutions proposed are compatible with the technical set-up.
+Perform, Remediation Planning – remediation of identified gaps including but not limited to tech stacks, recovery procedures, access control in line with security policies, encryption, data masking, digital signature certificates  & audit standards and business continuity planning (BCP)
+On-board Monitoring – develop comprehensive dashboards via DB approved software additional to Visio & PPT  which aid in the discovery of Environmental disconnects and evaluate the overall environment health
+Perform Environment Optimization - capacity planning, housekeeping and hardware performance analysis & remediation
+Organized/ Planned/ managed NAGL CAB controls, including GENEOS Analytics, dbDAM, SCCM compliance, dbWITH,  including multiple DB application, v.i.z. CCAR, UM, ELT, CRDS, CORE, LMS, Data Forensic tools & services on key application for data collection methods and tools, data assurance, data exchange transfer (Nuix/ Access data) under MASKED_LOCATION DR, Pre-Prod. & environment
+AIG, NY										            May 2013 to July 2015
+Project Manager
+System Integrations/ Digitalization Strategy:
+Project-managed for large-scale initiatives involved for new dynamic platforms and the merger of disparate systems for an active need-analysis for a life insurer liability coverage.
+Achieved seamless migrations and integrations with real time change, configuration & release management that were transparent to client customers, accomplished with no unscheduled downtime and delivered by as much as under budget.
+Identified and developed change strategies, established cultural changes and monitored efficacy of changes, with an org. change management approaches with detailed analysis of client facing insurance and financial systems
+Led digital content (E2E-B data) strategy and dramatic product re-release initially with more than 1M hits with E-commerce, including few other decision support site for various service providers; increased renewals by 70% through a powerful redesign and by using re-release of primary framework in a rapid 15-20 day iterative cycle.
+Assist stakeholders in defining their reporting requirements to cover their needs
+Define appropriate solutions to meet stakeholder requirements
+UNITED HEALTH GROUP, NJ							               October 2011 to March 2013
+Project Manager
+Web Engineering:
+Led the design and the multinational implementation using mix approach of Agile & Waterfall for rollout of robust, scalable secure electronic data interchange & migration, Lean management & E-sale strategy implementation. 
+Completed projects up to two months ahead of schedule, as much as $.2M under budget.
+Spearheaded, executed and managed cultural change for customers while ensuing 100% Delivery
+Managed Technical & Business Intelligence towers effectively utilizing onsite-offshore model
+Evaluating project risk assessment, ongoing release management and reporting across all development efforts
+Tracking action on outstanding project issues & back logs, timely manner
+CHEVRON, CA
+Project Manager 						        			   August MASKED_ADDRESS 2011
+Process Management:
+Served as Process Lead & performing Program Management activities for largest engagement (Implementation & Roll-out) for one of our marquee Customers in Oil & Gas Sector, Chevron Corporation; partially led a team of over 230 people across 4 international regions: MASKED_LOCATION, MASKED_LOCATION, Philippines & India.
+Managed on-boarding  process & global rollouts of software standardization and systems for upstream process & downstream 
+Ensured defect-free releases through careful planning, testing and QA efforts using end-to-end Audits.
+Managed & approved policies and procedures for running large scale enterprise software & IT infrastructure & data center support services, effective vendor management & wide network functions.
+Single Point of Contact for clients handling all requirements/queries of the customer 
+Courage of 100% work product audit achieved including the regular
+Coordinated with stakeholders to review to identify gaps & escalations and get aligned with overall expectation.
+Supporting recruitment planning, strategy and execution across team
+Accountable for process audits with high process maturity matrix
+Accountable for defect prevention through regular monitoring of defect trends & causal analysis
+Reduced hand-off times through two levels of peer review for defect prevention 
+Process driven centralized availability of data & quality metrics for largest, most-complex & global project
+Created global templates which were reused – CRPR log, Issue log, Tracking sheets
+Responsible for reusable components knowledge Repository developed which can help give cost-benefits for future projects
+Contributed for Best Practices process contributions which can be institutionalized at BU & Organization level
+Setting up the uniform process across all the teams which are dispersed across various regions/ locations
+Delivered 3 subsequent releases using formal development methodology, processes that reduced personnel acquisition from 2 weeks to 5 days, and yielded a 25% improvement on project quality (CPDEP) for Project Olympic.
+MASKED_NAME, multi- regional team calls with the ability to manage work-life balance, priorities and sensitivities of different cultures
+TRAVELERS, MN & CT							         	           July 2005 to July 2006
+Project Manager
+Custom Software Developments:
+Managed all phases of the software development lifecycle for dozens of custom solutions 
+Delivered industry-leading software that saved clients millions of dollars, shortened processes from weeks to minutes, captured #1 market share and generated up to $2.1M in annual revenues within year one of launch.
+Creating a strategic road map and setting goals & milestones
+Coordinate with the department to set standards in reporting for application synchronization.
+Formulated and deployed long-term strategic plans for acquiring and enabling efficient and cost-effective information processing and communication technologies.
+Maintain monthly and ad hoc reports and dashboards
+CIGNA, CT									                   January 2005 to May 2005
+Project Manager
+
+Database Developments, Oracle 10g- SSO:
+Managed teams in the development of relational database management systems (RDBMS)
+Improved the consistency, recoverability and accessibility of data aligned with  IES/ Medicaid process
+Provided overall management and guidance to the projects running within the program. In particular, the correct sequencing of the various projects, allocation of resources for purposes of coordinating the arrival of deliverables
+Leverage internal data to identify operational efficiencies and work with department members to implement
+To analyse projects proposed by business units and recommends the overall project portfolio.
+HITACHI, MASKED_LOCATION									  May 1998 to December 2004
+Sr. Developer: Porting and Migration Projects using C, MASKED_NAME, Hitachi Library, UNIX, WIN X,  IBM Compatible, SUN SPARC, IBM RS6000, DecAlpha
+R.B. ENTERPRISE 								    October MASKED_ADDRESS: Designed and architected, programmed using VB 3.0, MASKED_NAME, C++ & system programming, Clarion 4.0, PowerBuilder 5.0, Sybase SQL Anywhere
+EDUCATION
+Bachelor of Engineering (Computers), WIT, Shivaji University
+Executive MBA (IT Operations), IIBMS
+Strategic Management Program, IIM Calcutta
+IT Project Management, IIT Bombay
+CERTIFICATION
+Certified PRINCE2 Practitioner (APMG), ID: P2R/IN076432
+Certified Managing Multiple Projects (AACPS Global), ID: MASKED_PHONE
+Certified ITIL®v3F (APMG), ID: GR750007778SN
+Certified Scrum Master (ISI), ID: MASKED_PHONEb0
+Certified MASKED_NAME, CloudU (MASKED_NAME), ID: 72264b96-e61f-4a02-87f8-e656654cd364
+Certified Six Sigma Black Belt (AACPS Global), ID: MASKED_PHONE
+Certified ISO 9001:2008 Quality Management System, Lead Auditor (IRCA), ID: CC-12424QM
+Certified ISO 20000-1:2011 Service Management System, Lead Auditor (RABQSA), ID: CC-12428IT
+Certified 27001:2005 Information Security Management System, Lead Auditor (IRCA), ID: CC-12511IS
+Certified Fractional Reserve Banking (MASKED_NAME), ID: AC-MASKED_PHONE
+AFFILIATION
+Project Management Institute (PMI, Member ID: 2041351)	
+MASKED_LOCATION (Member ID: 2041351)
+Association of Software Testing (AST, Member ID: 1384)	
+International Institute of Business Analysis (IIBA Member ID: 166002)
+ITMPI Community, IT Metrics and Productivity Institute (Member ID: 30778)
+Technology Evaluation Center (TEC)
+AWARDS FOR EXEMPLARY PERFORMANCE
+CEO’s Award for the “Best Managed Project”, MASKED_NAME, Chevron(offshore)
+Certificate, Appreciation for Active Involvement in “Designing & Implementation CMMI V1.2 Practices”
+Star Award for “Significant Process Improvement” in MASKED_LOCATION for projects
+Record of Achievement for program “Information Security & Best Practices”, Travelers
+SEMINAR & PROGRAM’S

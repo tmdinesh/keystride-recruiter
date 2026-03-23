@@ -1,0 +1,69 @@
+ 
+ 
+Contact
+www.linkedin.com/in/nitika-kamboj
+(LinkedIn)
+MASKED_NAME
+C
+Programming
+C++
+Languages
+Hindi (Full Professional)
+English (Full Professional)
+Nitika Kamboj
+Machine Learning Engineer at Scanta
+MASKED_LOCATION, MASKED_LOCATION
+Summary
+I am a data science enthusiast who is passionate about adding
+value to a business through data engineering, statistical modeling,
+and making artificially intelligent systems. I look for data science
+applications that have a positive impact. I also enjoy being involved
+in business strategy discussions and working with people from all
+types of backgrounds.
+I started my career as a Machine Learning Intern at a fin-tech
+startup. My primary work there included statistical analysis, feature
+engineering and automating credit score using machine learning
+techniques. I learned how to discover hidden information from a vast
+amount of data to deliver a better business product to derive insights
+that help to serve customers better. Currently, I am working as an
+NLP Engineer at a startup named MASKED_LOCATION. My responsibilities include
+transforming natural language data into useful features, develop NLP
+systems according to requirements, train the developed models and
+performing evaluation experiments.
+At the end of the day, I aspire to be the happiest, the most
+successful and the best version of myself.
+Experience
+Scanta
+Machine Learning Engineer 
+September 2019 - Present (7 months)
+MASKED_NAME, MASKED_LOCATION
+• Serving as a machine learning engineer to perform NLP pre-processing
+tasks, building and deploymemt of models.
+MASKED_NAME on data cleaning, text pre-processing, creating word embeddings
+from data and building text classifiers.
+• Utilize Git, Python, and AWS for cloud computations.
+ 
+Page 1 of 2
+
+ 
+ 
+RedCarpetUp.com
+Data Science Intern
+April 2019 - August 2019 (5 months)
+MASKED_LOCATION, MASKED_LOCATION
+• Worked as a data science intern to implement a solution that classifies if a
+loan buyer will do a fraud.
+• Used SQL to fetch data from live data stream, performed data cleaning and
+feature engineering to build
+relevant features to be used to build statistical model.
+MASKED_NAME on classifiers like MASKED_LOCATION and ensemble learning using
+scikit-learn and python.
+• Deployed the model using docker on AWS.
+Education
+Maharaja Surajmal Institute Of Technology
+Bachelor of Technology (B.Tech.), MASKED_NAME and
+Engineering · (2015 - 2019)
+Central Board of Secondary Education
+Higher Secondary School, Mathematics And Science · (2013 - 2014)
+ 
+Page 2 of 2

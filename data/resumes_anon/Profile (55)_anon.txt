@@ -1,0 +1,82 @@
+ 
+ 
+Contact
+www.linkedin.com/in/
+ruchikachhabra25 (LinkedIn)
+github.com/Ruchi2507 (Other)
+MASKED_NAME
+C++
+C
+Python
+Languages
+Hindi (Native or Bilingual)
+English (Professional Working)
+Certifications
+Core Java
+PHP Training
+Ruchika Chhabra
+Machine Learning Engineer | Python, C/C++ Software Engineer
+MASKED_LOCATION, MASKED_LOCATION, MASKED_LOCATION
+Summary
+• Data Scientist with 6+ years of experience modelling complex
+problems, discovering insights and 
+identifying opportunities through the use of statistical, algorithmic,
+mining and visualization techniques. 
+• Hands on experience in Text Analytics (NLP/NLU) and Image
+Processing along with experience of 
+working at client fidelity (MASKED_LOCATION and MASKED_LOCATION). 
+• Experienced at creating ETL Data Pipelines, MASKED_NAME and
+Neural Network models, using 
+Descriptive (Data mining), Predictive (Statistical Modelling), and
+Prescriptive (Optimization Algorithm) 
+Analytics. 
+Experience
+Cadence Design Systems
+Lead Software Engineer
+August 2017 - Present (2 years 8 months)
+MASKED_LOCATION
+• Analyze and evaluate requirements coming from marketing team and
+customers to prepare 
+functional specification document.
+• Design and build ETL (extract, transform, load) processes to ingest, clean,
+and process the 
+structured and un-structured data, coming from multiple sources, to draw
+meaningful insights 
+from large datasets.
+• Design, develop and deliver advanced analytics projects using Machine
+Learning and Deep 
+Learning methodologies.
+• Perform end-to-end Machine Learning which involves data extraction, data
+cleaning, data analysis, 
+ 
+Page 1 of 2
+
+ 
+ 
+ML model development and then communicating analysis, insights and
+findings with relevant 
+stakeholders using Data Visualization tools.
+• Develop and maintain CI/CD pipeline using MASKED_NAME.
+• Collaborate with a diverse range of stakeholders to optimize delivery of
+product from both quality 
+and speed-to-market perspective. 
+NEC Technologies India Pvt. Ltd
+Senior Member Technical Staff
+July 2013 - August 2017 (4 years 2 months)
+Noida Area, MASKED_LOCATION
+• Involved in requirements gathering, solution designing, developing prototypes
+and POCs.
+• Developed highly efficient machine learning algorithms in MASKED_NAME through
+both pair-programming and independent work. 
+• Created and maintained data pipelines to power machine learning models
+and dashboards.
+• Fine-tuned Machine Learning models to improve accuracy. 
+• Ensured that all the performance and quality guidelines are met before the
+product or solution is shipped to the customers.
+Education
+U.I.E.T. K.U.K
+Bachelor's Degree, Computer Science · (2009 - 2013)
+D.A.V. Public School, MASKED_NAME, MASKED_LOCATION, MASKED_LOCATION
+High School, Computer Software Engineering · (1998 - 2009)
+ 
+Page 2 of 2

@@ -1,0 +1,180 @@
+MASKED_NAME
+   +1- MASKED_PHONE
+Email: MASKED_EMAIL
+EXPERIENCE SUMMARY
+More than 16 years of results-oriented self-motivated and accomplished Technical Program/Project manager, Solution Architect, an Agile coach, Product Owner with a track record of success in managing complex IT Data Integration, Web application, Infrastructure, Modernization, Migration, Divestiture, Simplification, Implementation of Governance Process, Audit process and system integration projects. Certified Scrum Master (CSM), certification in Project Management Professional (PMP) and ISACA member preparing for CGEIT certification.
+Develop and manage multiple complex IT projects/programs from beginning to end including business case, benefits realization, estimation, scope, schedule, budgeting, timeline, capacity planning, resource allocation and project execution. Identify and manage project dependencies and critical paths.
+Managing the program schedule which identifies the milestone and high-level dependencies for all the projects within the program and establishes the link program and project plans. 
+Responsible to facilitating daily scrum, sprint planning, sprint demo and retrospective meetings, possess conflict resolution, does conversation by focusing on scrum values of openness, honesty, and respect, help team or individual to clarify goals and actions to achieve the goal.
+MASKED_NAME and manage the process to achieve continues MASKED_LOCATION and continues delivery, successfully implemented large-scale enterprise IT development and support projects across multiple vendors and geographies using agile methodologies, DevOps and MASKED_NAME. Certified Scrum master and certification at SEI CMM. Managed migration of large legacy programs to Agile and cloud.
+Develop and manage Integration projects/program specially devolve, migrate and converting the existing DI and BD jobs/graph and Data Flow to TalenD. Configure and manage the in-house Infrastructure Platform and AWS cloud platform for architecture & data flow, identify the performance issue and fine tune the process. Work on Data Quality and MDM team to achieve the organization goal on the one true place for data. Strong knowledge of TalenD Studio (Development), Administration center (scheduling and deployment) configuring the platform to get the CI and CD with the good implementation of DevOps applications.     
+BI-EDW/ETL/Hadoop/Big Data/TalenD/Spark with SCALA solution architecture design, MASKED_NAME consulting for BI and Big data requirements, get business team maximum valve of their required service with a good understanding with IT team.
+.Net/C#/VB.NET/ASP.NET/SharePoint/MVC/PL(SQL)/SSIS/SSRS/Crystal report solution architecture; successfully design and build new applications using Microsoft technologies and migrated old applications from legacy technology to new technologies.
+Manage the IT Delivery and provide consulting to help organizations optimize their IT operations to successfully meet industry requirements of governance, risks, security, compliance and get the maximum value from IT to business. 
+Member of Core of Excellence that decides and develop a strategic plan for the future roadmap. Reduced program expenses by 15% to 35% based on accounts while increasing the productivity, quality, and automation of manual processes. 
+TECHNICAL SKILLS
+Programing Languages: - .NET, VB 6.0, C#, VB.NET, XML, WPF, PL/SQL
+Web Technologies: ASP, ASP.NET, MASKED_NAME, WCF, MASKED_NAME.
+Business Intelligence /Reporting: - Power-BI, MASKED_LOCATION, Crystal Report, QlikView
+Database: - MS SQL Server, MS-Access, MASKED_LOCATION, MASKED_LOCATION, MY SQL
+Tools: - HP-PPM, PlanView, Rally, MASKED_NAME, MASKED_NAME, Aha, HP-ALM, Clear Quest, Clarify MS-Visio, MS-Office, MS-Project, ITG Dashboard, EA, Service Now
+Big Data: - Spark, Scala, Data Marts, HDFS, Hadoop, Map/Reduce, Pig, MASKED_NAME, HBase, Splunk, Talend
+Cloud – Azure, AWS (S3, EC2, and RedShift), Google Service and MASKED_NAME.
+MASKED_NAME REST API’s, MASKED_NAME
+EDUCATION
+1998- Bachelor of Arts in Economics from Lucknow University, MASKED_LOCATION
+2001- Diploma in Advanced Computing from Pune University, MASKED_LOCATION
+2007- Masters in Computer Application from IASE MASKED_NAME, MASKED_LOCATION
+CERTIFICATIONS 
+Project Management professional (PMI-PMP), Certification in SCRUM Master (CSM)
+PROJECT DETAILS
+Migration of Integration Service to Talend 			September 2017 –  Present
+(Technical Program Manager/Product Owner/Solution Architect)- IBM USA
+Client: Walgreens	MASKED_ADDRESS
+This is the multiyear program which consists of multiple projects to converting their graph and integrate those graph with other business application, data storage and messaging services. In total twenty-two thousand graphs (Ab-initio, DataStage, OCI, MASKED_NAME) in the scope of this program to save multimillion dollar saving and consolidating all the business integration service into one place.
+Key Results Achieved: - 
+Define Software release plan and scope with platform lead / BA/tech lead, Effective and groomed backlog, Clear defined acceptance criteria per feature, Effective Agile Processes (Scrum and MASKED_NAME) and Cross-Functional communication
+Application objective is to load High-Frequency vendor batch files from IMS to Hadoop environment.
+Managed the communication with other various stakeholders to migrate their integration jobs to Talend.
+Responsible for communication between Business, Test, IT and Senior Management
+Responsible for the future forecast of budget, resources and initiate the process to adopt new technologies to streamline the process.
+Mentoring team members/Managers to bring them to one table in understanding project architecture and enabling them to provide more inputs for enhancing the project.  
+Led the initiative to developed initial MapReduce programs to create the foundation of the project, to parse the raw data, populate staging tables and store the refined data in partitioned tables in the HDFS.
+Provided design recommendations and thought leadership to sponsors/stakeholders that improved review processes and resolved technical problems.
+Led the initiatives to Develop Middle Layer for MapReduce to communicate with H-base.
+Getting requirement documents clarification by interacting with business, test, UAT managers, and team members.
+Led the teams to make sure, all the industry technical standards follows.
+Project: Global Information Data Platform product			Jun 15 to Aug 2017
+Client: GE Capital, MASKED_LOCATION
+Role: Solution Architect/ Product Owner	MASKED_ADDRESS
+Description: - GE building the MASKED_LOCATION platform product on the private/public cloud as well as an in-house platform where they want to build Data lake and store all the data which help various GE and associated business partner will use right data for their reports analytic needs and dashboard.
+Responsible for defining the structure of the application and ensuring business requirements follows. Creates design documents to illustrate the major components of the application and how they interact. Responsible for bringing an understanding of the enterprise, business system and industry to the teams supporting application interface.
+Roles:
+Converting, migrating and Developing all business and IT support integration jobs (DI and BD) to new product Talend and make sure will achieve the better performance out of it.
+Effective Operating Organization & talent development, Efficient Delivery of Services (Quality, Low cost), Efficient and Effective Solution Delivery Process, Promote Continuous Improvement.
+Prioritize features for delivery each month. Implemented the DevOps to build large CI/CD pipelines.
+Publish regular progress reports for key stakeholders.
+Investigate, identify, and present the appropriate uses for our data as well as sourcing new data.
+Translates complex functional and technical requirements into detailed architecture, design, and development 
+Work on multiple projects as a technical lead driving user story analysis and elaboration, design, and development of software applications, testing, and builds automation tools.
+Hands-on experience with platforms and tools including data ingestion (batch & real time), transformation and delivery in Hadoop ecosystem (such as HIVE, Python, R)
+Working with multiple businesses to get their requirements to change/migrate and new process and Data Flow, making sure they are well versed and known the value they are going to get with this change. 
+Collects verify and document application technical procedures and standards. 
+May collaborates with Network Ops team to align application architecture and Infrastructure initiatives. 
+Working as Project Manager/Product owner and performing client communication, quality process and other project related day to day task.
+Application Requirement gathering, design, development and post production support.
+Ensure all the Agile process well followed and continued delivery happen.
+MASKED_NAME chart and velocity of the team.
+Serves as a technical software advisor and decision maker to provide long-range global application architecture along with MGPPs of transition steps to get from current to future architecture recommendations. 
+Responsible for strategy & global application technology stack. 
+Proactively seeks application best practices within GE/GEC/HQ and the industry to gain a deeper knowledge of preferred corporate tools.
+Environment: Hadoop |HDFS| Hive |Informatica |Talend| SSIS | Teradata| AWS-S3 |AWS EC2| RedShift | Azure |Jenkins |Spark| Java| Scala| GIT
+Project: Migration and Simplification of PMO				Apr-14 to Jun 15
+Client: GE Capital, MASKED_LOCATION
+Role: Project Manager/Product Owner
+MASKED_ADDRESS
+Description: - Help to design the MASKED_NAME project process so that every project runs under GECA capture their all project related data (Budget, Regulatory & Governance Information, Applications Involved, MASKED_NAME) into Simplified project request, so that all the stakeholder can we the progress and opt-in for their involvement and signoff. Introduce the Project Risk assessment process so that with the 28-30 questions the system will decide the criticality of the projects and determine which stakeholder needs to review this project before getting approved for MASKED_LOCATION process. MASKED_NAME sites to edit and post PMO materials; make redesign recommendations. Manage ad-hoc client requests including problem-solving on administrative and operations issues.
+Roles:
+Simplified the process where we capture the pre-invoice for the entire projects run under GECA, the vendor needs to do the pre-invoice and get approved before the actual invoice approved. This process helps to check and balance the checkbook of the program with the Purchase Order and the Project the dollar got to spend. It helps finance team to simplify monthly/quarterly and yearly closing to the books for various programs as per business qualifiers. Design the Dashboards for “C” Level so they can easily see MASKED_NAME down the Dollar expend. 
+Participate in creating monthly IT reports on financials, invoices, and resources. Help analyze YTD budget versus actuals and Year-End projections, working closely with IT Managers and Department Chief Information Officer (CIO). 
+MASKED_NAME and manage logistics for the weekly IT PMO meeting, including coordination of updated project materials and risks/issues tracking. 
+Support the Programs budget/planning process of $40B-$60B. Work with other IT PMO Analysts, IT Managers, Department CIO, and the Finance Department in analyzing budget versus actuals and projections for next year.
+One of the reviewer and approver of all the change ticket raised for any changes into ServiceNow. 
+Environment: PMO Management |Agile coach| Vendor Management |Delivery Management |Project Financial Management | PPM | SharePoint | MASKED_NAME | MASKED_LOCATION
+Project: GE Capital – Know Your Customer	   	 Feb 2013 – Apr 2014	         
+Role: Project Manager/Scrum Master
+Client:  GE Capital, USA
+Description: KYC Service is a due-diligence BRMS tool used for a fraud check. It is used by various organizations for pre-and post-screening the data. It enables the Risk Analyst to gather, synthesize and process information to develop an understanding of the risk of an entity or organization. Based on the decision made from above risk information, a loan is disbursed or denied to an entity or organization.
+Working as Project Manager/Product owner and performing client communication, quality process and other project related day to day task.
+Application Requirement gathering, design, development and post production support.
+Ensure all the Agile process well followed and continued delivery happen.
+MASKED_NAME chart and velocity of the team.
+Manage Scrum master and multiple scrum team and make sure all the delivery will be continuously going on.
+Manage the priority work items and backlog vs. the defect and enhancements for every sprint or milestone. 
+Providing resolution for the tickets while adhering and complying to the specified SLAs
+Determining whether for an assigned trouble ticket- an incident fix (workaround), Data fix or permanent emergency fix is required
+MASKED_NAME.
+Designed and Developed Stored Procedures, functions and other objects of SQL Server. 
+Environment: Reilly, MASKED_NAME, MASKED_NAME, PPM, Net 2.0 /3.5, C#, SharePoint, WCF, SQL Server 2008, SSIS, SSRS, Bridger Insight XG, SOPA UI, ISS Server 7.5, MASKED_NAME.
+Project: GE Capital – Customer Master 		Oct 2011 -  Jan 2013	         
+Role: Project Manager/ Scrum Master
+Client:  GE Capital, USA
+Description: Customer master is application showing all the customer master data to achieve the GE initiative to maintain the Master Data management(MDM) of all the GE capital business centrally, and the information will share to various application or business as per need. Customer Master uses MASKED_NAME as the database to manage the Master data and update the Master data as per various application inputs.
+Responsibilities:	
+MASKED_LOCATION daily standup meeting, remove the hurdle come in during the project work, make sure sprint will finish on time with a committed deliverable.
+Worked with Clients and the functional and non-functional analysis to gather the requirements.
+Prepared the designing Use-case, Sequence Diagrams, Class Diagrams and Data Flow Diagram
+Interacts with Data Analyst to create Data Modeling for Incentive Compensation Plan.
+Prepared Functional Specific & Technical Documents Design each plan. 
+Created calculations to implement and make changes per the business needs of the client.
+Perform GAP analysis of already implemented business and did charge for 2012 Plan.
+Created SSIS package to Load data from various sources and performing data massaging to apply the business rule.
+Writing the RDBMS- SQL Query, Stored Procedure to get the values from the Database.
+Conduct the Application review comments for the application
+Executed Sanity and Smoke, Regression and Performance testing for the application.
+Environment: .Net, MASKED_NAME VB.Net, SQL Server 2008
+Project: Harleysville GBP-Support		Jul 2009 to Sept 2011
+Role: Project Manager/ Technical Lead/ Business Analysis
+End Client:  Harleysville Insurance, USA
+Description: - Harleysville Group Life Insurance business operations unit has decided to extend their life business improvement plans to serve the customers and initiated the GBP portal for the ease of agents and employers to manage their new business needs. The complete life cycle of managing the new business accounts is to be handled by GBP feature and upon implementing the same would achieve a standardized approach/ technology for Group Life business operations. This approach is to build enterprise Group Life solutions involving the multiple stake holder’s viz. employers, agents, and Harleysville’s employees, i.e., MASKED_NAME to achieve the complete value chain in a phased manner.  
+Responsibilities:	
+Collected Business requirements from the business client and functional specification document (FSD) has developed and deliver.
+Develop the High-Level Design Documents(HLDD) & Low-Level Design Documents (LLDD).
+The managed full lifecycle of software development including documenting functional specs, technical specs, coding, unit testing, system integration testing and implementation.
+Prepared the designing of Use-cases, Sequence Diagrams, Class Diagrams and Data Flow diagram
+Incident Management activities
+Providing support for incident tickets forwarded/assigned by the helpdesk team
+Determining whether for an assigned trouble ticket- an incident fix (workaround), Data fix or permanent emergency fix is required
+Implementing emergency code changes in production where workarounds are not possible
+Providing support for requests/tasks that are repeatable or small and effort
+Escalation of issue to respective stakeholders as per defined escalation mechanism
+Performing cause analysis on long-term fixes as and when required
+Environment: Windows 2003, Visual Studio 2008, C#, SQL Server 2005, InfoPath 2007, MASKED_NAME and MOSS 2007.
+Project: - Stop & Shop							April 2008 – Jun 2009
+Role: - Developer/ Scrum Master
+Client: Fujitsu America, MASKED_LOCATION
+This project involves the development of a POS (Point of Sales) product for a Retail Customers which includes front-end POS Software to integrate with POS terminals. Store operations hold by a Back-End Application (Back Office Application). This Product required customizations for this client. Front-end components develop in XAML with WPF and MASKED_NAME effects. Reporting is done using Crystal Reports. Base libraries have been written as COM objects and invoke from WCF Business libraries. Design patterns like MASKED_LOCATION, MASKED_LOCATION, and Factory patterns have used throughout. 
+MASKED_NAME and Responsibilities:
+Development of modules after gathering requirements from the existing system 
+Take active participation in technologies issue which we are facing during Migration project from its old technologies to new technologies.
+Bug fixing and participated in UAT phase.
+Environment: .Net 3.5, VB.Net, COM, WPF, WCF, SQL Server 2005.
+Project: - Atlas – GE Loan Application					Sept 2007 – Apr 2008
+Role: - Developer/ Team Lead
+Client: GE Capital, USA
+Description: This application is for General Electric USA.  GE Commercial Finance offers, on migration project and a very large project in the financial domain from MASKED_LOCATION to VB.Net 2005. The Application automates the overall mortgage process starting from “choosing a loan program” to “funding a loan” to the borrower. Implemented Business layer is as com+ serviced components
+Worked with GE Commercial Finance, on migration project and migrating a very large project in the financial domain from MASKED_LOCATION to VB.Net 2005. The Application automates the overall mortgage process starting from “choosing a loan program” to “funding a loan” to the borrower. 
+Environment: VB.NET, VB 6.0, MASKED_NAME, COM+, SQL Server 2000 
+Project: - Support and Sustain Framework Helpdesk (SSFH)		Apr 2007 – Aug 2007
+Role: - Developer/ Team Lead
+Client: Monster.Com, MASKED_LOCATION (MASKED_LOCATION), MASKED_LOCATION
+Description: Spent around two months at the client’s location in MASKED_LOCATION. The client is a leading, independent e-recruitment solution providing company, offering four different products to the Market that is BJS, BJB, BCS Lite, and BCS Provide support and sustain to the monster MASKED_LOCATION on their two main applications which are built in AS.NET with C# and using web service and windows services. MOHQ and MHX application is a monster application for their client in all over MASKED_LOCATION, any of the clients faced any problem or business related query or need any business-related enhancement.
+Environment: ASP.Net 1.0, C#, Clear Quest, SQL Server 2000 
+Project: - Ticketing Workflow Management System (TWMS)		Nov 2006 – Mar 2007
+Role: - Developer/ Team Lead
+Client: Monster.Com, USA
+Description: Designed and developed a ticketing workflowTWMS management system tool which helps user raise a request and the request is routed to the concerned authority- which helps in resolving the issue- based on the defined workflow. This application integrates two existing ticketing systems, Clear Quest and MASKED_LOCATION. Clear Quest and Clarify, both required separate licenses for its users designated to log in tickets. By introducing this application, User now requires only one license for TWMS as it provides a common interface to log tickets in both the existing systems.
+Environment: ASP 2.0, C#, Web Services, Windows Services, Clear Quest, MASKED_LOCATION, SQLServer
+Project: - Stream Solution Print Assist System Version 3.0			Apr 2006 – Oct 2006
+Role: - Developer/ Team Lead				Client: Steam Solution, MASKED_LOCATION
+Description: Designed a Print Assist System version 3.0. Stream Solutions are having a System named Print Assist version 2.0. MASKED_NAME proposes a new version of the system (3.0) with additional functionalities and features. Designing of the Application includes Business Use Case, Software Requirement Specification, System Use Case, Software Architecture Design, High-Level Design, Use Case Realization, Low-Level Design, and Database Design. Primary responsibilities included Requirement gathering, Software Requirement Specification, Designing of the Business Use Case and System Use Case, Software Architecture Design, High-Level Design, Use Case Realization, Low-Level Design and Database Design
+Environment: Enterprise Architecture (UML), ASP 2.0, C#, Clear Quest, MASKED_LOCATION, SQL Server 
+Technovate eSolutions(Apr 2005 – Apr 2006) Offshore Team Lead for ebookers.com MASKED_LOCATION, MASKED_LOCATION
+Project: - PPC Manager							Apr 2005 – Apr 2006
+Role: - Developer							Client: ebookers.com, MASKED_LOCATION
+Description: -The Pay-Per-Click (PPC) system is the main marketing tool used by Flair View Travel MASKED_LOCATION, for managing context advertising on Internet search engines (SE) including Google, Yahoo, and MASKED_NAME, etc. 
+Environment: C#, ASP.NET, PL/SQL, MS SQL Server
+Project: - Active Bank – Banking application				Jan 2005 – Apr 2005
+Role: - Developer							Client: Derbyshire Bank, MASKED_LOCATION
+Description: This project is dealing with all the retail banking procedures like accounts saving account Current account general ledger loan processing online as well as offline banking. Retail Accounts form the link between a bank’s Customers and certain of the Customer Liabilities recorded in the bank’s General Ledger. In the accounts, these are thinks included Retail Core; Retail Core Administration; Customer; Retail Accounts; MASKED_NAME; MASKED_NAME; Fixed Term Deposits; General MASKED_NAME; Cash Store; Payments; checks and Cards. Loan Accounts are a fundamental area for any profitable Bank and form a major part of the Assets recorded on its balance sheet.
+Environment: C#, ASP.NET, MASKED_NAME 9 
+Tri-X Security Pvt Ltd.(Jan 2003 – Dec 2004) Offshore Software Engineer
+Project: - Passport Application based on MASKED_LOCATION – Dec 2004
+Role: - Developer						Client: MASKED_LOCATION Instrument MASKED_LOCATION
+Application Interface for RFID Protocols (Passport Application based on RFID): All Passports are fit with TI-RFID inlays. Each TI-RFID inlay has a unique programmable read-only or read-write memory. 
+Environment: C#, MASKED_NAME, MASKED_LOCATION, MASKED_LOCATION, RFID MASKED_NAME, PL/SQL, MS SQL Server
+Beni Software Pvt Ltd.(Aug 2001 – Jan 2003) Offshore Software Engineer for Beni Software Canada
+Project: - Web Customer Interface					Aug 2001 – Jan 2003
+Role: - Developer						Client: Beni Software Canada
+This system will allow the web customers to book travel-related products online through the web. It is the maintenance project for solving issues that report after live deployment of the site. 
+Koshika Telecom (Mar 1999 – Jan 2001) Sales Executive for USHA mobile phone services to corporate account in MASKED_LOCATION

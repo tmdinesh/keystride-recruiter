@@ -1,0 +1,52 @@
+{
+  "resume_id": "Manohar Reddy_anon",
+  "skills": [
+    "python",
+    "java",
+    "javascript",
+    "php",
+    "ruby",
+    "scala",
+    "react",
+    "angular",
+    "html",
+    "css",
+    "sass",
+    "bootstrap",
+    "jquery",
+    "node",
+    "spring",
+    "express",
+    "rest",
+    "soap",
+    "sql",
+    "mysql",
+    "mongodb",
+    "oracle",
+    "cassandra",
+    "aws",
+    "azure",
+    "docker",
+    "kubernetes",
+    "ci/cd",
+    "linux",
+    "apache",
+    "machine learning",
+    "spark",
+    "hadoop",
+    "jira"
+  ],
+  "education": {
+    "degree": "Unknown",
+    "year": "Unknown"
+  },
+  "experience_years": 4,
+  "projects": [
+    "Developing front end of application using HTML, CSS, backbone.js, javascript, jQuery.",
+    "Prepared user documentation with screenshots for UAT (User Acceptance testing).",
+    "Wrote stored procedures, triggers, and cursors using Oracle PL/SQL.",
+    "Wrote JUnit Test cases for performing unit testing.",
+    "Interact with clients to understand their needs and propose design to the team to implement the requirement."
+  ],
+  "certifications": []
+}

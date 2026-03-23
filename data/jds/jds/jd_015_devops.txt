@@ -1,0 +1,45 @@
+ROLE: DevOps Intern
+SOURCE: Synthetic
+URL: N/A
+COMPANY: Helix Technologies
+
+============================================================
+  DEVOPS INTERN
+  Helix Technologies
+============================================================
+
+ABOUT THE COMPANY
+----------------------------------------
+Helix Technologies is a forward-thinking technology company specializing in innovative software solutions for enterprise clients. We leverage cutting-edge cloud infrastructure and agile development methodologies to deliver high-performance, scalable applications. Our mission is to empower businesses with robust and reliable technology that drives growth and efficiency.
+
+RESPONSIBILITIES
+----------------------------------------
+  • Assist in the deployment, configuration, and maintenance of Linux-based infrastructure and applications.
+  • Support the containerization of applications using Docker, including writing Dockerfiles and managing images.
+  • Contribute to the automation of routine operational tasks through scripting (e.g., Bash, Python).
+  • Participate in monitoring system performance and troubleshooting technical issues within our development and staging environments.
+  • Document configurations, processes, and best practices to ensure clear operational guidelines.
+
+REQUIRED SKILLS (Must-Have)
+----------------------------------------
+  ✅ Proficiency with Linux operating systems (e.g., Ubuntu, CentOS) and command-line interface.
+  ✅ Familiarity with Docker containerization concepts and basic commands (build, run, push).
+  ✅ Experience with Git for version control.
+  ✅ Basic scripting experience in Bash or Python.
+  ✅ Understanding of fundamental networking concepts (TCP/IP, DNS, HTTP/S).
+  ✅ Ability to troubleshoot technical issues and contribute to problem-solving discussions.
+
+PREFERRED SKILLS (Nice-to-Have)
+----------------------------------------
+  ⭐ Exposure to public cloud platforms (e.g., AWS EC2/S3, Azure VMs, GCP Compute Engine).
+  ⭐ Basic understanding of CI/CD pipelines and tools (e.g., Jenkins, GitLab CI, GitHub Actions).
+  ⭐ Familiarity with container orchestration concepts (e.g., Kubernetes, Docker Swarm).
+
+EXPERIENCE & EDUCATION
+----------------------------------------
+  Experience: 0-1 years
+  Education:  Currently pursuing or recently completed a Bachelor's degree in Computer Science, Software Engineering, or a related technical field.
+
+COMPENSATION
+----------------------------------------
+  $40,000 - $55,000 per year

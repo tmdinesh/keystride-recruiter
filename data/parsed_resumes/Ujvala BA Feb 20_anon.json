@@ -1,0 +1,28 @@
+{
+  "resume_id": "Ujvala BA Feb 20_anon",
+  "skills": [
+    "swift",
+    "html",
+    "asp.net",
+    "sql",
+    "oracle",
+    "jira"
+  ],
+  "education": {
+    "degree": "Scrum Master/Sr.Business Analyst",
+    "year": "Unknown"
+  },
+  "experience_years": 8,
+  "projects": [
+    "Discussed the Test Cases and Test Plans and select Test Data for Software Testers.",
+    "Member of team responsible for evaluation, timely implementation and support of business products in the distributed computing environment.",
+    "Involved in analyzing risks associated in integrating the client systems located in different geographical areas.",
+    "Involved in weekly walkthroughs to verify the status of the testing effort and the project asa whole.",
+    "Scrum Master/Sr. Business Analyst"
+  ],
+  "certifications": [
+    "Scrum Master/Sr.Business Analyst",
+    "Acted as Scrum Master for Product teams with a focus on guiding the teams towards improving the way they  work.",
+    "Engaged with other Scrum Masters to increase the effectiveness of the application of Scrum in the organization"
+  ]
+}

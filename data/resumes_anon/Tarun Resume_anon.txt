@@ -1,0 +1,112 @@
+Tarun							                     
+BUSINESS SYSTEMS ANALYST /Certified ‘SCRUM MASTER’ & ‘PO’    
+MASKED_NAME to Automate, Innovate, Improve and MASKED_NAME the business process flow
+Professional Summary
+An accomplished consultant with MASKED_ADDRESS and Scrum Master with experience working in the Finance, Banking, Healthcare, and E-commerce companies
+Expertise Summary:
+MASKED_NAME knowledge in Investment Portfolio management, rebalancing and optimization, Regulatory laws in Investment Advising, Corporate Finance and Healthcare
+Extensive experience in full SDLC Governance and Collaboration, Waterfall & Agile– Scrum methodology
+Experienced in front, middle and back office enterprise system orchestration. System analysis, design, test and implementation. Documented Business Rules, system validations, web services documentation (WSDLs) 
+Scrum Ceremonies - Daily Scrum, Sprint Planning, Review and Retrospective Meetings. Maintaining scrum reports –Burn Up/Burn down Charts, Velocity Charts, Kanban Board, Sprint Report, Control Charts, Swim lanes
+MASKED_NAME in grooming product backlog, sizing user stories, following Invest/Smart Criteria. Removed impediments, & worked with cross-functional teams – JIRA, MASKED_NAME Gap, Impact Analysis, JAD, JRD, Brainstorming, Requirement workshops, worked on BRD, FRD, SRS, NFRD, FSD and creating software manuals; created UML diagrams like Use case diagrams, activity flow charts, sequence diagram, data flow diagrams 
+Proficiency in database development life cycle. Developing conceptual data model, data normalization, logical design considerations; Helped with Data mining, cleansing, purging & mapping, data modeling, indexing and updating plan.; SQL querying. Canned & Ad Hoc reports, interactive dashboards, Statistical analysis
+Aided development of test plans, test cases, traceability matrices, and execute test cases, UAT – HP QC
+Working Knowledge of Equities, Fixed Income, securities, investment performance, IRA’s, foreign exchange, bonds and derivatives, insurance, mutual funds and check processing, trading & risk environment, credit, interest rates, Treasuries, alternative investments – Commodities, Foreign Exchange Trading. Hands on Knowledge on wealth management - Financial Planning and Capital Markets
+Good knowledge of SAFe 4.0, ITIL V3, AWS, Hadoop. And trending technologies/ Practices
+Tools and Technologies Summary
+Business Modelling tools: Rational Rose Enterprise MASKED_NAME, MASKED_NAME, BPMN, UML
+Web Technologies: HTML, CSS, JQuery, ASP.net, C#, MASKED_NAME, AJAX, XML, WSDL
+ETL Tools: Data stage, Informatica, Teradata
+Management Tools: MS Project professional, JIRA, MS SharePoint 2010, Rally (CA Tech), Version 1, HP-ALM, Confluence, MASKED_NAME Testing tools: HP QC, JIRA, HP Load Runner, MASKED_LOCATION test Manager, Quick Test Professional (QTP), MASKED_NAME, Rational Test Manager, Selenium
+Database and Server: Oracle, MS SQL server, MS Access, IBM DB2
+BI Reporting tools: Tableau Desktop, SAS, Crystal Reports, MASKED_LOCATION, QlikView, MASKED_NAME, R 
+Financial KT: Equities, Fixed Income, securities, foreign exchange, bonds and derivatives, insurance, mutual funds and check processing, trading & risk environment, credit, interest rates, IRA’s, Treasuries, Mortgage.
+Regulatory acts - FINRA, SEC, DOL, KYC, MASKED_NAME act
+PROFESSIONAL EXPERIENCE
+Bank of America, MASKED_LOCATION						        May 2015 - Present
+Business Systems Analyst/Scrum Master
+       Portfolio Management Alerts system 
+The project was intended to add enhancements such as alerts and other modules to the investment portfolio application
+Responsibilities
+Acted as a BSA in the beginning of the project, and then became an agile coach and scrum master; Enforced agile and scrum principles coaching the teams transition into MASKED_NAME environment so that the teams incrementally develop the enhancements through PSPI’s 
+Gathered requirements using GAP analysis, Artifacts digging, Interviewing, Prototyping, Benchmarking and job shadowing to create MASKED_NAME and MASKED_NAME
+Created UML activity diagrams, sequence diagrams, Business Process Modelling Notation (BPMN), state diagrams using Microsoft Visio to help developers understand the user stories
+Organized and facilitated sprint planning, daily stand-up meetings, reviews, retrospectives, release planning, demos and other Scrum-related meetings
+Used Scrum Related tools such as Rally to document and visualize stories, tasks and measure performance through burn down charts/velocity charts
+Used Kanban Board in implementing the project. 
+Implemented Kaizen Six Sigma techniques to systematically achieve small, incremental changes in processes in order to improve efficiency and quality
+Worked with cybersecurity experts to improve the security aspects of the application
+Used MASKED_NAME to convey look and feel of the GUI screens
+Assisted system architect in writing client-side validations for the UI webpages and also assisted UI developers in creating MASKED_NAME for dynamic and interactive UI pages
+Worked with team on Microservices infrastructure and API documentation
+Defined and suggested SOAP, REST, XML based web services, web methods, (API’s) 
+Prepared Client side and Server side validation in SRD and provided to lead developers
+Used various SQL commands like Create, Delete, Update, and Inner, Outer, Left, and Right joins to update the database and retrieve data for data analysis and validation
+Helped in creating a Data Dictionary 
+Used HQ Quality center to handle testing life cycle
+Created Stub Data in XML and provided to UI developers to progress the web page development.
+Facilitated the process of orchestration by providing process flow diagram
+Prepared Test Plans, Test Cases, and Test Scripts for UAT process with business users
+Researched keenly on Investment finance – wealth management,  financial planning and working of Capital Markets
+Hands on experience with portfolio management, futures, options, forwards and other OTC products and trained developers for various financial products and help them understand the logic of operation of Derivatives Analysis, Credit Derivatives and Fixed Income Securities
+Environment: Scrum, Windows 10, HP QC MS Office MASKED_NAME, MASKED_NAME, MASKED_NAME, XML, SOAP, REST, MASKED_NAME, UML, MASKED_NAME, SharePoint, SQL Server Services, MASKED_LOCATION, HP Load Runner, MASKED_NAME, Boston                                                            Aug 2014 – Apr MASKED_ADDRESS in Scrum Environment
+       Portfolio Rebalancing Application 
+The Application keeps track of portfolio weightage in comparison with the client’s risk appetite and investment preferences. The Project was implemented in SAFE 4.0 environment.
+Responsibilities
+Interacted with the Business Owners and SMEs along with Risk Managers and MASKED_NAME, to gather client specific business requirements 
+Conducted user interviews, facilitated JAD sessions 
+Helped to prioritize user stories using MoSCoW and Planning Poker techniques
+Worked as Proxy Scrum Master for certain sprints
+Acted as an agile coach in Introducing Scrum, SAFE to multiple team members
+Worked with RTE’s and was involved in Scrum of Scrum, PI planning, HIP sprint
+Used Scrum Related tools such as JIRA to document and visualize stories, tasks and measure performance through burn down charts/velocity charts
+Created UML - Use Cases, Activity Diagrams, and Work Flow Mockups using MS MASKED_NAME
+Used various SQL commands like Create, Delete, Update, and Inner, Outer, Left, and Right joins to update the database and retrieve data for data analysis and validation
+Defined and suggested SOAP, XML based web services, web methods and application programming   interfaces (API’s) based on MASKED_NAME
+Prepared Clientside validation and Server side validation in SRD and provided to lead developers
+Created Stub Data in XML and provided to UI developers to progress the web page development.
+Referred to UDDI to access external web services in WSDL and also assisted in SLA agreement
+Extensively used MASKED_NAME for building analysis flow for monitoring asset class performance
+Used Informatica ETL tool for data mapping, modelling and integration of multiple resources of data
+Knowledge in data profiling, root cause analysis, and quality improvement
+Worked with Lead Developers in building the ER Diagram, Connecting the databases to data warehouse, and creating data marts about specific services for the concerned departments
+Created RACI MATRIX, Traceability Matrix between the Use Cases (Requirements) and Test Cases, developed detailed Test plan, Test Cases, Test scripts, GUI and security testing
+Strong understanding of Equities and Fixed Income products with respect to Brokerage Operations, Margin trading and Securities Lending
+Extensively used BI for analyzing securities including equity, foreign exchange, bonds; building analysis flow for portfolio rebalancing and monitoring asset class performance 
+Environment: Scrum, MS Office MASKED_NAME, MASKED_NAME, MASKED_NAME, XML, SOAP, MASKED_NAME, UML, MASKED_NAME, SharePoint, MASKED_NAME, SQL Server Services, MASKED_LOCATION, MASKED_LOCATION, HP Load Runner, JIRA, Bugzilla
+Cigna Healthcare, MASKED_LOCATION, CT                      		                              Jan 2013 – July 2014
+Scrum Master in ‘Waterfall- Scrum’ Hybrid environment
+Business Intelligence Reports Application
+Studied various regulatory constrains like CHIP, FISMA, ACA, HIPPA, HITECH acts
+Helped resolve queries regarding ICD 9 – ICD 10 transition and worked on CPT codes
+Facilitated daily scrum, sprint review, retrospective, sprint planning, grooming
+Elicitation of Functional/non-functional requirements and conducted walkthroughs with architects, developers, SME’s and stakeholders
+Interviewed Domain Analysts, SME’s and Process Consultants to review, verify and validate Project requirements for an Integrated Sales, Customer Service and BI system
+Used SQL queries to extract data from DB for testing the accuracy and efficiency of the data
+Used Unified Modelling Language (UML) to prepare Process Flow Diagrams and Sequence Diagrams from the gathered requirements with the help of MASKED_NAME: Rational Suite, RRC/DNG, MS Office Suite, MASKED_NAME, MS Project, Office 365, , HP ALM/QC, MASKED_NAME, UML, MASKED_NAME, SharePoint, MASKED_NAME, SQL Server Services, MASKED_LOCATION, JIRA
+
+Shoppers Stop, MASKED_NAME, MASKED_LOCATION    				                         Feb 2010- Sept MASKED_ADDRESS
+       E-commerce Transaction Verification
+Responsibilities
+Used requirement workshops, reverse engineering, Doc Analysis to create the BRD, SRS
+Performed risk analysis of the requirements and prioritized the application development 
+MASKED_NAME prototypes and UI deliverables, such as wireframes, flowcharts, screen mock-ups, and interface design specifications. Helped in MASKED_LOCATION and DB development
+Environment: Waterfall, MS Office Suite, MASKED_NAME, UML, SharePoint, SQL Server Services, MASKED_NAME
+
+Oriental Insurance Company Ltd, Hyderabad		                         Sept 2008 - Dec MASKED_ADDRESS
+         Health Insurance Handling Application
+Responsibilities
+Elicited requirements by conducting GAP analysis, Brain-storming, Focus group sessions with the stakeholders and SMEs. Documented the BRD, FRD and the Use Case Documents
+Analyzed Requirements and created Use Cases, Business Processing Modelling Notation (BPMN), Use Case Diagrams, Activity Diagrams using MS Visio
+
+Environment: Waterfall, MS Office Suite, MASKED_NAME, UML, SharePoint, SQL Server Services
+EDUCATION	
+Bachelor of Engineering in Computer Science from Osmania University, MASKED_LOCATION
+Certified Scrum Master (PSM 1) (Scrum.org)
+MASKED_URL     # enter first and last name
+Certified Scrum Master (International Scrum Institute) 
+MASKED_URL
+Certified Scrum Product Owner (International Scrum Institute)
+MASKED_URL
+Duke university Certified ‘Data Visualization and Communication expert’
+MASKED_URL

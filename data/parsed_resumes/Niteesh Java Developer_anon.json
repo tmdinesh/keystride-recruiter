@@ -1,0 +1,35 @@
+{
+  "resume_id": "Niteesh Java Developer_anon",
+  "skills": [
+    "python",
+    "java",
+    "javascript",
+    "react",
+    "angular",
+    "html",
+    "css",
+    "bootstrap",
+    "jquery",
+    "node",
+    "spring",
+    "rest",
+    "soap",
+    "sql",
+    "mysql",
+    "mongodb",
+    "oracle",
+    "aws",
+    "docker",
+    "jenkins",
+    "apache",
+    "git",
+    "jira"
+  ],
+  "education": {
+    "degree": "MTA (Microsoft Technology Associate) certification, on the topic -\u201cDatabase fundamentals\u201d.",
+    "year": "Unknown"
+  },
+  "experience_years": 8,
+  "projects": [],
+  "certifications": []
+}

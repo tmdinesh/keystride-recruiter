@@ -1,0 +1,137 @@
+MASKED_NAME
+MASKED_EMAIL
+Mobile No : MASKED_PHONE Ext 103
+LinkedIn: www.linkedin.com/in/raviraju7
+                                   BI Architect/Business Analyst/Technical Project Manager
+PROFESSIONAL SUMMARY:
+Highly motivated IT professional with 12+ years of IT experience ‌in MASKED_LOCATION, Business Intelligence Development / Administration, Project Management,EnterpriseArchitecture & Design, Network Architecture, IT Infrastructure Planning, Business Analysis, Data Analysis, IT Operations in various GE business like GE Energy, Aviation, ESE, Corporate, GGO, Digital and Gartner.
+Outstanding record on delivering high quality BI solution on medium to large, complex cross-functional projects and programs end-to-end.
+Vast experience in Project Management Process (PMP), Agile, Scrum and Waterfall SDLC models and played various roles asProject Manager, MASKED_NAME, Team Lead for multiple full life cycle projects
+Highly Proficient in designing and developing end-to-end BI solutions per standard OLAP methodologies using analytical tools like MASKED_LOCATION, OBIEE, OBIA, Power BI, Cognosand Spotfire on Windows and MASKED_NAME in Design, Development, Administration, Testing, Implementation and Maintenance of Applications using Tableau, MASKED_NAME, OBIA, Power BI, and MASKED_NAME ETL
+Expert in designing RPD, creating dashboards, reports and BI Publisher reports in OBIEE andimplementing Oracle BI Apps (OBIA 11g) in all phases like implementing Out of order MASKED_NAME (Vanilla mappings) prebuilt mappings, Designing ETL, metadata management using DAC, MASKED_NAME provided data warehouse
+Administered and managed Reports/Dashboards development on MASKED_LOCATION. Performed Patching/Fixing, Reports migration, Optimization, Enhancements and Upgrades.
+Expert in creating automated server maintenance and application maintenance scripts using Shell Scripting
+Expertise in loading data from various data sources in data warehouses and data marts using ETL tool Informatica. Experienced in doing testing and data validation from various source to target systems. 
+Excellent in documentation of Business Requirements gathered using MASKED_LOCATION interactions, Brainstorming Sessions ; Evaluating Data Sources, Translating Requirements into Business Use Cases. 
+Highly proficient in the use of variousRBDMSOracle, MS SQL Serverfor querying and reporting purposes
+Experience in Oracle Data Integrator ODI 10g/11g and Informatica Power Center 9.x/8. x.
+Excellent knowledge in AWS cloud migration.
+Facilitated Change Management and Conflict Resolution at various stages of the project life cycle by streamlining communication among the project stakeholders and end users.
+Tested numerous reports generated in MASKED_LOCATION, OBIEEsystems by comparing results with back end DB.
+MASKED_NAME skills, can write complex SQL queries; functions, triggers and stored procedures for MASKED_NAME testing, Database Testing and End-to-End testing. 
+In-charge for knowledge management/transfer to Ensure technical and Production Support from offshore
+Expertise in Functional Testing to ensure a Data Quality after MASKED_LOCATION and experience in conducting User Acceptance Testing (UAT) to ensure business requirements have been fulfilled.
+Strong ability to thoroughly documentUser Manuals after subsequent releases and conducting User Training Workshops to familiarize Business users to the changes in Reports and Dashboards
+Good knowledge in working with FTP and development tools like SQL developer, TOAD and Eclipse
+Experienced in full project lifecycle: defining scope, gathering requirements, analyzing, estimating, planning, designing, modeling, writing business and technical specifications, developing prototypes, development, testing, deployment, implementation, documentation and support
+Excellent communication, management and organizational skills with the ability to interact with all levels of management. Strong customer facing skills, presentation and collaboration skills
+Excellent interpersonal skills, proven team player with an analytical bent to problem solving and delivering under high stress environment
+Good analytical thinking, Critical thinking, MASKED_LOCATION solving ability to translate technical requirement to test plans. Ability to work seamlessly with Onshore/Offshore teams
+Strong communication and team skills, ability to work independently with minimal supervision. 
+Education:
+Andhra University, MASKED_LOCATION, AP, MASKED_LOCATION
+Master of Technology in Computer Science and Technology (M.Tech) 2002-2004
+Master of Science in Computer Science (M.Sc) 1998-2000
+Bachelor of Science in Computer Science (B.Sc) 1995-98
+Certifications, AWARDS and Achievements:
+[1Z0-591] OBIEE 11g Administration
+[1Z0-133] Oracle WebLogic Server 12c: Administration 
+[EX200] Red Hat Certified System Administrator (RHCSA)
+[ITLF] ITIL V3 
+Six Sigma Green Belt 
+[SCJP]Sun Certified MASKED_NAME
+[MCP] Microsoft Certified Professional 
+AWS Certified Solutions Architect
+Satyam Certified PMP.
+TechMahindra Certified Agile certification.
+Received “Delivery Excellence Award” for “Best Innovation of Q1 FY12” while working in TSG Enabling Tools project.
+Received POB awards for best performance in the project CCL Reporting
+Received “Associate Of the Month (AOM)” award for developing Knowledge Retention & Inventory Management System (KRIMS) tool.
+Received “Best Project Manager” award for delivering multiple critical projects successfully
+TECHNICAL SKILLS:
+PROFESSIONAL EXPERIENCE:
+Sr BI Architect|						Nov 2017 – Till Date
+Location – MASKED_LOCATION, MASKED_LOCATION, MASKED_LOCATION
+Project#1– CEB Integration (Gartner acquired CEB Global business in 2017. Gartner is in the process of integrating CEB data into Gartner Systems.  As part of integration, a project is underway to integrate MASKED_LOCATION content into Gartner Publishing and Content Delivery systems.  This project also includes enhancing BAW (Business Analytics Warehouse) and reports and dashboard to include CEB Global data.)
+Analyzing CEB data and adding it to Gartner system. 
+Gathered business user requirements, analyzed data, and designed software solutions in Tableau Desktop based on the requirements.
+Design and develop scalable BI solutions on MASKED_LOCATION or Power BI
+Building, publishing customer interactive reports and dashboards using live data, Extract data on Tableau Server
+Created dashboards and reports in MASKED_LOCATION 10.x and maintaining server activities, user activity, and customized views on server analysis.
+Developed visualizations using sets, Parameters, Calculated Fields, Dynamic sorting, MASKED_LOCATION, Parameter driven analysis, trends and drill downs along with user level security. 
+Documentation for knowledge management. Ensuring technical and production Support from offshore.
+Skills Utilized – Tableau 10.x, Power BI, SQL,MASKED_LOCATION, Informatica, Shell Scripting, MASKED_NAME, HTML
+BI Architect|			Sep 2013 – Nov 2017
+Location – MASKED_LOCATION, MASKED_LOCATION, MASKED_LOCATION
+Project #2 – Finance Navigator ( Finance Navigator is a project to support all GE domains Finance departments reporting needs using data lake as data source and MASKED_LOCATION tools MASKED_LOCATION)
+Single interface for development and maintenance for reporting needs across all GE domains finance and accounting departments.
+Managing 3 offshore teams encompassingTableau,MASKED_NAME as well legacy reporting needs.
+Familiar with Installation, configuration, patching and upgrading of MASKED_LOCATION tool across the environments.
+Handled MASKED_NAME admin activities granting access, managing extracts and Installations.
+MASKED_NAME visualizations and dashboards using Tableau Desktop
+Published Workbooks by creating user filters so that only appropriate teams can view it.
+Analyzed the data source and handled efficiently by modifying the data types.
+Building, publishing customized interactive reports and dashboards, report scheduling using Tableau server.
+Generated context filters and used performance actions while handling huge volume of data.  
+Created and Published Tableau Dashboards into Tableau Server.
+Developed visualizations using sets, Parameters, Calculated Fields, Dynamic sorting, MASKED_LOCATION, Parameter driven analysis.
+Created various views in MASKED_LOCATION-like Tree-maps, MASKED_NAME, MASKED_NAME plots, Radical chart Geographic maps, Line chart, Pie charts etc.
+Responsible for requirement specification, analysis and detailed level designing for the enhancements.
+Training & Supporting end-user reporting needs using MASKED_NAME and MASKED_NAME.
+Responsible for reviewing the deliverable to ensure quality. Documentation for knowledge management. Ensuring technical and production Support from offshore.
+Configured External Database Authentication Security and LDAP Security to Store User and User Groups Credentials.
+Prototyped data visualizations using Charts, drill-down, parameterized controls using MASKED_LOCATION to highlight the value of analytics in Executive decision support control.
+Upgraded MASKED_NAME from 9.3.8 to 10.1.6
+Skills Utilized – Tableau Desktop 8.x/9.x/10.1.6,Tableau Server 8.x/9.x/10.1.6,OBIEE 12c/11g, OBIA, DataLake,MASKED_LOCATION , SQL Server2008/2012, Oracle 9i/11g
+BI Architect|					Mar 2008 – Sep 2013
+Location – Shelton/MASKED_LOCATION, MASKED_LOCATION, MASKED_LOCATION
+Project #3 – Financial Intelligence (Financial Intelligence (FI) is a multi-generational “project” which will standardize and enhance GE global operations reporting processes and systems on to one common platform. FI reporting deals with consolidation of financial planning analysis and reporting systems by creating common capability across Corp Ops, GBS and Financial Services businesses, enhancing controllership, creating flexibility to meet the ever-increasing needs of business.) 
+Played role of OBIEE Admin/Developer and Business Analyst.
+Migrated reporst from Cognos to OBIEE
+Analyzed business problem and designed the application screens and technical architecture.
+Led the offshore development team and designed MASKED_NAME/OBIA RPD, logical & physical Data warehouse/Data-mart data model to support business requirements.
+Developed dashboards/canned reports with reporting Standards as per the Business requirement rules and documents. 
+Configured MASKED_NAME and Oracle BI Delivers- iBots to deliver alerts and publish updated content to subscribed users as per the schedules and requirements.
+Created and configured Physical layer, Business Model Layer and Presentation Layer of the repository with business logics including hierarchies and security privileges for both fact-dimension and fact less fact schemas in RPD .
+Developed  BI Publisher reports for Account reconciliation Management(ARM) reports
+Created Repository, Session variables, Presentation variables and initialization blocks for various reporting needs. 
+Involved in business model development with dimensions, hierarchies, measures, partitioning, Aggregation Rules, Time Series and Cache Management.
+Created standard Balances and Journal dashboards and reports by using data lake functionality on MASKED_NAME database.
+Implemented security model for Financial Intelligence application including data level, object level, managing security privileges for each subject area and dashboards.
+Built ODI mappings and performed transformations to meet the reporting needs
+Extensively used ODI (Oracle Data Integrator) ELT tool to load data from various source systems to a target Data warehouse. 
+Used ODI commands like ODIFile_Move, odiFileAppend, odiFilecopy and so on. 
+Improved overall performance of the system by eliminating various performance bottlenecks like:
+o	Configured and tuned the session parameters appropriately.
+o	Improved ETL Load process by benchmarking different approaches that reduced 50% of load transferring time between ODS to DW for a period by implementing partition exchange technique. 
+o	Automated client Balance to send attachment through email when adhoc request comes for old period
+Installed and configured MASKED_NAME 12.2.1.2.0/12.2.1.1.0/12.2.1.0.0/11g versions in windows and MASKED_NAME environments. Applied patches, interim patches for bug fixes.
+Upgraded OBIEE environments from 10.1.3.4 to 11.1.1.5 (BP4 patch), 11.1.6.12 ,11.1.1.7.0 for Dev, Stage and Production environments in various stages.
+Developed shell scripts to automate regular tasks to simplify the server administration.
+Improved the performance of overall BI domain (Console, EM and OPMN) using performance tuning techniques. 
+Worked with DB team to fine tune the MASKED_NAME queries to reduce run times of dashboards/reports.
+Skills Utilized – OBIEE 11g/12c, MASKED_NAME,Apache, DNS, Big IP Loadbalancer, Unix/Linux, MASKED_LOCATION, SSO,SSL , HTTP, Shell Scripting
+OBIEE Architect | 				Jul 2013 – Sep 2016
+Location – Shelton/MASKED_LOCATION, MASKED_LOCATION, United StatesProject #4  – ARM(Account Reconciliation Management)
+Developed BI Publisher Reports for ARM team in GE Corporate
+Configured BI Publisher in OBIEE 11g
+MASKED_LOCATION and MASKED_NAME various BIP reports using SQL queries 
+Using RTF templates generated Excel and PDF file formats. 
+Skills Utilized – OBIEE 11g, BI Publisher, MASKED_NAME, Apache, Linux
+System Analyst|						Jul 2006 – Mar 2008
+Location – Hyderabad, MASKED_LOCATION
+Project #5 – Equipment Service - ESE Web Infrastructure support
+Installed WebLogic, MASKED_NAME, Site minder software in MASKED_LOCATION, MASKED_LOCATION, MASKED_LOCATION and Production environment.
+Worked with different process teams (Application, Network, Security, Hardware, Database and Vendor support) to solve critical issues
+Performed administrative tasks related to application code deployments including stopping and starting services, making configuration changes, and troubleshooting issues to meet the needs of acquired business IT operations support.
+Skills Utilized – Jboss, Linux, Apache, Siteminder
+System Analyst|					May 2005 – Jul 2006
+Location – Hyderabad , MASKED_LOCATION
+Project#6– Collaboration Workspace Ops Support
+Responsible for the overall support operations. The team has a combination of the onsite and offshore associates. This combination provides a 24-hour support. Provides support to the entire GE Infrastructure users (approx. around 70,000 users).
+Installed and configured of IIS 6.0 and IIS 7.5. Done audit trails for all the servers .Developed automation of schedule scripts to ease of server administration
+Monitored & Managed web Servers includes IIS and MASKED_NAME web server implementation and administration.
+Interface error reporting and mailing.
+Created profiles in MASKED_LOCATION tool to get reports for hits of website and regenerating the reports in MASKED_LOCATION
+Supported URCHIN metrics and Teamsite content management tool.
+Skills Utilized– IIS,Teamsite,Urchin, Siteminder, Windows, Linux

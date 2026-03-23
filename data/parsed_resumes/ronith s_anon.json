@@ -1,0 +1,40 @@
+{
+  "resume_id": "ronith s_anon",
+  "skills": [
+    "java",
+    "javascript",
+    "react",
+    "angular",
+    "html",
+    "css",
+    "bootstrap",
+    "jquery",
+    "node",
+    "spring",
+    "rest",
+    "soap",
+    "sql",
+    "mysql",
+    "mongodb",
+    "oracle",
+    "aws",
+    "jenkins",
+    "linux",
+    "apache",
+    "git",
+    "jira"
+  ],
+  "education": {
+    "degree": "Education:  Bachelor\u2019s in Computer Science from OU, MASKED_LOCATION",
+    "year": "Unknown"
+  },
+  "experience_years": 9,
+  "projects": [
+    "Working with Business Analysts and project managers to develop multiple projects in parallel.",
+    "Develop extensions or configurations within the Curam Framework.",
+    "Angular JS was used as the framework to develop SPA applications.",
+    "Spring framework was used as the controller lawyer in back end to take care of the requests in the application.",
+    "Inject the\u00a0Curam factory classes into the Spring context handlers"
+  ],
+  "certifications": []
+}

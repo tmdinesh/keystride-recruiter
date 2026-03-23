@@ -1,0 +1,5 @@
+ROLE: QA Engineer
+SOURCE: Adzuna
+URL: https://www.adzuna.com/land/ad/4864289515?se=Dv5Xw4sY8RGJZfgUeQyxLw&utm_medium=api&utm_source=e34e223e&v=1A9E62378E4DAD5EDA6920D06BDC686024CE331F
+
+Job Description A Fortune 200 client in looking to add a QA Engineer to their team! The ideal candidate will develop and maintain a product test environment that supports quality assurance testing of releases and patches as well as be challenged to develop innovative automated test cases and develop the processes and tools needed to influence and improve the quality of the Calibre xACT product. In this role, you will be working on Calibres parasitic extraction software product in the Design to

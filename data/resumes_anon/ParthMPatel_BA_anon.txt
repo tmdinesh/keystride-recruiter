@@ -1,0 +1,82 @@
+Parth 
+Professional Summary
+Over 7 Years of experience in Business Analysis with diversified experience in Finance and Insurance.
+Interacted with stakeholders, gathered requirements, rating them and assigning priorities to each of them and documenting business processes and translating them to functional requirements.
+Proficient in interacting with business users to identify information needs and initiating process changes, creating Business Requirement Documents (BRD), Functional Requirement Specification (FRS), authoring MASKED_NAME, Use Case Diagrams, Activity Diagrams, and Sequence Diagrams using MS MASKED_NAME and Rational Rose using UML methodology. 
+Involved in requirements analysis, design and testing phases of Software Development Life Cycle (SDLC) and also in Agile and Waterfall methodology. 
+Established metrics to monitor supply chain risk and performance - turns, transportation cost ratios, cost reductions.
+Strong experience in client interaction, understanding business applications and business data flow and experienced in conducting Joint Application Design (JAD) Sessions, Interviews and client meeting to gather requirements. 
+Developed the guidelines and artifacts under the Agile Unified Process (AUP) to strategize its implementation effort in different iteration cycles and the phases of the Project Life Cycle. 
+Experienced in business strategist like Planning and managing projects, aligning business goals with technology solutions to drive process improvements, competitive advantage and bottom-line gains. 
+Involved in UAT & Production Implementation activities like defect tracking, monitoring, bug fixing, hot fix and publishing.
+Facilitating end to end training, software demonstrations (showcasing of features); creating training material such as user manuals and quick reference guides.
+Strong analytical skills and problem solving skills 
+Excellent communication skills communicating effectively with upper management, developers and QA engineers.
+Technical Summary 
+Reporting Systems:	Business Objects, SAP Business Warehouse, MASKED_LOCATION 
+Databases:	MASKED_NAME (8i, 9i, 10g), Access, SQL Server, MASKED_LOCATION, DB2 
+Languages and Methodology:	HTML, SQL, Agile, Waterfall, RUP, Scrum
+Operating System:	UNIX, Windows
+Business Modeling Tools:	Rational Rose, MASKED_NAME, MS Office Suite, Rational Suite functions, 
+	Data modeling and schema, MASKED_NAME and audit trails, and MASKED_NAME reports 
+	and dashboards
+Business Applications:	MS Office (Word, Excel, PowerPoint), MS VISIO, MS Project, MASKED_NAME, 
+	SharePoint
+Work Summary
+Huntington Bank, MASKED_LOCATION, MASKED_LOCATION	August 2014 to Present
+Sr. Business Analyst
+Huntington Bank offers full service banking solutions for individuals, small businesses, and commercial enterprises.The project involved enhancing the present banking features which handles the customer's account information and also facilitated transfers from one account to the other including handling bill payments online.
+Responsibilities:
+Interfaced with the client as part of the Requirements Engineering team to finalize the project scope. 
+Documented Business Requirement Documents (BRD) and Functional Requirement Documents (FRD) 
+Involved in analysis of various types of risks (Credit Risk, Market Risk) which impact the portfolio management. 
+Analyses system requirements developed detailed Test plan, Test cases, Test scripts for testing the functionality, GUI and security testing. 
+Performed risk analysis of the requirements to identify the key business risk areas for the project and prioritized the application development and testing. 
+Developed weekly reports that were used by management to assess the percentage of progress being made by the project team and compared it with hours burnt. 
+Designed and developed Use Cases, Activity Diagrams, Sequence Diagrams, using UML. 
+Used JIRA for Agile project management, creating product backlog, sprint backlog and bug tracking. 
+Used AGILE methodology to manage the software development process and acted as the Product owner in the iteration cycles. 
+Created and managed project templates, use case templates, requirement types and traceability matrix to map all requirements with their functional steps. 
+Managed workload, schedules and coordinated status review meetings with project managers, business managers, cross block BAs and team members. 
+Responsible for detailing out the user stories and acceptance criteria and eventually deciding the user stories that could be included in a Sprint.
+Analyzed user stories to develop acceptance test criteria in collaboration with product owners.
+Helped in creating end user manuals and procedure manuals.  
+Carried out UAT by developing test plans, test scenarios, test cases, and Test data to be used in testing based on business and user requirements, technical specifications of the product. 
+Environment:	Agile, Waterfall, Administration and Security Controls, Custom/Standard Objects, Data Loader, 
+	HP Quick Test Professional, MS Visio, SharePoint, MS PowerPoint, MS Excel, OLAP, XSD, 
+	SQL, MASKED_LOCATION.
+Monument Bank – Doylestown, PA	April MASKED_ADDRESS
+The assignment was involved for couple of enhancement projects. "Email Marketing" projects to develop an email communication for marketing to bank's existing and prospective customers which will allow MonumentBank to grow its email subscription. I was also involved in the project "Overlay View" where the customer with multiple account relationships can see all their Personal Accounts & Business Accounts in one page. 
+Responsibilities:
+Prepared Business Process Models that includes modeling of all the activities of the business from the conceptual to procedural level. 
+Worked closely with the Project Managers to plan how the work can be broken down into logical components to facilitate focused and efficient requirements gathering 
+Facilitated and scribed JAD sessions, user meetings and interviews to extract business requirements documented using Use Case Modeling, Process Flow diagrams and BRD documentation. 
+Participated in daily MASKED_NAME "Stand-up", Biweekly Sprint Planning and MASKED_NAME and update the team on status of upcoming user stories. 
+Created, iterated, prioritized and groomed user stories that make up the Scrum project's product backlog. 
+Tracked and maintained user requested enhancements and changes in product backlog. 
+Managed Sprint backlog list and help identify features for upcoming releases. 
+Created IAD logs and made sure to follow up & resolve with right set of people. 
+Conducted one-on-one meetings with the project SMEs (in person or by phone) to gather the requirements 
+Documented business workflows as well as in UML diagrams (State diagrams) and forwarded them to stakeholders to review. 
+Understood the business logic, User Requirements and test-objectives to develop test plans, test cases, and test case execution using Test Director. 
+Assisted in Conducting UAT (User Acceptance Testing) to make sure that all the user requirements are catered by the application. 
+Environment:	Agile, SQL, ADMS, Excel, Scrum, Data Loader, MS Office, MASKED_NAME, MS Project.
+City National Bank – MASKED_LOCATION, CA                                                         	February MASKED_ADDRESS
+City National Bank is an American financial institution. The project was to redesign and automate the manual Collateral tracking service regardless of counterparty. The collateral tracking hub automatically initiates the process of tracking the status and location of all outstanding collaterals. It also enables the clients to schedule reports systematically or upon request. 
+Responsibilities:
+Interacted with the product managers and gathered requirements for the business definition 
+Created Functional Requirements Document (FRDs), Functional Specifications Document (FSDs) and Traceability Matrices for application development 
+Involved in the stack sessions, and met with all stakeholders to understand, articulate, and document the requirements 
+Facilitated JAD sessions with the management, developers and analysts from all the dependent systems/applications and business users to refine functional requirements and to perform the Impact Analysis.
+MASKED_NAME, documented Risk Logs and created Requirement Traceability Matrix (RTM) as a roadmap for the 'TO BE' system 
+Prepared PowerPoint slides to effectively various stakeholders 
+Manipulating, cleansing & processing data using Excel, Access and SQL. 
+Perform updates and enhancements to D&I Monthly Excel Tool. 
+Analyzing raw data, drawing conclusions & developing recommendations 
+Worked on MS Visio to design and create Process Flow Charts, Activity diagrams with Swim Lanes, Data Flow Diagrams and Use Case Diagrams  
+Wrote requirement specification, user stories, acceptance criteria, test cases and used MASKED_NAME as ticket management tool and confluence for documentation. Proficient in writing SQL queries.
+Performed GAP Analysis, designed new business process flows, and documented various business scenarios 
+Performed User Acceptance Testing (UAT) 
+Full knowledge of phases of the Systems Development Life Cycle. 
+Environment: 	Agile, Waterfall, UML, SQL/T-SQL, SQL server, Crystal Reports, UML, RUP, MS Excel, 
+	MASKED_NAME, MS Power Point, MASKED_NAME.

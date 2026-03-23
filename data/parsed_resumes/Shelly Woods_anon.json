@@ -1,0 +1,34 @@
+{
+  "resume_id": "Shelly Woods_anon",
+  "skills": [
+    "java",
+    "javascript",
+    "angular",
+    "html",
+    "css",
+    "jquery",
+    "spring",
+    "express",
+    "rest",
+    "soap",
+    "sql",
+    "oracle",
+    "apache",
+    "spark",
+    "hadoop",
+    "git"
+  ],
+  "education": {
+    "degree": "M.C.A (Master of Computer Applications) from Osmania University, 2006.",
+    "year": "2006"
+  },
+  "experience_years": 10,
+  "projects": [
+    "American Express Company is a global travel, financial and network service provider. The company provides individuals with charge and credit cards. In CCSG we build new application pages for the given cards (Charge/Credit). Enables prospect to apply for personal cards. Prospect has an option to apply for a personal card through various channels.",
+    "Long Application: User is not an American Express card holder and wants to apply for a new card.",
+    "Short Application: If already a card member, has an option to apply for new cards, with a difference that user is asked to fill in minimal details",
+    "Involved in loading data from Oracle database into HDFS using Sqoop queries.",
+    "Title:   Tech Lead( Java/Hadoop)"
+  ],
+  "certifications": []
+}

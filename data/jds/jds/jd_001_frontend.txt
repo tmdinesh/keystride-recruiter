@@ -1,0 +1,45 @@
+ROLE: Frontend Developer
+SOURCE: Synthetic
+URL: N/A
+COMPANY: TechNova Solutions
+
+============================================================
+  FRONTEND DEVELOPER
+  TechNova Solutions
+============================================================
+
+ABOUT THE COMPANY
+----------------------------------------
+TechNova Solutions is a forward-thinking technology company specializing in developing innovative digital products and custom software solutions. We partner with clients across various industries to build intuitive, scalable, and high-performance applications that drive business growth and enhance user experiences.
+
+RESPONSIBILITIES
+----------------------------------------
+  • Develop and implement highly responsive user interface components using React.js.
+  • Collaborate closely with UI/UX designers to translate wireframes and mockups into interactive web applications.
+  • Optimize applications for maximum speed and scalability, ensuring a seamless and engaging user experience.
+  • Integrate frontend applications with backend services and APIs, ensuring robust data flow and functionality.
+  • Write clean, well-documented, and maintainable code, adhering to best practices and coding standards.
+
+REQUIRED SKILLS (Must-Have)
+----------------------------------------
+  ✅ React.js (experience with React 17/18+)
+  ✅ JavaScript (ES6+), HTML5, and CSS3
+  ✅ Proficiency with state management libraries (e.g., Redux, React Context API, Zustand)
+  ✅ Strong understanding of RESTful APIs and asynchronous request handling
+  ✅ Experience with modern frontend build pipelines and tools (e.g., Webpack, Babel)
+  ✅ Solid understanding of Git version control
+
+PREFERRED SKILLS (Nice-to-Have)
+----------------------------------------
+  ⭐ Familiarity with TypeScript
+  ⭐ Experience with testing frameworks (e.g., Jest, React Testing Library, Cypress)
+  ⭐ Knowledge of Next.js or other server-side rendering frameworks
+
+EXPERIENCE & EDUCATION
+----------------------------------------
+  Experience: 2-4 years
+  Education:  Bachelor's degree in Computer Science, Software Engineering, or a related technical field, or equivalent practical experience.
+
+COMPENSATION
+----------------------------------------
+  $85,000 - $115,000 USD per year

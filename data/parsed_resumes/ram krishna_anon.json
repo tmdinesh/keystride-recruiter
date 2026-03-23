@@ -1,0 +1,34 @@
+{
+  "resume_id": "ram krishna_anon",
+  "skills": [
+    "java",
+    "javascript",
+    "scala",
+    "angular",
+    "html",
+    "css",
+    "jquery",
+    "node",
+    "spring",
+    "rails",
+    "rest",
+    "soap",
+    "sql",
+    "mysql",
+    "mongodb",
+    "oracle",
+    "cassandra",
+    "aws",
+    "jenkins",
+    "linux",
+    "apache",
+    "git"
+  ],
+  "education": {
+    "degree": "Unknown",
+    "year": "Unknown"
+  },
+  "experience_years": 8,
+  "projects": [],
+  "certifications": []
+}

@@ -1,0 +1,25 @@
+{
+  "resume_id": "Praveen B_anon",
+  "skills": [
+    "r",
+    "sql",
+    "oracle",
+    "aws",
+    "linux",
+    "apache"
+  ],
+  "education": {
+    "degree": "Bachelor of Engineering (Information Technology)\t Jun 2001 \u2013 May 2005",
+    "year": "2001"
+  },
+  "experience_years": 12,
+  "projects": [
+    "IT Infrastructure setup for 16+ new client engagements",
+    "Delivered IT service to customers as per SLA and acted as an escalation point for business (Fast-track urgent requests)",
+    "Also managed active directory management/administration, anti-virus server management, Windows/Linux server & patch management, group policy creation & enforcement",
+    "Network Design & Implementation \u2013 Network infrastructure design, VLAN Management \u2013 creation, adding ports to VLAN etc., WAN link optimization/solution design based on business requirements."
+  ],
+  "certifications": [
+    "PMI PMP Certified"
+  ]
+}

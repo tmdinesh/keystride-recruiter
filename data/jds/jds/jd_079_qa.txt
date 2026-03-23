@@ -1,0 +1,5 @@
+ROLE: QA Engineer
+SOURCE: Adzuna
+URL: https://www.adzuna.com/land/ad/5633882772?se=Dv5Xw4sY8RGJZfgUeQyxLw&utm_medium=api&utm_source=e34e223e&v=AADDF8E30DA92EC5E14C60C1CCF4C5D9257DD1CD
+
+Overview Job Purpose We are seeking a QA Engineer with experience in testing LLM based software. As a member of the QA team, you will have the opportunity to participate in various projects where LLMs are used to solve complex engineering problems. You will participate in creating and executing automated tests for such applications. You will also participate in the creation and improvement of prompts driving these applications. Responsibilities  Implement automated test frameworks and take owne

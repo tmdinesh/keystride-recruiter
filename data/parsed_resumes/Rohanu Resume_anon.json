@@ -1,0 +1,40 @@
+{
+  "resume_id": "Rohanu Resume_anon",
+  "skills": [
+    "java",
+    "javascript",
+    "r",
+    "angular",
+    "html",
+    "css",
+    "bootstrap",
+    "jquery",
+    "spring",
+    "rest",
+    "soap",
+    "sql",
+    "mysql",
+    "mongodb",
+    "oracle",
+    "aws",
+    "docker",
+    "jenkins",
+    "linux",
+    "apache",
+    "git",
+    "jira"
+  ],
+  "education": {
+    "degree": "Unknown",
+    "year": "Unknown"
+  },
+  "experience_years": 8,
+  "projects": [
+    "Client: Kofax India Pvt. Ltd                                                                                                                                   Aug\u201909 \u2013 Apr\u201911",
+    "Created user-friendly GUI interface and Web pages using HTML, CSS and JSP.",
+    "Wrote JavaScript for client side validation.",
+    "Monitored the logs using Log4J and fixed the problem.",
+    "The Application was deployed on Apache Tomcat Server."
+  ],
+  "certifications": []
+}

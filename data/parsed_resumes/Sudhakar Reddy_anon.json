@@ -1,0 +1,39 @@
+{
+  "resume_id": "Sudhakar Reddy_anon",
+  "skills": [
+    "java",
+    "javascript",
+    "angular",
+    "html",
+    "css",
+    "bootstrap",
+    "jquery",
+    "spring",
+    "rest",
+    "soap",
+    "sql",
+    "mysql",
+    "mongodb",
+    "oracle",
+    "aws",
+    "jenkins",
+    "apache",
+    "hadoop",
+    "git",
+    "jira",
+    "swagger"
+  ],
+  "education": {
+    "degree": "Bachelor of Technologies (Electrical & Electronics Engineering) from JNTU University, May 2003.",
+    "year": "2003"
+  },
+  "experience_years": 9,
+  "projects": [
+    "Develop a Web-based database application for authors to create and manage feedback surveys, for students to submit and view evaluation data, and for administrator to manage the process. Provide role-based access to input, search and view data via the Web.\u00a0 Create downloadable reports and allow ad-hoc reporting based on defined access levels.",
+    "Design and implementation client pages using JSF",
+    "Contributed for application design and along with the day to day development activity I have also managed the Database as a database administrator.",
+    "Development of Backing bean business logic.",
+    "Involved in debugging the product using Eclipse and JIRA Bug Tracking"
+  ],
+  "certifications": []
+}

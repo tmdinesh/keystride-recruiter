@@ -1,0 +1,135 @@
+SPOORTHI
+SR. BUSINESS SYSTEM ANALYST
+Over MASKED_ADDRESS effective, high performance technology solutions to meet challenging business demands
+PROFESSIONAL SUMMARY:
+Extensive knowledge, expertise and involvement in various phases of Software Development Life Cycle (SDLC) in Waterfall, Scrum, Agile (Test-Driven Development) and MASKED_NAME environments.
+Proficient in networking with individuals at various levels and facilitating elicitation sessions such as survey, interviews, brainstorming, focus group, interface analysis, document analysis, and JAD sessions. 
+Proven experience in facilitating change management and conducting GAP Analysis, Risk Analysis, Impact Analysis, SWOT analysis, Root Cause Analysis, Cost-Benefit Analysis and Cash flow analysis.
+Successfully gathered SMART requirements and transformed them into Business Requirements documents (BRD), Functional Requirement Specification (FRS) and System Requirements Specifications (SRS).
+Good understanding in building and maintaining Responsible, Accountable, Consulted, and MASKED_NAME (RACI) Matrix. Assisted in Business process re-engineering and Business process flow improvements.
+Well acquainted with workflows and Unified Modeling Language (UML) diagrams including Use Cases, Activity Charts, Sequence Diagrams, Data Flow Diagrams, and Entity Relationship (ER) Diagrams using MASKED_NAME. 
+MASKED_NAME of Data Warehousing concepts. Data Mapping and Data profiling. Extensively created Entity Relationship diagrams (ER Diagrams). Performed Data Modeling Conceptual and Logical Models. 
+Experience in Data Integration using Data center with Hub and Spoke. Extensive implementation knowledge of MASKED_LOCATION, MASKED_LOCATION, Data Marts and OLAP operations such as Roll-up, MASKED_NAME-down, slice and dice and pivot.
+Experienced in creating Test Plan, Test Scripts, Test Scenarios, Test cases, Requirement Traceability Matrix (RTM), User acceptance Testing (UAT), and familiar with software testing and Regression testing.
+Proficient in creating Screen Mockups and Walk-through sessions for Stakeholders and Project Team members.
+Used MASKED_NAME to create executive dashboards and weekly/ monthly reports on status of key business measurements.
+Cultivated experience in working with different web services such as HTML, WSDL, SOAP, REST, MASKED_NAME. 
+Wrote SQL queries including DML and DDL commands like insert, delete, create and update.
+Knowledge in Wealth Management, Asset and Portfolio Management, Credit Risk Management and CCAR. 
+Implemented the capabilities required to enable CCAR & reporting for Dodd Frank section 165 compliance.
+Worked with technology and application development teams to design or select solution that appropriately meet the business for large projects such as compliance with MASKED_NAME Frank Act.
+Knowledge of Financial reporting, Budgeting, Forecasting, Valuation and Portfolio Investment Strategies, 
+Creative and aggressive self-starter with integrative thinking skills, capable of forming and maintaining positive and productive working relationships in internal, external, independent, and team environment.
+EDUCATION
+Jawaharlal Nehru Technological University (JNTU), MASKED_LOCATION						         
+Bachelor of Engineering
+PROFESSIONAL EXPERIENCE
+MASKED_NAME, MASKED_LOCATION, FL		 		                  			      Jul 2016 to Present     
+Sr. Business System Analyst 
+MASKED_NAME serves high net worth individuals and families with an integrated wealth management service including portfolio management, inheritance planning and tax advisory services. The scope of project was moving their CRM legacy system to Salesforce CRM. Integrating other data sources and using Salesforce.com workflow capabilities accelerated the new account opening process, increased sales staff productivity, and enabled our IT teams to accelerate the delivery of new applications.
+Responsibilities: 
+Conducted extensive GAP analysis by identifying AS-IS and TO-BE process models and process flows.
+Elicited requirements by interacting with wealth managers, financial strategists and financial analysts using JAD Sessions, Structured Interviews, Process Analysis and Business Rules Analysis.
+Performed feasibility study along with SME and Project Manager (PM) by interacting with primary stakeholders in identifying various dependencies and constraints for business requirements.
+Created a Macro Document incorporating components of both Business Requirement Document (BRD/HLL) and System Requirement Specification (SRS/LLD) to keep track of work and for efficient management.
+Involved in Business Process modeling using UML diagrams such Use Case Diagrams, Sequence Diagram, Activity diagram and Use Case Narratives and incorporated them in Macro Document.
+Decomposed the scope from the BRD into user stories by conducting a story writing session with the MASKED_NAME owner and then the acceptance criteria for the PSPI (Potentially Shippable Product Increment)
+Handled requirement churn during the project by performing Impact Analysis by checking feasibility in maintaining the triple constraints in MASKED_LOCATION status update meetings (Daily Scrum).
+Used JIRA for requirements management, allotting tasks, issue tracking and for requirement traceability.
+Timely assured development team has necessary resources to perform up to potential, tracked and removed impediments. Performed DDL, DML and SQL commands to perform various operations. 
+Assisted in building working prototypes with JavaScript, HTML.
+Experience in Extraction, Transformation and Loading (ETL) using Informatica.
+Wrote SQL Queries like select, update and joints to retrieve desired information and interact with the Database.  
+Designed the Test Cases, Test Scenarios, Test Strategies and Test Plans for all processing using HP QC.
+ Helped the QA team in performing User Acceptance Testing based on the acceptance criteria.
+Created Mock-Up Screens and Wireframes using MASKED_NAME for the customer relationship management (CRM) system.
+Assisted the team in post-production maintenance of the system as a liaison between the business users and the project development team. Created environment for self-organization and organized team engagement activities.
+Environment: Waterfall-Scrum Hybrid, Salesforce CRM, JIRA(v-6.4.14), IBM DataStage, MySQL, MS Office 2016, MASKED_NAME (v-16.0), MS Project, UML, CSS, JavaScript (D3), HP QC 11, Tableau(v-9.0).
+ Northern Trust, MASKED_LOCATION, MASKED_LOCATION		                                                 				    Mar 2015 – Jul 2016                                                         
+ Sr. Business System Analyst
+This was an enhancement project to support investment decision makers in better managing their investments by enhancing the Portfolio Dashboard. New dashboard would enable better Performance overview, Improved analytics, Portfolio drill downs and comments from Analysts and Portfolio Managers. This would support Asset management, reporting and performance tracking for the existing investors.
+Responsibilities:
+Developed good understanding of Financial Instruments, Asset Allocation, Commodities, Corporate Bonds, Money market instrument. Analyzed the prior documentation and business processes for understanding of the project.
+Conducted JAD sessions, Document analysis and one-on-one Interviews with the stakeholders and area experts to carefully record the requirements and building a bridge between the business people and technical people.
+Created Business Requirement Document (BRD), Functional Requirement Document (FRD) and System Requirement Specification (SRS) and Use case specifications. Created UML Diagrams using MS Visio
+Created User Stories and estimated them in Sprint Planning and MASKED_NAME meetings. Incorporated Scrum Events Backlog refinement, Sprint Planning, Stand up meeting, Sprint Review and MASKED_NAME. 
+Performed Impact Analysis for requirement churn and by checking feasibility in maintaining the Triple constraints.
+Involved in Test Planning, Test Preparation, Test Execution, Issue Resolution and Report Generation to assure that all aspects of a project are in MASKED_LOCATION with the Business Requirements. 
+Defined Acceptance Criteria for each and every User Stories to perform User Acceptance Testing. 
+Designed Test Cases, Test Scripts, and Test Scenarios to perform Functional and Regression Testing. 
+Logged and tracked the defects using HP ALM tool and created an error repository and managed the testing process with the QA team. Designed Quality Plans, Quality Reports and Test Summary reports.
+Designed data models and conducted normalization and de-normalization of data to fit OLTP and OLAP frameworks, slicing and dicing of data marts for analytical decision-making support. 
+Implemented all stages of development processes including extraction, transformation and loading (ETL) data from various sources into Data warehouse and Data Marts using Informatica Power Center Designer, Repository Manager and Workflow Manager. Worked on service oriented architecture (SOA), REST, SOAP, XML, API.
+Assisted in the creation of deployment flow chart in conjunction with development, infrastructure, and network teams containing information for maintaining Application.  Planned and organized team engagement activities.
+Environment: SDLC, MASKED_NAME – waterfall Hybrid, MASKED_LOCATION project 2013, MASKED_LOCATION office MASKED_LOCATION, MASKED_NAME (MASKED_NAME), Oracle 11g, HP ALM 11, Informatica v9x, MASKED_NAME, Tableau(v-9.0).
+University of California (UCLA), MASKED_LOCATION, CA 			                                           Nov 2013 – Feb 2015                                                          Sr. Business Analyst
+The project was aimed at developing Enterprise Data Warehouse system to provide budget allocation, expenditure monitoring and greater financial reporting by integrating unique records sources to State Data Center. Integrated system would provide ease of access, analysis, transparency and better reporting capabilities.
+Responsibilities:
+Worked closely with Project Team, SME and Business Partners (IPs) to gather business requirements.
+Prepared Business Requirement Document (BRD/HLD) and Drafted Systems Requirement Specification (SRS).
+Managed and tracked requirements using HP ALM through Application Life-Cycle. Understood problem definition through one to one meetings with Data architect, Enterprise architect and Solution advisors. 
+Created UML Diagrams using MASKED_NAME. Assisted Data modeling process by creating conceptual and logical ER diagrams and designing database schemas to help development of an accurate Data Warehouse Structure.
+Performed Source system analysis (SSA) to identify the source data that needs to be moved into the target tables.
+Defined target load order plan and constraint based loading for loading data correctly into different target tables.
+Created data flow diagrams, data mapping from Source to stage and Stage to Target mapping documents indicating the source tables, columns, data types, transformations required and business rules to be applied.
+Integrated various OLTP to the OLAP by using Informatica as an ETL tool and used MASKED_LOCATION as reporting tool.
+Assisted in increasing Data Integrity by performing Data Normalization, Data Verification and Validity.
+Performed Data Mining to find correlation and pattern in existing data and constructed SQL queries.
+Played a key role in the planning, testing, and implementation of system enhancements and conversions.
+Worked with QA team to design and develop Test Plan and Test Cases to perform Functional Testing and Regression Testing and also performed User Acceptance Testing (UAT) considering acceptance criteria.
+Was involved in using MASKED_LOCATION for effective reporting to provide Business Intelligence (BI).
+Involved in implementation by assisting in the preparation of training module. Helped the end users getting accustomed to the system by facilitating and arranging live demonstrations and system tutorials.
+Developed timelines for project delivery and managed projects and resources to successful completion.
+Environment: Waterfall, MS Office (MS Word, MS Excel, MS PowerPoint), JavaScript, MASKED_LOCATION, Informatica v9x, MS Visio(v-6.4.14), MS Project 2013, HP ALM 11, MySQL MASKED_LOCATION, HP QC 11, SharePoint 2013.
+Deutsche Bank, MASKED_NAME, NC							                               Oct 2012 – Sep MASKED_ADDRESS
+The scope of the project was to comply with new CCAR regulations by enhancing technology to deliver the enterprise wide view needed to fulfill CCAR and other stress testing requirements. The scope of project was to Work directly with finance CCAR process oversight and control team to develop the optimal solution that centrally captures all supporting documents required for the CCAR submission package including the capital plan.
+Responsibilities:
+Analyzed the new regulatory requirements of Basel Accord on Market Risk calculation, monitoring and reporting, and knowledge on new implementation of Comprehensive Stress Testing and Forecast Scenarios.
+Conducted requirement gathering sessions to understand source data for consumer, commercial and small business credit cards and how they map to the CCAR credit card monthly (M) schedule.
+Collaborated with stakeholders to discuss the feasibility, profitability and risk of the project. 
+Performed the AS-IS and TO-BE business process and developed the GAP Analysis. Prepared and analyzed Business Requirement Documents (BRD) and Functional Requirement Documents (FRD). 
+Created UML diagrams such as Sequence Diagrams, Activity Diagrams and Use Cases using MS MASKED_NAME.
+Helped in implementing the capabilities required to enable CCAR for Dodd Frank Section 165 Compliance.
+Work experience in Risk Control, DFAST (MASKED_NAME), CCAR and other regulatory reporting process.
+Performed source to target data mapping from multiple sources (APPRO - Loan Origination system and TSYS - loan servicing system) to CCAR credit card schedule. 
+Included CCAR mapping documents, MASKED_NAME, reference tables etc. Supported development and validation of test plans, test strategies and other MASKED_NAME Frank Act (DFAST) project deliverables.
+Liaised with cross-functional teams (business groups, IT and PMO organizations) to drive data remediation efforts and supported the business and subject matter experts SME's during User Acceptance Test (UAT) phase.
+Cultivated experience in working with different Web Services such as HTML, WSDL, SOAP, REST, MASKED_NAME. 
+Identified and escalated as appropriate issues that may arise during the various stages of the CCAR change process.
+Environment: Waterfall, MS Office, MASKED_NAME, JavaScript, MS Project 2010, MS SharePoint 2010, Informatica Power Center 10.1.
+ICICI Bank, Hyderabad, INDIA				                                                      Aug MASKED_ADDRESS holders access to 24*MASKED_ADDRESS products and service offerings such as New Accounts, Pay Balances, Report Lost or MASKED_NAME, Credit Line Increase, Change of Address, Account Balance, Payment MASKED_NAME and the option to talk to live agents for the assistance. 
+Responsibilities: 
+Interacted with users and stakeholders to Identify business needs, evaluated solutions for business problems.
+Involved in complete SDLC, which includes requirement gathering, analysis, design, development, and Implementation. Assisted the project manager in defining the vision, project charter, scope and timelines.
+Elicited business requirements for the project using Joint Application Development (JAD) sessions, surveys and interviews management, SME’s, vendors, users and other stakeholders.
+Created Business Requirement Documents (BRD), System Requirements Specification (SRS) and Functional Requirement (Technical) Documents (FRD) according to user requirements.
+Created use case documents and uploaded the documents in Knowledge Link. Analyzed and segregated business requirements into Use Cases, activity diagrams using Rational Rose according to UML.
+Worked with designers and developers for interpreting requirements, tracking the requirement & timeline.
+Formulated SQL Queries to generate relevant reports from the Database. 
+Participated in QA Testing life cycle. Designed the Test Cases, Test Scenarios, Test Strategies and Test Plans using HP QC for all processing. Helped in performing User Acceptance Testing.
+Worked closely with Project Manager for any change request and helped to do Impact Analysis.
+Helped creating and modifying SQL queries to match the requirements.
+Environment: Waterfall, Rational Requisite Pro, Rational Rose, Window 7, MY SQL, MS Office Suite (Word, Excel, PowerPoint, MASKED_NAME), Microsoft Project Professional.
+MASKED_NAME – Zonal Credit, Hyderabad, INDIA				       	               Jun MASKED_ADDRESS building of business entities and implement automation in stress testing. The project provided a platform to evaluate Value at Risk with minimal deviation in results and reducing dependency on manual work. 
+Responsibilities:
+Involved in analyzing Business Requirements and developing System Specifications.
+Assessed business priorities, and advised business units by performing Risk Analysis.
+Interacted with the customers and internal stakeholders to gather user requirements and their expectations from the system to create Business Requirement Document (BRD), Functional Requirement Document (FRD) and System Requirement Specification (SRS). Created UML Diagrams using MASKED_NAME.
+Tracked and reported timely performance against plans and forecast analyzed gaps and recommended corrective measures to improve productivity. 
+Participated in the development and preparation of the Test Plan with the testing team as well as ensuring testability, reliability, usability, maintainability and performance of the application.
+Involved in incident reporting and change management procedures. 
+MASKED_NAME and shared documents in MS SharePoint. Managed test cases and logged defects in HP QC.
+Formed a bridge between the Project Manager and different teams with effective presentations.
+Environment: Waterfall, HP QC, JavaScript, HTML MS Project, MASKED_NAME, SQL Server, SharePoint, MS Office (MS Excel, MASKED_NAME, MS PowerPoint).
+IN Rhythm Solutions Pvt. Ltd, MASKED_LOCATION, MASKED_LOCATION                                                   	               Jul 2009 to May 2010               SQL Developer
+IN Rhythm Solutions is a privately held International group of companies that span MASKED_LOCATION, Business information Services, Technology and Communications. The scope of the project was to create and maintain a database and generate reports related to the geographic and demographic sales and customer preferences.
+Responsibilities:
+Participated in creating Database Objects such as tables, views, stored procedures, indexes and triggers
+Designed database tables to store the data coming from different applications and determining what data is returned or received from the applications.
+Performed Data Modeling and created Entity-Relationship diagrams for the new databases.
+Defined primary keys and foreign keys for tables while designing and used constraints in order to maintain referential integrity, domain integrity and column integrity. Also, normalization of tables in the database.
+Writing extensive SQL queries and determining what data must be sent to various applications.
+Optimizing existing queries to enhance the performance of the database.
+Worked closely with the Database Administrator in creating the database and maintaining the database components and participated in designing how the data should be organized and how data should be displayed.
+Generated reports like drill down reports, tabular reports using SQL Server Reporting Services (SSRS). 
+Environment: Waterfall, SQL MASKED_NAME, JavaScript, MS Office, MS Excel, MS Power Point, SQL Server Reporting Services.

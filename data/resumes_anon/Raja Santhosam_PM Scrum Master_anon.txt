@@ -1,0 +1,128 @@
+                 RAJA SANTHOSAM
+===============================================================================================                  
+PROFESSIONAL SUMMARY:
+Dynamic, result oriented technical Certified Scrum Master®, Product Owner® & Lean Six Sigma Green belt with 13 years of software experience in Business Analysis, Data Warehousing, Business Intelligence and Project Management in Investment banking, Trading, Treasury services, Wealth management and Risk management
+Acquainted with processes related to Requirement elicitation, Business & system analysis, Application Documentation & development and Software project planning, execution & monitoring.
+Served as Agile coach for business and software delivery teams, trained individuals to adhere to Scrum principles, guided the teams to transition from Waterfall to Agile methodology.
+Trained on  principles of Scaled Agile Framework (SAFe)
+Extensive experience in developing Business Requirement Documents (BRD), FRD), Software Requirements Specification (SRS), Requirements Traceability Matrix (RTM).
+Proficient in developing Business Process Flows, graphical depictions of Use Cases including Use Case diagrams, Activity diagrams, Sequence diagrams, Class diagrams and Collaboration diagrams.
+Strong communication skills in engaging Project Sponsors, Business stakeholders, subject matter experts and Business Users in gathering the intricate workings of business processes.
+Performing extensive analysis on all the LOBs reporting applications to design a tool that supports all of them
+Involved in development, testing, and supporting of business intelligence, analysis and reporting solutions
+Collaborating with the visual graphics team to design site maps, process flow diagrams, wireframes, prototypes
+Working closely with the project sponsors, business users and acted as a liaison between the business user groups and the functional, Technical, QA and Support teams
+Assisting the development team in understanding the functional and technical requirements and do the development as per the requirements
+Working with the QA team to help them understand all the requirements and assisting them in developing QA test cases
+Providing periodic status reports to the stake holders, updating them with the current status of the project and highlight any issues or risks
+Performing BA functional testing after the development to make sure the functionalities were developed as required and data consistency and accuracy are maintained
+Working with project team members, clients and vendors to coordinate activities, provisioning, environment setup, installation, and integration testing
+Coordinating development and testing activities while making sure the deliverables confirm to requirements
+Allocating resources to various departments and managers as per their needs and requirements
+EDUCATIONAL QUALIFICATION:
+Master of Business Administration (HR & Marketing), 2007-09, Anna University, MASKED_LOCATION, MASKED_LOCATION.
+Bachelor of Engineering (Electronics & Communication), 2000-04, University of Madras, MASKED_LOCATION, MASKED_LOCATION.
+Certified Scrum Master® from Scrum Alliance License No: 000491155
+Certified Scrum Product Owner® from Scrum Alliance License No: 000491155
+Certified Lean Six Sigma Green Belt from IASSC License No: GR766001071RS
+Trained on PMP and planning to take up the exam tentatively by Jan 2018
+TECHNICAL SKILLS: 
+ PROFESSIONAL EXPERIENCE:
+                   Mphasis Corp.                                                                                                                 July 2017 - Current
+                   Client: JPMorgan & Chase – Edison NJ
+                   Role: Project Manager
+                            Project Description: 
+      Resiliency Data Management System will enable firm to gain greater insight into areas impacted at the time of disruption and the ability to manage the resiliency proactively across the organization from a single vantage point. The element business impact analysis, business plans, application plans and their components including the recovery scenarios are managed in RDMS enables relational comparisons of data across modules through analysis and reporting.
+      Roles and Responsibilities:
+Create, maintain and update Project Plans using MS Project
+Coordinate with Development team and Business users to track milestones
+Ensuring completion of activities by the internal teams, as assigned
+Participate in Internal UAT Testing and guide the testing team in identifying and report the defects
+Participate in preparing UAT Test Cases and UAT Test Scenarios
+Generating reports and dashboards as requested by the Business Users and Senior Management
+                   MASKED_NAME solutions MASKED_NAME, CA                                                                       March 2017 - May 2017
+                   Role: Senior Scrum Master / Project Manager
+Roles and Responsibilities:
+Act as client facing liaison and maintain customer management
+Managing large divisions, major projects, important initiatives, handling software development and related activities
+Initiating the design, development and implementation of service levels required to increase customer satisfaction and resolve business process issues for the identified customers
+Ensure build phase of projects are delivered on time with high quality and within the allocated budget
+Provide management reports on assigned customers / projects.
+Work closely with the business development team to gather and analyze data for sales forecasting, project planning and tracking using tools and reports
+Ensuring completion of activities by the internal teams, as assigned
+Manage backlog for multiple projects
+Interacting with clients for status updates
+Researching and preparing presentations for clients and internal teams
+Work with Executive team to develop dashboards focused on key performance indicators
+Drive high level of awareness about process and tools amongst the teams/company
+Ensures that customer complaints are identified, recorded and dealt with in an appropriate manner
+Maintain customer relationships and ensures client satisfaction
+Responsible for team development including ongoing training, skill building, deployment, retention and career growth
+                   TRN Systems Inc                                                                                                         May 2016 - Feb 2017
+                   Client: Bank of New York Mellon - Jersey City, NJ
+                   Role: Senior Scrum Master
+            Bank of New York Mellon – MASKED_LOCATION, NJ                                                          April 2012 - April 2016
+     Role: Scrum Master / Lead Business Analyst
+Project Description: 
+       The Purpose of the Project is to create a Warehousing solution for Broker Dealer Services of Bank of New York Mellon on Oracle Platform using Informatica ETL Tool. This project aims at consolidating the information from the various Legacy Systems Repo, GSCX and MCS which are running on Sybase, Mainframes and SQL Servers onto the Oracle Warehousing platform. It also involves creating an ETL Frame work for the Automation of ETL Jobs, Data Reconciliation between the Source and Target Systems and Alerting Mechanism.
+MASKED_NAME and Responsibilities:
+As a Scrum Master, performed the day to day activities in delivering the Project.
+Requirement analysis, design and Development of ETL mappings and Processes on Informatica Power Center and UNIX.
+Worked with business analysts to identify the appropriate data elements for required capabilities.
+Performing gap analysis between the current state and future for the business processes, data warehouse and Business Intelligence/Reporting environment. 
+Documenting the requirements in Business Requirement Document (BRD) and converted them to Functional and Software Requirement Documents (FRD) and Software Requirement Document (SRS) to user stories for the understanding of the development team. 
+Served as Agile coach for business and software delivery teams; trained individuals to adhere to Scrum principles.
+Assisted the Product Owner in compiling and prioritizing the Product Backlog on JIRA using prioritization technique MASKED_LOCATION. 
+Facilitated all the Sprint Ceremonies: Backlog Refinement / Grooming, Sprint Planning, Daily SCRUM, and Sprint Review / Retrospective. 
+Time boxed Daily SCRUM meetings and resolved all impediments faced by development team. 
+Built and coached high performing development teams leveraging data, coaching individuals and reinforcing Agile Manifesto.
+Mentored and coached the team grow into a self-managing entity. Encouraged collaboration between the SCRUM team and product owner. 
+MASKED_NAME and monitored SCRUM Artifacts-Sprint Backlog, Sprint Tasks, and Sprint Burndown Charts using JIRA.
+Extensively worked with multiple cross functional and distributed teams on Scrum of Scrums.
+Analyzed and understood the business users' requirements for information and communicated them to the rest of the data warehouse team. Assisted Data Warehouse Data Analyst in analyzing existing reports. 
+ Extensively worked in Data Requirement Analysis and Data Mapping for ETL process. Acted as consultant to the ETL and front-end programmers. 
+Analyzed the existing reports of the reporting system in the database. Checked the consistency of the data after ETL process using RDMS Microsoft SQL server queries for documenting and retrieving data from database. 
+The project involved developing mappings for moving data from heterogeneous sources to Staging Area (STG) and then to Data Warehouse (DWH) 
+Prepared Test Plans for Unit test and System Integrated testing of Informatica Session and MASKED_LOCATION.
+Creating the deployment documents and migrating the code to the production environment.
+Investigating and fixing the bugs occurred in the production environment and providing the on-call support
+Generating the Reports and Dash Boards using MASKED_NAME for the Business Users and Senior Management.
+Environment: Informatica Power Center 9.1/8.6, UNIX, Oracle 11g, SQL, PL/SQL, SQL Developer, MASKED_NAME Manager, Oracle Designer, MS VISIO, JIRA, IBM Mainframe
+Bank of New York Mellon - Chennai, MASKED_LOCATION                                                               Jan 2010 - April 2012
+Role: Scrum Master / Lead Business Analyst
+Project Description:
+      This MASKED_LOCATION project is initiated to enhance the Pershing’s Ability to meet the regulatory requirements set by US Regulatory. This Project aims at migrating the existing Pershing Applications which were running in MASKED_LOCATION to MASKED_LOCATION platform Teradata for high performance and scalability. This EDW serves all the Reporting needs of Pershing Internal andExternalCustomerswith6YearsofData. 
+
+Roles and Responsibilities:
+Involved in all the phases of the SDLC requirement gathering, design, development, Unit testing, UAT, Production roll-out, enhancements and Production support.
+Interacting with the business representatives to understand the requirements and determine the best approach for timely delivery of information. 
+Ensuring timely deliveries of work items to the MASKED_LOCATION.
+Involved in Implementing ETL standards and Best practices.
+Review of Data Model and validating its feasibility to physical implementation.
+Assisted the Product Owner in compiling and prioritizing the Product Backlog on JIRA using prioritization technique MASKED_LOCATION. 
+Facilitated all the Sprint Ceremonies: Backlog Refinement, Sprint Planning, Daily SCRUM, and Sprint Review. 
+ Time boxed Daily SCRUM meetings and resolved all impediments faced by development team. 
+ Mentored and coached the team grow into a self-managing entity. Encouraged collaboration between the SCRUM team and product owner. 
+MASKED_NAME and monitored SCRUM Artifacts-Sprint Backlog, Sprint Tasks, and Sprint Burndown Charts using JIRA.
+Analyzed and understood the business users' requirements for information and communicated them to the rest of the data warehouse team. Assisted Data Warehouse Data analyst in analyzing existing reports. 
+Extensively worked in Data Requirement Analysis and Data Mapping for ETL process. Acted as consultant to the ETL and front-end programmers
+Co-ordinate with the QA team in various testing phases by resolving the defects and ensuring smooth execution of the test plans.
+Creating the deployment documents and migrating the code to the production environment.
+Investigating and fixing the bugs occurred in the production environment and providing the on-call support
+Generating the Reports and Dash Boards using MASKED_NAME for the Business Users and Senior Management.
+Environment: Informatica Power Center 9.1/8.6, UNIX, Oracle 11g, SQL, PL/SQL, SQL Developer, MASKED_NAME Manager, Oracle Designer, MS VISIO, JIRA, IBM Mainframe.  
+              MASKED_NAME (AT&T) – MASKED_LOCATION, MASKED_LOCATION                                                                                May 2004- Dec 2009
+Role: Technical Lead
+Roles & Responsibilities:
+Support mission critical production application responsible for enterprise wide pricing of products
+Provided application support for all production issues in the MDS (Market Data Service) environment from initial client contact through to resolution 
+Planning, coordination and execution of production deployments, system upgrades and emergency bug fixes 
+Reduced client disruptions through prioritization of production impacting issues and by providing root cause analysis to identify and prevent similar issues in the future 
+Build and maintain relationships with clients to become their first point of contact when they are in need of assistance 
+Managing daily production data warehouse administration, troubleshoot and resolve highly complex application and data load production problems, managing user access to the Teradata database and Business Objects account and universe, 24x7 on-call rotation, project implementation and planning. Delivered exceptional 24x7 on-call rotation; supporting applications, extracts, control-M data batch load to various activities owned by the Data Warehouse production environment
+Managed off-shore/on-shore model multicultural team environments, providing support / guidance to the development teams during the analysis, design, development, and testing processes and deployment of project
+Performed On-Call rotation including weekend support for releases, upgrades, MASKED_NAME (DR), Quarterly MASKED_NAME (QMW) tests and related activities
+Document and improve new and existing processes and procedures for global team in order to comply with internal and external regulations
+Environment: Informatica Power Center 7.1.4, MASKED_LOCATION, PL/SQL, Oracle 9i, SQL Server, MS-Access, Windows XP/2000
+REFERENCE: 
+Available on Request. 

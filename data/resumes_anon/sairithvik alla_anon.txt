@@ -1,0 +1,220 @@
+MASKED_NAME
+MASKED_PHONE
+MASKED_EMAIL
+Professional Summary:
+7+ Years of strong software experience in design, development and deployment of web-based and MASKED_LOCATION-Server business applications using OOP, MASKED_NAME/J2EE technologies in various domains like Finance/Health/Commerce/Telecom/Insurance.
+Experience with Angular JS, JQuery, JavaScript, VBScript, Perl, AJAX, MASKED_NAME, ActionScript, MASKED_NAME, HTML, DHTML, CSS, Tiles, Tag Libraries.
+Expertise in client scripting language and serve scripting languages like JavaScript, JQuery, JSON, MASKED_LOCATION, MASKED_LOCATION, AngularJS, MASKED_NAME.
+Experience in developing client-side, server-side/middle-tier components applying MASKED_NAME/J2EE design patterns and frameworks: Servlets, JSF, MASKED_NAME, Spring, Web Services, EJB, JMS, MQ Services, MASKED_NAME, MASKED_LOCATION, MASKED_NAME, MASKED_NAME, Log4j, Portals, GWT, JSP, Custom Tag Library, POJO’s, JSTL, AJAX, MASKED_NAME, JavaScript, XML, UML, Log4J and MASKED_NAME.
+Proficient in applying design patterns like MVC, MASKED_LOCATION, Session Facade, Factory, Abstract Factory, Service Locator, Visitor, Observer, Decorator, MASKED_NAME, Data Access Object.
+Proficient in implementation of frameworks like MASKED_NAME, Spring, JSF, AJAX frameworks (Rich Faces, My Faces) and ORM frameworks like MASKED_NAME.
+Transaction implementation (CMP, BMP, Message-Driven Beans), JMS, MASKED_NAME, Spring, Swing, MASKED_NAME, MASKED_NAME, MASKED_NAME, MASKED_NAME, Web Services, JNDI, Multithreading etc. 
+Extensive experience in designing MongoDB multi-shared cluster and monitoring with MMS. 
+Experienced in using PERL to read and write data from/to Excel, Sql Server and MySql.
+Experience in developing cross platform server side applications using Node.jsBackBone.js and Angular.js.to achieve scalability in real-time web applications.
+Automate report generation in MongoDB using JavaScript, shell scripting, MASKED_NAME 
+Experience in Web Service Technologies: SOAP, WSDL, UDDI,Apache Axis, CXF, IBM JAX-WS.
+Experience in architecting and implementing Enterprise Application Integration (EAI) projects with Service Oriented Architecture (SOA), Web Services Integrations, BPM, MASKED_NAME and ESB using WebSphere Process Server, ESB, WebSphere Integration Developer, Data Power and WSRR.
+Expertise in XML technologies -XSL, MASKED_LOCATION, XML schemas, XPath, MASKED_NAME, XSL-FO and parsers like SAX, DOM.
+Expertise in developing SOA (Service Oriented Architecture), REST and J2EE Web Services based on SOAP, WSDL, UDDI, JAX-WS, JAXB, JAX-RPC using tools like Apache Axis.
+Strong experience with MongoDB development (reports, schema design, map reduce functions) and migrations from SQL relational databases. 
+Proven experience with Application Servers like MASKED_NAME, Oracle/BEA WebLogic 10.x/9.x/8.x/7.x/6.x, JBoss and Tomcat 8.x/7.x/6.x/5.x/4.x/3.x
+Experience in writing Queries, Stored Procedures, Triggers, Cursors, Functions and MASKED_NAME using TOAD.
+ Experience with major relational databases – Oracle 8i/9i/10g/11g, SQL Server 2000/2005/2008, DB2, My SQL.
+Extensive development experience in different IDE's like Eclipse 3.x, MASKED_NAME, MASKED_NAME, WSAD 5.x, IBM RAD and AltovaXMLSpy.
+Experienced in MASKED_LOCATION the application’s using J2EE design patterns like MASKED_LOCATION,DAO (Data Access Object),RDBMS. 
+Expertise in design with Use Case, Sequence diagrams, Activity diagrams, Class diagrams with exposure to UML, tools like Rational Rose and use of Rational Unified Process (RUP).
+Excellent experience in Object Oriented Analysis and Design (OOAD), Development, Implementation and Testing of various software applications using MASKED_NAME, J2EE.
+Expertise in the implementation of Core concepts of MASKED_NAME, J2EE Technologies: JSP, Servlets, JSF, JSTL, EJB
+Experience with creating and workflows and Mappings, running jobs inInformatica 9.5/ETL.
+Knowledge on Grid Controls, Pie Charts and other Swing Components.
+Experience in software configuration management using CVS, SVN and IBM Clear Case.
+Hands on experience with build tools like ANT, MASKED_LOCATION and logging tools like Log4J.
+Expertise in testing with Junit using tools like JMeter. 
+Experience in Agile software development process, Test Driven Development and Scrum.
+Production Support-Provided development (quick fixes) and technical support for complex/ critical applications. Coordinated with other teams to resolve end-user issues promptly.
+Skills
+Professional Summary
+Client: T-Mobile, MASKED_LOCATION, CA    										 Feb’17- Till Date	 
+Role: Sr. Full Stack Java Developer	
+Project Description: T-Mobile Inc. is a telecommunication company which provides best network for the people to connect with their friends, relatives and other people.
+Responsibilities: Designed the Python web application for reading the xml files and displayed the data on the web browser in the form of charts using highcharts.js
+Developed a web application for plotting the sites on the maps with the help of the lat long points by using the leaflet.js.
+Developed a venue Dash board for presenting the data from the back end from the Sql Server.   
+Designed and built internal microwave application for the communication between the employees.
+Developed an application using MASKED_NAME, JSP, Servlets, MASKED_NAME, MASKED_NAME, Web Services (REST).
+Experience in deploying applications on IIS and on application servers like Apache Tomcat.
+Experience in working Agile / scrum project methodology. 
+Brief experience on implementing the AngularJS in creating animations based on CSS classes for a new requirement surfaced for the client.
+MASKED_NAME reusable components and services to consume REST API's using Component based architecture provided by Angular 2.
+Implemented UI pages with JSP, HTML, CSS using JavaScript and jQuery with JavaScript libraries like MASKED_LOCATION, MASKED_LOCATION, and Moment.js etc.
+Created custom directives in Angular 2 for reusable components.
+ Database modeling and design. Involved in developing and implementation of the web application using ruby on rails.
+ Architected customer-facing and administration web applications in ruby on rail’s utilizing test-driven development with MASKED_LOCATION 3.1 and MASKED_LOCATION. 
+Experience in deploying applications on IIS and on application servers like Apache Tomcat.
+Attended every day Scrum meetings to provide current project status demonstrations in every two weeks, thus implementing Agile Methodology (Scrum) with Test Driven Development 
+Designed and developed business components using Spring Boot, Spring Dependency Injection (Core), Spring AOP, Eh Cache Framework and Spring Annotations. 
+Worked on development of MASKED_NAME, including mapping files, configuration file and classes to interact with the database. 
+Writing stored procedures in MySQL database and scheduling the jobs using SQL Server agent to generate daily reports on to a shared folder.
+Used Collections and multi threading concepts for creating the Batch jobs. 
+Used the node.js, MASKED_NAME and backbone.js MVC Frameworks in the development of the web applications. 
+Worked with REST & SOAP using XSLT & XML.
+Deployed the Python Application using FlaskApp on IIS server.
+Involved in writing application level code to interact with APIs, Web Services using AJAX, MASKED_NAME, XML, and JQuery. 
+Environment:  MASKED_NAME, J2EE, JDK 1.7/1.8, RCP, JBOSS, AWS SDK, MASKED_NAME, Git, Swing, JFC, Perl 5.6, Spring 4.x, AWS SNS/SQS, hibernate4.x, MASKED_NAME, SOAP/Rest, Web Services, Python 2.7, JavaScript, UML, Web Services, HTML5,CSS, SASS, RAD 7, WAS 8 WSDL, SDK’s, JIRA 5.x, UNIX, Ruby1.9.3,NOSQL(MongoDB), Angular JS, Angular 2, NodeJs , ReactJS , AJAX, Apache JMeter, JQuery, JUnit, MASKED_LOCATION, Oracle 10g,JavaScript,  ASP.NET, MASKED_NAME, Google Maps API
+Client: High Mark, MASKED_LOCATION, PA										    Sep’14-Feb’17	 
+Role: MASKED_NAMEProject Description: HM Health Solutions Inc. is a business unit of the Highmark Health enterprise which provides a comprehensive and integrated suite of solutions to optimize payer and provider systems for health insurance plans' core functions such as benefit design, member enrollment, claims processing and customer service. Capabilities include: Enterprise Application Solutions, Business Process Management Solutions, Data Hosting Solutions, Infrastructure Management Solutions, and Print Management Solutions. Through an aligned independent relationship model, HM Health Solutions delivers significant value for its partners, including the delivery of increased speed-to-market capabilities, cutting edge enhancements and lower operational costs to help offset the ever-increasing pressures and challenges of today's health insurance industry.
+Responsibilities: 
+Defined and constructed layers, server-side objects and client-side interfaces based on J2EE design patterns, MASKED_NAME and implemented MASKED_LOCATION, spring and J2EE based MVC (Model-View-Controller) framework for the application. 
+Designing and implementing the User Interface using OO JavaScript, Ember JS, HTML, CSS/CSS3, SASS and AJAX. 
+Designed Prototype and project layout skeletons using ReactJS, JQuery and CSS/LESS and MASKED_NAME. 
+Experienced in developing web-based applications using MASKED_NAME, XML, CSS, HTML, DHTML and JavaScript. 
+Involved in designing and developed presentation layer using JSF, MASKED_NAME, and JQuery and third party libraries. 
+Implemented the associated business modules integration using spring, and Hibernate data mapping.
+Worked on writing Perl scripts covering data feed handling, implementing business logic, communicating with web-services through SOAP Lite module and WSDL. 
+Developed classes using core java (multithreading, concurrency, memory management) and some spring IOC. 
+Used spring dependency injection, annotations and Spring MVC components to implement business layer and navigation part of application.
+Experience in reading and writing xml reports with Perl XML modules.
+MASKED_NAME and MASKED_NAME were used in addition to JSP, MASKED_NAME, AJAX and CSS in developing the presentation layer.
+Utilized AWS Lambda platform to upload data into AWS S3 buckets and to trigger other Lambda functions.
+Used PERL to compare multiple files, finding differences between those files and translating data in the files prior to output. 
+Developed JSPs to dynamically generate MASKED_NAME and display the data to the client side. MASKED_NAME Mail API was used to notify the user of the status and completion of their project. 
+Have used AJAX to retrieve data from server synchronously in the background without interfering with the display and existing page in an interactive way.
+Developed several REST web services which produces both XML and MASKED_NAME to perform tasks, leveraged by both web and mobile applications.
+Created database objects like Stored Procedures, Tables, Views, Sequences, Cursors, Packages and Triggers.  
+Restful web services using MASKED_LOCATION for JAX-RS implementation. 
+Worked on Rest Web services as well as MASKED_NAME Rest framework for backend services, used MASKED_NAME (MASKED_LOCATION) for database services.
+Used groovy and spring boot to collecting the data from users and packaged the data as json distributed to MASKED_ADDRESS cases for all existing controllers, Services and Domain classes 
+Implemented grails plugin for MASKED_LOCATION objects to use in multiple projects.
+ Implemented multithreaded Java/Groovy/grails/MySQL MASKED_NAME ad servers as scalable solution. 
+Used various jQuery and Bootstrap plug-in like date picker, Bootstrap selectors. 
+Exposed and consumed SOAP based Web Services to communicate between systems. 
+GUI design and development using MASKED_NAME Used for open source web testing.
+Heavily used SOAP UI Pro version for testing the Web Services.
+Developed several SOAP based JAX-WSWeb Service interfaces for integrating multiple systems, code re-usability.
+JBoss Application server implementation, support, workload management and performance tuning including Web server setup configuration with MASKED_NAME. 
+Developed web application and Implemented user interface using MASKED_NAME, CSS, MASKED_NAME, JavaScript, and JQuery. 
+Wrote SQL queries, stored procedures and enhanced performance by running explain plans. 
+Expertise in using Design patterns and object oriented methodologies to design software for mobile phones (mobile application). 
+Used Java Messaging Services (JMS) for reliable and asynchronous exchange of important information such as payment status report. 
+Deployed Application instance on MASKED_NAME and WebLogic Server.
+ Developed the Web application using Spring MVC, Ext-JS, MASKED_NAME, JSP and JavaScript. 
+Used multithreading in programming to improve overall performance.
+Developed various helper classes needed using multi-threading. 
+Created and configured new JIRA projects and worked with departments to maintain existing JIRA projects. 
+Developed the data access classes using MASKED_NAME and SQL queries
+Used log4j for logging and SVN for version control.
+Brief experience on implementing the AngularJS in creating animations based on CSS classes for a new requirement surfaced for the client.
+Worked on Angular 2 concepts such as two-way data binding, ng-if and ng-For structural directives, property binding, services, dependency injection, routing. 
+Implemented Angular 2 services to connect the web application to back-end APIs to POST/GET the data used in the application. 
+Created and implemented demo versions of each paid application.
+Actively involved in using MVC, MASKED_NAME to enable client side date to meets specific criteria by applying various validation variables and used the BackboneJS validation CSS classes to provide visual feedback on validation. 
+Used JavaScript, jQuery for user interactions in pages. Creating a responsive web application integrating MASKED_NAME with Angular JS and media queries.
+Developed the application in python language for multiple platforms.
+Used automated test cases using Python 2.7 in open source framework Django 1.2.
+Used XStream API to transfer data back and forth between Spring MVC and MASKED_NAME.
+Custom MASKED_LOCATION proxy used to simulate API responses before client implementation was complete, and to proxy requests to finished client APIs, handling authentication, custom headers, virtual application root, etc. 
+Developed Unit test cases using JUnit, MASKED_LOCATION and Easy mock.  
+MASKED_NAME scripts and developed builds using Maven and continuous integration servers like MASKED_NAME.
+Consumed Web Services for getting the credit card information from third party application.
+MASKED_NAME, Tested and Debugged the MASKED_NAME, JSP and EJB components using Eclipse RCP.  
+Written highly referenced blog posts on MASKED_NAME in MASKED_LOCATION and MASKED_NAME.
+MASKED_NAME all aspects of testing JUnit, FIT, and SIT, End to End, Regression, User acceptance and Performance.
+Used Git as Version Control System for the application. 
+Use of data structures and algorithms for time and memory complexity reduction
+Used JMeter to test performance of SOAP protocol. 
+Experienced in Configuration, Implementation, Administration and Troubleshooting issues with Network, related 
+to MASKED_LOCATION, IP addressing, TCP/IP, SMTP, SNMP, FTP. 
+Developed REST APIs using MASKED_NAME, Play framework and Akka. 
+Involved in development of an automation tool, in MASKED_NAME and MASKED_NAME on Akka Framework.
+Configured the Web sphere application server to connect with Oracle Server in the back end by creating MASKED_NAME data source and configured MQ Series and JMS Queues with IBM RAD and WAS to create new connection factories and queues. 
+Used to test performance both on static and dynamic resources using J-Meter. 
+Ensured Agile, JDE & Oracle Databases are in sync. Create & distribute weekly MASKED_NAME and followed up on Change Activity; managed released documents and maintain server database.
+Environment: MASKED_NAME, J2EE, JDK 1.7/1.8, RCP, JBOSS, AWS SDK, MASKED_NAME, Git, Swing, JFC, Perl 5.6, Spring 4.x, AWS SNS/SQS, hibernate4.x, MASKED_NAME, SOAP/Rest, Web Services, Python 2.7, JavaScript, UML, Web Services, HTML5,CSS, SASS, RAD 7, WAS 8 WSDL, SDK’s, JIRA 5.x/6.x, JAXB, MASKED_LOCATION, JAX-WS, JAX RPC, JMS, JSF, UNIX, Ruby1.9.3, MASKED_NAME 2.3.9, MASKED_LOCATION), Angular JS, MASKED_LOCATION.Js, ReactJS, AJAX, Apache JMeter, JQuery, JUnit, MASKED_LOCATION, MASKED_NAME 10g.
+Client: Deutsche Bank, MASKED_LOCATION, NY                                        						                    Jun’12-Aug’14                                                                        
+Role: Sr. Full Stack Java Web Developer	
+Description: The application is based on the MVC architecture. My Access checking module will be displayed in Accounts Overview.  Users of My Access can find additional information like plans accepted by each doctor, medical schools attended, board certification status, languages spoken, office locations, handicap access, maps and driving directions, and much more.
+Responsibilities:
+Used Collection Framework and Multithreading for performing cache Operation.
+Developed, and debugged the servlets and EJB with WebSphere Application server.
+Developed the middle tier using EJBs, MASKED_NAME.
+Developed session, entity beans and message driven beans.
+Designed and developed the UI using MASKED_NAME view component, JSP, HTML, CSS and JavaScript, AJAX, MASKED_NAME.
+Designed and developed web pages using with MASKED_NAME, DHTML, MASKED_NAME, CSS3, MASKED_NAME, JSP and JQuery based on the W3C standards and Web 2.0.
+Achieved role control functionality mainly by retrieving JSON data from AJAX and combining the retrieved data with jQuery to manipulate nodes in DOM tree.
+Utilized a combination of regular expression and jQuery Validation Plugin to conduct input check.
+While in the newer sub project, conducted validation in AngularJS way.
+Designed the data flow for the client-side screens and the object interaction layer for the server side components using Rational Rose.
+Involved in Use Case Diagrams, Class Diagrams and Sequence diagrams using Rational Rose.
+MQ was used to provide a single unifying transport that reduces cost and maintenance efforts, including support for HTTP, REST and JMS.
+Developed reports in an excel format using POI-HSSF API.
+Used XML/XSLT for transforming common XML format and SAML for Single Sign-On.
+Designed configuration MASKED_NAME for the application.
+Monitoring WebLogic/JBoss Server health and security. 
+MASKED_NAME scripts and developed builds using Maven and continuous integration servers like MASKED_NAME.
+Used JavaScript for the client side validation.
+Used MASKED_NAME Object to provide asynchronous communication as part of AJAX implementation.
+Designed and implemented MASKED_NAME to use JAXP parser to create MASKED_NAME objects so as to be able to modify the data received in the response.
+Experience with KORN based scripts as part of triggering UNIX and J2EE based MASKED_NAME.
+Prepared the test plans and executed test cases for unit, integration and system testing using different automation tools like jUnit, Soap UI and Fiddler.
+Performance Testing experience using MASKED_LOCATION.
+Involved in complete development of ‘Agile Development Methodology/SCRUM’, developed and tested the application during various iterations.
+Extensively used MVC, Factory, Delegate and MASKED_LOCATION design patterns.
+Used Spring Framework AOP Module to implement logging in the application to know the application status. Used Spring MASKED_NAME along with MASKED_NAME to deal with MASKED_NAME.
+Spring MVC Framework IOC (Inversion of Control) design pattern is used to have relationships between application components. It is also used to separate the application configuration and dependency specification from the actual application code.
+Extensively used various Spring Framework modules like DI(IOC), Bean Wiring, Inheritance, Auto Wiring, MASKED_NAME, AOP and Spring Quartz Schedulers for Jobs.
+Used SOAP for Web Services by exchanging XML data between applications over HTTP.
+WSDL was used for publishing Web Service interfaces.
+Junit tests were written to test each module in the application. 
+Wrote MASKED_NAME to automate the build and deploy process.
+Involved in Code Review, Unit Testing and Integration Testing.
+Environment: MASKED_NAME, Servlets, JSP, MASKED_NAME, JSTL, EJB, JMS, XML, MASKED_LOCATION, MASKED_NAME, AJAX, IBM WebSphere Application Server 7.0, Oracle 10g, WSAD, IBM MQ, HTML, CSS, JavaScript, Eclipse, UML, Rational Rose, MASKED_LOCATION, CVS, JUnit, ANT, MASKED_NAME, MASKED_NAME.
+Client: First Federal Bank, MASKED_LOCATION, MI                                         							    Dec’10-May’12       
+Role: MASKED_NAME web developer
+Description: First Federal Bank Corporation is one of the MASKED_ADDRESS independent bank holding companies in the MASKED_LOCATION, with more than 750 branches, free account access at more than 1,800 Federal Bank places. This bank maintains variety of products, including lines of credit, demand noted, term notes, letters of credit. First Federal Bank also deals with Collateral information such as vehicles, mortgages and trust accounts.
+Responsibilities: 
+Involved in complete development of ‘Agile Development Methodology/SCRUM’, developed and tested the application during various iterations.
+Involved in various phases of Software Development Life Cycle (SDLC) such as requirements gathering, modeling, analysis, design, development, testing, and monitoring.
+Used Maven as build tool and deploying the application.
+Developed the User Interface using springframework,MASKED_NAME.
+Developed screens using Angular JS, CSS3 and html5.
+Implemented routing logic and navigation from screen to screen and also implemented login functionality on the client side in Angular JS.
+Developed complete solutions in SOA and create process flows, use various interaction patterns, and integrate web services.
+Design and develop financial web applications using Perl, HTML, JavaScript, CSS and SQL.
+Developed reusable and interoperable modules based on SOA architecture in enterprise applications.
+Code analysis (shell scripting and Perl files) for financial processes.
+Develop batch processes for financial reporting applications and modules using Perl and Korn shell scripts on Oracle database, with partitions and sub-partitions.
+Used spring frame work AOP features and MASKED_NAME module features to persist the data to the database for few applications. Also used the Spring IOC feature to get hibernate session factory and resolve other bean dependencies.
+Developed the persistence layer using Hibernate Framework by configuring the mappings in hibernate mapping files and created DAO and MASKED_LOCATION.
+J2EE deployment on WebLogic/JBOSS servers - QA & Staging 
+Troubleshooting issues that may occur during the test cycle (Functional & load test) for the J2EE applications on MASKED_NAME and Spring framework running on WebLogic/JBOSS servers. 
+Developed various MASKED_NAME beans for performance of business processes and effectively involved in Impact analysis.
+Developed application service components and configured beans using Spring IOC, creation of MASKED_NAME mapping files and generation of database schema.  
+Created SOAP web services interface to MASKED_NAME-based runtime engine and accounts.
+Done thorough code walk through for the team members to check the functional coverage and coding standards.
+Actively involved in writing SQL using SQL query builder. 
+Actively used the defect tracking tool JIRA to create and track the defects during MASKED_LOCATION phase of the project.
+Used SVN to maintain the version of the files and took the responsibility to do the code merges from branch to trunk and creating new branch when new feature implementation starts.
+Developed test cases using JUnit.
+Environment: MASKED_NAME, MASKED_NAME, spring (AOP, Dependency Injection), XML, Tortoise SVN,JSP, Spring MVC, J2EE, JUnit, Maven, Web Sphere, UML, SOA, SOAP, Log4J, MASKED_NAME, JavaScript, AJAX, JIRA and RAD.
+Client: Icon Solutions, MASKED_LOCATION										 Sep’09-Nov’10	 
+Role: Software Engineer
+Project Description: Component Administration is an Application which will be used by MASKED_LOCATION technology Sales and Marketing division for performing Dynamic and effective pricing of their products. Componentization describes the dynamic web based discounting, pricing and componentization capabilities and tools. The required capability is for a Web Based Dynamic Component catalog featuring defined components, Elements and Parents.
+Responsibilities:
+Performed analysis for the client requirements based on the developed detailed design documents. 
+MASKED_NAME, Class Diagrams, Sequence Diagrams and Data Models using   MASKED_NAME.
+Developed STRUTS forms and actions for validation of user request data and application functionality.   
+MASKED_NAME with MASKED_NAME custom tags and implemented JavaScript validation of data.
+Developed programs for accessing the database using MASKED_NAME thin driver to execute queries, Prepared statements, Stored Procedures and to manipulate the data in the database.
+Developed the application using J2EE architecture.
+Involved in developing JSP forms. 
+Designed and developed web pages using HTML and JSP.  
+Involved in developing business tier using stateless session bean.
+Used JavaScript for the web page validation and MASKED_NAME for server side validation.
+Designing the database and coding of SQL, PL/SQL, Triggers and Views using IBM DB2.
+Developed Message Driven Beans for asynchronous processing of alerts.
+Used MASKED_NAME for database connectivity with MySQL Server. 
+Used CVS for version control. 
+Used MASKED_NAME case for source code control and JUNIT for unit testing.
+Involved in peer code reviews and performed integration testing of the modules.
+Environment: MASKED_NAME, J2EE, MASKED_NAME, HTML, JSP, MASKED_NAME, EJB, ANT, XML, IBM Web Sphere, JUNIT, DB2, Rational Rose, CVS, UNIX, MASKED_NAME.

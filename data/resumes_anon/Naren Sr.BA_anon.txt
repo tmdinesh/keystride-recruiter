@@ -1,0 +1,175 @@
+NARENDRA LENKA
+MASKED_PHONE
+MASKED_EMAIL
+___________________________________________________________________________________________
+Summary
+9+ years of experience in Analyzing Business Needs, Gathering Requirements, Planning, Organizing, Documenting, Business Process Definition, Risk Analysis, Use Case Analysis and testing software applications. 
+Expertise Domain Knowledge: Finance (Insurance, Mortgage), Web/E-Commerce, Healthcare, Media and Manufacturing.
+Expertise on Software Development Life Cycle (SDLC) including Software Architecture, Object Oriented programming, Designing & Prototyping, Development, Debugging, Testing, Database Activities, Integration, Maintenance and Production Support of Software Applications in MASKED_LOCATION/Server environment.
+Experienced with Rational Unified Process (RUP), Agile (Scrum) Software Development, Waterfall Methodology and UML. 
+Extensive knowledge in working with Agile methodology, Scrum sessions, creation of product backlog, Sprints as a part of the team with shared aim and shared responsibility and participated in Sprint planning and Sprint review meetings. Experience conducting Scrum meetings. 
+Expertise knowledge and experienced in Enterprise Resource Planning (ERP) and Customer Relationship Management (CRM).
+Experienced in design and development stages of E-Commerce reporting needs through ad-hoc queries to ensure the reporting tools are to the department’s standards, which in turn will be used as a means for the decision-making process. 
+Hands on experience in various business applications to support and improve business operations including day to day administrations of IBM AS 400 iSeries.
+Extensively worked on FACETS & compliance of ICD 9 to ICD 10 and HIPAA (Health Insurance Portability and Accountability Act) 4010 and 5010 EDI transactions.
+Experience with Medicare, Medicaid and commercial insurances in HIPAA ANSI X12 formats including […] […] 820, 835, 837, 997.
+Experience with the working of Medicare (Part A, B, C and D) and Medicaid Health Insurance Policies, Personal Injury Protection (PIP) insurance, billing experience with life and disability in health plans with thorough understanding of CPT coding, HCFA-1500 and CMS-1500 claim forms and reimbursement forms. 
+Experience in Development, Administration, Configuration, Implementation, Lightning and support experience with Salesforce CRM platform. 
+Skilled in Tableau Desktop for data visualization through various charts such as bar charts, line charts, combination charts, pivot table, scatter plots, pie charts and packed bubbles and use multiple measures for comparison such as MASKED_NAME, Blended Axes, and Dual Axes. 
+Experienced conducting Joint Requirement Planning (JRP) and Joint Application Development (JAD) sessions with end-users, SMEs' and development team for project meetings, walkthroughs and customer interviews. 
+Documentation includes: Business Process Documentation, Business Process Modeling, HLDD's (SRS/SSR/BRD) and LLDD's (FRD/RTM). 
+MASKED_NAME, Sequence Diagrams, Data Flow Diagrams, Process Flow Diagrams and Activity Diagrams. 
+Experienced developing User Interface Requirements, User Interface Specifications, UI/Front End mockup screens, Wireframes using MASKED_NAME and PowerPoint and Usability Standards.
+Experienced in using ARIS, VISIO, MASKED_LOCATION office, Power BI & Sway.
+Worked extensively with IBM tools for dimensional modeling, data migration, data transformation, data loading, data modeling, MASKED_NAME model, catalog creation, cube modeling, SDK development and performance tuning. 
+Experienced in understanding database structures and write SQL/PLSQL. 
+Extensively experienced in data analysis, ETL techniques for loading high volumes of data and smooth structural flow of the data. 
+Adept at writing Data Mapping Documents, Data Transformation Rules, Maintaining Data Dictionary, Data Migration Documents and Interface Requirements Documents. 
+Experienced in writing Test Plans, Test Cases, Generate Test Scripts and Maintain Reports for defect tracking. 
+Experienced in test automation, identifying tests to be automated, designing test automation framework, building automated scripts, modifying existing scripts, executing and result analysis. 
+Experienced in Integration Testing, System Testing, User Acceptance Testing (UAT), Functional Testing/Black Box Testing, MASKED_NAME, Regression Testing, GUI Testing, MASKED_NAME.
+Extensively experienced of XML and HTML. Worked with XML format and being able to read XML files and use XMP parsing tools.
+Experienced using Confluence (wiki) for documentation.
+Experienced in generating reporting and business intelligence using Crystal reports and MASKED_LOCATION.
+Education
+Masters of business administration (MBA)	 – ICFAI University, 2009, MASKED_LOCATION 
+Bachelors of Life Sciences (MBBC)		 – ANU University, 2007, MASKED_LOCATION	    
+Technical Skills
+Platforms:			MS-DOS, Windows (95, 98, Me, NT, 2000, MASKED_LOCATION, Vista, 7), UNIX, MASKED_NAME:	SDLC, Waterfall, Agile, SCRUM, UML, RUP
+Modeling Methodology:	UML, MS-Visio
+Modelling Tool: 		IBM system architect, ARIS
+Databases:			Oracle, SQL Server, DB2, MySQL, MS Access
+Database Tool:			TOAD
+ETL Tools:			SSIS, Informatica Power Center 9.X
+Tool:				JIRA, Confluence
+Reporting/BI:			Crystal Reports, MASKED_LOCATION	
+Languages:			SQL, PL/SQL, COBOL85, SCOBOL, UNIX/Linux shell
+GUI:				SharePoint, MASKED_NAME, MS Office (Word, Excel, PowerPoint, Access)
+Web Technologies:		HTML, CSS, XML, MASKED_NAME, Web Services
+Test Management Tools:	Bugzilla, QuickTestPro(QTP)9.2, HP Quality Center/ALM
+Professional Experience
+Client:	OUTFRONT MEDIA, MANHATTAN, NY				Jul’16 to Current ◊ 1 yr. 3months
+Role:	Sr. Business Analyst/Agile
+Responsibilities:
+Prepared Business Requirements Documents (BRD), Systems Requirement Specifications (SRS), Use Case Specifications, Supplementary documents, Activity Diagrams, Data Trace Map Document & Data Quality Mapping documents depending upon the various media client’s needs.
+Developed User Interface Requirements, User Interface Specifications, UI/Front End mockup screens, Wireframes using MASKED_NAME, MASKED_NAME and Usability Standards.
+Created ‘Technical Specifications Documents’ based on the ‘Functional Design Document’ for the ETL coding to build the data mart for most of the out of home campaigns.
+Conducted GAP analysis, identified and documented business bottle necks for improving the system.
+Discussions with various stakeholders on deciding the backlog priorities based on user points and business value to design release backlog.
+Using INVEST and SMART principles for writing well defined user stories and tasks.
+Managing daily scrum meetings, working on the team impediments and communicating with product owner.
+Negotiating effectively with Product owner on the release priorities and exceptional scope creep.
+Identified the individual RMAs through MASKED_LOCATION and then tracked them down through our return database.
+Worked on Salesforce1 Platform to build MASKED_NAME by enabling Lightning Components for use in Salesforce1 mobile platform to make Lightning Application mobile. 
+Retrieved some data and its functionality from Third-Party API's and displayed within the lightning component. 
+Overseeing, analyzing and responding to issues and MASKED_NAME tickets for IBM I-Series AS/400 by monitoring batch production, logging all issues on problem tracking system and escalating when needed.
+Conducting JAD (Joint application design) across various cross functional teams and JAR (Joint Application Resolution) sessions for effective requirements management.
+MASKED_NAME, clean analyze and document large data files prior to importing databases and present data-insights to management.
+Designing, Developing and supporting interactive MASKED_NAME reports. Involved in creating Dashboards and needed using Tableau Desktop and published them to MASKED_NAME server. 
+Recommending Dashboards per MASKED_NAME visualization features and delivering reports to business team on timely manner. 
+Triaging the tickets and prioritizing them based on the business priority in a product owner capacity.
+Defining the user acceptance criteria for the issues from the production and passing it on to the appropriate cross functional team.
+Resolving and closing the tickets which don’t need intervention of the technical team which are non-functional properties of the application.
+Maintaining appropriate matrices for defect tracking and conducting follow up meetings with the team to understand the status of the tickets assigned.
+Testing the resolved tickets thoroughly and demonstrating them with the product owners/ business users for approval and closing them.
+Collected detailed requirements for E-commerce systems including our B2C websites, eBay store, YouTube channel and mobile properties. 
+Documented and wireframe system integrations between customer-facing E-commerce properties, 3rd party systems and back-end ERP systems.
+Executed system testing & integration testing. Provided extensive support for User Acceptance Testing (UAT). 
+Involved in writing SQL queries and Database Checkpoints to verify data quality and calculations, reviews Performed data validation testing writing SQL queries. 
+Tested Web Services, IBM, XML, WSDL using MASKED_NAME tool and modified the end points when we worked on different servers and different versions of Web Services. 
+Analyzed large amounts of data sets to determine optimal way to aggregate and report on it using MASKED_LOCATION. 
+Created JIRA request in tracking tool workflow for the released deliverables. 
+To understand and enhance the controls within Risk Management & Reporting & to work with the key stakeholders (business and Risk IT) to ensure all requirements surrounding the end to end process are clearly understood and appropriate, clear solutions are designed, documented and implemented.
+Ability to produce high quality requirement specifications to support ERP functional design development.
+Client: STATE OF MASKED_LOCATION, ALBANY, MASKED_LOCATION 	                           Jun’15 – Jun’16 ◊ 1 yr.
+Role:  Sr. Business Analyst/ Finance
+Responsibilities:
+Wrote BRD and Use case documentation for requirements analysis, design specifications, user’s guides, installation guides, custom training materials, or project work plan Conceptualization of new requirements from customers, user surveys and competitors. 
+Proactively partners with other key areas within E-commerce and MASKED_NAME to develop a solid understanding of the analytical, creative and technical aspects of the business. 
+Checking the integrity of the newly added features and their effect to the existing ones with integrity testing and regression testing.
+Mapping system requirements with Test Cases, manually executed test cases in MASKED_LOCATION, ensuring traceability of Test Cases back to the Business Requirements.
+Effectively handling sign off process with stake holders at different levels and executing good conflict resolution approaches.
+Created several mock-ups and wireframes for GUI to understand the user requirements.
+Prepared user stories, master feature list, product backlog working with Product Owners and SMEs.
+Developed Design Models using IBM system architect such as Class and Sequence diagrams using Rational Software Architect (RSA).
+Developed Web Front End (GUI) using HTML/HTML5, DHTML, CSS3, JQuery, MASKED_NAME, AJAX, MASKED_NAME, XML, XSL, JSP, Spring MVC, and developed validations using MASKED_NAME and AJAX.
+Worked as Business Intelligence developer using data visualizations tools with specialization on MASKED_LOCATION.
+Planning the business analysis effort, determining how requirements will be managed, and reviewing deliverables created by all the BAs on the team for quality and consistency.
+Conducting GAP Analysis and documenting the current state and future state, after understanding the Vision from the Business Group and the Technology Group.
+Acknowledging and accepting the issues/tickets for the production support team.
+Doing the root cause analysis (RCA) of the issue by reproducing the issue and analyzing the business rules around it.
+Create and measure key KPIs such as Engaged Visitors, MASKED_NAME rate, Conversion rates etc. to gaze the gaps and ensure the success of digital E-commerce Platform.
+Worked on Performance tuning in the existing PLSQL and Informatica ETL code. 
+Developed intuitive reports in SSRS, Report builder and MASKED_LOCATION to support pre-assumed business questions.
+Extensively used Spring IOC and MASKED_NAME persistence API and MASKED_NAME was used as ORM mapping tool at the persistence layer.
+Developed User Interface Requirements, User Interface Specifications, UI/Front End mockup screens, Wireframes using MASKED_NAME, MASKED_NAME, PowerPoint and Usability Standards.
+Attended Change Request Meetings to ensure products and changes are fully documented for further Test changes.
+Developed and executed unit test cases and test scripts using TDD, Junit, JMock.
+Worked on My SQL, Oracle DBMS SQL Server 2008 database for creating DB tables and DB objects.
+MASKED_NAME for version control.
+Involved in MASKED_LOCATION/UAT and Production support, defect fixing, monitoring server and error logs and Foreseeing the Potential Issues, and escalating to the higher levels.
+Created scripts for training all internal users, support personnel, and external customers on ERP system changes and new procedures.
+Client: GENENTECH INC., MASKED_LOCATION, CA	                           Jan’13 – May’15 ◊ 2 yr. 5months
+Role:  Business Analyst/Healthcare
+Responsibilities:
+Providing business solutions developed from a unique blend of industry experience, technological expertise, and service excellence, DST also helps its clients in improving efficiencies while also effectively managing the processes, information and products that directly impact quality outcomes. 
+Identified requirements for the customer and provided Gap Analysis as per the customer requirements and the application.
+Co-Managing the Change Control process for the entire project by facilitating group meetings, one-on-one interview sessions and email correspondence with work stream owners to discuss the impact of Change Request on the project.
+Analyze all applications and recommend necessary upgrades and patches and perform troubleshoot on all issues.
+Developed ETL programs for various types of Data Extracting, Data transformation and Data loading.
+Created ETL packages for incremental loading of fact table and handling slowly change changing dimensions.
+Reviewed Compliance Instructions/mandates to verify were impact occur with the Facets Business Rules Configuration SME Compliance team, assessing of the applications when reviewing and handling Compliance/Mandates. 
+Worked on HIPAA transaction codes specifically on EDI 837 (medical claims), 835 (medical claim payments), 276 (claim status), 277 (claim status response), and 834 (premium payments) to incorporate enhancements to existing efforts on capturing and mapping. 
+Analyzed the business requirement as per the HIPAA rules and regulations to follow in creating business requirement documents. 
+Prepared various claims and member-eligibility files for the required test, submitting test output to the (vendor) clients through specific format and several similar functions. 
+Involved in the full HIPAA compliance lifecycle from GAP analysis, mapping, implementation, and testing for processing of Medicaid Claims. 
+Researched and understood the claims adjudication and reimbursement systems based on HIPAA X12 4010 standards. 
+Involved in creating 837(I, D, P), 835, 277-U, 270/271, 276/277, 278, 820 and 834 transactions processing flow. 
+For Project management purpose worked on Microsoft Project, used Microsoft Share Point for maintaining the updated documentation. 
+Scheduled meetings with technical personnel to determine technical parameters for EDI and other related processes, including communication, security, and privacy. 
+Created transaction sets requirements, usually with Microsoft Excel, for transactions such as: HIPAA 270/271, 276/277, 835, 837-(I, P, & D), 835 Remittances and others. 
+Handled Benefit Implementation/Configuration for Provider contract / pricing setup for FACETS.
+Business process mapping - Preparation of process maps for as-is and to-be process highlighting the process changes and key system validation points. 
+Performed Requirement Analysis by gathering both functional and nonfunctional requirements based on interactions with the process owners & stake holders and document analysis, represented them in Requirements Traceability Matrix (RTM). 
+Met with client groups to determine requirements and goals. Utilized Rational Unified Process (RUP) to configure and develop process, standards, and procedures and create a Business Requirements Document. 
+Documented the project by generating forms & reports, Business Requirements document, Use case diagrams, activity diagrams and process flows. 
+Held several JAD and JAR sessions to facilitate interaction with Business Users. Conducted Gap Analysis on the AS-IS and TO-BE business processes. 
+MASKED_NAME diagrams, Business flow diagrams, Activity/State diagrams and Sequence diagrams so that developers and other stake holders can understand the business process by using UML. 
+Prepared User Acceptance Testing test plans and conducted UAT Testing. Also, prepared user reference documentation. 
+Client: NATIONWIDE INSURANCE, Lincoln, MASKED_LOCATION		            Oct’10 – Dec’12 ◊ 2yrs. 2months
+Role: Business Analyst/Finance
+Responsibilities:
+Validated and processed insurance policy change requests, delegating to other departments/people when necessary. 
+MASKED_NAME from various business areas like Claims, Provider Relations, Enrollment, Finance and Benefits Administration for their updates to the Claim Processing Engine. 
+Documented business processes related to external agents, policy changes, including banks and clearing houses.
+Optimized Stored Procedures, SSIS Packages, Table Indexes and was involved in performance tuning of Databases 
+Develop mappings/sessions to migrate these objects From SAP BW/R3 to SFDC application using Informatica and Data Loader.
+Analyzed Database structures and data, developed Data Mapping Documents and User Manuals.
+Participate in periodic meetings and maintain all applications for productions and plan appropriate various strategies.
+Maintain effective relationships with various system administrators and development teams.
+Coordinated with the off-shore QA Team members in evaluating and developing the Test Plans, Test cases, Test and Evaluation strategy and methods for unit testing, functional testing and usability testing.
+Analytics – ability to aggregate large amounts of data, filter for importance, and tie together in a context relevant “story” designed to drive action.
+Continuously drive better business practice and increased value to the business through consistent measurement and improvement of key activities Measurements.
+Familiarity with XML and the ability to explain XML web service request and response elements and functionality to client development teams in the context of clients intended usage.
+Created User Training Manuals for Equity and Fixed Income trades and provided the training to Portfolio managers, Director, Investment Managers, SME’s and Analysts.
+Actively participated in MASKED_LOCATION calls, Huddle boards and performed Usability Standards Validation, Story Acceptance Testing, User Acceptance Testing and Regression Testing. 
+Reviewed documents developed by other team members in the group for adherence to standards, consistency, and readability. 
+Worked in conjunction with testers(QA), developers and other team members in validation and testing of complex project scenarios and in the maintenance of Quality standards of projects
+Well versed in Requirements/Change management, Impact Analysis and Gap Analysis.
+Developed a Root Cause Analysis report using MS Office.
+Client:	GM Electrical Systems Pvt. Ltd, MASKED_LOCATION, MASKED_LOCATION	Jun’08 - Sep’10 ◊ 2yrs. 3months
+Role:	Business Analyst/Finance
+Responsibilities: 
+Played a vital role in the creation and maintenance of iteration plan, documented and prioritized the scope by identifying the client's requirements. 
+MASKED_NAME and gathered requirements to drive small-budget IT-driven technology projects.
+Provided executives with analytics and decision-support tools used as the basis for reorganization, consolidation and relocation strategies.
+Performed quality assurance, system integration and user acceptance testing facilitating on-time & on-budget of enterprise implementations.
+To interface with risk officers both locally and in globally dispersed regions, gaining both insight into requirements, priorities and specific needs, but also to manage expectations and lead their thinking through end-to-end solutions (both process and technology) 
+Collaborated with stakeholder groups across the organization to ensure business and technology alignment. Proposed solutions meeting defined specifications and needs.
+Created Context diagrams, DFD’s, Process flow diagrams, ER diagrams using Class, Sequence, Component, Package diagrams.
+Organized meetings and presented story boards to ensure accurate comprehension of the existing situation with regards to mismatched scenarios. 
+Provided expertise on project templates and processes; reconciled project data and generated project reports. 
+Efficiently and effectively managed the backlog of requirements for future releases and played a pivotal role in the timely release of the project. 
+Developed a systematic plan for future release of the backlogged use cases after getting the priority of the features from the product managers. 
+Conducted integrated change control including project plan updates and performance reports. 
+Reviewed and provided input on test scripts to ensure thorough testing of new functionality and triaged defects and enhancement requests. 

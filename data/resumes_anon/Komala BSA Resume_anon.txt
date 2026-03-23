@@ -1,0 +1,179 @@
+Komala                                             
+Sr Business System Analyst/Scrum Master
+PROFILE:   
+Success driven business analyst with 8+ years of experience eager to join the team. Proficient in providing analytical support for diverse business projects. Maintaining a record of improving productivity, expert in business cycle management, business data clarification and eliciting project requirements. Driven by low supervision, strong leadership, and high competence, written & verbal communication skills shared with ability to work under pressure to keep up with the deadlines.  
+CERTIFICATION: 
+Scrum Master Accredited Certification (International Scrum Institute).
+Lean Six Sigma Green Belt Certification 
+PROFESSIONAL SUMMARY:
+Overall 8+ years of experience as a Business Analyst/Business System Analyst and Scrum master in IT industry.
+Experience in various Software Development Life Cycle (SDLC) such as Waterfall and Agile methodologies - SCRUM, SAFE.
+Extensive knowledge of Spiral, Extreme programming(XP), Rational Unified Process (RUP), Kanban and Scrum-ban.
+Communicated with different SME’s, Developers, Testers, higher level management and other stakeholders to develop a quality project and worked on delivering the product within budget without any Scope creep to reach the deadlines on time. 
+Thereby, proven success in Impact Analysis, Cause and Effect, GAP Analysis (As-Is and To-Be Analysis), SWOT Analysis and assisted the project manager in Cost Benefit Analysis, Work Break Down Structure and Critical path analysis.
+Facilitated and gathered requirements through Requirements Gathering Sessions using various elicitation techniques like Prototyping, Interviews, Requirement Workshops, MASKED_NAME interviews, Survey/Questionnaire, Brainstorming and JAD
+Analyzed source systems and business requirements, to develop User requirements, Functional and Nonfunctional requirements.  
+Documented Requirement Artifacts such as Business Requirement Document (BRD), Functional Requirement Document (FRD), System Requirement Specification (SRS), and elaborative expertise with Change Management Handling. 
+High expertise in tracing requirements throughout the development process and verifying their adherence to Requirement Traceability Matrix (RTM) and RACI chart, preparing test cases with the help requirements gathered with proper tracing back and forth.  
+Highly experienced in creating Mock up screens, Wireframes and MASKED_NAME to assist the UI team for better understating of user interface requirements and sit with the SME’S to get more insights on Graphical User Interface for the system. 
+Designed the UML diagrams such as a Use case diagram, Activity diagram, Sequence diagrams and Data Flow Diagrams by using Rational Rose and MS Visio and wrote use cases for the development team based on the requirements gathered.  
+Proficient in Microsoft Office tools like MS Access, MS Visio, MS Excel, MASKED_NAME, MS PowerPoint and MS Project.
+Experience as a SCRUM MASTER, facilitated the SCRUM ceremonies and time-boxed the ceremonies (Planning Meeting, Daily SCRUM, Sprint Review Meeting, Sprint Retrospective Meeting, Product Backlog Refinement Meeting).
+Converted the Requirements into user stories by conducting a user story writing workshop which helped the team in developing user stories that meet INVEST (Independent, Negotiable, Valuable, Estimable, Small, Testable) criteria. And tasks that met the SMART (Specific, Measurable, Achievable, Relevant, MASKED_LOCATION) criteria to identify the workflow analysis and designing the functions.
+Maintained the artifacts like MASKED_NAME chart, MASKED_NAME chart, and MASKED_NAME Up chart and made them visible through Information Radiator. Experience in tools like JIRA, MASKED_LOCATION to maintain the user stories and artifacts. 
+Highly skilled as Scrum Master in facilitating scrum ceremonies for the scrum team. Make sure they stay focused on the project to perform better and conducting several estimation Techniques like Planning poker, T-shirt sizing, Relative Mass Valuation.
+Helped the product owner to prioritize the Product backlog using techniques like MASKED_LOCATION, KANO and prioritized the backlog
+Assisted the QA team in developing in creating the Test scenarios, Test plans and Test Cases and created RTM to track requirements
+Experience in supervising Black-box Testing, Functionality Testing, Unit Testing, Integration Testing, Regression Testing.
+Involved in User Acceptance Testing (UAT) where demonstrated the system to the end users and validated the product with them.
+Good knowledge of creating SQL Queries like DML, DDL, DCL commands which include Joins, Aggregate and unions in understanding the database and good knowledge about RDBMS (Relational Database Management systems). 
+Good understanding of Data Warehousing concepts like OLAP, OLTP, top down Approach, bottom up Approach, data cleansing.  MASKED_NAME knowledge of Entity Relationships (Logical, Conceptual and Physical diagram) and User Administration.
+Highly expertise in using tool likes JIRA for writing requirement, Issue tracking, MASKED_NAME defects and MASKED_NAME reports throughout application development lifecycle and experience in using Confluence for better communicating with the team. 
+Good understanding of using ETL Tools like Informatica and SSIS for extracting the data from data sources, MASKED_LOCATION the data using business rules as per the requirement and then loading the data in to the data warehouse.
+Good knowledge in validating XAML scripting language and have a good understanding of user interface programming language such as ASP.NET. Extensive knowledge about Visual Studio Suite like Visual Studio Team Services and Visual Studio Code.
+Strong Management Skills, demonstrated proficiency in leading and mentoring individuals to maximize levels of productivity, while forming cohesive team environments and great Ability to manage multiple large-scale projects concurrently and efficiently.
+TECHNICAL SKILLS
+PROFESSIONAL EXPERIENCE
+KOHLS, MASKED_NAME, WI                                                                                                                                                DURATION
+PROJECT DESCRIPTION: The scope of the project was to enhance the management and tracking of orders at a Store associate level when the Order cycle starts so that we had an increase in sales and customers with an optimized revenue to provide better customer service. Enhancement was done on a Store facing application mainly to track and complete the Picking and Packing process of the Orders. Two sequences of applications ran on the device namely Ship from Store(SFS) and Buy Online Pick Up in Store(BOPIS). Orders were assigned to the MASKED_NAME associate in two ways namely Custom Picking and Auto batch and it was further shipped to the customers either by Drop-Ship through third party vendor or MASKED_NAME.
+ROLES AND RESPONSIBILITIES: 
+Involved in prior documentation and business process to understand the scope and development of the system being developed 
+Facilitated JAD, Brainstorming sessions to allow different stakeholders to communicate their viewpoints with each other, resolved any concerns and came to an agreement quickly. Conducted one on one interviews to understand the requirement of the stakeholders.
+Performed GAP analysis to define gaps between As-Is and To-Be processes and bridged the gap to work on system enhancements. 
+Reviewed and Analyzed Business Requirement Documents (BRD), Functional Requirement Documents (FRD) and translated them to System Requirement Specification (SRS) to enable development team to better understand the requirements
+Assisted in design review meetings so that all the requirements are within the project scope and does not adhere to Scope creep.
+Involved in writing Test Plans, Test Cases and Test Scenarios using HP Quality Center and arranged triage calls between developers and testers so that the bug cycle was taken care and made sure that requirements didn’t get deviated.
+As a Scrum Master ensured the team is effectively and actively performing as a team. Ensured that the team is self-organized and collaborative in nature to develop the product in an evolutionary and MASKED_NAME ensuring product delivery on time. 
+Facilitated Scrum Ceremonies and ensured that the team follows their process and pursued continuous innovation in their practices.
+Wrote User Stories fulfilling INVEST criteria, assisted the Product Owner in prioritizing the Product Backlog Items (PBIs) using MASKED_LOCATION, KANO and engaged the whole team in estimating Story Points using Planning poker and Relative Estimation.
+Used JIRA to keep track of the issues that are logged and in-progress along with the person responsible. It helps to generate reports to see the status of an issue and improving the productivity of the development team.  
+Generated Sprint Burndown and MASKED_NAME charts which helped MASKED_NAME to plan accordingly. Tracked and effectively communicated team’s velocity and sprint/release progress to the stakeholders to assure them about the development.
+Involved in breaking down the user stories into task satisfying SMART criteria with the help of Scrum team. 
+Conducted Sprint review meeting by inviting all the stakeholders including the product owner and worked with the team to give a live demonstration of the MASKED_LOCATION shippable product increment (PSPI) to the stakeholders and collected feedback.
+Performed different fun Retrospective techniques like Happiness histogram, Silent writing, MASKED_NAME in MASKED_LOCATION meeting
+Jotted down the feedback from the stakeholders and updated the same in MASKED_NAME for the team to start working on it.
+Effectively recorded and maintained the artifacts like impediments list, Sprint burndown charts and Sprint burnup charts to track the team’s performance and keeping it visible to the team members and owners.
+As a Scrum Master conducted various fun activities in the Sprint retrospective meeting to improve the team building skills and collaborative skills within the team.
+Involved in User Acceptance Testing (UAT) for successful implementation of requirements and generation of reports. Used JIRA for defect tracking, facilitating and monitoring the process throughout the development process.
+As a Scrum master facilitated and time-boxed Scrum ceremonies such as Sprint planning, Daily scrum, Sprint review, Sprint retrospective and MASKED_LOCATION refinement meeting.
+Used SSIS for transforming data from source to target destination, SSAS for analyzing the data and updating multiple databases with the product information and SSRS used to update the reports in MASKED_LOCATION.
+ENVIRONMENT: Waterfall-scrum hybrid, HPQC 10.0, JIRA7.0.0, MASKED_NAME, MS Project, MS (Power Point, Excel, Word, Project), SharePoint, REST, MS Azure, MASKED_NAME, SQL Server 9.x/10.x, VS 2010, TFS, Visual Studio Team Services, Visual Studio Code.
+NJDOC, MASKED_LOCATION, NJ			                                                                                                            DURATION
+PROJECT DESCRIPTION: The project was aimed at creating a Data Mart to provide Educational department to analyze educational history of an inmate the moment he enters the prison as well as tracks whether the Inmate completed his mandatory education programs or not. The enhancement was done on legacy system where they were unable to track the historical data of educational programs of inmates in the Database. Legacy non-integrated databases are a core to business processing which overrides the existing data instead of updating it. New Data Mart was designed, and Source and Target Data were Mapped to ensure that business rules were imposed to get an updated status history of the Inmates as well as their history. Integrated system would provide ease of access, analysis, transparency and enhanced reporting capabilities which had the complete details of the Education level of an MASKED_LOCATION when he enters the prison and whether the Inmate completed his mandate education while he was serving inside the prison.
+ROLES AND RESPONSIBILITIES: 
+Interacted with users and stakeholders to Identify business needs, evaluated solutions for business problems.
+Gathered business requirements by participating in JAD sessions, Interviewing business users and stakeholders and did a pre-analysis for collecting the requirements and went through the previous documents for understanding and analyzing the system.
+Conducted one on one meetings with the clients to discuss the business needs and gathering business requirements and had meetings with SME and MASKED_NAME to understand the application and MASKED_NAME database terminology.
+Understood problem definition through one to one meetings with Data architect, Enterprise architect and Solution advisors.
+Involved in creating Project plan and deliverables for the project by assisting the Project manager in creating a Work break down structure and Critical Path analysis so that we had a clear-cut idea of the amount of work required to complete the deliverables.
+ The methodology used for the project was Waterfall and had a deep understanding about the requirement gathering. Provided clear and consistent information about project status both internally as well as to the IT team and stakeholders.
+ Used MS Visio for Process modelling, Process mapping and Business Process flow diagrams. Understood the As-Is system,
+developed the To-Be system concepts and analyzed the bridge between the source and target systems and evaluated the same.
+ Prepared Business Requirement Document (BRD), Functional Requirements Document(FRD) and Drafted Systems Requirement Specification (SRS). Analyzed modified, validated these artifacts and then verified the same with the stakeholders.
+Closely worked with Data Architect in creating Data Mapping, Data modelling and Data Mart design. Assisted in increasing Data Integrity by performing Data Normalization and adding Data Verification and Validity to maintain accuracy and integrity.
+Responsible for writing the business logic and other business rules for generating reports based on the requirements.
+Documenting weekly updates of the project to the project manager and project director. Documenting the current project status and tasks that were accomplished this week and tasks for to be accomplished for the up -coming week 
+Closely worked with the data warehouse team in implementing history for the tables and available for them in discussing business requirement document if they need any assistance in verifying the requirements back and forth and clarified their doubts.
+Involved in generating report in business objects with the help of business intelligence team and created report based on requirements and identified source systems for Data Profiling to take appropriate decisions for the betterment of business.
+Established Incident Reporting and did an Impact analysis for Change Control procedure which was further taken to the Change Control Board and was further handled by the Change manager who put forth with a go or no- go decision for the change.
+Worked with QA team to design and develop Test Plan and Test Cases and was involved in the test environment to create a Test strategy for the testing environment to perform User Acceptance Testing (UAT), Functional Testing, Regression Testing.
+ENVIRONMENT: Waterfall, MASKED_LOCATION project 2013, MS Outlook 365, MS Office 2013 (Word, Excel, PowerPoint and MASKED_NAME), My SQL, MASKED_NAME 10g, MASKED_LOCATION, MASKED_NAME, MASKED_NAME warehouse builder, OBIEE Enterprise edition, Outlook 365, Oracle applications.
+AMWAY, MASKED_NAME, MI				                                                                                             DURATION
+PROJECT DESCRIPTION: The scope of the project was to offer a unified shopping experience to its customers, giving a wide variety of options while shopping through multiple channels. It was an enhancement to a legacy system feature which provides new feature and updated information about the products in categories. The products list along with Cost, image and description were presented and the customer can make a choice of products and shop. checkout of shopping cart was made easier than before. The project also provided a new functionality of cashback & reward program in an existing E-commerce online shopping application. The new functionality could register interested customers and based on their purchasing habits system could generate various cashbacks and rewards options.
+ROLES AND RESPONSIBILITIES: 
+Performed JAD sessions, interviewing and surveys with Business users, SME & app developer teams for gathering requirements for Application development. Interacted with the legacy system to understand the requirements for to be system. 
+Analyzed the gathered requirement and reviewed Business Requirement Document (BRD) and Functional Specification Document (FSD) for developing better understanding of system requirement to assist development team’s operations.
+Considered the customers interest while the customers ordered the products so that the customer had choice to view the orders and make necessary changes while the order is still placed in the MASKED_NAME cart.
+Made sure the products list was updated with the Cost, Image and short description regarding the product and the Warehouse had transparent inventory which eventually increased the Traffic acquisition for the existing site further managing the Traffic for the site.
+Performed data retrieval using the SQL queries from database to extract the data that was required to analyze the insights of system.
+Analyzed the gathered requirement and reviewed Business Requirement Document (BRD) and Functional Specification Document (FSD) for developing better understanding of system requirement to assist development team’s operations.
+Coordinated and controlled MASKED_NAME for the clients by conducting impact and cost analysis, prioritizing and mitigating changes. Prepared change request form to provide details of change request and the further process was carried by Change Manager.
+Prepared project deliverables through business workflow analysis, process analysis, user requirement documents (Use Cases & Activity diagrams) and managed the requirements and made sure they were well understood by the development team members.
+Used SQL queries for analyzing data and identifying required data with pain points and solving them with effective solutions.
+Designed and developed Use Case diagrams and involved with design team in creation of Activity Diagrams and Sequence Diagrams to depict process flows of the entire system.
+Used Data analytics for analyzing the data for type of products sold and types of maximum buying customers which helps in targeting them for developing the business strategies and implement cash rewards based on purchases made by the customers.
+Developed a simple database and ETL process to load the existing data to store the data for the business process. 
+Worked with QA team for designing Test Plan and Test Cases for the User Acceptance Testing (UAT) and Regression and Load Testing. 
+Used MASKED_NAME for data visualization to communicate information clearly and efficiently via the statistical graphics, plots and charts. 
+Used HTML-5 CSS 3.0 to enhance the User Interface of the existing site and to make it user friendly with the Application layer comprising of MASKED_NAME and used Oracle Database to maintain the complete data about the users ordering the products.
+ENVIRONMENT: Waterfall, MASKED_NAME, MASKED_NAME, MS Excel, Oracle9i, MS Access, MASKED_NAME, Waterfall, MASKED_NAME /Eclipse IDE, Spring framework, Balsamic, REST Web service, GitHub, HP Quality Center 10.0, SOA, HTML-5 / CSS 3.0 / JavaScript: jQuery and AJAX (MASKED_NAME and XML) technologies, IBM Requisite Pro 7.1, IBM Cognos Data Manager 10.2, Tableau 
+AIG Insurance	, MASKED_LOCATION, NJ						                                         DURATION
+PROJECT DESCRIPTION: Business Technology Operations team wanted an application that can offer personal insurance rating engine for Auto, BOP and Workers compensation line of business (Property& Casualty Insurance) for all MASKED_LOCATION customers reducing all the manual efforts. The role involved to comprehend the business requirements and create functional specifications for the Development team by helping them throughout the development life cycle, perform functional and regression testing.
+ROLES AND RESPONSIBILITIES:  
+Gathered requirements in the form of use cases and user stories based on the need and necessity. And MASKED_NAME product owner to work on User stories to create MASKED_NAME.
+Worked with Product Owner to review the working demo of Potentially Shippable Product Increment (PSPI) in review meeting and helped deciding which features are done and satisfies the Acceptance criteria.
+Updating agile tracking systems to provide transparency on Product and Sprint Backlog for the development team. 
+Time-boxed scrum ceremonies as a Scrum master and helped the product owner to prioritize the Product Backlog Items (PBI’s) using various techniques along with the development team.
+Actively involved in prior documentation and business process for understanding the Scope and Developed knowledge of system.
+Conducted Gap Analysis for current state and to-be state of the system which involved in in the identification of business rules, business and system process flows, requirements and assumptions.
+Interacted with the internal and external Stakeholders, project leads for gathering requirements for the system design & understanding the business process model and worked closely with the SME’s to understand the requirements effectively. 
+Created Mock-up Screens and Wireframes using UI Components such as Radio Buttons, MASKED_NAME-down list, Checkboxes for different screens for demonstration to business users, stakeholders and to give insights of the ‘TO-BE’ system.
+Well versed in Breaking down Epics through slicing strategies and then writing user stories satisfying the INVEST criteria. 
+Facilitated Daily scrum meetings, Biweekly Sprint planning, Sprint Review, MASKED_NAME, Backlog grooming meetings, and Planning poker sessions with technical team supporting threat management application. 
+Helped the Product Owner to prioritize the Product backlog items (PBI’s) for developing Sprint tasks by taking suggestions from the cross-functional development team so that evolution was done in sprints and could sustain. 
+Tracked and communicated team’s velocity and sprint/release progress by maintaining MASKED_NAME charts and MASKED_NAME down charts.
+Create, maintain, and organize backlog of features, epics, stories, and tasks in MASKED_LOCATION.
+Meet with product owners and operational business managers for selected modules to introduce scrum and program processes.
+Wrote test cases, test plans depicted in documented requirements and traceability matrixes for User Acceptance testing (UAT).
+Compile, analyze, and present statistics about time estimation accuracy, team velocity, and burndown rate to development team and management each sprint.
+Support monthly release cycle by facilitating Release Feature Selection meetings and organizing and monitoring eligible release candidates as well as MASKED_NAME, maintaining, and organizing backlog of Features, Epics, User Stories, and Tasks in JIRA. 
+ENVIRONMENT: Waterfall Agile Scrum, JIRA, Confluence Mock-up screens, SQL Server, MS Office (MS Word, MS Excel, MS PowerPoint, and MASKED_NAME), GAP Analysis, Data Warehouse, MASKED_LOCATION, UML, and UAT Testing.
+AMAZON, Hyderabad INDIA	    			                                                                     DURATION
+PROJECT DESCRIPTION: 
+Project1: The primary objective of this project is to capture day to day Inventory transactions, Cash Flows, Purchase Orders, Customers, Policies, Products and financial related data from multiple systems and Main frame files. The ETL architecture consists of MASKED_LOCATION, Pre-landing, CDC, ODS and Integration layer.
+Project2: Automation of widgets (36 widgets in total) in the FORTRESS to lower the time taken by TRMS (Transaction Risk Management System) in solving fraudulent transactions. The key objective of this project was to increase the productivity of the TRMS team by 15% and lower the time taken per investigation to three minutes.
+ROLES AND RESPONSIBILITIES:  
+Gathered business requirements by participating in JAD sessions, interviewing business users and stakeholders, conducting one to one sessions and consulting existing systems documents.
+Conducted Interviews with project managers, SME’s, business users to collect requirement and business process information.
+Assisted PM in creating Work Breakdown Structure and Project charter using MS project.
+Consulted extensive GAP analysis by identifying As-Is and To-Be process models and process flows, which in turn helped me to bridge the gap between the existing and the current system. 
+Performed SWOT analysis to discover new functionality requirements, prioritized them based on actual business needs.
+Analyzed feasibility of business requirements and defined scope, found out dependencies by interacting with Stakeholders, Subject Matter Experts, Project Manager and Technical Lead.
+Used Waterfall methodology. Assisted in Use Case Modeling and prepared Functional Requirements documents (FRD) and System Requirement Specification (SRS) incorporating business, functional and technical specifications with GUI requirements.
+Created Use case diagrams to make sure it was well understood by developers and testers as well as performed excessive Prototyping using MASKED_NAME screens.
+Created Mock-up Screens and Wireframes using UI Components such as Radio Buttons, MASKED_NAME-down list, Checkboxes for retrieving data from the user with client- side verification.
+Coordinated and controlled MASKED_NAME for the clients by conducting Impact and Cost analysis, prioritizing and mitigating changes and prepared change request form to provide details of Change request.
+Created environment for self -organization and organized team engagement activities to ensure team collaborates in an efficiently.
+Worked with the QA team for designing data fields when the data is expanded. Also assisted the development team to define data 
+Documented and represented them in Requirements Traceability Matrix (RTM) and made sure that there are no deviations from the original requirements and was same as the requirements that were put forth by the stakeholders.
+Used bug tracking tools to combine a clean, fast interface for capturing and organizing issues with customizable workflows.
+Conducted User Acceptance Testing (UAT) and developed the test plan, test conditions and test cases and manually executed these to verify actual result against the expected results and exported test case created in MS Excel Sheet 
+Used Quality Center/HP ALM for reporting and defect tracking, also followed up with the development team to verify defect fixes and updated defect status also documented all the bugs so that the application was bug free before getting deployed.
+Analyzed Business Requirements from Black Box testing perspective. Reviewed Test Strategy and Test Plans to ensure that test cases reflect user needs for the Functional, Performance, Usability and Security requirements.
+Used Informatica to map the data in central Data repository and for enhanced Data management &Tableau for generating reports.
+Worked on Excel using pivot tables, data exports, excel formulas and created training curriculum and wrote training scripts.
+Strong knowledge of client side and server-side validation and assisted writing verbiage for client-side validation using JavaScript and MASKED_NAME.
+ENVIRONMENT: Waterfall-scrum hybrid, MS Project, MS (Power point, Excel, Word), SharePoint, Rational RequisitePro, Oracle 11g, Informatica Power Center 8.6, ETL, Microsoft .Net framework 4.0, SQL Server 2008R2, AJAX, HP ALM v11.5, Bugzilla, HP Quality Centre 10.0, MASKED_NAME, CSS, Microsoft Server Integration Services.
+Mutual Insurance, MASKED_LOCATION INDIA					                                           DURATION
+PROJECT DESCRIPTION: Worked for Commercial Intelligence Teams, one of the key departments of Farmers Insurance which extract the business Insurance (Property &Casualty) data from several sources applications and load it to the Commercial data Mart(CDM). CDM will cover the data for users from products, Finance and Actuarial groups. This will cover two major areas of the Insurance domain: Policy and Claim and all the other required dimensionality and Workers compensation. Data in the Data Mart was to generate business objects reports by the reporting team.
+ROLES AND RESPONSIBILITIES: 
+Performed JAD sessions, interviewing and surveys with SME's and multiple teams for requirement gathering and refinement. 
+Identified and defined MASKED_NAME, relationships and attributes in the data model as per new specifications after analyzing the database systems currently in use.  
+Identified source elements and data mapping with the target systems and Improved performance on SQL queries used indexes for tuning created DDL Scripts for database and manipulated the data using DML.  
+Created PL/SQL Procedures to implement Property & Casualty related business logics and created database objects like Tables, Stored procedures, indexes, Sequences, Views and rules etc. 
+Implemented the standard naming conventions and maintained Entity, MASKED_NAME and Domain integrity while using SQL queries. 
+Created Informatica workflows to integrate data from different sources, transform the data and load it in IBM DB2 databases. 
+For database management system, TOAD was used for designing creating and managing DB2. 
+Created data mapping documents for the migration of data from transactional OLTP database to OLAP databases of Property & Casualty related policy and claim data to different environments while enhancing the system. 
+Did rigorous load testing by using MASKED_NAME. Used SQL scripting & automated the scheduling of the data to reduce efforts.
+Analyzed the gathered requirement and reviewed Business Requirement Document (BRD) and Functional Specification Document (FSD) for developing better understanding of system requirement to assist development team’s operations.
+Created System Requirement Specification (SRS) document to describe data, functional and non-functional requirement with the system modes and states with the system capabilities and highlighting the technical specifications that are supposed to be developed. 
+MASKED_NAME and built Use Case Diagram/ Activity Diagram for proper understanding of the system and communicated the same to development team and created Requirement Traceability matrix (RTM) using MS Excel. 
+Worked with the QA team for designing Test Plan and Test Cases for the User Acceptance Testing (UAT) and Regression Testing. 
+ENVIRONMENT: MASKED_NAME, IBM DB2, Informatica Power center, MS Access, LoadRunner, Mercury, Quality center, MS Office Suite (MASKED_NAME, MS SharePoint, MS PowerPoint, Waterfall, TFS, SQL Server, Microsoft .Net framework, IIS MASKED_LOCATION, MS windows Server 2008, asp.net, SOA, SOAP, XML, MS Visio 2008), HTML, HPQC
+OLX, Hyderabad, INDIA							                                          DURATION
+PROJECT DESCRIPTION: The scope of the project was to add a shipping cost estimator which calculates the shipping cost based on the product, distance and weight and implement detailed tracking information of the customer and providing updates to the customer regarding the delivery of the packages.
+ROLES AND RESPONSIBILITIES:  
+Was involved in creating the Project Initiation Document(PID).
+Assisted Project Manager in performing Cost benefit, Risk assessment and SWOT analysis.
+Assisted PM in creating Work Breakdown Structure and Project charter using MASKED_LOCATION project as well as involved in analyzing business requirements and developing system specifications.
+Created mockup screens for the user interface for the better understanding of the requirement and to resolve the business issues. 
+Actively interacted with different business groups to perform GAP analysis to identify the deficiencies in the system by comparing the actual objectives with the system objectives desired.
+Used Waterfall methodology. Assisted in Use Case Modeling and prepared Functional Requirements documents (FRD) and System Requirement Specification (SRS) incorporating business, functional, non-functional data and GUI requirements which would in turn serve as the counter piece of the project.
+Wrote Business rules pertaining to shipping functionality.
+Coordinated and controlled MASKED_NAME for the clients by conducting Impact and Cost analysis, prioritizing and mitigating changes and prepared change request form to provide details of Change request.
+Crated documents like BRD, FRD, SRS based on the requirements gathered from the business.
+Participated in the development and preparation of test plan with the testing team as well as ensuring testability, reliability, usability, maintainability and performance of the application.
+ENVIRONMENT: Waterfall, MASKED_NAME, MASKED_NAME, MASKED_NAME, MASKED_NAME script, Oracle warehouse builder, Rally, TFS, MS Access, MS Excel and MASKED_NAME.
+EDUCATION:
+Bachelors of Technology in Electrical Engineering. 

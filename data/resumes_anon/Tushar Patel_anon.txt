@@ -1,0 +1,36 @@
+MASKED_LOCATION
+18 years of IT experience with expertise in n-tier full SDLC utilizing latest MASKED_NAME and related technologies and libraries to design and implement highly scalable, clustered, multithreaded applications. 
+Expertise in Core Java, MASKED_NAME APIs (JSP, Servlets, EJB, JMS, JNDI, MASKED_NAME, JAXB, JAXP, MASKED_NAME), HTML, JavaScript, AJAX, AngularJS, XML technologies, App servers like WebLogic, Web sphere, Tomcat, JBoss.
+Expert in Object Oriented Analysis, Design and Programming.
+Expertise working on IoT(Internet of Things) projects on IBM Bluemix platform  using Photon Sensors on Hardware side, Cloudant big data database, MASKED_LOCATION, SocketIO, Express, Backbone & MySQL.
+Expertise working on Proof of Concept (POC) projects.
+Solid experience of improving Application Performance.
+Expertise Understating and Achieving Application Performance objectives, Measuring Performance Metrics, Identifying Application Bottlenecks
+Expertise Profiling Java Applications using Profilers like JProbe.
+Expertise in Database Tuning, MASKED_NAME, MASKED_NAME and Inefficient SQL Queries.
+Strong working Knowledge of various MASKED_NAME, MASKED_NAME design patterns.
+Solid experience developing Proof of Concept projects.
+Expertise developing SOAP and RESTFUL web services using SOA.
+Expertise working on MASKED_NAME, Spring and MASKED_NAME frameworks.
+Experience working on MASKED_LOCATION database such as MongoDB and Cloudant.
+Solid knowledge of Business Intelligence and Data Warehouse concepts.
+Experience developing iOS and android applications.
+Strong Experience working on B2B and B2C Ecommerce projects.
+Experience working Agile (XP, SCRUM) and RUP methodologies.
+Strong experience working with Customers and writing Requirements/Use Case/Design/Test Case documents and Use Case/Collaboration/Sequence/Class diagrams.
+Solid experience designing database in MASKED_LOCATION and SQL Server and writing Stored procedures and Triggers using PL/SQL
+Strong analytical, communication and interpersonal Skills.
+Meticulous attention to detail and outstanding customer service skills.
+Certifications Achieved:
+Technical skills
+Project Summaries 
+Education and Trainings
+Equivalent to BS in Computer Science.   
+BE in Electronics and Communications Engineering, 
+L. D. College of Engg. – Ahmedabad, 1997
+In-house training of web services deployment on tomcat using IBM wstk, UML, RUP, Object modeling using Rational Rose, MASKED_NAME, and multi agent artificial intelligent technology using ontology editor from MASKED_LOCATION
+Professional training on BEA Weblogic 6.0 architecture and administration.
+In-house training on Sybase, Informix databases.
+In-house training on ASP IIS, NES, Apache, Tomcat, ANT, Microsoft PWS 
+Professional training on Oracle 7.3, Developer 2000 and Visual Basic 5
+Professional training on IBM Mainframe on simulated environment

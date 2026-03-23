@@ -1,0 +1,119 @@
+Venkata
+Sr. PHP / Drupal Developer
+       Email: MASKED_EMAIL                                                       Cell: MASKED_PHONE
+Summary
+Around 9+ years of experience in PHP, LAMP, WAMP, MASKED_LOCATION, WordPress, Zend, CodeIgniter, Cake PHP Frameworks.
+Experienced in developing web-based applications using PHP 5.x, MySQL, XML, CSS, HTML, DHTML, XHTML, JavaScript, jQuery and AJAX Technology. 
+Experience in building frameworks in Python for Test Automation. 
+Solid experience in Relational Database Management System (RDBMS) design, programming, normalization and security administration. 
+Excellent knowledge in MASKED_NAME and Responsive Design
+Experience on working with CSS Backgrounds, MASKED_NAME, CSS Positioning, CSS Animations, CSS Text, CSS Borders, CSS Margin, CSS Padding, and CSS Table. 
+Effective skills of working with Eclipse IDE and MVC.
+Experienced in developing websites using HTML 4.0/5.0, CSS, CSS3, JavaScript, JQuery, MASKED_NAME and MASKED_NAME. 
+Designed the web layouts using Adobe Photoshop. 
+Experienced in developing application using 3-tier architecture (i.e. Presentation Layer, Business layer and Data access Layer). 
+Extensive experience with multiple technologies like Python 2.7, 3.2, 3.4, PHP, Shell Scripting, MASKED_NAME, C, Perl, and VBA. 
+Experienced in developing event driven applications using AJAX, MASKED_NAME and XML. 
+Incorporated the table less design methodology using CSS3 that follows W3C standards. 
+Advanced knowledge of HTML5, CSS3, XML, DHTML, JavaScript including JQuery, prototype libraries, Webkit
+Expertise in web applications that required cross browser compatibilities like MASKED_NAME, MASKED_NAME, MASKED_NAME, Internet Explorer and MASKED_LOCATION. 
+Extensively used the backbone.js, Angular js, reactjs frame works, MASKED_NAME and JavaScript frameworks jQuery.
+Excellent experience in implementing various design patterns including MVC
+Experienced on Installation, Integration and Configuration of third party tools, Content Management System (CODEIGNITER, MASKED_NAME).
+Developed custom Drupal Theme to effectively address business requirements. 
+Expertise in all PHP-related projects technical aspects like design, development, project documentation and product maintenance.  
+Excellent experience over Drupal 4/ 5/ 6/ 7/ 8.
+Experienced in Drupal tool like MASKED_NAME, UberSearch, Drupal Theme Viewer to create powerful and flexible web applications. 
+Experienced in third party payment gateway (PGP) with PHPscripting. 
+Expertise in deploying applications using Apache HTTP server, Tomcat server and MASKED_NAME server. 
+Technical Skills:
+Responsibilities
+Designed, MASKED_NAME Drupal Modules for implementing MASKED_NAME and REST API. 
+Worked on HTML, MASKED_NAME, JavaScript, CSS and their integration within a PHP environment.
+Coding in LAMP (Linux, Apache, MySQL, and PHP) environment. 
+Performed web development, template development, testing, debugging, integration, documentation and deployment
+Build interactive web application using JQuery, Javascript, DOM manipulation, MASKED_NAME, AJAX, 
+Bootstrap 2 and 3, responsive design.
+MASKED_NAME and supported existing applications built on the Drupal platform ensuring site availability
+Engaged in incident management, problem solving and solution implementation
+Designed and developed new web applications, forms, content management workflows leveraging Drupal
+Involved in MASKED_LOCATION, theming, customizing Drupal systems, including Drupal 7 and Drupal 8
+Created Drupal modules and the extended modules as needed.
+Worked on HTML5/CSS and jQuery in a Drupal based CMS environment
+Worked on analysis, design, development and implementation of web applications using PHP, MASKED_NAME, MASKED_NAME and MySQL
+Worked on an open-source CMS Drupal to build website using Drupal
+Heavily used MASKED_NAME and CSS3 and applied CSS frameworks such as Bootstrap
+Implemented AJAX and JQuery on Front-End to make the web page more dynamic.
+Dynamic content management at client side using AJAX, JavaScript, DHTML.
+Experience working with APIs, integrating with external web services including REST, XML or JSON
+Customized dashboard development for accessing easy user interface using front end tools such as MASKED_NAME, Jquery, MASKED_NAME etc. 
+Used PHP framework such as Cake, Zend and Zend 2
+Developed various sections using AngularJS, ReactJS, HTML, CSS, MASKED_LOCATION, MASKED_NAME, MASKED_NAME and Spring web service.
+Integration with multiples API using REST and SOAP. 
+Worked in an SVN/MASKED_NAME managed environment. 
+Worked on Stack Zend PHP, Apache Web Server, SVN, Oracle, JavaScript, jQuery
+Involved in integration testing, functional testing and UI testing
+Environment: Drupal 8/7/MASKED_ADDRESS API, MASKED_NAME, PHP 4/5, HTML 4/5, MASKED_NAME, CSS, AJAX, JavaScript, MySQL, Perl, Python, Windows, Apache, MVC Frame Work, jQuery, CSS. 
+Responsibilities
+Involved in back-end development with PHP (4/5), MySQL, XML and light database design. 
+Designed and developed multiuser, 3-tier MVC web-application (Apache, PHP5, Oracle11g, jQuery, MASKED_NAME, MASKED_NAME /JSON) for describing whole infrastructure.
+Worked with LAMP stack and open source software
+Used javascripct frameworks like MASKED_LOCATION,ANGULAR.JS
+Responsible for website maintenance client websites on a daily basis involving HTML, CSS, Drupal
+Involved in release into Production, Development, QA, and Staging.
+Optimized sites for usability, search engines and accessibility, and updated existing sites and content management systems.
+Made and implemented a huge variety of websites and web apps using PHP, JavaScript, MASKED_NAME, CSS3, MySQL
+Knowledge of modern web technologies and techniques (MASKED_NAME.JS, SASS, LESS, Responsive Design, etc.)
+Experience with version control systems like MASKED_NAME, SVN, etc. Experience working with CI/CD tools like MASKED_NAME, MASKED_NAME, etc. 
+Worked on coding optimized SQL queries, PL/SQL Stored Procedures, Functions, Packages and Triggers on databases like MySQL, MS SQL and MASKED_NAME
+Use of PHP and Zend framework.
+Used HTML, CSS, javascript, jquery on client side.
+MASKED_NAME code to create various design sliders on Home pages of websites.
+Involved in the development using Drupal and PHP
+Used Jquery for creating different menus and dialog boxes and also used different jquery plugins for calendar, calculator and printing options.
+Worked on Stack Zend PHP, Apache Web Server, SVN, Oracle, JavaScript, jQuery
+Created and implemented a wide variety of websites and web applications using PHP, JavaScript, MASKED_NAME, CSS3, MySQL
+Developed single paged web based apps using “backbone.js”.
+Build AJAX pages using PHP to display current server time
+Environment: Drupal, JQuery, MASKED_NAME, PHP, CSS,Python, MySQL, Google map api V3, MASKED_NAME, CSS, JavaScript 
+Responsibilities
+Involved in database design, application design and site architecture design to meet requirements
+Responsible for the development of web applications and scripts utilizing JavaScript, HTML, PHPand MySQL 
+Worked on Linux and UNIX platforms. Also worked with XML, XSD, and RESTful APIs 
+Developed user interface using PHP5, MASKED_NAME, JQuery, HTML, CSS, javascript, LAMP
+Built custom modules and libraries in Drupal
+Built secure, scalable backend solutions and wrote database queries and logic.
+Worked with Drupal modules, theming, distributions & content management
+Involved with both maintaining / updating & developing new client websites
+Involved with Quality assurance of own work, code testing, cross browser testing, etc.
+Involved in Website Code Optimization.
+Integrating REST web services PHP based API's into the site. 
+Responsible for creating efficient design and developing User Interaction screens using MASKED_NAME, CSS3, JavaScript, jQuery, AJAX and MASKED_NAME. 
+Developed various sections using AngularJS, HTML, CSS, MASKED_LOCATION, MASKED_NAME, MASKED_NAME and Spring web service
+Client side validations, structuring and reconstitution of sub templates and templates was performed using JavaScript. 
+Worked on HTML, CSS, PHP, ASP, MySQL, MSSQL, MASKED_NAME script / jQuery, Action Script 2/3
+Worked on Git Hub
+Wrote concise, clean, modular CSS, HTML, Drupal and PHP codes
+Worked on Drupal to create custom widgets
+Interact with the front end web development (HTML, CSS, JavaScript)
+Develop site themes with LESS or SASS and traditional CSS
+MASKED_LOCATION server database and updating PHP script. 
+Using three kind of database Granite Database, MASKED_NAME, MYSql.
+Environment: PHP, HTML, JavaScript, MYSQL, SVN, Drupal, Dreamweaver MX 2004, PHPMYADMIN, Visual Source Safe, MS Excel, jQuery MASKED_NAME, MASKED_NAME, XML, Python 
+Responsibilities
+Worked on HTML, CSS, and of digital imaging and illustration with Adobe Photoshop, InDesign, and Illustrator
+Worked on JavaScript, MASKED_NAME, and PHP and with Macromedia Flash.
+Worked on theme layer for Drupal
+Worked with the Foundation framework and with AJAX based sites/web applications.
+MASKED_NAME plugin for accordions and customized them meeting the business requirements. 
+Created Images, MASKED_NAME and Icons that are used across the web pages using MASKED_NAME and Photoshop. 
+Developed a user friendly secondary back end to update and maintain multiple Magento e-commerce installs using PHP, CSS, HTML, MYSQL and MSSQL. 
+Used HTML, CSS, javascript, jquery on client side. 
+Created Images, MASKED_NAME and Icons that are used across the web pages using MASKED_NAME and Photoshop. 
+Used advanced level of HTML5, JavaScript, CSS3 and pure CSS layouts (table less layout). 
+Involved with front-end integration projects using various frameworks and MASKED_NAME, MASKED_NAME, CSS3, JavaScript, DOM, and MASKED_NAME technologies and methodologies. 
+Back end development and maintenance of websites using PHP and MySQL. 
+Efficiently developed code for different modules by using Oracle SQL, PLSQL and Shell scripting 
+Used advanced level of HTML5, JavaScript, CSS3 and pure CSS layouts (table less layout). 
+Involved with front-end integration projects using various frameworks and MASKED_NAME, MASKED_NAME, CSS3, JavaScript, DOM, and MASKED_NAME technologies and methodologies. 
+Environment: Magento, PHP, MySQL, LAMP, Zend, MASKED_NAME, AJAX, Jquery, CSS3, MASKED_NAME, MASKED_NAME, Cake  JQuery, Code ignitor,  MASKED_NAME, XML, XSD, SAAS, PL/SQL, Photoshop, UNIX .

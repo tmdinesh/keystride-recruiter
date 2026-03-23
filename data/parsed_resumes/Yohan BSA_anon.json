@@ -1,0 +1,25 @@
+{
+  "resume_id": "Yohan BSA_anon",
+  "skills": [
+    "html",
+    "rest",
+    "soap",
+    "sql",
+    "mysql",
+    "oracle",
+    "apache",
+    "spark",
+    "hadoop",
+    "tableau",
+    "power bi",
+    "confluence",
+    "postman"
+  ],
+  "education": {
+    "degree": "Worked with QA team to prepare master test plan, test strategy, test cases, and test scripts to perform functional testing, black-box testing, GUI testing, system testing, performance testing, stress testing, sanity testing, regression testing, and supported user acceptance testing (UAT)",
+    "year": "Unknown"
+  },
+  "experience_years": 8,
+  "projects": [],
+  "certifications": []
+}

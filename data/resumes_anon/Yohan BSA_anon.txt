@@ -1,0 +1,163 @@
+YOHAN 
+Sr. Business Analyst
+Versatile, effective professional with 8+ years of IT Experience in conceiving, developing and implementing cutting edge solutions in Software Development Life Cycle and Agile environments. Seasoned technical solution provider, with an intuitive sense of end-user requirements. Keen relationship builder, tech savvy team leader, and engaging communicator. MASKED_NAME oriented professional with proven leadership and experience in Project management, Functional and Business Analysis with specialization in MASKED_LOCATION, Retail and E-Commerce.
+Professional Summary: 
+Competent experience from working on different phases of Software Development Lifecycle (SDLC) utilizing the Waterfall methodology, and Agile methodologies like SCRUM, Kanban and Waterfall-Agile hybrid. Have a sound understanding of Scaled Agile Framework (SAFe)
+Experience in strategic sourcing, strategic planning, resource management, procurement and sourcing in the supply chain of projects using tools such as NetSuite, MASKED_NAME and SAP Ariba
+In depth understanding of the Gap Analysis i.e., As-Is and To-Be business processes and strong experience in gathering requirements and converting these requirements into Technical Specifications documents
+Possess expertise in tracing requirements throughout the development process and verifying adherence to Requirement Traceability Matrix (RTM) using tools such as Excel and Rational Requisite Pro. Performed Cost benefit analysis, and SWOT analysis to obtain clarity on requirements
+Experience in creating Business Requirement Documents (BRD), Functional requirement MASKED_NAME (FRD), Use Case Narratives & Use Case Diagrams among others
+Strong analysis, communication and training skills with proven leadership and ability to work as the primary interface between Business partners and Developers/SME’s/Architect/UX team
+Experienced in Migration of Legacy system into implementing Content Management Systems using SharePoint
+Experience in content and metadata migration and consolidation of templates
+Working knowledge in data warehousing concepts, Data Marts, Operational Data Stores and ETL Tool - IBM® MASKED_NAME (InfoSphere) DataStage® & Informatica Power Center. Worked extensively with Data warehouses by migrating data from various OLTP’s to OLAP cube using Informatica Power Center 
+Strong understanding of Multi-Dimensional Database schemas like Star, Snowflake, Fact Constellation Schema; Fact and Dimensional tables
+Worked on multiple data analysis task to analyze data, tables and other database contents
+Experience in creating SQL Queries in SQL Server including DDL and DML, with a strong understanding of data & analytics; creating and requesting the updates of data dictionaries
+Experience in documenting and executing quality Test Plans, Test Cases, and verifying and validating complex scenarios for quality purposes including User Acceptance Testing (UAT), Blackbox testing, MASKED_NAME, Regression testing, Load & Spike testing
+Involved in reviewing and analyzing various test metrics including process and product metrics such as Test Design Coverage, Test Execution Productivity, Test Execution Coverage, Test Cases passed, Test Cases failed, Error Discovery rate, Defect Fix Rate, Defect Removal Efficiency
+Collaborated with QA team in performing automated testing using tools such as Selenium, MASKED_NAME, HP UFT 
+Extensive experience in creating SQL reports, graphical interactive UI and dashboards using QlikSense, Power BI and MASKED_LOCATION from multiple data sources like SQL, MASKED_NAME and flat files like MASKED_NAME, CSV, Excel
+Well acquainted with Unified MASKED_NAME (UML) diagrams including Use Cases, Activity, and Sequence diagrams therefore assisting in Business Process Modeling
+Expertise Reporting, Visualizations and Project Management, creating meaningful insights on KPI’s such as Order fill rate, Stockout rate, Backorder levels, inventory levels, inventory turnover rate etc.
+Excellent technical skills with, Oracle - Advanced Benefits, SAP - Ariba, Informatica Power Center, Exact Target, SQL Navigator, MASKED_NAME, Confluence, SharePoint, HP ALM 
+Experience in documenting tags of REST and SOAP UI and involved in API testing using MASKED_NAME
+Experience in SAP ERP – Ariba integrated environments, actively involved in the Sell Side of the system
+Education and Certification:
+Business Analytics & Economics – Harvard Business School
+Bachelor of Engineering – Mechanical Engineering
+Technical Skills/Knowledge:
+Experience:
+Sr. Business Systems Analyst
+NXP Semiconductors – MASKED_NAME, TX
+December 2016 – Present
+Description: This project succeeded the migration of the client’s legacy distributed storage to a cloud-based platform designed for asset management with real time data provision and global connectivity. The mission was to provide our clients with a unified platform experience to manage hundreds of thousands of devices with the help of our cutting-edge sensors and platform solutions. The values we delivered were operational intelligence, effective compliance adherence, predictability of maintenance needs, improved equipment availability and overall supply chain life cycle.
+MASKED_NAME and Responsibilities:
+Conduct meetings with Subject Matter Experts to identify business needs and set up walkthrough meetings with Business Users and Directors
+Working with MS Word, MS Excel, MS Project, MS Visio for documentation and analysis reports among other project management and reporting tools
+MASKED_NAME behind the elimination of the supplier Code of Conduct Compliance (CoC) issues as well as the Universal Device Identification (UDI) regulation adherence issues
+Document analysis and represent them in Requirements Traceability Matrix (RTM) using Requisite Pro
+Maintain project documents and share important links and tutorials, etc. with the team using SharePoint
+Create User Requirement Specifications (URS) and Functional Requirement Specifications (FRS) documents after consultation with the stakeholders involved using elicitation techniques like interviews, and focus groups
+Design Use Case Diagrams and wrote their specifications in the Use Case Specification documents using UML/Visio based on the requirements gathered
+Direct several mission critical updates like Db2 and SQL Server upgrade, file system upgrades, DLL installations, disaster recovery testing etc.
+Provided detailed information about business data, such as standard definitions of data elements, their meanings and allowable values using Data Dictionary
+Performed data mapping using MASKED_LOCATION PowerCenter 8.6, validated connection objects and target writing path of the concerned warehouse with the help of proper naming conventions
+Proficient in design and development of various dashboards, reports utilizing Tableau Visualizations like bar graphs, line diagrams, pareto charts, funnel charts, scatter plots, pie-charts, donut charts, bubble charts, funnel charts, heat maps, tree maps according to the end user requirements
+Discuss table design, data flow, data migration, ETL processes, reporting via Tableau, & consequently discuss with development team requirement details
+Involved in UAT and post-production support by creating a checklist to ensure close to 100% coverage
+Assisted QA Team in executing the Test Plans, Test Cases, Test Scenarios and collected the Test and Process Metrics. Also, assisted with writing manual testing scripts when needed
+Utilized Manual testing methodologies using HP QC ALM to check validity of existing data within the databases and also to protect the system from SQL Injection Attacks. Assisted in writing Test Scripts to check load capacity and spikes using MASKED_NAME
+Developed numerous Reports / Dashboards with different Analytics Views (Drill-Down / Dynamic, Cascading Style Sheets, Pivot Table, Column Selector, Tabular with global and local Filters) using Presentation Services
+Supported the Ariba Implementation of Ariba Contract Management, Contract Compliance, Sourcing, SLP and Guided Buying modules
+Involved in create, read, update and delete operations within SAP – ERP 6.0 related to purchase orders, sales orders, work orders, transfer orders
+Created a mapping document that maps all the fields in the HTML pages to XML tags which are in turn mapped with the tables and column names in the database and involved in performing client-side validation
+Environment: Waterfall-Agile, MS Office, MS Project, MASKED_NAME, MySQL, IBM Db2 10.5, Postman 4.8, Informatica PowerCenter 9.6.x, MASKED_LOCATION 8.3.11, IBM Websphere, MASKED_NAME, IBM Maximo 7.6, Rational Requisite Pro, HP ALM, HP UFT 12.0, MASKED_NAME, MASKED_NAME, SAP – ERP 6.0, SAP – Ariba, HTML, XML, MASKED_NAME, Twilio 2.0.0
+Sr. Business Analyst
+MASKED_NAME’s – MASKED_LOCATION, WI
+October 2015 – November 2016
+Description: The client is a value-oriented organization that specializes in offering retail services. Manage the development, implementation and administration of MASKED_NAME. Work collaboratively with internal business groups and MASKED_NAME's vendor group to monitor and improve vendor compliance to established business rules and guidelines. Drive consistent excellent vendor performance while reducing expense and waste from the total supply chain.
+MASKED_NAME and Responsibilities:
+Assisted Product Owner in release level, sprint level and product backlog economics with respect to supply chain
+Improved the product backlog incrementally and reviewed it with Product Owner during sprints
+MASKED_LOCATION project experience on Ariba Spend Management Suite - Ariba Buyer, MASKED_NAME, Analysis and Contracts Workbench
+Helped visualize business goals in the form of success indicators & KPI’s which included order fulfillment rates, on-time delivery, PO item fill rate, MASKED_LOCATION quantity fill rate, GM return on investment etc.
+Helped create wireframes for UI / UX requirements with direction from Product Owner and Presentation Layer from JAD sessions
+Enhanced the flow of communication between stakeholders and acted as the point of contact for all incident tickets and test environment issues. Coordinate issue escalation and/or resolution, manage code installs, and manage security for respective environments
+Responsible for writing effective user stories using INVEST criteria and splitting into tasks using the SMART criteria and defined the Acceptance criteria. Helped the team in estimating stories using techniques Planning Poker and proficient in prioritization techniques like MASKED_LOCATION and KANO based on the business needs prevalent during that season. Expert at performing various retrospective techniques as well
+Developed & maintained Requirements Traceability Matrix (RTM) tracking end-to-end mapping of system specifications and test cases ensuring 100% coverage
+Created, assigned, and maintained tickets in MASKED_LOCATION for issues, bugs and defects so that these could be monitored systematically to its closeout. Also performed Issue Tracking in MASKED_LOCATION to effectively track impediments surrounding user stories and other dependencies
+Used MASKED_NAME to create MASKED_NAME and MASKED_NAME reports to present to relevant high-level stakeholders to identify the next courses of action regarding the release, supporting our supply chain
+MASKED_NAME and communicated requirements with the team in Test Driven Development (TDD), Behavior Driven Development (BDD) which were used in test-centric development and daily standup meetings, ensuring quality standards were met as per the build-release schedule
+Involved in writing MASKED_NAME in MASKED_LOCATION for MASKED_NAME testing and have experience and collaborated in the Cucumber – Selenium integrated automated testing environment for BDD
+Assisted the team in writing user stories by clearly articulating each Acceptance Criteria written in MASKED_LOCATION. Constantly re-iterated how each user story relates to the final Definition of Done (DoD)
+Created Master Test Plan, Test Scenarios, Test Cases, and Test Scripts and performed facilitated User Acceptance Testing (UAT) collaborating intensively with the quality assurance team
+Involved in API documentation and testing using MASKED_NAME, provided guidance and review for SOA implementation its deployment and management. Integration based on XML / JSON data representation using SOAP / REST Services or orchestrated services
+Utilized SQL to probe data dependency issues and inconsistencies to safeguard against SQL Injection
+Set up the reporting tools and monitored the reporting functions for the clients using MS Excel and Power BI
+Environment: Agile, Apache Hadoop, HDFS, MASKED_NAME, MASKED_NAME, MASKED_NAME, SQL, MS Office, MS Project, Selenium, Cucumber, Power BI, MASKED_NAME, SAP – Ariba Spend Management Suite
+Sr. Business Analyst
+State of Massachusetts – MASKED_LOCATION, MASKED_LOCATION
+February 2014 – September 2015
+Description: The client was the Department of Transportation and is a provider of transportation solutions used by public to manage and mitigate risk. I was a part of a team involved in one of the bridge improvements project and was one of the five largest projects of the $3 billion effort to reduce the number of structurally deficient bridges in MASKED_LOCATION. 
+MASKED_NAME and Responsibilities:
+Accomplished experience through whole SDLC from requirement analysis till deployment
+MASKED_NAME and negotiated terms of contract that ensure quality of service and cost savings 
+Created and tracked schedules to ensure deliverables are met throughout the SDLC
+Developed non-functional and functional requirements documents like BRD, FRD, and SRS
+Created need analysis documents of the requirements gathered through JAD, Brainstorming and interviews sessions using Rational Requisite Pro
+Coordinated and managed business analyst resources work queue to ensure project timelines are met to produce builds as per the requirements using MS Project
+Actively involved in Advanced Planning and Scheduling (APS) including production scheduling, distribution planning and transportation planning
+Worked on Accounts Receivables, Accounts Payables, cash management, asset management, supplier management using the SAP ERP - Ariba integrated modules 
+Provided Systems Consultant functions such as managing change requests across the systems development life-cycle (SDLC), building and managing client business user relationships in a highly dynamic work environment
+Participated in the Change Control Board to identify the impact of the change, collaborate and come to a consensus as to its feasibility and risks involved chartered documents on the appropriate next steps 
+Did root cause analysis to identify data quality problems and obtain historical trends
+Created Physical architecture diagrams from Conceptual architecture diagrams using the MASKED_NAME tool
+Involved in the maintenance and timely updates of Data Dictionary
+Extensive experience in UAT testing and post – production support by creating a checklist to ensure close to 100% requirements coverage
+Worked proactively with the DevOps team in performing Impact analysis, Cost Benefit analysis, and capturing Risks in Risk Registers and mitigating using Risk Mitigation Strategies
+Build rich and dynamic dashboards using out-of-the-box features, customizations, visualizations and advance functionalities like Groups in calculations, Cluster analysis, MASKED_NAME joins etc. in MicroStrategy
+Environment: MASKED_NAME, MASKED_NAME 9.5, Rational Requisite Pro, Oracle 11g, MS Office, MicroStrategy 9.5x, Oracle NetSuite, SAP – ERP, SAP - Ariba
+Business Systems Analyst
+VF Corporation – Greensboro, MASKED_LOCATION
+March 2013 – December 2013
+Description: The company has a diverse e-commerce portfolio of brands that meet consumer needs across a broad spectrum of activities and lifestyles. The objective of the project was to develop a system that can process large volumes of data structures to analyze sales and operational raw data by simulating different scenarios and provide the business users with predictive analysis that would help in accurate and efficient strategical planning and marketing. The project involved implementing MASKED_LOCATION, developing a web application and enhancing the mobile application designed for Chinese and Taiwanese markets.
+MASKED_NAME and Responsibilities:
+Organized, set up and facilitated JAD sessions, and functional design review meetings
+Provided assistance with creating process flow and data flow diagrams. Assisted architects in the creation of Physical and Logical architecture diagrams by clearly communicating requirements
+Updated business specification documentation based on updates to functionality of the systems
+Collaborated with Program manager, Product Management to revise User Acceptance Criteria and change management plan by integrating the insights from focus groups and impact analysis. Facilitated UAT sessions to demo features and functionalities with the end users and obtained feedback
+Reviewed the Data Models and updated Data Mapping Documents as needed
+Performed SQL data validation for the data integrity in the back-end systems
+Worked closely with Product management and Program manager in designing the change management plan using Rational Clear Quest and analyzed impact, incorporated feedback from business focus groups 
+Designed and created business dashboards by using MASKED_LOCATION to extract key insights such as resource utilization and changes in inventory levels
+Performed GAP analysis to derive requirements for existing system enhancements
+Involved in writing MASKED_NAME in MASKED_LOCATION for MASKED_NAME testing and have experience and collaborated in the Cucumber – Selenium integrated automated testing environment for BDD
+Requested updates and was actively involved with Data Dictionary maintenance 
+Designed the Use Case Diagrams and coordinated with multiple resources in creation of Activity Diagrams and Sequence Diagrams using MS Visio
+Worked with QA team to prepare master test plan, test strategy, test cases, and test scripts to perform functional testing, black-box testing, GUI testing, system testing, performance testing, stress testing, sanity testing, regression testing, and supported user acceptance testing (UAT)
+Environment: Agile (SAFe), MySQL, Hadoop, Apache Flume and MASKED_NAME, Apache Spark, Apache Tomcat, Cucumber, Selenium, XML, HTML, JSON, HTTP, REST API, MASKED_NAME, MASKED_NAME, MASKED_LOCATION 7.0.MASKED_ADDRESS
+Zomato – Bangalore, MASKED_LOCATION
+August 2012 – March 2013
+Description: MASKED_NAME is an Indian restaurant search and discovery service founded in 2008. To ease data management and reporting, MASKED_NAME was looking for an end-to-end data warehouse solution that can help them improve performance of their multiple client databases and offload reporting from their production server. Our team provided solutions to extract the data from the database for predictive analysis.
+MASKED_NAME and Responsibilities:
+Identifying customer inputs, activities and release calendar
+Estimating cost/effort, forecasting defects, and managing uncertainty. Streamlined project management practices, eliminated role confusion and ensured tasks are not overlooked by creating RACI matrices
+Documented the Traceability Matrix for tracing the Test Cases and requirements related to them
+Led and innovated in the expansion of the group's use of issue tracking system MASKED_NAME
+Used SharePoint for uploading project deliverables and maintaining the documents
+Was responsible for handing requirement churn, by successfully transitioning from longer release cycles to shorter ones, reducing risk and increasing flexibility to remain competitive
+Involved in technical writing, API documentation and end user manuals and documentation using MS Office Suite (Word, MS Access, Excel, Power point)
+Involved in Regression Testing every new build in MASKED_LOCATION, QA and Pre-Production Environments
+Assisted QA team in MASKED_LOCATION, and Regression testing to validate report and mapping functionality
+Extensively worked in Data Requirement Analysis and Data Mapping for ETL process using the Informatica PowerCenter Suite including modules like MASKED_NAME, MASKED_NAME, and MASKED_NAME: Agile, MASKED_NAME, Informatica PowerCenter 9.0.x, HP ALM, HP QTP 11.0, Oracle 10g, Crystal
+Business/Data Analyst
+Alibaba.com - Singapore
+June 2011 – July 2012
+Description: The organization is a multi-national e-commerce consumer goods corporation whose portfolio includes a wide range of household goods. When the company first registered in MASKED_LOCATION, we were one of the first offshore teams to provide services that included various projects/programs building/maintaining portal/web applications; enhancing, maintaining and supporting MASKED_LOCATION web sites, development of e-commerce Applications for the MASKED_LOCATION market
+Roles and Responsibilities:
+Conducted requirement gathering with end users and converted them into business specs and developed the specs into application design and development
+Conducted Gap Analysis to check the compatibility of the existing infrastructure with the new Business Requirements that helped provide key insights
+Performed data analysis, data cleansing and presented results using SQL, SSIS, Excel
+Created Project Plan, MASKED_NAME, and MASKED_NAME using MS Project
+Assisted in the construction of Logical models and Entity Relationship Design using ERwin
+Worked as a unit BA lead with Data Warehouse team for transferring information between the business, developer, data modeler and testing team
+Interacted with third party vendors to help the company with mission critical applications
+Performed basic DML and DDL Queries to probe and perform CRUD operations on the existing database under supervision of Lead Developer
+Created SSIS packages to load data from Oracle to SQL Server using various transformations in MASKED_LOCATION
+Created different report views like Table, Pivot, Graph, Narrative, Static, Filter for testing purpose
+Environment: Waterfall-SDLC, MASKED_NAME 10g, Microsoft SQL Server, SSIS, MS Office Suite, MASKED_NAME 8, MS Project
+SQL Developer
+Flipkart –MASKED_NAME, MASKED_LOCATION
+June 2009 – May 2011
+Description: The organization is an e-commerce company, providing technology solutions and services for consumers, small-businesses and enterprises. Flipkart maintained several legacy product data repositories that would feed customer facing portals. These product data repositories formed the core of the client’s ability to configure components and products based on customer preferences to form a complete product. Our team was involved in building the integration bridge between PIR’s and EDR.
+MASKED_NAME and Responsibilities:
+Developed Use Case diagrams, business flow diagrams, Activity/State diagrams and Sequence diagrams using Rational Requisite Pro so that developers and other stakeholders can understand the business process
+Established Traceability Matrix using Excel to trace completeness of requirements in different SDLC stages
+Involved in requirements gathering of the work streams by meeting with the business user and baselining details
+Evaluated POS in regard to establishing stores across the country by 2015
+Wrote basic SQL queries for retrieving data from Database using Microsoft SQL Server
+Used SQL queries to modify the application with different data sets
+Experienced in Data ETL using various tools such as SQL Server Integration Services (SSIS)
+Assisted SQL Lead in using SQL Server Profiler that aided in profiling server resource usage and optimization
+Environment: Waterfall, MASKED_LOCATION, Microsoft SQL Server, SQL MASKED_NAME, MASKED_NAME, SSIS, Crystal

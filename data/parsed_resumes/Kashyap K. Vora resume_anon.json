@@ -1,0 +1,35 @@
+{
+  "resume_id": "Kashyap K. Vora resume_anon",
+  "skills": [
+    "python",
+    "java",
+    "javascript",
+    "ruby",
+    "scala",
+    "r",
+    "html",
+    "css",
+    "express",
+    "rest",
+    "soap",
+    "sql",
+    "oracle",
+    "aws",
+    "azure",
+    "apache",
+    "machine learning",
+    "spark",
+    "hadoop",
+    "jira",
+    "confluence"
+  ],
+  "education": {
+    "degree": "Education: Master of Science in Engineering \u2013 New Jersey Institute of Technology (August 2008 to December 2009).",
+    "year": "2008"
+  },
+  "experience_years": 10,
+  "projects": [],
+  "certifications": [
+    "Certification: Certified Data Scientist i.e. Data Science Professional (from John Hopkins University)."
+  ]
+}

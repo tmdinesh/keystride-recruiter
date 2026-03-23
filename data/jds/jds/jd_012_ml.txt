@@ -1,0 +1,45 @@
+ROLE: Senior ML Engineer
+SOURCE: Synthetic
+URL: N/A
+COMPANY: Orbit Solutions
+
+============================================================
+  SENIOR ML ENGINEER
+  Orbit Solutions
+============================================================
+
+ABOUT THE COMPANY
+----------------------------------------
+Orbit Solutions is a cutting-edge technology firm dedicated to leveraging artificial intelligence and machine learning to solve complex industry challenges. We build innovative, data-driven products that empower businesses to make smarter decisions and achieve unparalleled efficiency. Join our team to contribute to the next generation of intelligent systems.
+
+RESPONSIBILITIES
+----------------------------------------
+  • Design, develop, and deploy scalable machine learning models and pipelines using TensorFlow.
+  • Lead the entire ML lifecycle, from data exploration and feature engineering to model training, evaluation, and production deployment.
+  • Optimize existing ML models for performance, efficiency, and scalability in production environments.
+  • Collaborate with cross-functional teams (data scientists, software engineers, product managers) to integrate ML solutions into core products.
+  • Mentor junior ML engineers and contribute to best practices in model development, MLOps, and code quality.
+
+REQUIRED SKILLS (Must-Have)
+----------------------------------------
+  ✅ Extensive experience with TensorFlow (2.x preferred) and its ecosystem (Keras, TensorFlow Extended)
+  ✅ Strong proficiency in Python for machine learning and data manipulation (e.g., NumPy, pandas, scikit-learn)
+  ✅ Proven experience with MLOps principles and tools for model versioning, deployment, and monitoring (e.g., MLflow, Kubeflow)
+  ✅ Solid understanding of deep learning architectures (e.g., CNNs, RNNs, Transformers) and their application
+  ✅ Experience with cloud platforms for ML workloads (e.g., AWS Sagemaker, Google Cloud AI Platform, Azure ML)
+  ✅ Proficiency in designing and implementing robust data processing pipelines (e.g., Apache Spark, Apache Flink)
+
+PREFERRED SKILLS (Nice-to-Have)
+----------------------------------------
+  ⭐ Familiarity with other ML frameworks such as PyTorch or JAX
+  ⭐ Experience with containerization technologies (Docker, Kubernetes)
+  ⭐ Knowledge of distributed training techniques and model serving at scale
+
+EXPERIENCE & EDUCATION
+----------------------------------------
+  Experience: 4-7 years
+  Education:  Bachelor's or Master's degree in Computer Science, Electrical Engineering, or a related quantitative field.
+
+COMPENSATION
+----------------------------------------
+  $140,000 - $190,000

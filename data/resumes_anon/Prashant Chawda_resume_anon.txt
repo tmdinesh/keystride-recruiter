@@ -1,0 +1,120 @@
+Prashant Chawda, PMP, CSM
+Mobile: MASKED_PHONE
+MASKED_EMAIL 
+Senior Project Manager
+Professional Experience:
+Around 19 years of industry experience in various functions of software includes program management, extensive customer support/stakeholder management skills with strong technical acumen. 
+Result-driven PMI certified professional and Certified ScurmMaster with MASKED_ADDRESS in increasing productivity, quality and customer satisfaction.
+A passion for excellence and a tenacious leader for results is a key attribute.           
+Core competencies include:
+Technical Skills:
+Education:
+Business Administration 									      2007 - 2008
+Indian Institute of Management, Calcutta (IIM-C) 
+Bachelor of Engineering (Electronics & Instrumentation), 							    1995
+Gulbarga University  
+Trained on Scaled Agile Framework (SAFe)		 						    2015
+BSI ISMS Auditor training 										    2012
+Certifications:
+Certified Scrum Master from MASKED_NAME (CSM) - 2015
+Certified Project Management Professional from PMI institute (PMP) - 2005
+Certified Project Management Professional from Brainbench certification body - 2005
+Tavant Management Team: Individual Excellence Award for ‘Accountability and Execution’ – 2006 & 2009
+Certificate of Appreciation for Outstanding delivery from client (NACCO) - MASKED_ADDRESS Indian Corporation (now CTS) - 2005
+Certified BSI 27001:2005 Information Security Management System Internal Auditor - 2012
+Professional Affiliation:
+
+Member, Project Management Institute (MASKED_LOCATION).
+Experience Summary:
+First Guaranty Mortgage Corporation							            Jun16 - Present
+Senior Program Manager
+Responsibilities:                                    
+Excellent stakeholder management skills with a shared vision, consensus building and customer relationship through constant & proactive engagement to maximize business objectives. 
+Enhance team’s delivery capability by monitoring their work and providing guidance in understanding the requirements and resolving issues.
+Focus on value delivered to the customer and constantly work with client facing counterparts. 
+Moderated meetings at client side with various stakeholders participating. 
+Encourage a work culture to build self-driven teams to pro-actively share, load and constantly support each other in day-to-day activities.
+Followed Agile process by task allocation/management using Microsoft Team Foundation Server, sprint capacity planning and creating burn-down chart to facilitate planning of the sprints. 
+Conducted demos after every sprint and retrospective meeting as continuous improvement.
+Identifying risks / issues and building mitigation / contingency plan.
+Monitor and report project progress by: Meeting business requirements, making deliveries as planned, Identifying and managing project risks / Issues.
+ACT, NACCO Materials Handling								Sep12 – May16
+Senior Project Manager,            
+Responsibilities:                                                                           
+Managed multiyear, multimillion, high visibility, large and complex application project spanning across different countries (MASKED_LOCATION, EMEA, MASKED_LOCATION)
+Handled large fixed bid account involving multiple large fixed bid projects executed in parallel includes new implementation, maintenance projects, development of 120 analytical reports on Cognos platform
+Managed project managers with peak team size of 60+ team members
+Involved in defining product roadmap for growing account and practice
+P & L management to keep cost under control and executed on all SLA metrics 
+Grew the revenue from $0.5M to $4M+ in a span of 2 yrs by developing strong customer relationship and help reduce sales cycle for the new projects
+Accomplishments: 
+Adapted automation to reduce headcount thus resulting in cost saving of $150K over an year.
+Adapted innovative means of product development by developing tool to validate data for data migration process reducing turnaround time from 15 days to 8 days thus increasing productivity.
+Margin expansion done by delivering MASKED_LOCATION’s worth $300K over 1.5 yrs thus increasing overall margin for one of the projects.
+Awards:
+Certificate of Appreciation from Customer for outstanding delivery.
+Tavant Technologies, MASKED_LOCATION  							             Jan10 – Aug12
+Senior Project Manager,                                                    
+Clients: Wolters Kluwer Financial Services, Land ‘O’Lakes, MASKED_NAME, HSP
+Responsibilities:                                                                           
+Responsible for handling multiple customers for various accounts
+Program execution of a cluster of 12 projects by managing teams onsite and offshore
+Architected technical/ commercial proposals / RFP by teaming up with Practice director.
+Created / reviewed / modified SOW’s / proposals for customer approval / signoff.
+Successfully delivered various mobiles projects for Android and  IOS applications using various technologies like Objective C, Titanium framework (Appcelerator), MASKED_LOCATION 2.0
+Handled mobile development projects designed for both iPhone and iPad 
+Delivered solutions using various technologies like Microsoft based technologies, MASKED_NAME/J2EE, mobile technologies and host of other proprietary tools and technologies to various clients in various domains.
+Accomplishments:
+Key team member to execute the project management processes on the lines of PMI across the organization. Mentored emerging new managers
+Pioneered new practices to increase organizational execution
+Tavant Technologies, Bengaluru							              Jan07 – Dec09
+Project Manager,                                                                  
+Responsibilities:                                                                           
+Handled complex projects through their entire lifecycle 
+Identified and helped deploy open source tools for cost optimization resulting in 90% reduction in licensing cost
+Involved in customer presentation/demos during customer visits for new prospective clients.
+Agile process was followed for managing / allocating tasks using JIRA tool, used sprint capacity planning and burn-down chart to manage sprints. 
+Ensure 100% compliance of the SEPG processes
+Accomplishments:
+Responsible for setting up the account from scratch starting with one project and then grew the account to 7 projects in a span of 1 yr by successful deliveries resulting in being promoted to next level
+Awards:
+Tavant Management Individual Excellence Award for ‘Accountability and Execution’ – 2009.
+Tavant Technologies, Bengaluru							             Nov05 – Dec06
+Associate Project Manager,                                               ,   
+Responsibilities:                                                                           
+Responsible for complete end to end delivery of the projects, that includes,
+Scoping, planning, scheduling, tracking and status reporting.
+Estimation and budgeting, change management, metrics collection.
+Identifying risks / issues and building mitigation / contingency plan.
+Application process review audits and configuration audits.
+Lead the team through a challenging project, handling HR issues and conflicts in the process 
+Accomplishments:
+Was one of the highest CSAT and ESAT rated managers in the organization.
+Successful releases of projects resulted in a satisfied customer which in turn resulted in customer providing me an opportunity to handle additional projects for the same account.
+Awards:
+Tavant Management Individual Excellence Award for ‘Accountability and Execution’ – 2006.
+First Indian Corporation, B’lore (Now part of CTS),  					             Mar04 – Sep05	
+MASKED_NAME, 	                             
+Responsibilities:                                                                           
+Worked in supervisory role as technical lead for team, point of contact for both offshore and onshore teams.
+Lead multiple teams in the areas of ,
+Application development, UI automation and Quality assurance
+Accomplishments:
+Increased project revenue through customer satisfaction, developed management skills and enhanced technical leadership
+Awards:
+Certificate of Appreciation for Outstanding Performance.
+IBM Global Services India Ltd, B’lore,  							 Oct02 – Mar04
+Senior Software Engineer
+Requirements management, design document and application development 
+Adherence to SLAs in providing 24/7 production support, hot fixes with bonus/penalty implications.
+Assign and track tasks, plan delivery schedules and code releases to production. 
+MASKED_NAME, B’lore											  Jul01 – Oct02
+Software Engineer, 			                 	                     ,  
+Application development using MASKED_NAME/J2EE technologies, Servlets with MASKED_NAME. Server, JBoss
+HCL InfoSystems Ltd, Chennai,  						                         Sept00 – Jun01
+Consultant,
+Application development using MASKED_NAME/J2EE technologies with weblogic MASKED_NAME. server
+Pentasoft Technologies Ltd, Chennai,  	             Jan97 – Aug00                       
+Assistant Consultant,	                        
+Application web development using technologies like MASKED_NAME, Servlets, JavaScript and HTML 
+Application development using COBOL, IBM Mainframe technologies on ES/9000, S/390

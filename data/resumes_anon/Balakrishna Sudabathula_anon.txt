@@ -1,0 +1,113 @@
+ Name: Balakrishna Sudabathula
+  Email: MASKED_EMAIL
+M: MASKED_PHONE	
+PROFESSIONAL SUMMARY:
+Having 10 years of IT experience in Software Development with proficiency in developing Enterprise-based and web-based applications using MASKED_NAME/J2EE, SQL and PLSQL technologies.
+Experienced as a JAVA/J2EE developer in the areas of Analysis, Design, Development, Implementation and Testing of web based and client server multi-tier applications.
+Worked on full cycle development from conceptualization to programming and deployment.
+Expertise in the areas of MASKED_LOCATION, MASKED_NAME, Spring Data, Spring MASKED_NAME, Micro services, Restful Web services, MASKED_NAME, JPA, Struts, Servlets, JSP, MASKED_NAME, MASKED_NAME, AWS and Build Tools
+Familar with front end technologies like HTML, CSS,MASKED_NAME, JavaScript, AngularJS and MASKED_NAME JS.
+  Good experience with huge transactions using MASKED_NAME and batch wise operations. 
+Exceptional at team building and motivating either at a peer level or in a leadership role. Able to work with little or no supervision. Good communication and time management skills.
+TECHNICAL SKILLS:
+Technologies: MASKED_NAME, J2EE, EJB, MASKED_NAME, JSP/JSF, Servlets, MASKED_NAME, MASKED_NAME, MASKED_NAME, Messaging (JMS),       Multithreading, Web Services,  SQL, PL/SQL and MASKED_LOCATION.
+Web Technologies: JavaScript, UML, HTML, XML, CSS, AngularJS , NodeJS
+Application Servers: MASKED_NAME 10.x/8.1, WebSphere 7.0/6.1, Tomcat 8.0, Jboss 4.x
+Frameworks/ORM tools: Spring 4.x/3.x/2.5, MASKED_NAME, MASKED_NAME 3.0
+Databases: Oracle10g/9i/8i, MASKED_NAME, Postgre SQl, MYSQL
+Operating System: Windows , Unix, AWS, MASKED_NAME and MASKED_NAME
+IDE: Eclipse 3.x, STS
+Testing Frameworks: JUnit, MASKED_LOCATION, MASKED_LOCATION, PowerMockito
+Build Tools:  Maven, ANT, Gradle
+Other Tools:  MASKED_NAME, SVN,  TFS, MASKED_LOCATION, JMeter, Jira, Sonar
+CERTIFICATIONS:
+ORACLE 9i   PL/SQL DEVELOPER CERTIFIED ASSOCIATE (OCA).                          
+SUN CERTIFIED JAVA PROGRAMMER (SCJP 5.0) for the MASKED_NAME 2 platform.            
+SUN CERTIFIED WEB COMPONENT DEVELOPER (SCWCD 5.0) for the MASKED_NAME 2 platform.
+EDUCATION:
+      Bachelor of Science in Computer Engineering, University of JNTU, Hyderabad, AP
+PROFESSIONAL EXPERIENCE:
+MASKED_NAME, MASKED_LOCATION, CA                                              	                                June 2017 – till date
+Innominds Software INC     Sr. MASKED_NAME:	
+Developed the Generic Java concurrency Framework to execute multithreads.
+Analysis and Design of various modules using SOA and J2EE stack.
+Involved in design, develop and implementation of the application using Spring and J2EE framework.
+Built web-based applications using Spring MVC 3.0 Architecture.
+Developed stored procedures (developed in PL/SQL) on the back end.
+Consumed Web Services by implementing spring’s REST support.
+Implemented persistence layer using various features of MASKED_NAME 3.0 framework like HQL queries, MASKED_LOCATION, projections etc. 
+MASKED_NAME (JPA) through Hibernate 3.0.
+MASKED_NAME development team in developing stored procedures and designing the database.
+Used Maven for project builds and MASKED_NAME as versioning system.
+Interacted with Business Analysts to come up with better implementation designs for the application.
+Provided production support for the application both onsite and remotely.
+S3 API implementation for accessing S3 bucket data files.
+Managing AWS instances using AWS System manager.
+Environment: Restful Web Services, JDK 1.8, Spring, Hibernate, Micro services, PowerMockito, OneOps, MASKED_NAME, Apache CXF, Node JS, MASKED_NAME, MASKED_NAME, MASKED_LOCATION, MASKED_NAME, MASKED_NAME, MASKED_NAME, Hyderabad                                   	                                                        June 2015 – May 2017
+Innominds Software INC   Sr. MASKED_NAME:
+Involved in the Project Setup process of routing and filtering requests to a micro service application using the MASKED_NAME edge service library.
+MASKED_NAME gateway for Authentication using Reddis Cache.
+Implemented this project based on Service Oriented Architecture (SOA) using MASKED_NAME, Spring MASKED_NAME, Spring Data and MASKED_NAME.
+Used MASKED_NAME as a messaging broker to inter communicates between the Micro Services.
+Experienced developing and delivering mission-critical data platforms for real-time analysis.
+Experienced developing high performance transaction or reporting systems with multi-tier architectures.
+Design and Development of software components like Interface, Action Handlers.
+Developed trading applications for equities and equities derivatives.
+Used JavaScript and MASKED_NAME validation framework for front end as well as server-side validations.
+Developed the client classes for the web services implementing SOA.
+Used Spring Framework for integrating MASKED_NAME and MASKED_NAME and for dependency injection.
+Extensively used MASKED_NAME ORM tool in data access layer to map the object view of data into database and to provide access and update information in the database.
+Developed Data Access Object (DAO) persistence layer using MASKED_NAME.
+Created documentation for benchmarking the MASKED_NAME cluster for the designed tables. 
+Worked on Linux shell scripts for business process and loading data from MASKED_LOCATION to MASKED_NAME.
+Deployment automation, AWS EC2 instance mirroring, WebLogic domain creations and several proprietary middleware installations.
+Used MASKED_NAME for version control across common source code used by developers.
+Environment: Angular JS, Restful Web Services, JDK 1.7, Amazon ec2,AWS S3, Unix, MASKED_NAME, MASKED_NAME, MASKED_LOCATION, Spring MVC, MASKED_LOCATION, Spring Data, Spring MASKED_NAME, MASKED_LOCATION, Microservices, MASKED_NAME, Mongo dB, MySQL
+Acesse Marketing, Hyderabad, MASKED_LOCATION					                     Feb 2014 – Jun 2015 
+Innominds Software INC    Sr Java/J2EE Developer 
+
+Responsibilities:
+Involved in Full Cycle of Software Development from Analysis through Design, Development, Integration and testing phases.
+Implemented the application using the concrete principles laid down by several design patterns such as Composite View, Session Facade, Business Delegate, Bean Factory, MASKED_LOCATION, Data Access Object, and Service Locator.
+Involved in Developing of Application based on J2EE using Spring, MASKED_NAME and spring framework.
+Designed and implemented transaction management using Spring AOP.
+Implemented different types of spring controllers as per application requirements, Spring validators, persistence layer, DAO and service layer components using Spring/Hibernate API and Spring/Hibernate annotations. Extensively used MASKED_NAME QL.
+Extensively used Spring IOC, configured MASKED_NAME files and performed database object mapping using MASKED_NAME annotations.
+Used JPA for mapping business objects to the MySQL database
+Automate build process by using Maven and used GIT version control tool.
+Environment: Angular JS, HTML, MASKED_NAME, Servlets, Spring MVC, Spring Micro services, MASKED_NAME, ORACLE 11g, Tomcat Application Server, Restful Web Services, JDK 1.7, UNIX, AWS, S3, MASKED_NAME, and MASKED_LOCATION.
+Northern Trust, MASKED_LOCATION, MASKED_LOCATION					                     Jun 2013 – Feb 2014 
+Cognizant    Sr Java/J2EE Developer 
+
+Responsibilities:
+Implemented the application using the concrete principles laid down by several design patterns such as Composite View, Session Facade, Business Delegate, Bean Factory, MASKED_LOCATION, Data Access Object, and Service Locator.
+See real-time banking balances and transaction activity
+Receive and pay bills quickly and efficiently
+Move money effortlessly between Northern Trust and non-Northern Trust accounts
+MASKED_NAME enhanced reports.
+Get moving with Private Passport Mobile
+Environment: MASKED_NAME 1.2, Servlets, MASKED_NAME, MASKED_NAME, ORACLE 11g, WebLogic Application Server, JDK 1.5, UNIX, AIX, MASKED_NAME, MASKED_NAME, and Ant.
+American Express, MASKED_LOCATION, MASKED_LOCATION					                Oct 2012 – May 2013 
+Cognizant   MASKED_NAME/J2EE Developer 
+
+Responsibilities:
+Involved in Full Cycle of Software Development from Analysis through Design, Development, Integration and testing phases.
+Implemented the application using the concrete principles laid down by several design patterns such as Composite View, Session Facade, Business Delegate, Bean Factory, MASKED_LOCATION, Data Access Object, and Service Locator.
+Involved in Development of enhancements for new /enhancement modules.
+Environment: JSP, Struts 1.2, Servlets, ORACLE 11g, WebSphere Application Server, JDK 1.5, Service Now
+CITI Bank, MASKED_LOCATION, MASKED_LOCATION					                            Apr 2011 – Oct 2012 
+Virtusa MASKED_NAME:
+Involved in Full Cycle of Software Development from Analysis through Design, Development, Integration and testing phases.
+Used Agile Methodology and actively participated in Scrum meetings to produce quality deliverables within time.
+Involved in Developments of Designing of Dynamic Forms using XML and posting to the server
+Involved in fixing the bugs in the existing database objects and generates the reports.
+Environment: JSP, Struts 1.2, Servlets, MASKED_LOCATION, ORACLE 11g, WebSphere Application Server, JDK 1.5, UNIX, MASKED_LOCATION, MASKED_NAME, and Ant.
+OMICS, MASKED_LOCATION, MASKED_LOCATION					                            Nov 2006 – Mar 2011 
+Uniquee Solutions   MASKED_NAMEJ2EE Developer 
+
+Responsibilities:
+Involved in Full Cycle of Software Development from Analysis through Design, Development, Integration and testing phases.
+Code reviewing.
+Designed the database objects like tables, views, indexes, sequences, cursors, procedures, Functions, packages, triggers files.etc.
+Prepare the build scripts and placed into release server
+Environment: JSP, Servlets, MASKED_NAME 10g, xml, xpath, Web harvest, SQL, PLSQL, SOLARAIS, MASKED_LOCATION, STRUTS 1.2, Eclipse, MASKED_NAME

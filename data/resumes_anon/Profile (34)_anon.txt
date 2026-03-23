@@ -1,0 +1,132 @@
+ 
+ 
+Contact
+www.linkedin.com/in/smola
+(LinkedIn)
+alex.smola.org (Personal)
+www.amazon.com (Company)
+MASKED_NAMELanguages
+English (Native or Bilingual)
+German (Native or Bilingual)
+Italian (Professional Working)
+Publications
+Discovering Geographical Topics in
+the Twitter Stream
+Patents
+Utilizing Offline Clusters for Realtime
+Clustering of Search Results
+Data Mining Unlearnable Data Sets
+Term Weighting for Contextual
+Advertising
+MASKED_NAME at Amazon
+MASKED_LOCATION, MASKED_LOCATION
+Summary
+Check out our new book project: MASKED_URL
+We are hiring - if you're looking for a job in deep learning email
+me. C/C++ and Python are a plus. Experience with deep learning,
+statistics, or high performance computing desired.
+Join my team at Amazon!
+TL;DR: I'm really not looking for another job. Very happy where I am.
+Dear recruiter,
+PLEASE read before you spam me. Your company {insert super
+cool name here} is very interesting. And I agree that {insert some
+name} is highly skilled, in particular given his background at {insert
+top university or company}. And I wish you the very best in getting
+top talent. 
+However, given that I just moved to Amazon in July 2016 I will not be
+able to help with your startup. That said, if you're an AWS customer,
+Amazon always wants its customers to be happy and I'm happy to
+hear what you want (please e-mail, not in-mail, not phone). 
+I am currently really not looking for another job. And please don't
+call me by phone about it. Please don't make me close my LinkedIn
+account.
+In case you're a recruiter telling me about an awesome candidate,
+please have the candidate contact me directly. In fact, the latter is
+any good, he/she'd probably know the relevant teams anyway and
+reach out directly without a recruiter.
+MASKED_NAME
+ 
+Page 1 of 4
+
+ 
+ 
+Project log: 
+- Finished Yahoo in May 2012
+- Working at Google until end of 2012. 
+- Professor at CMU 2013-2017
+- Director at Amazon Machine Learning from July 2016 on
+I work on machine learning and statistical data analysis. This
+includes application areas ranging from document analysis,
+bioinformatics, computer vision to the analysis of internet data. In my
+work I have supervised numerous PhD students and researchers
+and I have written over 200 papers, written one book and edited
+5 books. My specialties are deep learning, kernel methods,
+unsupervised models, fast samplers, user models, etc. This
+includes highly scalable models which work on many TB of data and
+hundreds of millions of users.
+Experience
+Amazon Web Services (AWS)
+Distinguished Scientist / VP
+March 2019 - Present (1 year 1 month)
+MASKED_LOCATION, MASKED_LOCATION, MASKED_LOCATION
+Amazon
+Director
+July 2016 - Present (3 years 9 months)
+MASKED_LOCATION
+Machine Learning
+Carnegie Mellon University
+Professor
+January 2013 - October 2017 (4 years 10 months)
+MASKED_NAME at scale
+Marianas Labs
+CEO
+January 2015 - December 2015 (1 year)
+MASKED_LOCATION, engineering, product planning.
+ 
+MASKED_NAME MASKED_ADDRESS
+March 2013 - January 2015 (1 year 11 months)
+MASKED_LOCATION, CA
+Distributed and large scale data analysis. Taking a break for a few months to
+focus on things at CMU.
+Google
+Visiting Scientist
+May 2012 - December 2012 (8 months)
+Mountain View
+Even more data.
+UC Berkeley
+Adjunct Professor
+January 2012 - December 2012 (1 year)
+Berkeley
+I'm currently teaching a class on scalable machine learning at UC Berkeley.
+See MASKED_URL - watch the videos if you want
+to learn about how to scale your algorithms.
+Yahoo!
+Principal Research Scientist
+September 2008 - May 2012 (3 years 9 months)
+MASKED_LOCATION
+Huge nonparametric models. User profiling. Statistical Modeling. Distributed
+optimization. Content analysis.
+NICTA
+4 years
+Professor
+2004 - 2008 (4 years)
+Program Leader
+2004 - 2008 (4 years)
+Australian National University
+Group Leader
+May 2001 - May 2004 (3 years 1 month)
+ 
+Page 3 of 4
+
+ 
+ 
+MASKED_NAME (formerly GMD)
+MASKED_NAME
+October 1996 - November 1998 (2 years 2 months)
+Education
+Technische Universität Berlin / Technical University Berlin
+PhD, Computer Science · (1996 - 1998)
+Technische Universität München
+Diplom (Master's degree), Physics · (1991 - 1995)
+ 
+Page 4 of 4

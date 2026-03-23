@@ -1,0 +1,135 @@
+MASKED_EMAIL		                                                   MASKED_NAME 
+MASKED_PHONE							                              Sr. Business Analyst
+Summary
+Overall 8+ years of experience in Information technology industry as Business Analyst in MASKED_LOCATION, Healthcare, and Finance domains.
+Extensive Experience in all the phases of Software Development Life Cycle (SDLC), in writing Business Requirement MASKED_NAME) and System Required Specification(SRS).
+MASKED_NAME in UML Modeling, MASKED_NAME, Rational rose, Use Cases, State chart Diagram, Deployment Diagram, and Component Diagram.
+In-depth knowledge and experienced in Waterfall, Agile methodologies.
+Excellent communication, presentation, client interaction and problem-solving skills.
+Good in multi-tasking and handling multiple tasks/projects at the same time.
+Excellent knowledge of Health Insurance Portability and Accountability Act(HIPAA)standards, Electronic Data Interchange(EDI), and Implementation and knowledge of HIPAA code sets.
+Experienced Joint Application Design (JAD) facilitator and meeting coordinator/ excellent interpersonal and conflict resolution skills. 
+Trace and inform business requirement changes through the lifecycle of the project using Rational Requisite Pro while maintaining customer needs and maintain a Requirements Traceability MASKED_NAME) to keep the stakeholders informed of the progress of the project.
+Experience in conducting GAP analysis, SWOT analysis, Cost benefit analysis and ROI analysis.
+Worked with Manual testing during the prototype. Strong understanding of SharePoint.
+Skilled in leading teams of diverse backgrounds to make sound business decisions based on analyses of short and long-term business needs.
+Strong experience in developing test plans; build test conditions and test cases, creating test data, analyzing bugs, interacting with development team members to fix defects.
+Analyzed and defined business processes both “AS IS” and “TO BE.”
+In depth knowledge in documenting requirements changes using Traceability matrix and Team Foundation Server.
+Excellent Business writing skills in writing Business Requirements Document (BRD), Use Case Specifications, Functional Specifications, Systems Design Specification (SDS), Systems Requirements Specification (SRS), Data Dictionary, MASKED_LOCATION.  
+Experienced in managing the agile software release Process for multiple projects amongst geographically dispersed multiple agile teams. 
+Develop, Maintain, Support and Enhance the Company's ETL Solution using MASKED_NAME.
+Served as a critical resource and liaised between subject matter experts and technologists throughout the project life cycle.
+Highly qualified in changing the needs of business users and stakeholders to the functional/technical requirements.
+Proficient in design and execution of Test Strategy, Test Plan, Test Scenarios, and Test Cases based on the requirements for the applications.
+Worked with Analysts, Managers, Developers and Testers for complex projects during the SDLC.
+Worked by providing laws and policies in various domains.
+Prioritized work requests from project team.
+Identified and communicated risks and with possible solutions.
+Solid project execution track record with good leadership, strong communication, and analytical skills. 
+Education:
+Master’s in management information system
+Computer Science in Engineering
+Tools/Methods           
+Professional Experience
+Sr. Business Analyst
+Office of Attorney General Child Support Division, MASKED_NAME of Attorney General Child Support Division provides a full range of products and services including group and individual health insurance, Medicare and Medicaid programs, and coverage for specialty services such as workers’ compensation. The objective of the project was to carry out gap analysis to identify the changes being proposed in the upgrade of HIPPA 4010 to HIPPA 5010. The emphasis on the project was mainly to perform gap analysis and impact assessment on the secured web portal used by various users dealing with claims transactions according to HIPPA regulations. Demonstrates expertise in customization of TFS work items types, process templates, build scripts, work areas and Iterations. 
+Roles and Responsibilities:
+Worked closely with the development team to clarify/understand functionality and ensure that the developers clearly understood the business requirements that the system was designed to fulfill.
+Analyzed business MASKED_NAME, performed GAP analysis and segregated them into high level and low-level Use Cases, Activity Diagrams using Rational Rose.
+Researched and understood the claims adjudication and reimbursement systems based on HIPAA X12 4010 standards 
+As an TFS admin Handled the process account and maintained them. 
+As a TFS admin was responsible for adding user to project, security and group maintains. 
+Performed GAP analysis to identify AS-IS processes of claims transactions of 4010/4010A standard and TO-BE processes (ICD-9 and ICD-10 compliance requirements) of 5010 standards.
+Conducted Claims and HIPAA Compliance Training to run the test cases.
+ Was involved in managing of Medicare Part-D Claims processes from Admin/Provider/Payer side which were later part of the training program to providers.
+Worked and viewed manual testing before the deployment.
+ Trained End-users on SharePoint functionality needed to support business operations.  Provided support and delivered presentations to team members on managing SharePoint sites.
+Worked as a part of scrum team, in an agile methodology with sprint cycles, daily stand ups and story implementation.
+ Demonstrated the ability to work actively in different phases of Software Development Life Cycle (SDLC) using Waterfall and Agile Scrum.
+ Prepared Business Requirement Document (BRD), Functional Requirement Document (FRD) / System Requirement Specifications (SRS), Use Cases and Test Cases. 
+Developed Test plan and Test cases based on Use cases and Functional Specifications.
+Assisted in writing requirement document for ETL - Data Extraction, Data Analysis and Loading process of collected data as a part of data mapping procedures. 
+Helped review and edit test scripts, certify test results and fulfilled business requirements.
+Designed and developed on the State Diagrams, Activity diagrams and Class Diagrams in MS MASKED_NAME using UML for various modules of the project.
+Responsible for MySQL Administration and backups related to the specific ETL solution mentioned above. 
+Create story board of back log items in Agile and develop item according to business needs.
+Experienced in managing the agile software release Process for multiple projects amongst geographically dispersed multiple agile teams.  
+Analyzed business MASKED_NAME, performed GAP analysis and segregated them into high level and low-level Use Cases, Activity Diagrams using Rational Rose.
+Reported progress against Development/Action Plan routinely to the Program Manager with recommendations for corrective actions, where necessary.
+Maintained a Traceability Matrix to ensure that all Functional Requirements are addressed at the Use Case Level as well as the Test Case Level.
+Environment: MS Office, Quality Center, SQL Server, MASKED_LOCATION, MS Project, MASKED_LOCATION, MASKED_NAME, SharePoint, Unix, SQL, HTML, MASKED_NAME, XML, Mainframes and Rational ClearQuest, ClearCase, MASKED_LOCATION.
+Sr. Business Analyst
+MASKED_NAME air, NY                                                                                   Feb 2014-Sep MASKED_ADDRESS American-based company in insurance business. MASKED_NAME air is a major subsidiary it formerly referred to as the "property-casualty insurance" arm of MASKED_NAME. It intended to form a Special Purpose MASKED_NAME (SPV) for Commercial Insurance, Foreign General and the Private Client Group which would be placed into the SPV and renamed MASKED_NAME air in preparation for a IPO or other equity offer.
+MASKED_NAME and Responsibilities:
+Involved in analyzing user requirement document, system requirement specification document and use cases for developing Test plan which includes the objective, Scope, Testing strategy and others.
+Analyzed plan requirements and then contributed further defining the plan requirements with their Project Manager.
+Interacted with various members at the management level to understand project scope analysis to prepare Software Requirement Specifications (SRS) for relevant data reports.
+Developed requirements specification and process diagrams including context, dataflow diagrams. 
+Facilitated team members and product owners in adopting agile engineering practices like TDD and pair programming.
+Analyzed and collected business requirements, generated business models, identified system interfaces and created the requirement specification document. 
+Participated in Business Requirements meetings.
+Implemented Rational Requisite Pro for maintaining the requirements document and traceability matrix.
+ Coaching teams to apply scrum framework and train them to be self-organizing and self-managing thru the meaningful use of Agile concepts like Backlog Refinement, User Story Value Mapping, Sprint Planning, Sprint Demo, Sprint Retrospectives, Scrum of MASKED_LOCATION and daily stand-ups. 
+Participated in multiple large SharePoint migration projects. 
+Conducted JAD sessions to work with the business users through discussion to further understand the complexity of the issues. 
+Created front-end prototypes as deliverables and projected the end-delivery modules as part of the efforts towards joint application development.
+MASKED_NAME diagrams by analyzing the business process followed by Class diagrams, Activity diagrams and Collaboration diagrams in UML.
+Worked with the Lead BA to develop Requirement Management Plan and Communication Plan
+Worked on TFS Portal to generate the reports.
+Facilitated 25 workshops to capture the requirements for Study Startup and Study Close out
+Performed brainstorming session with the BA Team to analyze, validate and finalize functional requirements
+Documented use cases as part of functional design and developed Requirement Traceability Matrix using Requisite Pro
+Developed workflows, swim lane diagrams, use case diagrams, etc. using MASKED_NAME
+Developed the Share Point Project portal as a Project repository
+Finalized the requirements document and participated in the FDD and TDD review sessions.
+Facilitated team members and product owners in adopting agile engineering practices like TDD and pair programming.
+After requirement sign-off, developed Change control process and CR Form
+Involved in filling the Defects while testing various projects using the Tracking tool – Quality Center
+Used Quality Center to track data derived from defect reports.
+Analyzed the graphs and reports to report and track defects.
+Worked with the Workstream and Business Leads to finalize CRUD
+Environment: MASKED_NAME, Oracle PL/SQL, XML, UNIX, PVCS, Mercury Quality Center, EDW, UML, MS Office, MASKED_NAME, SharePoint, HTML
+Sr. Business Analyst/Scrum Master
+University of Texas MASKED_LOCATION, TX                                                     Nov 2011-Dec 2013                                                        
+This MASKED_LOCATION project was initiated to enhance the Pershing’s ability to meet the regulatory requirements set by US Regulatory. This Project aimed at migrating the existing Pershing applications which were running in MASKED_LOCATION to MASKED_LOCATION platform Teradata for high performance and scalability. This EDW serves all the Reporting needs of Pershing Internal and External Customer with 3 years of Data.
+Roles and Responsibilites
+Involved in all the phases of the SDLC requirement gathering, design, development, Unit testing, UAT, Production roll-out, enhancements and Production support
+Interacted with business representatives to understand the requirements and determined the best approach for timely delivery of information.
+Ensured timely deliveries of work items to the MASKED_LOCATION.
+Performed manual and automated testing on firms drop copy and order routing FIX Adapter servers. Ran automated QA testing on all versions of firms FIX Adapter servers, including drop copy, order routing, single and multi-broker modes.
+MASKED_NAME and Solution requirements (functional and non-functional requirements) were easily be linked back to the business requirements from which they emanated using RTMs.
+Involved in Implementing ETL standards and best practices.
+Reviewed Data Model and validated its feasibility to physical implementation.
+Assisted the Product Owner in compiling and prioritizing the Product Backlog on JIRA using prioritization technique MASKED_LOCATION.
+Facilitated all the Sprint Ceremonies: Backlog Refinement, Sprint Planning, Daily SCRUM, and Sprint Review.
+Time boxed Daily SCRUM meetings and resolved all impediments faced by development team.
+Educated and coached executives, managers, stakeholders, and others throughout the organization regarding Agile practices and how their roles and interactions may change.
+Mentored and helped the team grow into a self-managing entity. Encouraged collaboration between the SCRUM team and product owner.
+MASKED_NAME and monitored SCRUM Artifacts – Sprint Backlog, Sprint Tasks, and Sprint Burndown Charts using JIRA.
+Analyzed and understood the business users' requirements for information and communicated them to the rest of the data warehouse team. Assisted Data Warehouse Data analyst in analyzing existing reports.
+Extensively worked in Data Requirement Analysis and Data Mapping for ETL process. Acted as a consultant to the ETL and front-end programmers.
+Coordinated with the QA team in various testing phases by resolving the defects and ensuring smooth execution of Test Plans.
+Created deployment documents and migrated the code to the production environment.
+Investigated and fixed the bugs occurred in the production environment and provided on-call support.
+MASKED_NAME and Dash Boards using MASKED_NAME for the Business Users and Senior Management.
+Environment: Informatica Power Center 9.1/8.6, UNIX, Oracle 11g, SQL, PL/SQL, SQL Developer, MASKED_NAME, MASKED_NAME, JIRA,  IBM Mainframe, MASKED_NAME.
+Business Analyst
+Group Health Incorporated, WI                                                         Nov 2009-Oct 2011        
+This project was conducted to develop a software to track all the information from the applicants and accept/deny if they qualify/disqualify for the Medicaid plans they are applying for. Medicaid plan is a health plan providing a wide range of quality health care services to families and individuals who qualify for Government-Sponsored Programs and State Children’s Health Insurance Program.
+Gathered the requirements from stakeholders and users by meeting them personally and by interviewing them. MASKED_NAME to prepare a BRD by complying with the HIPAA regulations.
+Developed functional specs, gathered requirements and communicated with the developers.
+MASKED_NAME, using ERD depicted clear relations associated with the entities.
+Prepared Work MASKED_NAME (WBS) to comply with the triple constraint of time, cost and scope.
+Conducted Lean Analysis throughout the project and conveyed team a message, “Think big, act small, fail fast; learn rapidly.”
+Prepared a roadmap for a product that can exceed market and user expectations.
+Followed Prototype model of SDLC in developing software.
+Designed User Interfaces and mock up screens using HTML to validate the requirements.
+Created and implemented a Test Plan and thereby assisted Quality Analysts to test the product in a timely manner.
+Interfaced with Quality Analysts for Unit, Integration, System and User Acceptance Testing.
+Interfaced with top management to ensure that IT initiatives and involvement were clearly communicated and understood.
+Mitigated risks all the time; motivated all the team members to meet the deadlines since time was very limited.
+Reviewed and analyzed the business environment and identical process improvements.
+Evaluated alternative solutions and recommended solutions that best met the need of the business.
+Defined and planned software releases in accordance with other software applications.
+Environment: MASKED_NAME, MS Office, .Net, MASKED_LOCATION, MASKED_NAME, MASKED_NAME, PHP, XML, HTML, DHTML, MASKED_NAME.

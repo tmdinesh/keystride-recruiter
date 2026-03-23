@@ -1,0 +1,110 @@
+Saikrishna RAo
+Summary:	
+5years of professional experience as a Business Analystin a fast-paced environment.
+Involved in all stages of Software Development Life Cycle (SDLC).
+Experience and Familiarity on working with Agile and Waterfall methodologies.
+Extensively worked on creating and customizing the Reports, Analytic Snapshots and Dashboards.
+Maintained QA processes and practices, including defect tracking and test management.
+Excellent interpersonal skills, quick learner, and have strong problem-solving skills with keen attention in detail.
+Designing business models using UML diagrams- MASKED_NAME, Use Case Models, detailed Use Cases, Sequence, Activity diagrams, Rational Rose and analysis techniques including production of Activity Diagrams.
+Inclusive knowledge of RUP, Waterfall, Agile, Risk Engineering, Data modeling and Mapping
+Familiarity with current industry standards such as Six Sigma Methodology and Capability Maturity Model (CMM), CMMI.
+Experience in Implementation, Production support, customization, upgrades and troubleshooting in Accounts Payable, Accounts Receivables and General ledger.
+Worked extensively with dimensional modeling, data migration, data transformation, data loading, data modeling, MASKED_NAME model, catalog creation, cube modeling, SDK development and performance tuning.
+Excellent skills in conducting walkthroughs, surveys, questionnaires, interviews, brainstorming and JAD sessions
+Well competent in different management scenarios like change control, Quality Assurance, Defect Tracking, System integration and scheduling.
+Experience in creating and defining, Test cases, Test Strategy, planning test phases, resource management, process perfection, reviewing test relics and Test Plan documentation business clients.
+Served as liaison between business units, technology teams and support teams. Also communicate with clients and PM to solicit detailed business requirement and create business/functional requirements documentation.
+Proficient in gathering requirements and performing detailed analysis, planning, scheduling and tracking the project progress.
+Ability to meet deadlines and handle pressure in coordinating multiple tasks in a work/project environment. 
+Education:                        		
+Masters in Technology Managementfrom Texas A&M University, MASKED_LOCATION
+											GPA: 3.5/4.00
+Bachelors in Electronics and Communication Engineering from MASKED_LOCATION, MASKED_LOCATION                                                
+GPA: 3.8/4.00
+Technical Skills:
+Professional Experience:
+Biogen.
+MASKED_LOCATION, MASKED_LOCATION
+June 2016- Present
+Responsibilities/ Role: Business Analyst.
+Developed business requirement specification documents as well as high-level project plan
+Authored progress and completion reports which were then submitted to project management on a weekly basis in MASKED_LOCATION project.  
+Worked with programmers and off-site consultants to ensure client project deliverables.
+Managed 18 clients for ERP related projects through project life cycle.
+Scheduled programming, consulting and IT resources for my clients.
+Managed resources to help clients with small bug fixes to major go-live projects.
+Developed and submitted fiscal budget, business reviews, financial projections and assigned cost   studies in an accurate and timely manner to support Division and Corporate requirements.
+Tracked project and client requests on a daily basis.
+Followed the HIPAA implementation guides for preparing the EDI files. 
+Conduct well planned relevant initial and continuing education for MASKED_NAME systems for improving staff professional development. 
+MASKED_NAME/EHR responsibilities and medical billing expertise. 
+Developed business process models in Agile to document existing and future business processes. 
+Created and maintained Business Use cases and System Use cases, Use Case diagrams, Flow Diagrams, Business Flow Diagrams (BPMN), Activity diagrams, Sequence diagrams throughout the SLC using MASKED_NAME. 
+Prioritize the work backlog for the team, and communicate backlog status to the customers, as appropriate
+Performed ongoing quality assurance to ensure accuracy and consistency of output in the system
+Acted as project team member on initiative to combine a local and national claims processing system into one single platform
+Conducted user acceptance testing and data validation of web applications used to present benefit information
+MASKED_NAME and maintained Health Care Certificates and Riders in Document Database
+Wrote and entered SQL language in Benefits at a glance (BAAGS) chart templates
+Generated reports and performed data validation in SMART.
+Implemented and maintained account benefit updates in system as part of National Health Care Reform mandates.
+Scheduled meetings with data analysts, developers, System Analysts to explain the business needs and fine tune the requirements
+Planned, coordinated and monitored activities to ensure project completion.
+Interacted with the SMEs and stakeholders to get a better understanding of client business processes and gather business requirements. 
+Established a Business Analysis methodology around the Rational Unified Process.
+Involved in extensive data profiling, data quality checks, data mapping sessions and business test cases for Provisions data. 
+Conducted meetings with IT, Testing and business to explain the Source to Target mappings and the business logic so as to be consistent in the final output/product. .
+Successfully conducted JAD sessions, which helped synchronize the different stakeholders on their objectives and helped the developers to have a clear-cut picture of the project.
+Worked extensively with MS Excel and MS access
+Technologies: UML, SAP ERP, MASKED_NAME, MS Office Suite (Word, Excel, Access, Power Point, Outlook), SQL Server 2000, MASKED_LOCATION COTS, Quality Center. 
+Citibank (Mortgage), MASKED_LOCATION, CA					                      January 2016- May 2016
+Role: Business Analyst Intern.
+Responsibilities:
+Worked on various products like MASKED_NAME and Officers, General Partners Liability, Employment Liability, Construction, Fiduciary, Excess and Surplus Lines of Business.
+Developed business requirement specification documents as well as high-level project plan
+Authored progress and completion reports which were then submitted to project management on a weekly basis in MASKED_LOCATION project. 
+Designing and customizing data models for Data warehouse supporting data from multiple sources
+Involved in modifications & adjustments and 32 help desk tickets demonstrating determined work ethic and dedication to providing superior customer service.
+Assured that all Artifacts are in compliance with corporate SDLC Policies and guidelines.
+Scheduled meetings with data analysts, developers, System Analysts to explain the business needs and fine tune the requirements
+Planned, coordinated, and monitored project levels of performance and activities to ensure project completion.
+Involved in regression testing, Functionality, Navigation, Volume, Security testing, Data validation and Database integrity testing and tested the main functionalities of the application manually and validated data using Excel Sheets.
+MASKED_NAME testing to make sure all the objects and its properties are functioning & observed 
+Conducted meetings with IT, Testing and business to explain the Source to Target mappings and the business logic so as to be consistent in the final output/product. .
+Successfully conducted JAD sessions, which helped synchronize the different stakeholders on their objectives and helped the developers to have a clear-cut picture of the project.
+Planned and defined system requirements to Wire Frames with Use Case, Use Case Scenario and Use Case Narrative using the UML (Unified Modeling Language) methodologies.
+Have sizeable adequate hands on exposure in Workmen Compensation, Commercial Insurance as well as Property & Casualty Insurance & its various intricacies
+Assisted in building a Business Analysis Process Model using Rational Rose and MASKED_NAME.
+Performed extensive Requirement analysis and developed use cases and workflows.
+Implement and maintain Property & Casualty (e.g. bug-fix, data integration, version release) systems of assigned customers.
+Analyses User Requirement Document, Business Requirement Document (BRD), Technical Requirement Specification and Functional Requirement Specification (FRS). 
+Collected business requirements to set rules for proper data transfer from Data Source to Data Target in MASKED_LOCATION the development and implementation of the Independent Agent payroll system, Property & Casualty Specialist compensation system, Telesales compensation system, contingent and bonus compensation system and several compensation contract agreements with the MetLife agency sales force
+Environment:  MASKED_NAME, Rup, JCL, Db2, MASKED_NAME, Rose, MS Project, MS Word, MS PowerPoint, MS Excel, MASKED_NAME, MASKED_NAME. 
+GGK Technologies						
+Hyderabad, MASKED_LOCATION.
+May 2012 to December 2014
+Responsibilities/ Role: Business Analyst 
+Developed business architecture using requirements such as scope, processes, alternatives, and risks.
+Analyzed client’s business requirements and processes through document analysis, interviews, workshops, and workflow analysis.
+Conducted various levels of testing including functional, regression, user acceptance, integration and performance to verify the client’s needs are met.
+Monitored existing process and resolved continues improvement opportunities by using research data analysis. 
+Provided research based recommendations to the management and team manager. Conducted root cause analysis to clearly identify the issues and process gaps and improvised the performance of the contact care center. 
+Documented process and policies in the organization by UARs.
+Responsible for monitoring business functions and making sure that the Six Sigma methods were being used at all times.
+Assisted in developing business plans that were based on the efficiency of the Six Sigma methods.
+Responsible for creating a quarterly audit of all Six Sigma activities and presenting the audit directly to management.
+Informed client’s business requirements by constructing easy-to-understand data and process models.
+Provided input into developing and modifying systems to meet client needs and develop business specifications to support these modifications.
+Liaise between business and technical personnel to ensure a mutual understanding of processes and applications.
+Worked extensively with MS Excel and MS access. 
+Engaged with client to gather software requirements/business rules, and ensure alignment with development teams
+Translated stakeholder requirements into over 10 different tangible deliverables such as functional specifications, user cases, user stories, workflow/process diagrams, data flow/data model diagrams.
+Evaluated risks related to requirements implementation, testing processes, project communications, and training saving the company
+Identified and reconciled errors in client data to ensure accurate business requirements.
+Drafted and maintained business requirements and aligned them with functional and technical requirements.
+Facilitated monthly meetings with clients to document requirements and explore potential solutions.
+Responsible for maintaining the integrity of the SQL database and reporting any issues to the database architect.
+Assisted in offering support to other personnel who were required to access and analyze the SQL database.
+Provided technical support for new systems, applications, as well as system changes and upgrades to ensure successful implementation.
+Technologies: UML, MASKED_NAME, MS Office Suite (Word, Excel, Access, Power Point, Outlook), SQL Server 2000, Quality Center.

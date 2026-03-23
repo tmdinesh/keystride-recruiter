@@ -1,0 +1,161 @@
+Deepika							
+MASKED_PHONE
+MASKED_EMAIL
+SUMMARY OF QUALIFICATIONS: -
+Having around 10  years of IT experience as SR IT  Project Manager and MASKED_NAME database Administrator –which includes PMP, ITILV3 and OCP Certifications in Health Care, Medical , Insurance ,Retails, Finance  and  Oil Industries . 
+Collaborated with business partners/owners eliciting high-level business needs and translating those to functional and non-functional system specifications, reviews and sign offs as needed by acting as Technical Business and Quality Analyst.
+Having experience with New York State Agency (NYS)
+Worked on 4 Agile Projects, 2 waterfalls and six Sigma Projects.
+Experience in full Software Development/Test Life Cycle (SDLC/STLC) with QA Methodology and QA Validations to ensure the Quality Assurance Control
+Experience in Data analysis and understanding the business analysis and delivering on time .
+Experience in working with Access and Identity Management (AIM) team for daily Business operations and also audits.
+Experience in Asset Management Project.
+AIM Active Directory for Resources roles in the organization  and SCCM scans for Inventory maintenance 
+Experience as an SDM for EDI initiatives for Business to Business coordinating with various team.
+Experienced using clarity regularly.
+Experienced working on O365.
+Experienced working with Clinical data Repository (CDR) for NY state and different Vendors in MASKED_LOCATION.
+Experienced with Event Management.
+Experience with Hiring ,Contracting and Working with Vendors .
+Experience in-Contact Center platforms  for Interactive Voice Response, Call Recording for artifacts in Insurance based Company.
+Experience in definition, evaluation of the data provided and providing the inputs on Quality of the data for Audit Purpose.
+Experience Managing Onshore and Offshore team of size 250 people.
+Experience Managing General Data Protection Regulation (GDPR) with various team across IBM and CDPHP organizations.
+Experience managing the project Management Life Cycle(PMLC) using Waterfalls ,Agile and Do it now ways 
+Experience with electronic health record exchanges with Quality Measure processes.
+ Experience Working on Quality Measure Reporting on both Vendor and internal organization for Audits.
+Led teams across broad technical, financial and business disciplines. Focused teams on business objectives and tracked progress to ensure project milestones were completed on time, on budget and with the desired results.
+Mitigated risk factors through careful analysis of financial and statistical data. Anticipated and managed change effectively in rapidly evolving global business environments.
+Working for claims operations for Coro letter issues , Audits and process improvements. 
+Having very good MASKED_NAME on Micro Soft Office Product.
+Handled Change management , Incident and Problem Management
+Good knowledge on Service now, Remidy,Manage now and cherwing native tools for monitaring the tickets.
+Provided technical support for various databases and Applications to assure ongoing 24/7 fully operational conditions.
+Worked on Ops View alerting tool, SCCM, Nexpose Security Tools. 
+Good in managing Onsite and Offshore teams and Communications 
+PROJECTS INVOLNED
+Client: CDPHP (Capital District Physicians' Health Plan)-Albany, NY;Health Care Domain                                         EMPLOYER : SATIN  SOLUTIONS 
+Role: SR IT  Project  Manager				
+Duration: April  2017 – Present
+Projects Implemented: 1)Citrix on AWS -1 year Project
+			       2)1500 Server Patching-wana Cry-10 Months
+			       3)Audits(MARIT,PT)-MASKED_ADDRESS for 2017 year in MASKED_LOCATION NY. CDPHP believe that high-quality health care should also be affordable and easily accessible. In fact, they are so committed to delivering the best care at the lowest prices mission to set a new industry standard. As health insurance provider, they promise to look out for Act with integrity at all times and situations, Ensure access to high-quality care, improve the ease and efficiency of clinical practice
+Day-to-Day Activity: -
+Meet with clients to discuss and fine-tune project expectations Responsible and accountable for the coordinated management of multiple related projects directed toward strategic business and other organizational objectives.
+Handling 3 Projects same time using Agile PM and derived to closure.
+Handling Asset Management Project(Citrix Project) where 1500 employee are migrated to citrix on AWS and offshore 250 resources moved to Cirtix from Full OS.
+Data Center Migration to AWS as part of Infrastructure change in CDPHP using Scrum /Agile methodology.
+Handling 20 Scrum Master from various departments(change champions) in the company, coordination and Problem solving splints and backlogs for Project movement.
+Handling VMware machines and moving them to Citrix (Offshore Team) and part of Infrastructure Project.
+MASKED_LOCATION which is a large Project of around 1900 people to be changed in to Citrix environment on AWS , Working with different teams in organizations (Claims, DSRIP, IT , Medicare ,Member services ,Data Management, Provider services and all other departments).
+Working and understanding on pre Implementation and Post implementation issues (Performance issues ) for the Project internally and Vendor related issues .
+Patching Project of around 1300 servers to be patched monthly and quarterly for this plan and schedule to be discussed with Implementation partner and Vendor for vendor managed Servers.
+Collaborated with business partners/owners eliciting high-level business needs and translating those to functional and non-functional system specifications, reviews and sign offs as needed by acting as Technical Business and Quality Analyst.
+Experienced using Clarity on regular basis for business clocking and MASKED_LOCATION.
+Managing the Scrum Call(OOPS Call) with the Offshore and Onsite technical teams for Day to day activities. And Scrum call weekly with Vendors for Patching and Security issues for the servers.
+Working on  Clinical data Repository (CDR) for NY state  employees and different Vendors in MASKED_LOCATION as the health insurance providers .
+Providing RFR documentation for the CDR raised for any clients after passing the required audit for the clients and Doctors .
+Maintaining the raised RFR for each CDR through MS Project for doing the audits quarterly for NY state employee.
+Experienced using MS Project for all the projects maintained and tracking the progress using the MS PROJECT 
+Planning the project and presenting the scope and details using the MS PROJECT.
+Tracking the reported Scrum issues and coordinating with Scrums Masters for follow up and documenting the issues and updating the native tools to avoid the breaches and escalations.
+Design and Maintain High quality artifacts throughout PMLC for Auditing and other teams Use age. Maintaining Risks and Solutions Database and periodic updates.
+Working and coordinating with AIM and service desk team regularly for bring the Project to operations mode.
+HIE(Health information Exchange) system for NY state needs to be updated and provided when as per the request and evidences provided.
+Working with AIM(Access and Identity Management) team for On boarding and off boarding new resources and maintain Active directory for audits.
+SCCM for Inventory and AIM team to fill in the Service requests on time to avoid the breaches in the native tools and to avoid escalations for smooth business.
+Work closely with both direct and virtual global members of the VMO team 
+Working with Contracts , Vendors and Implementation Partners on the Contracts and Scheduled . Hiring Contractors, Vendor Management (MTM) for In fracture changes , MASKED_NAME and documenting the progress  .
+ Working on Managing General Data Protection Regulation (GDPR) with various team across CDPHP organization.
+Working with Implementation Partner SYNTEL on daily business and New Scope identification and communicating with shake Holders .
+Experience in definition, evaluation of the data provided and providing the inputs on Quality of the data for Audit Purpose .
+Provides direction, prioritization to enable efficient implementation of the Project for On time delivery..
+CDPHP changes to MASKED_NAME as part of Citrix Project . Coordinating and tracking on daily basis .
+Server (Windows and Linux)Patching. Project for 1078 servers which needs to be patched monthly and Quarterly are taken care of as part of Project and operations .  
+Scheduling  and conducts project meetings to include logistics, agendas, and Minutes of Meeting . 
+Accepting the challenges and driving to solutions and documentation for further Use .
+Working with different Shake Holders in the project (Developers , Testers , DBA ,Quality and Managers for Project Development and Maintenance )
+Monitored projects on an ongoing basis, evaluating progress and quality, managing issue resolution and taking corrective action as necessary.
+Maintain continuous alignment of program scope with strategic business objectives, and make recommendations to modify the program to enhance effectiveness toward the business result or strategic intent.
+Direct the coordination of all implementation tasks involving third party vendors as well as provide consultation to clients on system implementation.
+Week end support for monitoring the Patches and progress when ever required and guiding the team at offshore on the step to be taken when issues occur
+Managed and perform the process of Statement of Work and contract creation to secure new and follow-on work.
+Monitored project activities and advised staff of issues due to resource availability.
+Documented and standardized web deployment and post deployment procedures, reducing deployment cycle 10%.
+Worked with change management and transition teams to implement training and integrated legacy systems with new systems and processes
+Validated inventory records and contracts against legacy data for accuracy and liaised with service providers regarding the transition process and helped track the terms for termination for each account
+Provided program and project status reports to the project team and company
+Ensure the process developed and agreed is followed across the team and have a hand shake by the security team.
+Creating the requests, Incidents and changes and following up for approvals as per need and managing documentations.
+Sending High level project progress to the Board Members on regular basis.
+Client: MASKED_NAME account MASKED_NAME, NJ;                         EMPLOYER –Satin Solutions ;                  Implimentation Patner:IBM USA-Retail Domain
+Role: IT Project Manager and Sr Transition Manager 			
+Duration: July 2016 – March 2017
+The Miller Brewing Company is an American beer brewing company owned by SABMiller. Its regional headquarters is located in MASKED_LOCATION, MASKED_LOCATION and the company has brewing facilities in MASKED_LOCATION, MASKED_LOCATION, MASKED_NAME, MASKED_LOCATION, MASKED_LOCATION, MASKED_LOCATION, MASKED_LOCATION, MASKED_LOCATION, MASKED_LOCATION, MASKED_LOCATION; and MASKED_LOCATION, MASKED_LOCATION. On 1 July 2008 the Miller Coors company was formed as a joint venture with rival MASKED_NAME to consolidate the production and distribution of its products in MASKED_LOCATION, with each parent company’s corporate operations and international operations remaining separate and independent of the joint venture.
+Day-to-Day Activity: -
+Primary consultant between various business units in order to review, analyze, and evaluate business systems and user needs
+Documenting requirements, define scope and objectives, and formulate systems to parallel overall business strategies
+Handling the tracition of the project using Alile PM  with splints backlogs to smoth tranciton and coordination with various sdms through out the organisation (offshore).
+Working  as an SDM for EDI initiatives for Business to Business coordinating with various team (Server Time , DBA, Management, Service desk , Business team)for regular updates during various critical paths like patching , MASKED_LOCATION , Up gradation and during Critical issues.
+Participating in the scoping process for corporate project requests. 
+Managing requirements process for high risk corporate projects.  Managing requirement sessions,
+elicitation of requirements, documentation of business and functional requirements, and facilitate.
+Business User Acceptance Testing(BUAT) implementation for Projects undertaken and deployments . 
+Documentation of all artifacts as an SDM for B2B from various team and maintaining know error and Risk maintainence DB for the business.
+review and approval of requirements
+Developing and solicit approval of Software Development Life Cycle (SDLC) documentation.
+Handled Many team building Event managemnet and Client Event Managemnet.
+Act as the subject matter expert for business partners on SDLC process
+Provided program and project status reports to the project team and company
+Monitored projects on an ongoing basis, evaluating progress and quality, managing issue resolution and taking corrective action as necessary.
+Production Support:
+Working on ISM ticketing tool supporting over TB 24*7 remote supports and on call for Production databases and supporting developers & end-users.
+Created and managed database objects such as tables, indexes, partition tables and views.
+Performed capacity planning, security review and database design review for several OLTP applications and data warehouse.
+Reviewed with development team in optimizing queries for the data warehouse and OLTP database environments.
+Security User Management, Privileges, Roles, Profiling, OS Authentication.
+ 
+Client: RSA(Royal and sun Alliance) –India    Employer-IBM INDIA Insurance Domain
+Role: IT Project Manager and MASKED_NAME Administrator
+Duration: Nov 2012 - June 2016
+RSA Insurance Group plc (trading as MASKED_NAME, formerly Royal and Sun Alliance) (LSE: MASKED_NAME) is a multinational insurance company headquartered in MASKED_LOCATION, MASKED_LOCATION. RSA operates in 28 countries and provides insurance products and services in more than 140 through a network of local partners. It has 17 million customers.[2] MASKED_NAME was formed by the merger of Sun Alliance and Royal Insurance in 1996.
+Performing role transition as required and troubleshooting dataguard/standby issues.
+Executing application scripts in databases as requested application team.
+Restore and Recovery of databases using BR tools.
+Killing prole and reset password for prole with the help of TSM Team
+Configuring Listener and TNS Configuration in Oracle Client, MASKED_NAME databases
+Monitoring Production databases OLTP and OLAP.
+Defragmenting tables, indexes and database storage areas.
+Tables and Indexes stats gathering in production databases on weekly basis.
+Performed Cloning Activity for databases from production to testing environment.
+Plan database space needs and growth analysis, and future disk need analysis by adding or resizing Data files in the tablespaces.
+Setting up new users managing/ user responsibilities.
+Client: MASKED_NAME coors- MASKED_NAME INDIA  MASKED_LOCATION
+Role: Project Manager (PM) and Oracle /SQL Database Administrator
+Duration: Jan 2012 - Nov 2012
+The Miller Brewing Company is an American beer brewing company owned by SABMiller. Its regional headquarters is located in MASKED_LOCATION, MASKED_LOCATION and the company has brewing facilities in MASKED_LOCATION, MASKED_LOCATION, MASKED_NAME, MASKED_LOCATION, MASKED_LOCATION, MASKED_LOCATION, MASKED_LOCATION, MASKED_LOCATION, MASKED_LOCATION, MASKED_LOCATION; and MASKED_LOCATION, MASKED_LOCATION. On 1 July 2008 the Miller Coors company was formed as a joint venture with rival MASKED_NAME to consolidate the  production and distribution of its products in MASKED_LOCATION, with each parent company’s corporate operations and international operations remaining    separate and independent of the joint venture. 
+
+Database Implementations:
+Manage Oracle Database Vault: create realms, command rules, and factors and manage their authorizations.
+Work with business owners to authorize exceptions and enable monitoring
+Actively involved in strategic MASKED_LOCATION, Restore and Recovery using RMAN for complete recoverability. 
+Used Flashback Technology-Query on Database to undo specific transactions, provided point-in-time recovery of database objects, recovered database objects and ‘rewind’ entire database to a particular time. 
+Configured DATA GUARD to provide high availability by implementing physical stand-by database and worked with various MASKED_NAME 11g features: 11g Grid Control and Automatic Storage Management (ASM).
+Client: MASKED_NAME – India        Employer-IBM INDIA  -Oil Industry 
+Role: Oracle Database Admin and Work Load Manager(Project Manager)
+Duration: March2009 - Jan 2012
+Irving Oil Ltd. is a gas, oil and natural gas producing and exporting company. The company is privately owned by MASKED_NAME and his family. It is considered part of the Irving Group of Companies .Irving Oil operates the MASKED_NAME, MASKED_LOCATION's largest refinery, as well as a network of gasoline stations, a fleet of oil tankers, real estate and other related assets.
+Database Implementations: -.
+Installation and configuration of Oracle 11g databases
+Upgraded the databases from 10.2.0.4 and 11.2.0.2 to 11.2.0.4.
+Applying regular PSU patches.
+Creating Backup schedules and taking periodic backups both offline and online using RMAN and SQLBACKTRACK.
+Configuration of standby database for production database.
+MASKED_NAME and regular Production, Staging and Integration Releases and database changes.
+Created Table partitions and purging non- required partitions based on application demands.
+Used the standby database for doing different operations like taking MASKED_NAME, collecting statistics and running various reports without
+               disturbing the production database.
+TECHNICAL SKILL SUMMARY: -
+
+EDUCATION DETAILS:
+JNTU-2006 to 2010 Computer Science Engineering (Bachelors Degree) 

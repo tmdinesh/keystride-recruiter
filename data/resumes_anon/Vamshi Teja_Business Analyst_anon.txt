@@ -1,0 +1,91 @@
+MASKED_NAMEContact: MASKED_PHONE
+Professional Summary:
+ 7+ years of experience, working as Business Analyst in various MASKED_NAME including Airlines, Healthcare, and Banking.
+MASKED_NAME of Software Development Life Cycle (SDLC), Development methodologies like AGILE, Waterfall.
+Experienced in Iterative Development Frameworks such as Rational Unified Process, Agile and Scrum.
+Hands on experience Business and Requirements Analysis, Business Process modeling and Project planning.
+Experienced in Eliciting Business Requirements and Expertise in MASKED_LOCATION Business requirements in to MASKED_LOCATION requirement documents and Designing business models using UML Diagrams.
+Experienced in facilitating requirement elicitation techniques such as Joint Application Development (JAD), Rapid Application Development (RAD) and Joint Requirement Planning (JRP).
+Proficient in analyzing and Creating Use Cases, Use Case Diagrams, Activity diagrams, Class diagrams, Data Flow Diagrams, Business Flow Diagrams and Sequence diagrams using MS Visio and Rational Rose.
+ Communicated and collaborated with external and internal Stakeholders to ensure the success of the project. 
+Experienced in MASKED_LOCATION extensive SQL queries for data retrieval, manipulation, and reporting
+Traced and informed business requirement changes through the lifecycle of the project using Rational Requisite Pro and maintain a Requirements Traceability Matrix (RTM) to keep the stakeholders informed of the progress of the project.
+Experience in conducting  Gap Analysis, SWOT and  Cost Benefit Analysis
+Experience in the creation of Test Plan and Test Cases from the MASKED_NAME document. Documented Test Plans, Test Cases, Test Scripts, Test Procedures based on the Design Document and User Requirement Document for the Integration, Regression, Functional, Performance, and User Acceptance Testing (UAT).
+Participated in daily scrum stand-ups to know the progress towards the sprint goal. Lead Agile development sprint planning meetings for one or more projects.
+Prioritized user stories, Epics and themes and plan them into Sprint releases, based on client deliverables.
+Technical Specifications
+Client: Southwest Airlines, MASKED_LOCATION,TX.				OCT 16-Present
+Role: Business Analyst
+The project involved enhancing the website for southwest Airlines. It also included System for organizing travel details for registered customers like booking tickets, managing their itinerary, booking hotels, and ground transportation. The application was interfaced with various databases to fetch data via APIs.
+Responsibilities:
+Gathered Business requirements, defined Scope of Project, created BRD, FSD and Project Charter.
+Facilitated one on one interview, workshops, and other requirement elicitation sessions.
+Organized Joint Application development (JAD) session and workshops with end user/client/business and development teams.
+Created Epic and User stories using MASKED_NAME, configuring and monitoring MS SQL Database Servers.
+Assisted the project manager in preparing the project schedules, milestone tracking and resource allocation using MS Project.
+Conducted Change Request Meeting and documented issues and performed impact analysis 
+Create and fine tune SQL Server Integration Services (SSIS) packages for ETL and data migration
+Conducted Functional walkthrough sessions to educate team with ongoing developments.
+Created Class Diagrams ,State Diagrams ,Sequence Diagrams, and Use cases using MS MASKED_NAME
+Performed Gap Analysis to identify the discrepancy between what is and what should be in the website layout and developed a plan to close the gap
+Documented Test Scripts, Test flows, Test performance using MS Word and MS Excel.
+Reviewed test scripts for the new functionality by working with offshore team, reviewed test results and performed User Acceptance Testing (UAT).
+Environment: Agile, JIRA, Windows, MS Project, MASKED_NAME, Ms Excel
+Health edge, Burlington, MA				             JUL 2015– OCT MASKED_ADDRESS 
+The main objective of the project was to design an Electronics Claims Processing (ECP) system to accept the electronic claims coming from the various providers (doctors and hospitals) and process them. System also incorporates the health insurance products, which helps their employees to choose and calculate their benefits. The project was also to make the service providers acquired by HIPAA compliant and to integrate all of them into one system.
+Responsibilities: 	
+Accumulated system requirements from various departments like accounting, Human Resource through surveys, interviews and JAD sessions.
+Created Business Requirement Specifications and Functional Specifications Document using MS Office Tools.
+Met with users and stakeholders and identified problems, resolved issues and improved the process to ensure a stable and accurate solution.
+Created user stories and story cards.
+Designed the functional requirements of the application through Mock-up forms for better illustration of the application, and also documented the non-functional requirements.
+Created exceptions report which were then submitted to project lead and stakeholders on a regular basis.
+Developed UML diagrams using MASKED_NAME.
+Updated and modified progress and resources allocation in MASKED_LOCATION project for the team.
+Facilitated user acceptance testing and created test strategies with Information Technology Group.
+Performed manual front-end testing to check all functionalities of different modules.
+Make sure to trace test cases to operations use cases. 
+Recommend and implement naming convention for Test Cases, Test Sets and Defects. 
+Perform Gap Analysis
+Coordinate with Test Coordination Center to set up and follow up on daily, weekly and monthly reports.
+Attended Weekly status meeting and provided a weekly report that includes test metrics consisting of status reports. 
+MASKED_NAME in Load Testing and UAT testing.
+Worked on HP Quality Center to log bugs and raise tickets.
+Suggested measures and recommendations to improve the current application performance.
+Environment: Agile, Windows, MS Office, MASKED_LOCATION , MS Project, MS Visio.
+Client: CHASE, MASKED_LOCATION, CA.				Dec 13–Jul MASKED_ADDRESS range of banking, asset management, wealth management, and corporate and investment banking products and services.
+The project focused on the credit card transactions and made them transparent. Making an offer based on their usage, improvise web based user interface richer and easy to operate. Along with that added responsibilities, client information was aligned with IDAM systems for quicker notifications. The customer’s dashboard was enhanced to display the spending report for every quarter and suggested different types of credit cards for Chase customers. 
+Responsibilities:
+Acted as a liaison between business clients and technical teams by planning, conducting and directing the analysis of business requirements to support online transactions.
+Led requirements elicitation sessions to understand business problems and how proposed system enhancements will address them for escalating the issues.
+Assisted in the development of quality assurance activities including Quality Assurance Plan, Product Acceptance Plan, Test Plan, and Test Cases.
+Produced business requirement artifacts including UML, Use Cases, Business Rules, Supplemental (Non-Functional) Specifications, and User Interface Design Specifications.
+Created workflow mockups to create navigation flow for the websites.
+Created extensive SQL queries for data retrieval, manipulation, and reporting
+Created User Stories for maintaining FTPs and navigation flow for the online transactions for downstream, upstream and midstream interfaces (HTTP, REST).
+Created Business Change Request Management (BCRM) Documents for building integrated platforms to accommodate new technologies & development methods, improve the processing of sensitive information, and reduce operational risks, User Acceptance Testing (UAT) and Test Plans (Quality Center).
+Updated the bank's Identity and Access Management (IDAM) strategy and worked with multiple technical teams and financial advisors for integration and measuring probable impact.
+Facilitated technical teams to develop, implement, and administer access control processes that support the creation, modification, and termination of system level user accounts and associated access rights for IDAM.
+MASKED_NAME to present it to the development team to better understand business process.
+Environment: RUP, HTTP, REST, MASKED_NAME, Ms excel
+Client: Cigniti Technologies	 Hyd, MASKED_LOCATION					Aug2010-Nov 2013
+Role:   Quality Analyst
+Responsibilities:
+Created Test Scenarios and Test cases from functional requirements related to End-to-End application.
+Provided updates during daily scrum call /Daily standup call.
+Handled several integrated and independent Release initiatives.
+Coordinated with team in reviewing the scripts and followed up with onshore developer and project management.
+Performed manual testing on mobile devices like checking UI, MASKED_NAME compatibility, Installation/ Uninstallation of the application on mobile devices.
+Generated test cases according to user stories specified in MASKED_LOCATION tool for each sprints.
+Created Test scenarios, Test cases from SRS documented.
+Supported Production team in every integrated and Independent release, by certifying services from our end.
+Interacted with the development team to report bugs and discussed the status of bugs with open status or hold status.
+Actively participated in enhancement meetings, project review meetings, Weekly status meetings and various other meetings which were focused on making the application more effective.
+Involved in various documentation tasks such as daily status reports, weekly progress reports, Requirements traceability Metrics (RTM) and defect logs.
+Performed detailed analysis on the Rejected defects and Post Production Defects and took corrective measures to avoid them in future releases.
+Communicated the issues with the developers for every build prepared the Test results and consolidated reports to assure the functionality.
+Documented the existing system and verified it with follow-up meetings.
+Extensively used Application Life Cycle Management (ALM) for test Scripts, bug tracking and reporting..
+MASKED_NAME testing using SQL queries in SQL Server.
+Environment: HP QC, MASKED_NAME, JIRA, Confluence and SOAP UI.

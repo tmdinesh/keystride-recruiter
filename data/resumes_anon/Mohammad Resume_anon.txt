@@ -1,0 +1,139 @@
+Sr. Business Systems Analyst / Scrum Master 
+PSM I & CSM Certified ( MASKED_URL )
+SCJP (Sun Certified MASKED_NAME)
+Lean Six Sigma Green Belt Certified 
+ PROFESSIONAL SUMMARY  		   						           	      
+Experience with Oracle E-Business Suite (11i/R12) modules – Accounts Payables, General MASKED_NAME, Cash Management, Order Management, CRM, HRMS, Warehouse Control System (WCS), WMS and Procurement.
+Experience and knowledge of implementing SAP and using various modules of SAP for managing business.
+Experience in optimizing Procurement and other Supply Chain processes.
+Experience using SharePoint, JIRA, Rally, Power BI, TFS, AWS, Hadoop, informatica, HPQC and HP ALM. 
+Supported onshore and offshore teams and promoted collaboration 
+Coached and guided team members on agile practices to create business value and benefit from self-organization. 
+Facilitated process improvements and automation of various cumbersome processes using DMAIC and DMADV methodologies that brought the value add of over $ 1 million.
+Worked closely with product owners to groom product backlog and supported in preparing for sprint planning
+Resolved impediments and internal conflicts by exhibiting servant leadership characteristics. 
+Excellent expertise in SQL (Structured Query Language), MASKED_NAME, SAS, R programming, SPSS and MASKED_LOCATION.
+Worked on Data Governance, Data Compliance, regulations (GRC), data auditing and metadata repositories. 
+Experience in facilitating requirements elicitation, Gap Analysis, Impact Analysis, Risk Analysis, enterprise analysis, Stakeholders Meetings, JRP sessions, JAD sessions and triage calls.
+Proficient in developing UML diagrams such as use case diagrams, work flow diagrams, data flow diagrams, flowcharts, screen mockups and report prototypes using dynamic UI with HTML, MASKED_NAME.   
+Proficient in Change Management, Process execution, Cost Benefit Analysis and ROI evaluation.
+Excellent documentation skills in creating BRD, Use Case Specifications, SRS, FRD, FSD, HLD, LLD etc.  
+    Proficient in MS Office – Excel (VLOOKUP, Pivot tables, MASKED_NAME), Word, PowerPoint, Access.
+Assisted in scripting business logic in the web methods of Web Services and documenting the Web Service Level Agreements through XML into the business engine rule of the system. 
+Developed sample XML request and response files for the development team to understand the parameters and used XSTL to perform various file translation to pdf, doc, csv etc. Used XSD to create XML files for webservice calls.
+Wrote complex elements in XML and coordinated with UI/UX team to integrate and transfer data using XML.
+Proficient in developing test plans, test cases, system testing, UAT and traceability matrices in manual and automated test environments.   
+Performed reverse engineering for the enhancement projects to find design and fix bugs.
+Experience with data mapping, data analytics, data randomization and data warehousing.
+Worked on Waterfall, MASKED_NAME and SAFe projects and understand the working of MASKED_LOCATION, RUP TDD. 
+TECHNICAL SKILLS
+EXPERIENCE 
+General Electric- Transportation: Melbourne FL      	 	            	                                              Jun 2016 – Dec 2017
+Sr. Business System Analyst / Lead Business Analyst  							     	
+An Enterprise level project that involved an upgrade of the Oracle Apps ERP application from 11i instance to R12. My role was closely related to Buy 2 Pay, Procure 2 Pay, Order Management and Cash Management modules. I worked on webservices and ensured that all Oracle forms and third-party tools are working fine in R12 instance.
+Role & Responsibilities:       
+Managed and helped the BA’s to elicit the requirements and helped them to overcome issues and challenges.
+Assisted the BA’s to prepare the Business Requirement Document (BRD), Functional Specification Document (FSD) and Software Requirement Specifications (SRS). Used BPMN to show the process flow and suggested process improvements to improve productivity.
+Performed reverse engineering to understand the system design and to perform system analysis.
+Worked on Oracle forms and understood the working on various responsibilities and setups such as GL setups, purchase order, requisition and approval hierarchy.
+Worked on purchasing webservices and implemented JAX-RS, JMS, JAXB features for better communications.
+Well versed with R12 tables such as PO_HEADERS_ALL, PO_RELEASES_ALL, PO_VENDORS etc.
+Used MASKED_NAME for job scheduling and to track issue logs for the payment chains.
+Used SharePoint to store the all the artifacts such as BRD, SRS, Communication plan, Test plan and cases etc.
+Performed process mapping to understand the relationships between entities and their working.
+Used DMAIC methodology to automate some manual processes to bring about efficiency and cost savings.
+Performed various analysis such as Interface and GAP analysis to make a roadmap for the team for the successful ERP implementation.
+Worked with project manager to define the scope and out of the scope for the project.
+Developed and reviewed use cases and used modeling techniques for better understanding of the process flow for the stakeholders.
+Performed the document analysis and went through the problem reports to understand the complete system and the AS IS issues in production. Compared it to the TO BE state and made complete report for the project.
+Created prototypes for the business and created the activity diagrams and sequence diagrams to assist the upgrade.
+Worked with the Development team to integrate the SOA to support the REST based webservices and orchestration.
+Ensured that both the XML and MASKED_NAME format were supported to ensure the proper integration with third party tools.
+Worked with the UI team to review the HTML and make relevant changes.
+Worked extensively on SQL, PL/SQL and T-SQL to perform operations on database.
+Facilitated various testing stages including user acceptance and the PL1 stage.
+Resolved technical problems associated with the API’s and worked with MASKED_NAME team to fix those.
+Provided user training to the end users related to the new application.
+Environment: Oracle Apps 11i/R12, Appworx, PL/SQL, MASKED_LOCATION, MASKED_LOCATION, TFS, SharePoint, Service-Now, MASKED_NAME, Unix, API, MangoDB.
+Citi Group: MASKED_LOCATION, MASKED_LOCATION	                       		           	 	    	                        May 2014 – Jun 2016
+Scrum Master / Business Analyst                                                                        					                     
+Citi Shared Services Global ID Administration (CSS GIDA) provides information security administration services to Citi Staff enterprise, and internal and external customers. The scope was to implement budgeting and forecasting application for its employees and managers. The application provided various features and helped in expense/recovery management.
+Roles & Responsibilities: 
+Facilitated Scrum ceremonies such as Daily scrum meetings, Sprint planning, Sprint review, and Sprint retrospective. 
+Facilitated discussion, decision making, and conflict resolution to ensure self-organization and collaboration.
+Reviewed scrum processes, facilitated process improvements and coached team to follow agile/scrum priciples.
+Calculated and tracked velocity and capacity of the team throughout the project and used focus factor.
+Used JIRA project management software for creating the sprint burn down and burn up charts, velocity charts throughout the sprints to track velocity as well as determine capacity of the development team and update the user stories and tasks that are completed in various sprints into the product backlog artifact.  
+Performed business analysis to understand the budgeting and forecasting processes and suggested the best way to combine the processes and help them share information with one another.
+Understood the AS-IS system and its limitations and offered the recommendations for the TO-BE system.
+Used SQL extensively to perform DML operations and used MASKED_LOCATION to create reports.
+Gathered web services requirements, created a plan for orchestration and 
+Made relevant analysis reports using UML diagrams and used SharePoint to share it with stakeholders.
+Ensured the user stories follow INVEST criteria and helped product owner to groom product backlog.
+Facilitated user story estimation with the help of various techniques such as Planning Poker, The Bucket System, T-Shirt Sizing, Affinity mapping etc.
+Assisted Product Owner in the prioritization of the user stories and used various techniques such as MASKED_LOCATION method, Rolling Wave Planning, Weighted shortest job first and whole team sorting.
+Enterprise Content Management solutions and portals (SharePoint, Sitecore, MASKED_NAME).
+Ensured application was tested against all the test cases and helped testing team to come up with test cases.
+Helped the teams to implement OLAP and OLTP systems to analyze the data and filter transactions.
+Used Rally and TFS for updating the status of all the Test Cases & Test Scripts that are executed during testing process.
+Helped team in ETL operations, followed by analytics with SSIS and reporting with SSRS.
+Environment: Scrum, Microsoft Excel, PowerPoint, MASKED_NAME, JIRA, SQL, SSIS, SSRS, SharePoint, TFS, MASKED_NAME, MASKED_NAME, MASKED_NAME, Tableau
+Fidelity & Guaranty Life: Baltimore, MASKED_LOCATION     			      	                                         Dec 2012 – May MASKED_ADDRESS / Business Analyst								     	
+Insurance application enhancement for employees to manage retirement benefits such as annuities and create a dashboard for employees to manage the data related to customers. Ensured regulations and compliances like HIPAA were followed.
+Roles & Responsibilities:          
+Elicited requirements and analyzed all phases of reinsurance accounting and reporting, information technology, data cleansing, contract administration, monthly processing, reinsurer settlement / reporting.
+Analyzed various annuity and pension products and identified best ways to implement the required functionality.
+Coordinated with SME’s for the creation of development tasks.
+Contributed and adhered to SDLC and IT Service Management (ITSM) processes.
+Extracted and transformed data from various data sources to perform analysis using Informatica.
+Performed change requirement analysis and planned for change management, replicated scenarios for proof of concept to uncover system functionality gaps
+Used PeopleSoft finance and accounting modules to understand the various forms and system architecture.
+Performed reverse engineering to fix bugs and to find the system design using MASKED_NAME.
+Interface with TPA vendor and internal claims organization to analyze data to ensure proper processing of reinsurance invoices and claims, to ensure smooth processing and data of the highest integrity with maximum efficiency.
+Identified problems such as database errors, inaccurate records and reports, regulatory non-compliance, inaccurate guidance, and correctness of payment and accounting for funds. 
+Work with Enterprise Data Management to map data requirements into data elements.
+Performed data validation of the data flow from the front-end to the back-end using SQL queries to perform the back-end testing on the database.
+Prepared Mock screens and Wire frames using MASKED_NAME to give the stakeholders an idea about the UI and the screens.  
+Used SQL to extract data and perform analysis. Used in conjunction with analytical tools such as SPSS and MASKED_LOCATION.
+Wrote client side and side validation verbiage and helped testing team to come up with relevant test cases.
+Worked with Dev Team to integrate the REST API’s with other web services and provide collaboration with other departments. 
+Worked with design team to build the orchestration design to 
+Developed test cases and test scripts and performed Quality Assurance testing using HPQC.
+Proposed process improvement ideas to automate various manual tasks such as report building and sending emails.
+Environment: Microsoft Office Suite, MASKED_NAME, T-SQL, Outlook, HPQC, MASKED_NAME, API, Webservices, MASKED_LOCATION, Spring, JavaScript, Service Now, SharePoint, SOAP UI, MASKED_NAME, PeopleSoft.
+Soft labs Technologies and Development Pvt. Ltd.: Mumbai India                                                                Apr 2011 – Dec MASKED_ADDRESS / Data Analyst
+The investment banking project for Kotak Mahindra was to add more features to the web application. The data needed to be profiled and analyzed to assist in business decision making. The report generation tool was optimized to develop more types of reports for internal banking employees.
+Worked with the design, development and testing team to enhance a web application for Kotak Mahindra Bank to offer solution to their wealth management and portfolio management.
+Worked with the bank stakeholders to understand their requirements and worked with Senior MASKED_NAME to understand the data requirements to make mapping documents.
+Performed GAP analysis and impact analysis and presented detailed report to the stakeholders.
+Elicited and analyzed requirements for wealth management and portfolio management departments.
+Identified the format of various documents such as NAV reports, subscriptions reports, redemption documents, statement of holdings, acceptance receipts etc.
+Collected relevant data using SQL from the database to identity the attributes and fields in the tables.
+Used data to perform OLAP and form graphs and charts such as reconciliation graphs.
+Performed impact analysis to understand the impact on other securities such as equity, debt, derivatives and alternative security.
+Interpreting data, analyze results using statistical techniques and provide ongoing reports to support Business Analysts.
+Develop and implement databases, data collection systems, data analytics and other strategies that optimize statistical efficiency and quality.
+Identify, analyze, and interpret trends or patterns in complex data sets to help portfolio managers take business decisions.
+Environment: Microsoft Excel, SQL, OLAP, MASKED_NAME, BRD, FRD, SRS, ETL, TFS, MASKED_LOCATION.
+DreamSoft IT Solutions: MASKED_LOCATION, MASKED_LOCATION                                                                                                              Jun 2009 – Apr 2011
+MASKED_NAME
+The project scope was to develop a web application for an education company ‘Jamboree’. The application would allow the employees to maintain the student schedules and manage the course lists with relevant details.
+Used MASKED_NAME, J2EE and struts to develop web application for an education service company.
+Developed prototypes for the application and made documents for the business and the end user.
+Performed Unit, Integration and system testing.
+Assisted the Module leader in various account level activities such as timesheet submissions and the team roster.
+Implemented SOAP and REST webservices to connect different application in SOA architecture.
+Worked on Oracle Database and used SQL to perform retrieve and update records in database.
+Used XML Spy tool to write XML files to transfer information across the web pages and web services.
+Worked with the UI team to implement the JavaScript and JSP snippets.
+Implemented AJAX and XML, MASKED_LOCATION, XSD to transfer the request and get the responses.
+Made relevant changes on the HTML to make the web pages more dynamic by incorporating AJAX.
+Performed process improvement using DMAIC and DMADV methodologies.
+Developed scalable modular software packages for various MASKED_NAME APIs and applications.
+Environment: MASKED_NAME, J2EE, MASKED_NAME, Junit, SOAP UI, MASKED_LOCATION, Postman, SQL, Service-Now, SharePoint, Eclipse IDE, MASKED_NAME.
+Education							     				
+Bachelor of Engineering (Computer Engineering) 	          University of Jammu                          May 2005- May 2009
+Certifications							     				
+Six Sigma MASKED_LOCATION
+Sun Certified MASKED_NAME
+Professional Scrum Master

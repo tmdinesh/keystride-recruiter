@@ -1,0 +1,36 @@
+{
+  "resume_id": "Krishna Kuruvella_anon",
+  "skills": [
+    "java",
+    "javascript",
+    "r",
+    "angular",
+    "html",
+    "css",
+    "bootstrap",
+    "jquery",
+    "node",
+    "spring",
+    "rest",
+    "soap",
+    "sql",
+    "mysql",
+    "oracle",
+    "apache"
+  ],
+  "education": {
+    "degree": "IBM Certified Database Associate -- DB2 Universal Database V8.1 Family",
+    "year": "Unknown"
+  },
+  "experience_years": 10,
+  "projects": [
+    "Coordination of offshore and Onsite team for development activities.",
+    "Involved in the deployment activities.",
+    "Title: DC2 Phase 0 ICP\u2013 Life Quote",
+    "Analysis of Business Requirements.",
+    "Coordination with offshore-site team"
+  ],
+  "certifications": [
+    "IBM Certified Database Associate -- DB2 Universal Database V8.1 Family"
+  ]
+}

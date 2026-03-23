@@ -1,0 +1,150 @@
+ 
+ 
+Contact
+www.linkedin.com/in/neeraj-
+agrawal (LinkedIn)
+MASKED_NAME
+R
+Analytics
+SAS E-Miner
+Languages
+English
+Hindi
+Certifications
+R for Excel Users
+edX Honor Code Certificate for
+Predictive Analytics
+ADVANCED MODELING AND
+SIMULATION OF POWER
+ELECTRONIC SYSTEMS USING
+PLECS
+edX Honor Code Certificate for
+Statistical Thinking for Data Science
+and Analytics
+Improving Deep Neural Networks:
+Hyperparameter tuning,
+Regularization and Optimization
+Honors-Awards
+GE Analytics Certificate
+Innovator Award
+Champions Award
+Above and Beyond Achievement
+Award
+N R Khambhati Memorial Gold
+Medal
+Publications
+Startup Diagnostics for an LCL Filter
+in an Active Front End Converter
+Optimal Health Care Inventory
+Management Using Analytics
+Neeraj Agrawal
+Sr. Data Scientist | MASKED_NAME | MASKED_NAME
+Bengaluru, MASKED_LOCATION, MASKED_LOCATION
+Summary
+Industrial data scientist solving challenging and competitive industrial
+problems. Masters in electrical engineering, with a specialization in
+power electronics. Skilled in data mining, statistical data analysis,
+predictive modeling, programming. Passionate about building high-
+quality, practical data-driven solutions.
+I joined Edison Engineering Development Program (EEDP), rotation-
+based technical leadership program. EEDP equipped me with strong
+problem-solving and technical acumen. EEDP helped me evolve
+as industrial data scientist by giving me an opportunity to work with
+world-class domain expert together with nourish my software and
+analytics skills through rotation in different teams across different
+businesses.
+GENERAL SKILLS: power electronics; data science & statistics,
+predictive analytics; programming; strong communications.
+COMPUTING SKILLS: 
+Analytics tools: R, Python,MASKED_LOCATION,MASKED_LOCATION, SAS Base, SAS Enterprise
+Miner, JMP, SQL, MASKED_NAME, MASKED_NAME, C, MASKED_NAME; 
+Big Data Tools(Basic Knowledge):Pig, Sqoop, MASKED_NAME, Hbase, Hadoop,
+Spark;
+Power Electronics Tools: DSP, FPGA, Sim Power (MATLAB), PSIM,
+PLECS; 
+Platforms: Mac, Linux/Unix, MASKED_NAME. 
+Experience
+Walmart Labs
+Senior Data Scientist
+January 2019 - Present (1 year 3 months)
+MASKED_LOCATION, MASKED_LOCATION
+ 
+Page 1 of 3
+
+ 
+ 
+Patents
+DFIG Based hybrid AC/DC
+Distribution and Protection Scheme
+for Marine Architecture.
+ROUTE EXAMINATION SYSTEM
+Prediction of Main Alternator Failure.
+Honeywell Technology Solutions, Inc.
+Data Scientist
+November 2016 - January 2019 (2 years 3 months)
+Bangalore
+GE Transportation
+3 years 3 months
+Analytic Domain Engineer
+October 2015 - October 2016 (1 year 1 month)
+MASKED_NAME, MASKED_LOCATION
+- Predictive modeling and data mining of GE Locomotive Systems using
+domain expertise - analytics, anomaly detection, fault detection & prognostics
+on heterogeneous multivariate industrial-scale time series.
+- Help new talent in the team to get equipped with analytics concepts and
+tools.
+Edison Engineer
+August 2013 - September 2015 (2 years 2 months)
+I joined Edison Engineering Development Program (EEDP), rotation-based
+technical leadership program.
+#Rotation1: Aux and Traction Control Team(GE Transportation) [Aug2013 -
+Mar2014] 
+- Involved in design aspect of traction alternator for locomotive to reduce THD
+in output
+voltage.
+- Involved in hardware in loop (HIL) real time testing for validation of
+locomotive controls.
+#Roation 2: Power System and Conversion Lab (Global Research Center)
+[Apr2014- MASKED_NAME]
+- Developed the experimental test-bed consisting of three power inverters
+emulating UPS
+units connected in the IP ring bus architecture, to test the control algorithm. I
+was
+appreciated and was recognized with an "above and beyond silver award".
+ 
+Page 2 of 3
+
+ 
+ 
+- Demonstrated the capability of Typhoon HIL simulator by comparing with the
+hardware
+result for output voltage control for non-linear load.
+#Rotation 3: Data Analytic Team [Jan2015 - Sep2015]
+- Developed an analytical model to predict the failure of Auxiliary and Traction
+Alternator in locomotive.
+- Analyzed, developed and validated predictive model for Air Compressor
+Leakage System.
+- Developed an prescriptive model for maintenance of Traction Motor
+prognostics.
+Department of Electrical Engineering, IISc Bangalore
+Laboratory Teaching Assistant
+August 2012 - December 2012 (5 months)
+MASKED_NAME, MASKED_LOCATION
+Lab TA for the course Power Electronics. Responsible for guiding and helping
+students to perform laboratory exercises and testing and maintenance of lab
+equipments.
+Automation & Control Systems
+Summer Trainee
+June 2010 - July 2010 (2 months)
+MASKED_NAME ISA-CIAT (The Instrumentation, Systems & Automation Society)
+Training Programme.
+-Extension Training on PLCs (AB/Siemens/Mitsubishi/Messung), MMI,
+MASKED_LOCATION, Drives, IEC language
+Education
+Indian Institute of Science
+Master of Engineering (MEng), Electrical Engineering Technologies/
+Technicians · (2011 - 2013)
+Harcourt Butler Technological Institute
+Bachelor’s Degree, Electrical and Electronics Engineering · (2007 - 2011)
+ 
+Page 3 of 3

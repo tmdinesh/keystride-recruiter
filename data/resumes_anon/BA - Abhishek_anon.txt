@@ -1,0 +1,158 @@
+Professional Summary
+Business Analyst skilled in defining strategy and driving teams forward in the consolidation of data and business systems.
+Responsible for driving strategy for trading system for Retail trading and mutual funds data and asset conversions for branch offices for Citibank, Capital One and Wells Fargo.
+Business Analyst/Project Manager/Data Analyst with over 11 years of experience in the Information Technology Industry- specializing in Enterprise Risk Management, Documentation and system/data conversion.
+Business Analyst for Capital One System data conversion to Amazon Web Service (AWS).
+Automated FX and fixed income, Exchange traded derivatives workflows for Business Objects reconciliation.
+Worked on system decommission and replacement of legacy systems with new enterprise systems.
+Experienced in Project management and Project document management.
+Executed test cases for the Mutual fund team and Retail trading, MASKED_NAME and brokerage.
+Worked as Business Analyst on Regulatory compliance projects for automation on reports to the regulator.
+Business Analyst for project regarding trading of commodities using Market Data System (MDS) as a global data provider in market prices, futures & options, brokerage and Equities including assisting Front Office Operations division. 
+Worked on FX and Mortgage servicing involving Brokerage services platform integration and design. 
+Worked on Agile and Waterfall methodologies on compliance projects. 
+Experienced in evaluation of Trading systems for Mutual funds and brokerage
+Created business process models via workflow diagrams and system modeling using UML diagrams and data flow diagrams. 
+Experienced in SDLC and Project management for projects with medium complexity.
+Analyzed “As Is” and “To Be” business processes and experience in converting these requirements into technical specifications. 
+Performed data analysis with SQL queries for retrieving, maintaining and organizing data.  
+Conducted User Acceptance Testing (UAT). Performing preliminary investigation for early analysis of existing systems.
+Expert in designing detail system use cases, user stories, developing business test cases and working with QA teams during testing phase thereby facilitating acceptance testing with stakeholders and business users
+PROFESSIONAL EXPERIENCE
+Capital One Inc, MASKED_LOCATION, MASKED_LOCATION                                                                           June 2016 to July 2017                  
+Sr. Business and Data Analyst
+The Project was about multi-level report management specially that of an MBR reported to Senior Management and Stakeholders in the Mortgage, Loan and deposit sides of the bank. Branch and national level reporting were key highlights of this project. It also consisted of Data mapping and report automation and transition to AWS.
+Responsibilities:
+Responsible for gathering requirements from Business Analysts and Operational Analysts and identifying the data sources required for the requests.
+Created Business Requirement Document (BRD) for business community and Functional Requirement Document (FRD) for developers. 
+Extracted, Analyzed and Presented Data in a Graphical Format, such a way that helped project manager to make Business Decisions for AML and Fixed income securities and Equity derivatives.
+Worked on Interest rate swaps and other OTC derivatives and underlying MASKED_LOCATION securities workflow for reporting.
+Provided Anti-Money Laundering review of State Street/Investors Bank and Trust clients.
+Performed the Backend integration testing to ensure data consistency on front-end by writing and executing SQL queries.
+Conducted JAD Sessions to develop an architectural solution that the application meets the business requirements, resolve open issues, and change requests.
+Designed and developed various SQL scripts as part of automation of manual monthly reporting to senior management.
+Worked on data profiling, data analysis and validating the reports sent to senior management.
+Designed and developed Ad-hoc reports as per business analyst, operation analyst, and project manager data requests.
+PDMS automation of certain records saving functionality and auto notifications.
+Automated AML reports and transitioned from MASKED_LOCATION to AWS.
+Worked on Data reconciliation and data testing for AML/Fixed income LOB.
+Enterprise and database integration with middle ware experience.
+Supported audit project planning, integration, and strategy.
+Worked with consumer lending team for data mapping and cross table comparisons for discrepancies.
+Automated FX and fixed income, Exchange traded derivatives workflows, and SWIFT message streamlining for BO reconciliation. 
+Developed SAS Program for Converting Large volume of Text File into Teradata Tables by importing the text file from Mainframes to Desktop. 
+Collaborated with cross functional teams on PDMS functionality and workflows.
+Developed Test Plans, Test Cases and Expected Results, and coordinated the tests with the QA team to verify implementation of new features and enhancements.  Executed Test cases in HP ALM/Quality Center definite amount of time for different releases.
+Coordinated various kinds of User Acceptance Testing (UAT) including regression testing, system testing, integration testing, functional testing, alpha & beta testing.
+Worked on Mobile app and survey development initiatives.
+Trade surveillance for SBA’s was essential part of duties in loans and fixed income products.
+Imported/exported large amounts of data from files to MASKED_LOCATION and vice versa.
+Developed reports using the MASKED_LOCATION advanced techniques like rank, row number 
+Communicated with business users and analysts on business requirements. Gathered and documented technical and business MASKED_NAME about the data.
+Worked on Data Verifications and Validations to evaluate the data generated per the requirements is valid.
+Tested the database to check field size validation, check constraints, stored procedures and cross verifying the field size defined within the application with metadata 
+Reviewed business requirements and analyzing data sources form Excel/Teradata for design, development, testing, and production rollover of reporting and analysis projects within Tableau Desktop.
+Corporate financial reporting, including audits of benefit plans and review of statutory financial statements for foreign operations.
+Created simple and complex Tableau Dashboards using different source data connections using Excel and MASKED_LOCATION and other databases.
+Extracted data from existing data source, Developing and executing departmental reports for performance and response purposes by using oracle SQL, MS Excel. Utilized OLAP functions like sum, count, csum and etc. for data reporting
+Extracted data from existing data source and performed ad-hoc queries.
+Environment: Teradata, HP ALM/Quality Center, PDMS, BTEQ, VBA, Putty, MASKED_LOCATION, MASKED_LOCATION, SQL Assistant SAS, MASKED_NAME, MLOAD, UNIX, SQL, JIRA.
+MASKED_NAME, MASKED_LOCATION, MASKED_LOCATION		                   Jan 2016 to  June 2016
+Sr. Business/ERM Analyst 
+The project was about redesigning and implementing the recent requirements from BASEL III. New compliance guidelines were inserted to the current information system and database architecture was redesigned. Critical business processes were amended to enhance mortgage calculation cost and collaborated with information system. The web application used extensive security features to reduce risk and safeguard the privacy and interests of customers and to check and verify the information provided by the customers. Project management documentation and reporting. Testing for data sourcing
+Responsibilities:
+Used the Data Stage Designer to develop processes for extracting, cleansing, transforms, integrating and loading data into data warehouse, database Query, Load testing.
+Worked as a business analyst to conduct JAD and elicitation sessions with the Private Banking, Capital Market business users and stakeholders to analyze end user objectives for Basel II Asset Classification and CRMT system and created business requirements specifications, use cases diagrams for AML and Client management office.
+Documented Use Case Specification documents, Test Plans, Test Cases & Scenarios, Traceability Matrix, Business Validation,
+Coordinated team in bringing about Business Requirements, Architectural Specifications, QA and Testing initiatives, status reports to PMO level to be implemented across projects and version control. 
+Created Functional Specifications, Requirement Traceability Matrix and Applied Unified Modeling Language (UML) to design Use Case Diagrams, Activity Diagrams, and Sequence Diagram in Fixed income domain.
+Worked on Trade surveillance and monitoring report generation for fixed income securities and Options.
+Performed Data Analysis, Data Mining, Designing and Implementing Data Warehousing applications focused mainly on Querying and Reporting techniques. Schema and value mapping for AML and risk.
+Facilitated Project Scope, Business case, Project documents and analysis execution as well as MASKED_NAME and Risk analysis
+Managed Claims processing and patient reference data and Hospitals and insurance vendor systems development
+Design and implement customized models on Anti-Money Laundry Custom Due Diligence (AML-CDD) solution.
+Conducted User Interviews and Work Shops to gather accurate Business Requirements.
+Worked on Warehouse distribution and systems integration.
+Designed test plans, test scenarios and test cases for integration, regression and user acceptance testing (UAT) to improve overall quality of the Application.
+Used MASKED_NAME for Database integration management and EDM flow manager including integration and phasing out.
+Worked with management and users to analyze specify and design business applications and document current processes for efficient operations (re-statement on general ledger, account payables and receivables and P/L) using Rational Tool (RUP). 
+Assisted in identifying and quantifying Credit Risk, Operational Risk and Market Risk and AML clients.
+Analyzed requirements utilizing various methods. (E.g. sample data from SQL queries, Screen Shots, reports, prototype screens, sourcing information, and other data models.) for risk ledger and AML forms.
+Worked on data modeling and produced data mapping and data definition documentation 
+Configured the Data mapping between Oracle and SQL Server 2014.Sharepoint Data for AML and risk documents. 
+Created Use Case Diagrams, Workflow and Activity Diagrams; and documented Use Case Narratives for PDMS/Fixed income securities.
+Automated OTC derivatives and fixed income trade settlement 
+Collaborated with Basel II team on credit risk analysis and issue resolution. 
+Communicated the implementation of the new calculation framework of Risk Weight Asset under Basel II 
+Created regulatory and compliance reporting dashboard.
+MASKED_NAME Agile/ SCRUM and PMI methodologies to monitor steer and develop project objectives.
+Environment: IBM DOORS, SharePoint, MASKED_NAME, MS Project, HTML, HP ALM/Quality Center, MASKED_LOCATION, SQL Server, ClearQuest.
+Saxobank,MASKED_LOCATION		       Jan 2014 to Dec 2014
+Sr. Business/ ERM Analyst 
+The project was for up-gradation and further enhancement of the mortgage system to offer more options to registered customers. Critical business processes were amended to enhance CIP, CDD and collaborated with information system. Additional functionalities were implemented for automating mortgage system and reporting and XML mapping for DBMS.
+Responsibilities:
+Analyzed consumer surveys and gave technical inputs in Business meetings.
+Gathered the reporting requirements of the Trade Position Reporting for various Secured and Unsecured Financial Products including Derivatives like Equity Swaps, FX Forwards, Currency Swaps, Interest Rate Options and Forward Rate Agreements (FRA) and formulated the Business Rules for the same in the Oracle Data Warehouse with Crystal Reports as the front end reporting tool.
+Ensured IT security and SOX Compliance requirements are implemented in New Systems, Enhancements and Upgrades in PDMS systems.
+Conducted Transactional surveillance reporting. 
+Provided Anti-Money Laundering review of State Street/Investors Bank and Trust clients. Completed other compliance projects.
+Created narrative Risk Manuals and flow charts identifying internal risks to Investors Bank and Trust for Global Treasury/Global Treasury Operations, Debt and securitization and valuation.
+Performed compliance projects as requested by Global Treasury/Global Treasury Operations Management.
+Monitored daily compliance reporting for all Global Treasury desks.
+Assisted with integration of former Investors Bank and Trust Institutional Custody Department into Wealth Management Services.
+Worked on other model risk management projects as requested.
+Facilitated Focus Group Meetings and (JAD) Sessions to adequately access business needs.
+Worked on SharePoint development and access management.
+Participated in the analysis and definition of efficient, cost effective solutions, Gap Analysis, Business Impact Analysis Evaluate and reengineer existing systems, tools, methodologies, Standardization of processes. 
+Created Use Case Diagrams, Activity Diagrams, Sequence Diagrams and ER Diagrams in MS Project. 
+Assisted with preparation for internal audits, and Federal Reserve Board audits in Fixed income.
+Implemented complex views, procedures, functions, packages and triggers in PL/SQL
+Facilitated negotiations with clients (other arrangers) for the finalization of syndicated facilities (conditions, term sheet, covenants) 
+Ensured that relevant UML diagrams and MASKED_NAME (Rose, RequisitePro) were used in all requirement documents e.g. Business Requirements, Functional Specifications for PDMS initiatives. 
+Worked with SQL query tools and business objects. Designing, modeling, developing and supporting Data Management Systems for fixed income FO team.
+Worked on Integration methodologies, IBM and informatics tools, database integration including data models, data marts for Derivatives and fixed income team.
+Environment: Agile, MASKED_NAME, MASKED_NAME, MS Access, MS Project, SharePoint, PDMS, MASKED_NAME, MS Office, IBM DOORS, JIRA.	
+SaxoIndia, MASKED_LOCATION                                                                                                                                                                 June MASKED_ADDRESS – AML/Financial Analyst
+The project was to enhance AML protocol and update current software application for financial products settlements. The project also covered to upgrade transaction screening on real time basis. Loan operations automation and syndicated debt servicing and reporting for mortgages and listed products. Compliance reporting automation. It involved GUI and ETL tools and testing.
+Responsibilities:
+Generated a streamline process to understand the various steps in the loan lifecycle and desired functionality of the new system by interacting with users, mortgage consultants, brokers, stakeholders and subject matter experts
+Identified, researched, investigated, analyzed, defined opportunities for business process improvement, documented business processes and initiated efforts to make improvements  
+Contributed to the definition of scope, performed extensive requirement analysis and defined functional specifications.
+Created Business Requirement Document (BRD), Functional Requirement Specification (FRS) document, User Requirement Specification (URS) and MASKED_NAME (CR) document for system application development.
+Conducted and participated in JRP/JAD sessions with stakeholders and system users to collect the software requirement specifications(SRS)analyzed the feasibility of their needs by coordinating with the project manager and technical lead 
+Worked in Agile environment playing an active role in MASKED_LOCATION planning, Sprint Review, MASKED_NAME and resolving roadblocks.
+Worked on trading, risk management and processing. 
+Developed process diagrams to elaborate on the flow of information between Web forms, Credit check system, Loan Origination System and Client application database.
+Worked on ETL transition for AML and risk and client management.
+Performed audit research and analysis to improve future audit plans, projects, or other audit procedures.
+Conducted business risk analysis to identify the qualifying standards for mortgage applicants and ensure effective risk mitigation strategies
+Used ClearCase to keep different versions of the documents and ClearQuest to report bugs or defect   
+Assisted in designing test plans, test scenarios and test cases for integration, regression and user acceptance testing (UAT) to improve overall quality of the Application. 
+Environment: Agile (Enhancement), Rational Requisite Pro, Rational Rose, UML, Use Case, Activity/ State Diagram, MASKED_NAME, MASKED_NAME, Quality Center.
+Innito Technologies								                             May MASKED_ADDRESS/SME
+The project was trading of commodities using Market Data System (MDS) as a global data provider in market prices, futures & options, Cash feed and FX rates, including assisting Front Office Operations division. FX and Mortgage servicing involving Brokerage services platform integration and design.
+Responsibilities:	
+Assisted with testing and implementation of ALS system changes due to requirements of BASEL II initiative.
+Worked on story board sessions and Use Case Diagrams to refine the gathered requirements.
+Prepared Business Requirements Document converted it to Functional Requirements Specification using Rational Requisite Pro
+Followed the Unified Process Methodology for iterative design.
+Created Work flow diagrams using MS Visio/UML for high definition level/Program management level.
+Documented and executed user acceptance and system integration test scripts using Quality Center
+Processed requirements for creating Analytical Trending reports for Marketing and Sales.
+Conducted Joint Application Development sessions with Developers, Testing teams and Subject Matter Experts.
+Prepared a schedule and work flow for the development team using MS Project.
+Conducted User Acceptance Testing with prospective users.
+Wrote complex SQL queries to conduct Data Validation tests and Data Integrity tests.
+Conducted status meetings and presided over the Changed Control Board meetings to discuss Defect, Enhancement and Database Change tickets.
+Environment: MASKED_NAME, MASKED_NAME, MASKED_NAME, MS Access, MS Project, MASKED_NAME, MASKED_NAME, MS Excel, Requisite Pro, JIRA, and Crystal Reports
+HCL technologies ltd, Bangalore							 		     Mar MASKED_ADDRESS/SME
+The project at Saxo Bank was about their financial services to the clients. An automating process meant for decision-making and review of their financial services. The application further facilitates in calculation of mortgage costs like prepaids, closing fees and other credits and also includes governmental regulatory declarations which are mandatory to be filled by the primary borrower. The system should let them load related information into a integrated Data warehouse and keep track of historical data, Statistics/ Reference/Market Data/ Market Evaluation on Investments and Derivates/ Structure of financial portfolio.
+ Responsibilities:
+Worked in Global Equity Settlements, Trade settlements back office trade reconciliations. APAC, European, MASKED_LOCATION settlements/Stock Transfers.
+Automated Interbank settlements. Upload postings and NDF entries and settlements. MASKED_NAME with broker and senior management for Change management and daily ops. Confirmation management and trade processing.
+Worked on Simulation tests, manual and automated testing, UAT, BAT design.
+Tested ServiceNow, Salesforce implementation, SharePoint access and content management
+Verified Consulting, requirements gathering, analysis, design, UAT in Payments and liquidity, exposure limits.
+Worked with Consulting BAs and clients management in value and cross border payments. Payments system and netting. Treasury Management.
+Conducted process mappings, BPM, Process design, Database management and process modeling activities
+Documented requirements using MS Project and Visio

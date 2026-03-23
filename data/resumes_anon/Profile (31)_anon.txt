@@ -1,0 +1,61 @@
+ 
+ 
+Contact
+www.linkedin.com/in/rishika17
+(LinkedIn)
+MASKED_NAME
+MySQL
+MASKED_NAMENatural Language Processing / Machine Learning Engineer at Bose
+Boston, MASKED_LOCATION
+Summary
+I am a first year graduate student at Northeastern University with
+my majors in Information Systems. I am a critical thinker and
+systematic individual currently seeking the position of  data analyst/
+data scientist intern bringing expertise in machine learning, data
+science and analytics utilizing skills in data gathering, preprocessing/
+cleaning and data visualization .
+Technical Skills: 
+• Database Management: MySQL, MASKED_NAME, MS SQL Server
+• Data Visualization: Tableau, Data Wrapper
+• Programming Languages: SQL, PL/SQL, Python, MASKED_NAME Tools: Oracle SQL Developer,MASKED_NAME
+•      Version Control: GitHub, Bitbucket
+Experience
+Bose Corporation
+NLP/ML Engineer 
+January 2020 - Present (3 months)
+Boston Landing
+Accenture 
+Associate Software Engineer
+September 2017 - August 2018 (1 year)
+MASKED_LOCATION, MASKED_LOCATION
+Worked with a team of interns and Data Scientists to build a Decision
+Forest Regression model to predict route and ETA of oil vessels in an agile
+environment
+• Collaborated with interns and Data Scientists to understand and extract raw
+data using python
+• Implemented Decision Forest Regression using Azure ML to predict vessel
+routes and ETA
+• Leveraged Azure SQL database to save the generated data and deployed
+the model on a cloud scale
+ 
+Page 1 of 2
+
+ 
+ 
+• Achieved 90% accuracy. Worked on Power BI to portray results and
+visualizations
+Hero Moto Corp. Ltd
+Analysis Intern
+July 2017 - August 2017 (2 months)
+MASKED_LOCATION, MASKED_LOCATION                                                                
+Analyzed lifetime value (LV) for service customer at HMCL outlets and worked
+on customer service data to calculate CLV which helped in devising strategies
+for customer retention and maximization of workshop profits by 12% 
+Education
+Northeastern University
+Masters in Information Systems  · (2018 - 2020)
+MASKED_NAME Singh Indraprastha University
+Bachelor of Technology - BTech, Electronics and Communications
+Engineering · (2013 - 2017)
+ 
+Page 2 of 2

@@ -1,0 +1,36 @@
+{
+  "resume_id": "B Suresh Kumar_Project Manager_1_anon",
+  "skills": [
+    "python",
+    "java",
+    "javascript",
+    "html",
+    "css",
+    "sql",
+    "mysql",
+    "oracle",
+    "aws",
+    "azure",
+    "terraform",
+    "linux",
+    "hadoop",
+    "jira",
+    "confluence"
+  ],
+  "education": {
+    "degree": "Master of Computer Applications (MCA) from Osmania University with Distinction - 2001",
+    "year": "2001"
+  },
+  "experience_years": 16,
+  "projects": [
+    "Developing JUnit Test cases",
+    "Testing on Simulator",
+    "Participation in Test Case and Test Spec documentation",
+    "Manual testing of NEC Handsets"
+  ],
+  "certifications": [
+    "Certified Scrum Professional (CSP)",
+    "Certified Scrum Master (CSM)",
+    "Oracle Certified Java Developer (OCJP)"
+  ]
+}

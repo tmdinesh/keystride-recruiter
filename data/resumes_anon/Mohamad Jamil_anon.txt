@@ -1,0 +1,36 @@
+MASKED_NAME, PMP®, PSM
+MASKED_LOCATION, CA 94555
+Result-Driven Senior IT / Project Management Professional 
+Consistent record of leading geographically diverse projects and teams to increase productivity, optimize efficiency, and reduce costs and deliver projects on time
+Versatile professional, equipped with expertise in software design, development, testing, and implementation. Possess experience in setting vision, execution, and providing effective technical solutions to address various organizational needs. Experienced with SDLC methodologies such as Waterfall, Agile and has been instrumental in delivering multiple end-to-end OS releases to customers. Strong project management skills with demonstrated success collaborating with cross-functional teams in SW Development, Test, HW NPI, Operations and Sustaining. Certified Project Management Professional (PMP)  and Professional Scrum Mater (PSM).
+Areas of Expertise:
+Professional Experience
+ORACLE AMERICA INC., MASKED_LOCATION, CA, MASKED_LOCATION
+2010 – 2017
+Principal Software Engineer/Program Manager
+Created innovative organizational strategies toward fulfillment of corporate target goal. Worked with cross-functional teams to establish project management plan, execute, monitor and close the release. Worked with cross-functional teams and eliminated white space issues across teams. Built positive working relationships with teams to develop and implement Scope, Schedule, Quality, Communication, Risk and Stakeholder management plans. Gained comprehensive experience in data mining techniques to determine possible quality issues from product development through release. Delivered informative presentations to the vice president on release quality, and release readiness status. Experienced working with Technical, Management teams and working simultaneously on multiple projects. 
+MASKED_NAME many successful release campaigns, released high-quality products to customers within project schedule timeline and worked with Waterfall and Agile development teams.
+Reduced customer escalations approximately 25% by performing periodic reviews of customer issues and taking corrective actions, catching early during development cycle. 
+Slashed number of Dead on Arrival (DOA) builds by implementing process changes to identify issues early in development cycle and taking corrective actions.
+Drove all efforts to conduct Lessons Learned review consisting members of Test, Development, and Product teams after each release which identified future improvements. 
+Utilized business intelligence to mine data and identify problem areas, keeping schedule variance and quality under control through effective use of MASKED_LOCATION-and-effect diagrams, Checksheets and control charts. 
+Provided effective leadership while working with teams spread in MASKED_LOCATION, MASKED_LOCATION, MASKED_LOCATION and completed projects on time.
+Introduced process changes, minimizing software build stability issues while actively working with various stakeholders. 
+Spearheaded efforts in conducting periodic quality reviews, identifying potential quality concerns and propose innovative solutions.
+SUN MICROSYSTEMS, MASKED_LOCATION, CA, MASKED_LOCATION
+2002 – MASKED_ADDRESS plans, test strategy, test development, execution and providing MASKED_LOCATION certification on customer platforms. MASKED_NAME, Quality, Communications, Risk and Stakeholder management plans for effective execution of the projects. Mentored junior test engineers in resolving product, test issues and complete the project on time. Prepared and submitted test reports to customers after completion of each test build during the certification process. 
+Orchestrated Solaris Certification activities while managing Solaris Certification testing and implementation, including System Level, Load / Stress, UNIX Conformance, and Specific Customer Features testing and delivered projects on time.
+Provided development and regular update of test schedules for all Solaris Standard and updated release testing on 3rd party hardware for certification.
+Played integral role in the test development process, ensuring new features were integrated into product, as well as required continuous updates to existing test suites.
+Provided effective communication among development, release, test, sustaining teams and external customers for smooth execution and completion of project on time.
+Managed communication with various external hardware partners including Fujitsu, IBM, Intel, MASKED_LOCATION, etc. to organize certification tests and address escalations during certification process
+Developed positive working relationships with BugCourts, Product and Development teams to actively respond and resolve issues. Managed bug waivers and get-well plans.
+Education
+Master of Business Administration (MBA)
+Bachelor of Engineering (BE), Electronics and Communication
+Professional Development
+Certified Professional Scrum Master (PSM)
+Certified Project Management Professional (PMP)
+Agile Project Management
+Cyber Security with MASKED_NAME Solaris 10 System Administrator
+Technical Acumen

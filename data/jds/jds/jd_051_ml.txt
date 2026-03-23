@@ -1,0 +1,53 @@
+ROLE: Embedded Software Engineer C/C++ - Automotive Unit
+SOURCE: Arbeitnow
+URL: https://www.arbeitnow.com/jobs/companies/simi-reality-motion-systems-gmbh/embedded-software-engineer-c-c-automotive-unit-unterschleissheim-224387
+
+ZF LIFETEC is one of the world's leading suppliers of passive safety systems. As Simi Automotive, a global innovation leader for motion capture software and complete systems for recording and analyzing human movements and a subsidiary of ZF LIFETEC, we contribute our experience with camera-based systems to the development of solutions for occupant safety. Together with our colleagues at ZF LIFETEC, we are working on adaptive restraint systems.
+
+Tasks
+
+As part of our embedded software development team, you will contribute to designing and implementing software solutions for automotive applications. You will work on integrating Machine Learning models for Computer Vision to embedded platforms and help connect software to hardware peripherals such as cameras and automotive communication buses (CAN, LIN).
+
+Key Responsibilities
+
+Develop, optimize, and debug C/C++ code for embedded automotive systems
+
+Support the integration of Machine Learning models for Computer Vision onto embedded platforms
+
+Work with cross-functional teams including AI/ML experts, system architects, and safety engineers
+
+Conduct performance tuning and resource optimization for embedded systems.
+
+Utilize vendor SDKs to develop software optimized for hardware accelerators and peripherals.
+
+Contribute in the design of maintainable and scalable software architectures
+
+Requirements
+
+Required Qualifications
+
+Proficiency in C/C++ with an interest in edge device development
+
+Solid problem-solving skills and attention to detail
+
+Eagerness to learn about automotive-grade software development
+
+Basic understanding of embedded systems concepts (e.g. SoC's, memory management, peripherals)
+
+Fluent English; German B2 is a plus
+
+Preferred Qualifications
+
+Proficiency in POSIX (Linux, QNX) or real-time operating systems is a plus
+
+Familiarity with Computer Vision concepts or frameworks is welcome
+
+Familiarity with communication protocols (e.g. IC, SPI, CAN, LIN) is beneficial
+
+Proficiency in Functional Safety (ISO 26262) or safety-related processes (MISRA C++, ASPICE) is a bonus
+
+Are you passionate about cutting-edge automotive technology and have a strong background in edge device C/C++ development? Do you thrive in challenging environments where safety, performance, and innovation converge? If so, we want you to join our team as a C++ Embedded Developer specialized in embedded systems.
+
+Find more 
+English Speaking Jobs in Germany
+ on Arbeitnow

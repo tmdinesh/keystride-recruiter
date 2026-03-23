@@ -1,0 +1,314 @@
+MASKED_NAME 						         MASKED_EMAIL MASKED_PHONE
+Summary
+Over 16 years of Project management and Business Data Analysis, securities, Banking experience, with emphasis on operational planning/implementation and data systems transitioning. Experienced in leading a project team, streamlining policies and procedures, designing training modules/documentation, and creating/monitoring performance metrics.
+Highlights
+Over 16 years of experience in Project management, Business / Data Analytics and Business Intelligence, Banking & Securities, Data Warehouse, Informatica, Business Objects, PMO, Business Improvement, Business Process Management, Consulting, IT Infrastructure Audit Management, DB Security and Technical Support. 
+Excellent skills in client interfacing, requirement gathering, user support, quality assurance, problem solving, and documentation. 
+Facilitate the day-to-day coordination of people, process, and technologies while ensuring business partner requirements are met.
+MASKED_NAME technical aspects of survey studies independently, including data analysis, programming, data management (including data archiving), and graphic presentation of findings for publications, reports and presentations
+Performed data analyses relevant to demonstrating the validity and reliability of assessment tools designed to measure workplace diversity and those designed to measure the quality of diversity initiatives.
+Contacts prospective and current bank (internal)customers to solicit new business to meet specific goals in order to expand banking services.
+Maintains a working knowledge of bank goals, policy and procedural expertise of products and services.
+Ensures all documents are completed in accordance with established policies and procedures, proper records are maintained accurately and information is entered on appropriate systems and routed to appropriate departments. Achieve compliance certification and use knowledge of compliance/CRA regulations in day to day activities.
+Works independently and partners with application program managers/directors, stakeholders and system level subject matter experts to drive the work of the project team for large or highly integrated projects and programs.
+Demonstrates excellent management and leadership qualities with and across the company, as well as with corporate business partners Go-to person on project related issues
+Hands on experience in various models such as Waterfall model, Agile model and Incremental model and performed GAP analysis to identify problems and inconsistencies. 
+Strong domain/ functional knowledge of the Telecommunication platforms and protocols and have outstanding business communication skills. 
+Strong knowledge of Project management skills such as time estimation, task identification, risk analysis and scope management and resource management. 
+Project Manager with MASKED_NAME and experience in Scrum/ PMBOK Methodologies
+Strong Client Relationship Management, People Management, Project Reviews, Communication, Status/Dashboard & Metrics Reporting, Project Planning and Tracking, Onsite-Offshore co-ordination, Effort Estimation.
+Industry experience includes Banking, Financial, Retail and Manufacturing 
+Experienced in working on Proposals, resource planning, budget planning, Kickoff new projects, SOW.
+Successfully managed complex projects with global implementation, and rapidly evolving requirements.
+Having rich experience in translating Business requirements to understandable IT systems requirements and Implementing CMM Methods & Procedures across the organization.
+Technical Skills
+Core Management Competencies
+Data Analysis			Project Management & Tracking 	Budgeting& Planning
+Cost & Resource Estimates		Agile & Waterfall Principles		Project Risk & Scope
+Project & Delivery Methodologies	Change Control Management	        	Delivery Management
+Client Management			Conflict Resolution			Quality Management
+      Product Life Cycle Management 
+Education
+Masters Diploma in Business Administration, Symbiosis Institute of Management Studies Pune in 2004
+Bachelor of Corporate Secretary ship, University of Madras in 1997
+GNX Program from NIIT Limited in 2000
+Oracle Development from Kashyaap Radiant Info School 
+E-commerce from Software Solution Integrated Solutions Limited. 
+ETL, Business Objects and Datawarehouse from Advance Technology Solutions
+Completed PMP training and received 35 PDU’s.
+MASKED_NAME
+Prepared the single golden source for IT Transformation which provides visibility for the business and the project team.
+Re-engineered the inventory and master tracker for IT Transformation Management team and developed metrics.
+Responsible building and developing SSIS Packages for Capacity Management data warehouse and implemented the same. Build custom reports for the business.                     
+Responsible for assisting and implementing security features and audit queries with in MASKED_LOCATION for the clients as per the business requirements.
+Professional Experience
+Ford Direct, MASKED_LOCATION, MI									  July 2017- Till Date
+Role:											Project Manager/Data Analyst
+Responsibilities:
+Responsible for Collaborating with Ford Direct Business, Technology, Service Providers and Partners, Ford IT and
+Co-ordinate with Business teams to prepare an integrated project plan and execute it on time and budget.
+Project Management of digital applications within the Ford Marketing and Sales Digital space.
+As a Project Manager collaborated with technology platform and business team.
+Function as a owners to design, validate, oversee, and lead technology solutions.
+Engagement in Ford IT PMO processes for ensuring proper principles and communication.
+Gathering and documentation of business and technical requirements.
+Implementation and support for the MASKED_LOCATION, BI and Analytics systems and supporting integrations and Business areas.
+Responsible for implementation and rollout of MASKED_NAME, EDD Web analytics, Leads and assigned projects.
+Coordinate system and application configuration and management tasks. 
+Coordinate integration services, EDD product updates, change requests and Tier-3 support.
+Understanding the enhancement by constant interaction with the onsite team and doing a technical analysis on the enhancement to be done.
+Co-ordinated the MASKED_LOCATION and cloudera upgrades to the latest version.
+Validate user stories/features/initiatives for system testing, report preparation, defect recording, and defect tracking.
+Facilitate recurring status meetings with Ford business, TDI, and other vendors working in Ford Digital space.
+Worked closely with internal or external project managers.
+MASKED_NAME and monitor project risks and communicate those risks on regular basis to project Leadership team.
+Environment: MS Project, MASKED_NAME, Windows 2012 R2, SQL Server 2008 R2, MS Office, Net Suite, MASKED_LOCATION, MASKED_LOCATION, Release Management, MASKED_NAME, MASKED_LOCATION.
+Domain:  Automotive. Data warehouse, EDD and IT Infrastructure.
+MASKED_LOCATION, MASKED_LOCATION, MI 									Mar 2016 – June 2017
+Role:												          Project Manager
+Responsibilities:
+Extensively experience on implementing solutions using micro services, event driven design, MASKED_LOCATION databases, data migrations, system migrations, cloud foundry, Aws and deep knowledge on identity and IoT domain.
+Creating and maintaining telematics business models for both user and org.
+Responsible for the up-time and availability of Client Connected Services telematics solution and its supporting applications.
+Coordinate integration services, product updates, change requests and Tier-3 support.
+Understanding the enhancement by constant interaction with the onsite team and doing a technical analysis on the enhancement to be done.
+Possess and use strong project management skills and leadership abilities to deliver information technology solutions projects based on client's platform. 
+Implemented agile scrum methodologies, from understanding user stories to story point estimation to done status.
+Since this was a scaled agile project, planned user stories, keeping in mind the different modules in the suite. Monitored continuous integration of the module with rest of the suite.
+Worked on software products on a cloud platform using state of the art cloud technologies, for the Covisint Identity Management Solutions / IOT. 
+Identity and Access / IOT Project Manager is responsible for managing the delivery of Covisint Identity Management solution as part of a global implementation for a Fortune 100 company.
+Establish a configuration management library for the project and ensure all project documents are effectively managed within the library.
+Provide timely response to address server and client-server application performance and/or availability issues.
+Lead, coordinate and participate in process improvements as they relate to IDM infrastructure and system 
+Researched on products and created business cases to present the engineering group when initiating new product development
+Worked with the marketing team to create promotions to drive incremental sales
+Track various parts through stages of Product Life Cycle to ensure they priced competitively and suggest stocking levels 
+Track and report the financial status of the project regularly to the key stakeholders.
+Support the design of end-to-end architecture solutions, collaborate on UX research and design
+MASKED_LOCATION mobile solution delivery through all its phases, including Solution Design, Planning, Build and Test, Deployment and transition to Maintenance
+Leading high functioning technical teams including mobile solution architects, designers and developers to deliver mobile solutions for our clients
+Working with key stakeholders to prepare a Project Schedule, overall scope, deliverables, organization, high-level schedule, and associated project management procedures for the project.
+Pro-actively resolve project issues and solve problems throughout the project to achieve expected results.
+Consistently apply client's project management methods and contribute experiences and knowledge to continuously improve client's project management methods.
+Coach, mentor, develop and lead a best-in-class development team capable of delivering excellent results through agile iterative development methodologies to solving complex technical and business challenges in the area of connected Services.
+Environment: MS Project, MASKED_NAME, Windows 2012 R2, Windows 2008 R2, SQL Server 2008 R2, MS Office, MASKED_NAME, MASKED_NAME, Release Management, MASKED_NAME, Mobile 
+Domain:  AWS, IT Infrastructure. Release Management, IDM, IOT and Auto IDM.
+MASKED_NAME, FL 										Oct 2015 – Feb 2016	
+Role: 										                                  Project Manager Responsibilities:
+As a business data analyst / project manager had good interpersonal skills and could deal with all kinds of people; for instance, from a foreman to a senior manager.
+Analyzed business partner's operations to understand their strengths and weaknesses and determine opportunities to automate processes and functions.
+Maintained the data integrity during extraction, manipulation, processing, analysis and storage.
+Built data input and designed data collection screens – Managed database design and maintenance, administration and security for the company.
+MASKED_NAME the current set of business processes and how they interact systemically with external stakeholders.
+Identify those critical business processes areas where process redesign could have the impact.
+Create and execute a Corrective Action Plan, implementation plan that closes the performance gap specifically by addressing how the redesigned organizational and process changes will be introduced to the organization.
+Minimizes conflict and maximizes the chance it will be implemented successfully and not rejected by the organization and its members.
+Document business processes using customized Business Process Modeling Notation in MS Visio and/or enterprise architectural tools
+ Research & recommend best practices to streamline, simplify, and increase compliance of the business process; analyze the root cause of risks or issues and provide solutions
+Responsible for the management of small, medium and large infrastructure, Advisory, Tax and Assurance projects.
+Developed strategic relationships with PwC IT team and business users.
+Develop quarterly roadmaps and oversee the product design and development stages.
+Supply data and user-feedback to the technical team of software developers and experienced architecture team to design, develop and validate core features of the e-marketplace.
+Interact and engage with the customer segments on regular basis to identify and test traction channels 
+Upgraded the SCCM Servers from old version to the new one SCCM 2012 Sp1 R2 Cu1 across various regions (MASKED_LOCATION , MASKED_LOCATION, ME, CRB and BZL).
+Upgraded the HP ALM to the latest version 12.5 along with Agile Module and integrated the TFS 2015 with the same.
+As a PM for GHRS MASKED_LOCATION TAX Pharma and Analytics Reporting moved the scripts and provide the automation approach to PWC for the TAX Pharma and Analytics Reporting.
+Drove the strategic vision, architectural design and creation of a centralized data warehouse. Responsible for the scope, plan, budget, staffing requirements, server selection, software selection, database designs, capacity planning and security levels. Successfully delivered the corporate data warehouse on time and on budget.
+Facilitate scrum ceremonies (grooming, sprint planning, retrospe to communicate confer with the various people involved in the project both offshore and onsite and ensured that each finish the task assigned to him on time.
+Comprehensive project management of new business application initiatives, performing requirements, gathering resource management, gap analysis, implementation configuration, scope control, testing according to project methodology
+Managed and maintain project information, including feature definition and scope, and epic and scrum planning.
+Drive efficiency and operational improvement through business process definition, system alignment, and optimization of standard business application functionality.
+Instructed and modeled core agile principles of collaboration, prioritization, team accountability and visibility; ensured consistent application of scrum methodologies across the enterprise.
+Environment: MS Project, MASKED_NAME, Windows 2012 R2, Windows 2008 R2, SQL Server 2008 R2, MS Office, HP SM, HP PPM, DW, SQL.
+Domain:  Banking and financial services, Securities, IT Audit  and IT Infrastructure.
+MASKED_NAME, FL										Apr 2015 – Sep 2015
+Role:									                                               Project Manager
+Responsibilities:
+Serves as the system and process requirements interpreter between developers and Enterprise Service Delivery User Community.
+Conducts meetings with users to identify requirement needs and develops detailed user stories with applicable acceptance criteria
+MASKED_NAME and manage approved 2-3 month backlog of clearly defined and prioritized user stories
+Gains approval of user stories and Functional requirements documents (FRDs) by users, Development teams and Business Architect
+Focal point for making sound decisions related to data collection, data analysis, data security, methodologies and designs.
+Maintained the data integrity during extraction, manipulation, processing, analysis and storage.
+Built data input and designed data collection screens – Managed database design and maintenance, administration and security for the company.
+Database Design and Schema, Interpreting, using complex logical data and object models to guide technical design decisions and overall business application strategy.
+Worked with Managing Principal and others to scope and plan execution of complex Big Data and Analytics projects that leverage advanced technologies and analytics methodologies
+Managed day-to-day tracking and execution of project tasks - this is heavily based in MASKED_LOCATION and involves working with data engineers, systems engineers, and data scientists to write, assign, prioritize, update, and monitor tickets
+Managed day-to-day tracking of project costs, primarily in the form of hours worked - this is heavily based in our time-keeping system Harvest and involved working with data engineers, systems engineers, and data scientists to ensure that hours are accurately tracked in the right projects and tasks to support downstream reporting requirements
+Implemented agile scrum methodologies, from understanding user stories to story point estimation to done status.
+Since this was a scaled agile project, planned user stories, keeping in mind the different modules in the suite. Monitored continuous integration of the module with rest of the suite.
+Analyzed massive and highly complex data sets, performing ad-hoc analysis and data manipulation.
+Wrote reports using BO reporting system to extract data for analysis using filters based on the analysis.
+Work with business community to document functional test scenarios, test plans and end user acceptance testing criteria. 
+Participate in technical design sessions, working with technical resources, to provide insight during solution development.
+Provide ad hoc data queries or reports to the business for analysis using TOAD, MASKED_NAME initio or other query tools
+Experience in co-coordinating with business and IT across all phases of software development life cycle.
+Project Architecture and Analysis of new requirements for application patches or upgrades to determine the impact to business and integrated systems.
+As a business data analyst looking for an opportunity to make a difference by bringing my enthusiasm and expertise to the forefront of a leading company’s business analysis and business decisions.
+Identify gaps between the current deployment of applications and future requirements that have evolved due to organizational growth, changes, or strategy. 
+Environment: MS Project, MASKED_NAME, Windows 2012 R2, MASKED_LOCATION, MASKED_LOCATION, SQL Server 2008 R2, MS Office, HP SM, HP PPM, MASKED_NAME initio, MASKED_NAME, Netezza, Service Now, MASKED_NAME:  Banking and financial services, Securities
+National Grid Syracuse, NY								             Nov 2014 - Mar 2015
+Role: 												        Project Manager
+Responsibilities:
+Project Planning, Execution, Monitor and Control all management plans to meet program/ project objectives
+Conduct project Kick-off meetings, project review meetings on project plan, milestones, deliverables and Lessons learned and Project closing.
+Project Scoping, Estimating, Scheduling & Costing Plan budgetary forecast and resource forecast for the projects. Work with minimal direction to execute the project life cycle for complex projects dealing with all components of operations/ infrastructure.
+Direct weekly cross-functional team meetings as part of the forecast, inventory, and sales operations continuous improvement process
+Reduced overall stocking locations by more than 10% by redesigning the strategic sourcing network
+Managing On-site and offshore teams to work together to meet the project objectives. Acted as MASKED_NAME (point of contact) with the internal customer’s & offshore team
+Ability to work with different levels of management throughout an organization, excellent customer focus, and ability to manage multiple projects simultaneously 
+Day-to-day activities of projects and staff; communicate with project teams to ensure project deliverables are on schedule and within cost parameters.
+Suggest recommendations to management about schedules, prioritization and resource allocation with input from team members
+Experienced in collaborating with developers and subject matter experts to build the technical vision and analysis trade-offs.
+Finance management including finance forecast and managing accruals & actual, work packs (Sow) to vendors, invoice receipt & approval
+Managing business users by working closely to ensure the project meets business needs and Identifying user training needs and devising and managing user training programs within the defined budget. Definition and management of the User Acceptance Testing program.
+Have good knowledge and experience in Project Management, EDI, ERP systems and delivery of complex technical IT projects and services.
+Environment: MS Project, MASKED_NAME, Windows 2008 R2, SQL Server 2008 R2, MS Office, HP SM, HP PPM
+Domain:  Energy and Utilities. 
+Bank of New York Mellon (Chennai - IND/ MASKED_LOCATION, PA) 					Oct 2011 - Oct2014	
+Role: 												      Project Manager
+Responsibilities:
+Partner with Marketing Risk Sales and COE teams to develop integrated solutions to grow credit card penetration and incremental sales and net income for the company
+Provide strategic thought leadership and influence business leaders and client teams to implement marketing and product strategies based upon customer financial and data-driven insights
+Develop business case presentations and action plans to influence for marketing campaigns including targeting recommendations test design cross-sell optimization
+Guide marketing analytics and strategy development for new product launches customer acquisition lifecycle and retention initiatives
+In the role of TPM (Technology Project Manager), I was responsible for managing large scale, high risk, high visibility (IT projects) and new business initiatives from initiation to delivery. 
+This includes but not limited to understand customer requirements, budget, objectives, user expectations and a plan accordingly making sure project are delivered on time, within budget and within company IT standards.
+Performed all major aspects of a project management like - project discovery, kickoffs, drafting and driving project plans, project sizing and forecasting, scope, time and budget management, risk identification, status reporting, closer etc. 
+Supported critical MASKED_LOCATION implementation activities involving game planning, communication planning, status reporting and co-ordination.
+2+ years of experience supporting Time Sheet and Resource Management HP Project and Portfolio Management (HP PPM) modules.
+Successfully migrated more than 25 projects from Waterfall to Scrum 
+Perform the installation and configuration of SAP Business Objects XI 3.1/4.MASKED_ADDRESS Practices; 
+Configure CMS cluster, deploy war files, and configure app servers for SAP Business Objects XI3.1/4.0 on Licensee*s Test environment;
+Integrate SAP Business Objects XI 3.1 with Licensee’s Active Directory/LDAP and implement single-sign-on;
+Road map creation for migration, MASKED_LOCATION/migration Best Practice, Post-Upgrade/Migration Best practice
+Proven ability to implement SAP BI solutions aligned with business objectives, enabling clients to leverage their Business Intelligence investment. 
+Gathered and analyzed the requirement to replicate the ECC content in HANA using data provisioning.
+Assisted SAP Basis team in installing HANA 1.0 and solely integrated it with Business Objects 4.0 and MASKED_NAME.
+Established the best modeling and recommended strategies for BOBJ environment and architecture for SAP HANA
+Installed BOBJ 4.0 and BODS 4.0 and configured SAP and MASKED_LOCATION authentication for Business objects enterprise
+Integrated BOBJ 4.0 and BODS 4.0 with SAP HANA1.0.
+Migrated HANA content from development, testing environment to Production environment using delivery units
+MASKED_NAME reports and dashboards for different operations and finance MASKED_NAME like Project planning, quality management etc.
+Created Universes on top of HANA calculation views and developed the Webi reports and dashboards using IDT
+Managed the initial proof of concept initiative that was successful in securing the funding to carry the project in to full production implementation. Produced a working prototype utilizing Oracle Warehouse Builder and select features of the 11G initial release. Presented the POC findings to sponsors and business community to garner acceptance and support.
+Project managed and coordinated the activities for both the business and technology communities during each phase. Developed MASKED_NAME, project definition documents and overall project plan. Distributed and managed project deliverables amongst Bentley internal staff and contract resources, tracking and reporting activities to all project participants on a persistent basis.
+Supervised and participated in logical and physical data structures creation, determined and defined business rules for data scrubbing, transformation and data refresh frequencies.
+Structured and scheduled vendor reviews during reporting and ETL tool selection process. Arranged for software delivery, installation and subsequent IT/User community training of the  Business Objects reporting suites
+Managed overall vendor/customer accounts for a function/department, including effective budget management.
+Ability to develop detailed project plans, budgets and schedules based on input from the project team. Ensures all plans are current and are in alignment with stakeholder expectations.
+Performs full range of standard professional level work that typically requires processing and interpreting, more complex, less clearly-defined issues. Identifies problems and possible solutions and takes appropriate action to resolve.
+Vendor Manager responsible for the outsourced voicemail system SLAs and on-line reporting.
+Reduced the number of major services interruptions (incidents) infrastructure and network related from twenty-four (24) per year in 2014 to one (1) for 2015.
+While conducting Root Cause Analysis (RCA) managed support team resources to identify, assign, track, and implement over one hundred (100) corrective and pro-active action items.
+Monitor infrastructure project portfolio to ensure timely updates and performance reporting process.
+Improve project management capabilities, knowledge, competence, and skills. Provide up-to-date portfolio-level status reporting to executive management.
+Environment: MS Project, MASKED_NAME, Windows 2008 R2, SQL Server 2008 R2, Informatica, Business Objects XI R2 4.0 SAP HANA, MS Office, HP SM, HP PPM, Data warehouse.
+Domain:  Banking and financial services, Securities, and Infrastructure.
+Charming Shoppe Inc. (Chennai - IND /Bensalem, PA) 					Mar 2011 – Sep 2011	
+Role												         Project Manager	
+Responsibilities:
+Develop and manage strategic staffing model for Merchandise Master Data  providing succession planning, career pathing and insulating the business from turnover
+Regularly assesses the value of existing processes and makes recommendations to better the process. Identifies and incorporates project management best practices in to their work
+Data output – Made data chart presentations and coded variables from original data, conducted statistical analysis as and when required and provided summaries of analysis.
+Trained data analysis beginners to improve overall efficiency of department.
+Technical ability to identify complex risk issues, formulate and manage a sequential course of action that will allow the issue to be managed and addressed.
+As a PM I was responsible for managing various projects within the retail department. These include managing Corporate and Stores Portfolio.
+Project/delivery management along with good Delivery management skills through proactive stakeholder’s engagement/communication and the detailed tracking of delivery activities, timelines, issues and risks. 
+Managing all the POS system of the CSI and forming business case, budgets and project managing a schedule of works.
+SDLC process on software product/applications Risks/Compliance process Quality Control/Assurance process.
+A progressive culture of continuous improvement for Merchandise Master Data leading to service level commitments, data accuracy and system leverage
+Conducted research to collect and assemble data for databases – Was responsible for design/development of relational databases for collecting data.
+Maintained the data integrity during extraction, manipulation, processing, analysis and storage.
+Built data input and designed data collection screens – Managed database design and maintenance, administration and security for the company.
+Discussed intelligence and information requirements with internal and external personnel.
+Able to anticipate the consequences of decisions and planned quality related events and performed quality assurance.
+Environment: MS Project, MASKED_NAME, Windows 2008 R2, SQL Server 2008 R2, MS Office, HP SM.
+Domain:  Retail Management
+Citibank (Mumbai- IND / Warren County, NJ)						                 Mar 2009 – Feb 2011
+Role: 											      Module Lead /  Data Analyst
+Responsibilities:
+Oversee security and user management, including users, groups, roles, privileges, and permissions
+Data and Business Intelligence Analyst – Responsible for analyzing financial data and statistical risk analysis for LOB of the Bank.
+Provide first level production support for Capacity Management databases and portals. Monitor Capacity Management databases and portals to avoid and detect outages.
+Created reports for the BI team using SQL Reporting and BO.
+Worked on Importing and exporting data from different databases like MASKED_NAME, MASKED_NAME, MASKED_LOCATION to MS SQL.
+Test current and new functionality of capacity web portal on daily basis. 
+Check, maintain, verify data files for timeliness, accuracy and quality using scripting and automated processes. 
+Verify accuracy of capacity reports prior to distribution Update in-house and vendor capacity tools with new server information.
+Participate in automation of monitoring SSIS environments
+Participate in projects and proactively build relationships with Business Units to understand new requirements, facilitate design discussions, and ultimately implement a finalized solution.
+Develop teamwork and leadership skills by working with offshore colleagues to ensure work activities transition efficiently between shifts.
+As a database System Administrators\Designers was the key senior technical advisors designing, programming, optimizing and maintaining database solutions.  
+Provided solution using large scale server-side systems with distributed processing
+Analyzed massive and highly complex data sets, performing ad-hoc analysis and data manipulation.
+Wrote reports using SAP BO reporting system to extract data for analysis using filters based on the analysis.
+Worked on complex information model, logical relationships, and the data structures that support different LOB.
+Followed the Agile project management methodology for the delivery.
+Identify infrastructure goals and project delivery clearly. Define all activities necessary to acquire project goals and objectives. 
+Evaluate and determine plan variance from project performance. Collect and present performance information related to infrastructure projects. 
+Ensured the quality and integrity of Capacity Management team tools and reporting. 
+Environment: MS Project, MASKED_NAME, Windows 2008 R2, SQL Server 2008 R2, SSIS, MS Office, HP SM, Data warehouse.
+Domain:  Banking and financial services, Securities
+MASKED_NAME – (Pune- IND / San Francisco, CA) 						Jan 2007 - Feb 2009
+Role:											                          MASKED_NAME 
+Responsibilities:
+As part of Production support, I have also worked as Informatica Administration, everything from installation, to repository maintenance, scheduling etc.
+Oversee security and user management, including users, groups, roles, privileges, and permissions
+Participate in projects and proactively build relationships with Business Units to understand new requirements, facilitate design discussions, and ultimately implement a finalized solution.
+Performed database health checks and tuned the databases using Teradata Manager.
+Used Teradata Administrator and Teradata Manager MASKED_NAME for monitoring and control the system.
+MASKED_NAME and modifying Multi loads for Informatica using UNIX and loading data in Data Warehousing.
+Interpret data from primary and secondary sources using statistical techniques and provide ongoing reports.
+Compile and validate data; reinforce and maintain compliance with corporate standards.
+Working with managing leadership to prioritize business and information requirements.
+Working as an On-Site Teradata Lead DBA, doing DBA activities that are Implementation of data and table-level security, setting up access rights and space rights for Teradata environment. Performance tuning, Monitoring and reporting Review system utilization by user.
+Develop teamwork and leadership skills by working with offshore colleagues to ensure work activities transition efficiently between shifts.
+Show cased independence and initiative to prioritize heavy workload, to manage the expectations of customers and to meet communicated deadlines of both projects and operational tasks.
+MASKED_NAME and documented business and application requirements to make design decisions that are both financially sound and result in stable systems that meet operational standards.
+Act as a role model and positive influence for colleagues in support of firm, practice, unit, and customer missions, objectives, goals, and values.
+Sharing best practices, collaborating with Risk Management teams and Project Management to maximize transparency and influence program delivery, comply with existing Ethics and Data Security policies, standards and processes.
+Environment: MS Project, MASKED_NAME, UNIX, Informatica, Business Object XI R2, Teradata Security, MASKED_NAME, MASKED_NAME, Integrated Data Warehouse.
+Domain:  Banking and financial services, Securities, BI
+British Petroleum – (Hyderabad- IND)								Jun 2006 – Dec 2006
+Role:												         Project Engineer	
+Responsibilities:
+Produced complex 'ad-hoc' queries and reports requested by external and internal customers using Business Objects
+Design and develop data extracts from source SQL databases to meet analytics and reporting request
+Partnered directly with internal and external customers to research and troubleshoot data questions and issues
+Monitor plan dates and meet individual deliverables as well as support other team members to ensure project success
+Perform the installation and configuration of SAP Business Objects XI 3.1/4.MASKED_ADDRESS Practices; 
+Configure CMS cluster, deploy war files, and configure app servers for SAP Business Objects XI3.1/4.0 on Licensee*s Test environment;
+Integrate SAP Business Objects XI 3.1 with Licensee’s Active Directory/LDAP and implement single-sign-on;
+Road map creation for migration, MASKED_LOCATION/migration Best Practice, Post-Upgrade/Migration Best practice
+Proven ability to implement SAP BI solutions aligned with business objectives, enabling clients to leverage their Business Intelligence investment. 
+Environment: Business Object 6.5, Oracle, UNIX MASKED_NAME.
+Domain:  Energy and Utilities
+Bellsouth / AT&T – (Chennai – IND)								Dec 2003 – May 2006
+Role:												         Project Engineer
+Responsibilities:
+Capability of handling Networks, Creating User accounts, assigning rights and sharing permissions, managing profiles and policies, IP addressing.
+Conducting daily/weekly/monthly operations conference calls with the clients to discuss and resolve ongoing operational/strategic issues and to maintain cordial relationship with the clients through frequent on-line interaction.
+Comfortable with both live and remote troubleshooting situations
+Environment:  Windows 3.x to Windows Vista, MASKED_NAME to MASKED_NAME, Multimedia
+Domain:  Technical Support, MASKED_LOCATION. ISP.
+Ford Business Service Center – (Chennai-IND)						Jun 2001 – Nov 2003
+Role:												                       Analyst	
+Responsibilities:
+Worked for MASKED_LOCATION clients of Ford Motor Company handling North American Payables.
+Processed accounts payable and expense reports in accordance with established policies and procedures.
+Prepared checks by ensuring proper support is attached for review.
+Reconciled monthly corporate statement to support documentation and managed to resolve any discrepancies on a timely basis.
+Prepared monthly entries to the general ledger and prepared corresponding account reconciliations and assisted in the monthly closing process.
+Environment: Mainframe ERP, MS Office. Six Sigma MASKED_LOCATION
+Domain:  Banking and financial services and Accounting.
+GE Capital International Services - (Gurgaon / Hyderabad	-IND)				Jan 1999 -  May 2001
+Role:												                       Analyst
+Responsibilities:
+Worked for US Client of GE Capital International Services. 
+Efficiently served as a liaison between the business and IT Business needs.
+Accountable for documentation of Functional requirements and handed over to Technical Architecture team.  Analyzed business operation’s strengths and weaknesses.
+Identified opportunities for automating processes and functions.
+Underwent & completed MASKED_LOCATION training of quality.
+Environment: Mainframe ERP, MS Office, Six Sigma Green Belt.
+Domain:  Banking and ITES

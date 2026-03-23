@@ -1,0 +1,120 @@
+MASKED_NAME
+   MASKED_EMAIL
+Contact No: MASKED_PHONE
+Profile Summary
+An astute, detail-oriented Business Analyst with 7 years of consulting experience including Healthcare (Medicare, Medicaid and Medical), Insurance and Loan Processing.  Experienced in testing implemented systems and system changes, including liaising with QA teams to develop test cases, test plans, test scenarios, generating test data, and conducting manual testing (regression, end-to-end, functional). 
+Proficient in creating User Acceptance Test (UAT) Plans and implementing and coordinating UAT. Experienced running scripts to check web user interface and Portals for Broken Links, Frame Properties, Table Properties, URL links, Images, Text and has prepared Test Metrics to test execution status and results. 
+Demonstrated expertise with Medicare and Medicaid, including Claims, Adjudication and Billing. Extensive experience with HIPAA regulations, and EDI standards (X12 and HL7). I have got experience developing process maps, and AS-IS and TO-BE process conceptualization and improvements. Proficient in Writing complex SQL queries. 
+As a Scrum Master worked with the Product Owner on MASKED_LOCATION refinement for inclusion of user stories (to the Sprint backlog) for future sprints.
+Reviewed Policy Centre user story requirements with development & QA and provide on-going support.  
+Conducted demos and user-stories acceptance meetings with business for sign-off/acceptance.
+Trained and advised scrum team members on Agile SCRUM practices to collaborate, as early as requirements to enable parallel development & QA planning
+Knowledge on Facets. Facets was highly efficient, automated, customizable, and flexible, to help tackle new business opportunities and compete successfully in a dynamic healthcare industry.
+Experience capturing requirements for Explanations of Benefits (EOB). Translating requirements to the development team. 
+MASKED_NAME scrum meetings to track team progress using the Kanban board, MASKED_NAME-down chart in MASKED_LOCATION to maintain work visibility, track team velocity and report progress to program level on a continual basis.
+Worked to identify &facilitate resolution of blockers/impediments escalated during Daily scrum
+Extensively involved in the modeling and implementation of Reporting Data Warehousing System
+Experience in designing and developing project document templates based on SDLC methodologies including RUP, RAD, Waterfall, Scrum and Agile
+Strong experience in conducting UAT and documentation of Test Cases. Expertise in designing and developing Test Plans and Test Scripts.
+Excellent business writing skills in writing Preliminary Investigation Report, System Requirements document, Systems Design Specification and System Requirement Change Request.
+MASKED_NAME of ICD-9 codes and CPT codes for both Mental and Medical Health.
+Excellent knowledge of HIPAA transaction codes such as 270/271 (inquire/response healthcare benefits), 470 (benefit codes), 276/277 (claim status), 834 (benefit enrolment), 835 (payment or remittance advice) and 837 (health care claim).
+Developed data transformation & data translation rules as part of mapping task from (PC to ESB integration).
+Implemented approved enhancement requests from Sprint backlog.
+Worked with system architects to validate future state data system design to support business requirements.  
+Authored Policy Center user stories for new functionality & update existing ones based on approved changes.
+Performed GAP analysis, identify use cases and create UI mockups on required Policy Center functionality.
+Worked closely with the Enterprise Data Warehouse team and Business Intelligence Architecture team to understand repository objects that support the business requirement and process
+FACETS experience, knowledge of ICD-10- CM, ICD-10- PCS, HIPAA 4010/5010 initiatives and regulatory compliance framework.
+Worked on Master Data Management (MDM) for maintaining the customer information and for the ETL rules to be applied. Worked on SQL tables and objects. 
+Worked on Wireframe, MASKED_NAME to present the requirements in a pictorial representation of the requirements to client as well as the development team.  
+Knowledge in the ETL (Extract, Transform and Load) of data into a data warehouse/date mart and Business Intelligence (BI) tools like Business Objects Modules (Reporter, MASKED_NAME, Designer, and Web Intelligence).
+Extensive risk management experience conducting fraud and risk investigations for financial institutions and payment processing organizations
+ Worked closely with the Enterprise Data Warehouse team and Business Intelligence Architecture team to understand repository objects that support the business requirement and process
+Highly motivated team player with excellent Interpersonal and Customer Relational Skills, Proven Communication, Organizational, Analytical, Presentation Skills, problem solving, negotiation, judgment and decision-making skills.
+Technical and Business Skills
+Professional Experience
+Company: Assurant Health, MASKED_LOCATION, NY					
+Position: Sr. Business Analyst/Scrum Master							      Jan 2016 –Present             
+Objective of the project was to develop Medicaid Management Information System following HIPAA standards. The web-based Health Care Management System is developed using HIPAA guidelines and regulations which keeps track of Healthcare transactions like MASKED_NAME, Request and Response for Claims Status, Prior Authorization, Claims Vision and Claims Payment. This application also keeps record of all transactions, subscriber's medical history and provides data to other State agencies as required.
+    Responsibilities
+Performed as an active liaison between stake holders; system users, clients and project management. 
+Ability to interact with customers, sales team, top management, developers and product analysts, testing team regarding project status, testing status and defect tracking.
+Responsible to perform detailed analysis within time constraints to transform business needs to high end business requirement and functional specification documentations and strict adherence to template while documentation was required.
+Managed onshore and offshore Architects and Scrum teams as Delivery Lead for solution deliverables.
+Link the different technical and non-technical perspectives of users from varying domains such as the business users and developer’s environment.
+Diagrammatic representations after intense analyzing and deciphering of user-level requirements using; UML, CASE and ACTIVITY were created.
+Led projects to develop and enhance claims adjudication, eligibility, formulary, prior authorization and reporting applications internal user experience as well as expanding client product offerings
+Developed a comprehensive object-oriented data model for healthcare eligibility, claim and accounts for the entire product suite.
+Represented team to attend daily scrum meeting and complete meeting reports to report to scrum master.
+Verifying Healthcare Eligibility, Claim, Benefit and Service using ANSI ASI X12 Standards.
+Liable to prepare TSD’s and workflow diagrams for AS-IS & TO-BE scenarios. Designed new process flows, documented business processes for varying set-up.
+Accountable for use case documentation, user interface design document considering from a business standard.
+Required to interact with developers, QA to determine and report bugs and technical concerns.
+Defined Rendezvous point to create intense load on the server and thereby measure the server performance under load. 
+Interact with Business Users & Application Developers during Integration testing
+Extensive experience in preparing test plans test metrics, test cases, test scripts and test data based on business and functional requirements. 
+Wide Exposure to automation tools such as Quick Test Professional, Test Director and Win runner.
+Designed Load scripts using MASKED_NAME to load test high traffic end user processes for performance and reliability. Reported results to development teams to resolve critical bottlenecks 
+Environment: Quality Center, QTP, MASKED_NAME, MASKED_NAME, JSP, JNLP, Web sphere, JDK, Unix, Oracle 9i, SMTP, Unix, Web Client, EJB
+Company: Walgreens, IL						
+Position: Sr. Business Analyst/QA Analyst							                   Nov 2013- July 2015
+Walgreens provides medical imaging and information technologies, medical diagnostics, patient monitoring systems, drug discovery, pharmaceutical manufacturing technologies and performance solutions services. The main objective of the project is to build web-based application which handles claim submissions, enrollment and disenrollment submitted by physicians and agents electronically.
+Responsibilities:
+Acted as a liaison between clients and development departments and distinguished requests from needs.
+Transferred information from management into needed data.
+Found out defects which existed in the system, analyzed how the defects were originated, and cooperated with another department to fix them.
+Set up meetings with other departments, SMEs, or clients to solve problems and gathered requirements from meeting.
+Translated business requirements into technical details.
+Used SAP Business Objects to complete report generation based on corresponding issues of defects.
+Worked closely with project lead, technical team and business analysts to investigate data and logic within the database and reporting application.
+Worked in Healthcare HIPAA 4010 to 5010 migration and EDI transaction sets such as 835, 837, and 999.
+Wrote and executed SQL queries to verify that data has been moved from transactional system to DSS, Data warehouse, data mart reporting system in accordance with requirements
+Designs and develops the logical and physical data models to support the Data Marts and the Data Warehouse. 
+Used Quality Center to track defects’ status and update status as well.
+Worked closely with Informatica ETL team with the ability to understand mappings and ETL processes.
+Prepared BRD’s and test cases for each defect before defects moved to testing.
+Tracked progress and compared it with planned progress.
+Coordinated with project manager on regular status updates and assists the overall project management initiative.
+Worked extensively with MASKED_LOCATION office suite for preparing status reports
+Environment: Windows, Unix, MS Office Suite, MASKED_NAME, UML, SQL, MASKED_NAME, JIRA, Agile/Scrum, Informatica, MASKED_LOCATION, Toad, J2EE, WebSphere.
+Company: Amvik Solutions, MASKED_LOCATION, CA	                                                                                                                                   
+Position: Business Analyst                                                                                                                                                 Sept 2011 – Sept 2013
+Amvik is a company providing customers with benefits, expertise and service that improves the health, well-being and productivity. As a BA, I was involved in developing fully automated, real-time claims processing system for complete, on-line mediation of medical, dental, vision, and Short/long term disability claims. System allowed the efficient and timely management of all relevant data clinical, financial, and administrative throughout the organization enabling the sharing of information between subsystems.
+Responsibilities:
+Met with users to generate and review business use cases. Assessed the status of the organization to determine the scope of the validation process.
+Prepared requirements document for Commercial Auto, Inland Marine, Crime, Worker’s Compensation, Umbrella, Business Owners Policy, Commercial Output Policy, and Commercial Property Package.
+Also, responsible for managing communication and expectations of system vendor, the former parent company IT and business departments, and Allied Worlds various business units (underwriting, claims, reinsurance, actuary, accounting, and IT)
+Created the configuration document for custom setup for various user groups such as HR, marketing, R&D & sales, research analyst & investigators.
+Created use cases to depict the interaction between the various actors and the system. Facilitated collection of 
+Tested HIPAA Gateway Application Interface for all inbound and outbound messages (Healthcare Eligibility 270 and MASKED_ADDRESS 276 and 277, Healthcare Claim 837 and 835)
+Involved in detailing project mission, Data Process Flow Diagrams and timelines. Defined business Use Cases and activity diagrams to represent different workflows and associations.
+Worked with the compliance group to make sure that the electronic data was CFR part 11 compliant.
+Gathered requirements by using interviews, requirement workshops and brainstorming sessions.
+Acted as a liaison between business staff and technical staff to articulate needs, issues and concerns as per GLP in LabWare LIMS & Pre-Clinical Phases (electronic laboratory notebook) & data migration issues.
+Designed and developed project document templates based on SDLC methodology
+Documented all aspects of the computer system validation lifecycle, in accordance with FDA regulation which includes validation plan and protocol, Installation Qualification (IQ), MASKED_NAME (OQ) and specification performance. Worked in Healthcare HIPAA ICD 9-CM to ICD 10-CM rule set migration.
+Responsible for analyzing the current system and followed the development of a J2EE based application through various iterations of all phases of the Rational Unified Process (RUP).
+Validate test plans/scripts and perform final reviews of test results. 
+Used use case diagram during analysis to capture requirements. Conducted acceptance tests to verify that the validation effort was complete
+Developed strategies with Quality Assurance group to implement Test Cases in Mercury Test Director for stress testing and UAT (User Acceptance Testing). 
+Environment:  Rational Rose, UML, MASKED_NAME, RUP, MASKED_LOCATION, Rational RequisitePro, Microsoft Office tools, MS Project, SQL 
+Company: Biological.E.Ltd, IND							                                                 
+Position: Business Analyst                                                                                                                                                  June 2010 – July 2011
+The company provides a variety of personal insurance products, including Auto insurance, MASKED_NAME insurance, Marine Coverage’s, Personal liability insurance, and life policies (Life insurance).
+Project: Online Account Access system
+The project was to develop a web-based application relating to a comprehensive online request for auto insurance and health insurance quote processing. The system runs on MASKED_NAME and has a web-integrated front-end that provides free auto insurance quotes to individuals and for families. This project is a web-based application which allows the customers to pay the bills online, get an online quote, report a claim, view policy, view the claim status and verify the account balances etc.
+Responsibilities:
+Elicited and gathered user and business requirements through open ended discussions, brainstorming and prototyping.
+Utilized Rational Unified Process (RUP) to configure and develop process, standards and procedures.
+Developed Business Requirement Document and Use Cases Specification/Document for various Use Cases.
+Responsible for converting the business requirements into functional and non-Functional requirements.
+Conducted JAD sessions for communicating with the all Project directors and stakeholders and created process Workflows, Functional Specifications and project initiation artifacts. Created and managed project templates, use case templates, requirement types and tractability matrix in Requisite Pro.
+As a Business Analyst worked on various process policy workflows ranging from Policy Issue/New Submission, Policy Change, Renewal, Cancellation, Reinstatement. Supported Underwriting& Premium Audit groups.
+Custom Code Design for integration to downstream ODS and Data Warehouse for BI needs. Identification of Data MASKED_NAME for MDM such as Patient, Organization and Physician etc. Evaluation and selection of various MDM technologies and products in view of the client requirements. 
+Troubleshooter test scripts, SQL queries, ETL jobs, data warehouse/data mart/data store models
+Identified Use Cases from the requirements. Created Use Cases Diagrams, Activity Diagrams/State Chart Diagrams, and MASKED_NAME, based on UML Methodology using Rational Rose and MS Visio.
+Monitor version control and defect tracking activities using Rational Clear Case and Rational Clear Quest.
+Created Mock-up forms in HTML for better visualization and understanding of the software solution.
+Assisted quality assurance team in testing different releases and in designing test plans and test cases. Performed User Acceptance Testing (UAT).
+Environment: Windows, Oracle 9i, SQL, Microsoft Office suite, Rational Clear Quest, Rational Requisite Pro, DOORS, Test Director, MASKED_NAME, Rational Unified Process (RUP), UML.

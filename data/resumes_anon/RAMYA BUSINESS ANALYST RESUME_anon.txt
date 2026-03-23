@@ -1,0 +1,91 @@
+Ramya
+Business Analyst 
+MASKED_EMAIL
+MASKED_PHONE
+TECHNICAL
+SUMMARY:
+Seven years of Business Systems Analyst experience in the field of Financial Services & Banking and Capital Markets.
+Intensive experience writing Business Requirement Documents (BRD), Functional Requirement Documents (FRD), User Requirement Documents and helping developers with creation of Software Requirement Specifications (SRS). 
+Wide-ranging experience using different methodologies such as Agile, SCRUM, RUP (Rational Unified Process) & Waterfall.
+Involved in facilitating meetings, revise sessions, Discussion groups and JAD sessions to analyze the business requirements to its depth and reach team consensus. 
+Proficient in developing Business Process Diagrams, such as Use Case diagrams, Data Flow diagrams, Process Flow diagrams using MS-Visio and UML.
+Experience with Rational Requisite Pro to create and manage requirements and managing defects.
+Good knowledge of designing MASKED_NAME and Activity diagrams using Rational Rose.
+Excellent knowledge of project management – MS Project 2003, experience in MASKED_LOCATION, Scheduling, Task Allocation.
+Experience in writing test plans, defining test cases, developing and maintaining test scripts.
+Knowledge of testing the functional and technical requirements. Functional, Regression Testing and Integration Testing for Web based and MASKED_LOCATION/Server applications.
+Experience with Data Analysis using MASKED_NAME as a backend and using SQL Queries.
+Experience in Defect Tracking Process-Test director for executing and reporting bugs to the QA team and UAT.
+Working Knowledge of Reporting tools such as Business Objects.
+Excellent problem solving, team building, judgment and decision making skills.
+Strong communication and time management skills, proven ability to work under Pressure and team-oriented environment.  
+Excellent analytical, interpersonal, collaborative, diplomatic, and documenting skills.
+TECHNICAL
+SKILLS:
+EXPERIENCE:
+02/16-Present 	Master card, MASKED_LOCATION
+Business Systems Analyst
+Mastercard operates the world’s fastest payment processing network, connecting consumers, financial institutions, merchants, governments and businesses in more than 210 countries and territories.
+Responsibilities:
+Interacted with business owners to identify business system needs, evaluated solutions for business problems and proposed alternate methods to increase efficiency.
+Analyzed and documented information system requirements and the corresponding impact on business processes.
+Responsible for defining the scope and implementing business rules of the project, gathering business requirements and documentation. 
+Responsible for writing Functional Requirement Specifications (FRS) and User Requirement Specification (URS). 
+Analyzed Business Requirements and segregated them into high level and low level Use Cases, Activity Diagrams /State Chart Diagrams using Rational Rose according to UML methodology thus defining the Data Process Models.
+Successfully conducted JAD sessions, which helped synchronize the different stakeholders on their objectives and helped the developers to have a clear-cut picture of the project.
+Responsible for maintaining the minutes of all the requirement gathering sessions.
+Independently manage project scope, risks and manage project meetings as needed to drive projects to completion.
+Responsible for interacting with the developers to explain the proposed changes and understand the system requirements to handle these changes.
+Coordinated with the test team to check the weekly status and report the same to the project manager.
+Formulated comprehensive test plan based on requirements and develop test scenarios based on use cases.
+Performed regression, functional testing, stress testing, performance testing, user interface testing, User Acceptance and system testing. 
+Environment: RUP, UML, MS Project, MASKED_NAME, Rational Requisite Pro, MS Office, SQL & Windows 2000/NT
+11/MASKED_DOB
+	 MASKED_NAME, MASKED_LOCATION
+	Responsibilities:
+Reviewed Business requirements, IT Design documents and prepared Test Plans for all assigned project releases.
+Experience in Preparing Design Specification documents based on functional requirements and also involved in the preparation of Technical Design Documents. 
+Assisted Program Manager on large projects and coordination of key project activities in support of quality objectives. 
+Worked as a SQL developer to support business applications using Oracle SQL and PL/SQL. 
+Build and maintain SQL scripts, indexes, and complex queries for data analysis and extraction. 
+Create stored procedures, functions, packages, triggers using PL/SQL Developer.
+PL/SQL coding for Exception Handling and Duplicate Data maintaining. 
+Proficient working experience in Oracle utilities such as Export / Import. 
+Extensive data cleansing and analysis, using pivot tables, formulas (v-lookup and others) Data validation, conditional formatting, and graph and chart manipulation. 
+Executed test cases, identified defects and followed through to resolution in MASKED_LOCATION.
+Used SQL Dimensional Data Modeling, Star MASKED_NAME modeling, Fact and dimensions tables including Physical, Logical data modeling.
+Blended data from multiple databases into one report by selecting primary key’s from each database for data validation.
+Combined views and reports into interactive dashboards in Tableau Desktop that were presented to Business Users, Program Managers, and End Users.
+Built and maintained SQL scripts, indexes, reports and queries for data analysis, data mining & cleansing and extraction.
+Environments: Rational Rose, MS Office Suite, Oracle9i, JIRA, Web Services, Tag Libraries, UML, CSS, MQ Series, SQL, PL/SQL, MASKED_LOCATION 10,9x, ETL(Informatica 9x), XML, HTMLC, MASKED_NAME, MASKED_LOCATION XP/2000/NT, MASKED_LOCATION, UNIX, TOAD.
+1/13– 10/14	PNB, MASKED_LOCATION, MASKED_LOCATION
+	Jr. Business Analyst
+PNB’s online bank service enabled customer’s to personalize their user interface and access updated account information. The goal of the project was to add new functionality to the existing online banking system that would allow the customers to transfer funds and make online bill payments.
+	Responsibilities:
+Analyzed business needs, created and developed new functionality supporting in-house development projects.
+Developed business papers, gathered business requirements, and compiled them to help the design of a viable online banking system.
+Acted as a primary liaison between the business users and the internal users.
+Analyzed existing systems and revised them as needed.
+Gathered and documented business requirements. Designed and developed sequence diagrams and models.
+Formulated logical statements of business requirements research and evaluated alternative solutions to recommend the most efficient and cost effective solution for system design.
+Proactive management of client expectations of the marketplace.
+Environment: UML, Oracle, Rational Suite MS-Project & MS Visio.
+MASKED_DOB/12	WINIT SoftwareRole, MASKED_NAME,INDIA 
+	Project Analyst
+Responsibilities:
+Concentrated and involved more in System Integration testing.
+Reviewed Business requirements, IT Design documents and prepared Test Plans for all assigned project releases.
+Responsible for the reconciliation, analysis and management reporting for Payroll balance sheet and income statement accounts.
+Using Excel pivot tables to manipulate large amounts of data in order to perform data analysis. 
+Manage and maintain spreadsheets to ensure accurate data availability for managers and decision-makers 
+VLOOKUP formula development, Pivot Table generation, and Pivot reporting. Modify spreadsheets to achieve analytical goals. 
+Formatting spreadsheets and workbooks for print, document reproduction, and presentations. 
+Create spreadsheets to upload required data into financial systems.
+Extensive Excel work using pivot tables and complex formulas to manipulate large data structures. 
+Conducted JAD sessions for effective communication of views between stakeholders and gathered business requirements, 
+Ensured that all the artifacts are in compliance with corporate SDLC Policies and guidelines, prepared BRD and converted into functional specifications using requirement management tool.
+Created UML diagrams such as use case diagrams, activity diagrams, and sequence diagrams.
+Provide technical and procedural support for User Acceptance Testing (UAT).
+Created functions, procedures and triggers in PL/SQL.
+Supervise development of SQL-queries/procedures for database and backend testing.
+Environment: Rational Rose, Rational Requisite Pro, Clear Quest, MS Office Suite, MASKED_NAME, SQL Developer, MASKED_NAME, J2EE, JavaScript, HTML, DHTML, MS SQL Server

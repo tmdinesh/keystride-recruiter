@@ -1,0 +1,45 @@
+ROLE: DevOps Engineer
+SOURCE: Synthetic
+URL: N/A
+COMPANY: GridIron Software
+
+============================================================
+  DEVOPS ENGINEER
+  GridIron Software
+============================================================
+
+ABOUT THE COMPANY
+----------------------------------------
+GridIron Software specializes in developing robust, scalable software solutions for complex data management and analytics within the financial technology sector. We empower our clients with cutting-edge tools to process vast datasets securely and efficiently. Our commitment is to innovation and operational excellence, ensuring our platforms drive significant value for our global customer base.
+
+RESPONSIBILITIES
+----------------------------------------
+  • Design, implement, and maintain scalable, highly available, and secure infrastructure on AWS using Infrastructure as Code (IaC) principles with Terraform.
+  • Automate deployment, monitoring, and operational tasks across various environments (development, staging, production) to enhance efficiency and reliability.
+  • Manage and optimize CI/CD pipelines (e.g., Jenkins, GitLab CI) to ensure continuous delivery and integration of software applications.
+  • Collaborate closely with development teams to ensure infrastructure aligns with application requirements, best practices, and security standards.
+  • Monitor system performance, troubleshoot complex issues, and implement proactive solutions to enhance system reliability, performance, and cost-effectiveness.
+
+REQUIRED SKILLS (Must-Have)
+----------------------------------------
+  ✅ AWS services (EC2, S3, RDS, VPC, IAM, Lambda, CloudWatch, ECS/EKS)
+  ✅ Terraform for infrastructure provisioning and management
+  ✅ CI/CD pipeline development and management (e.g., Jenkins, GitLab CI, AWS CodePipeline)
+  ✅ Scripting proficiency in Python or Bash
+  ✅ Containerization technologies (Docker)
+  ✅ Linux system administration and troubleshooting
+
+PREFERRED SKILLS (Nice-to-Have)
+----------------------------------------
+  ⭐ Orchestration tools (Kubernetes)
+  ⭐ Configuration management tools (Ansible, Chef, Puppet)
+  ⭐ Monitoring and logging platforms (Prometheus, Grafana, ELK Stack)
+
+EXPERIENCE & EDUCATION
+----------------------------------------
+  Experience: 2-4 years
+  Education:  Bachelor's degree in Computer Science, Engineering, or a related technical field; or equivalent practical experience.
+
+COMPENSATION
+----------------------------------------
+  $95,000 - $125,000 USD

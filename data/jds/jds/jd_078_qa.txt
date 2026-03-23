@@ -1,0 +1,5 @@
+ROLE: Senior QA Engineer
+SOURCE: Adzuna
+URL: https://www.adzuna.com/land/ad/5637959902?se=Dv5Xw4sY8RGJZfgUeQyxLw&utm_medium=api&utm_source=e34e223e&v=7AF234647A9560A68EB80EAF63F749E64A1D0185
+
+As a member of the Reference Data team, this is a position for a Senior QA resource to test, maintain, support, and enhance testing processes for various products implemented by the development team. Responsibilities  Implementation of test strategies, test plans, test infrastructure, test automation and project plans based on requirements.  Work closely with developers, product team, business analysts and QA from other teams.  Project management - May lead or direct the work of others, chan

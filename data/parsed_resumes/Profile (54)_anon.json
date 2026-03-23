@@ -1,0 +1,22 @@
+{
+  "resume_id": "Profile (54)_anon",
+  "skills": [
+    "python",
+    "machine learning",
+    "deep learning",
+    "tensorflow"
+  ],
+  "education": {
+    "degree": "Unknown",
+    "year": "Unknown"
+  },
+  "experience_years": 3,
+  "projects": [
+    "Deriving insights from completed law cases using language embeddings",
+    "Constructing structured information out of unstructured text",
+    "Predicting whether a future purchase should occur or not based on historical",
+    "Using previous purchases to recommend products to returning customers",
+    "Replicating state of the art neural network architectures from scientific papers"
+  ],
+  "certifications": []
+}

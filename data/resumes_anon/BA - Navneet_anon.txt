@@ -1,0 +1,171 @@
+NAVNEET 
+MASKED_PHONE / MASKED_EMAIL
+SUMMARY
+Consultant with 8+ years of proven track record of success in delivering outstanding results in a client facing role in the field of Law Enforcement, Health Care, Mortgage, Loan origination including Equipment Financing Govt., Manufacturing and Insurance products with IT Support in various financial domains.
+
+• Full project life cycle experience as a consultant and manager of large-scale IT projects, consistently producing quality deliverables on schedule and under budget.
+
+• Several years of experience and advance knowledge of the Systems Development Life Cycle (SDLC), and project life cycles like Agile, Rapid Application Development (RAD) and MASKED_NAME.
+
+• Worked in all aspects of solution development, including business case development, workshop facilitation, Gap analysis, requirements definition, business analysis, solution design, testing, and training and also assisted Architecture with technical proposal document.
+
+• Capturing the Technical Requirements and defining technology solutions using user interviews, document analysis, requirements workshops, surveys, local site visits, business process descriptions, use cases, business analysis, and task and workflow analysis.
+
+• Scheduled Training sessions for MASKED_LOCATION, with the help of training needs analysis, detailed training plan, development of comprehensive training and support materials, delivery of training and evaluation of training.
+TECHNICAL SKILLS
+
+PROFESSIONAL EXPERIENCE 
+New Orleans Police Department, MASKED_LOCATION, MASKED_LOCATION						Sept 2015 – present
+Business Analyst and Tester									   
+Project is a web based application for Police Departments located in MASKED_LOCATION. I am working as part of a multidisciplinary project team in all aspects of solution development, including business case development, workshop facilitation, gap analysis, requirements definition, business analysis, solution design, testing, and training I worked effectively and efficiently, independently and as a team member.
+
+Responsibilities:
+Applied proven business and analytical skills through the application of established frameworks, methodologies and processes.
+Following the Agile methodology during the entire SDLC and supported development teams through the agile development process.
+MASKED_NAME for website enhancements and bug fixes.
+MASKED_NAME problems related to the workflow or publishing of pages or content.
+Conducting daily Scrum meeting to know the progress of the team. 
+Providing Level of Effort (LOE) estimates for requirements analysis work, participating in the planning for systems requirements development and artifacts completion.
+Working with various end users to understand and document their current business operations and collected functional, non-functional, and technical requirements and documented them in artifacts such as Requirements Traceability Matrices, System Requirements documents and SOW (Statement of Work).
+Capturing the technical requirements and defining technology solutions using user interviews, document analysis, requirements workshops, surveys, local site visits, business process descriptions, use cases, business analysis, and task and workflow analysis.
+Creating modeling diagrams such as Activity flow diagrams, and Data Models.
+Working closely with Project manager in handling the whole project.
+Made GAP Analysis documents to avoid conflicts and last-minute changes asked by MASKED_LOCATION.
+Scheduling Training sessions for MASKED_LOCATION, with the help of training needs analysis, detailed training plan, development of comprehensive training and support materials, delivery of training and evaluation of training.
+Written high quality Test Plans and Test Cases in Pilot Release.
+Identified and communicated defects and bugs to Developers and other team members.
+Working on SharePoint servers to store documents and keep tracks of the whole team.
+Conducting UAT (User Acceptance Testing).
+Followed the defined QA processes to ensure all standards are met.
+Troubleshooting and resolving application issues; identifying ways to improve existing processes via writing SQL, MASKED_NAME and HTML code.
+Executed and evaluate manual and automated test cases and report test results.
+Identified any potential quality issues per defined process and escalate potential quality issues immediately to management.
+Ensured that validated deliverables met functional and design specifications and requirements.
+Isolate, replicate and reported defects and verify defect fixes.
+
+Business Analyst 									Feb 2015 – Aug 2015
+Magellan Health Services, MASKED_LOCATION, MASKED_LOCATION                                                        			
+Magellan offers full service PBM (pharmacy benefit manager) that combines clinical expertise in mental illness and chronic conditions with flexible technology to deliver holistic solutions that improve the health of patients and manage spend. The project I was assigned to was to work on prescription drug program for Federal Employees Health Benefits Program.
+Responsibilities:
+Verified, consolidated, documented and tracked requirement capture and implementation.
+Reported completed requirements artifacts to stakeholders for approvals and communicated them with technical team including architects, developers and testers for clarification and acceptance.
+Created clearly defined user stories with acceptance criteria for validity purposes.
+Involved in overall tracking of Project Management/Test Management activities like work plan management and consolidation of overall project related activities.
+Created AS-IS and TO-BE documents as part of GAP Analysis for requirements for all applications and worked on solutions for closing the gaps.
+Created implementation plan for implementation of process, methods and tool to ensure that all applications follow the process, methods and tools as established by the quality management team of Magellan.
+Followed up on SDLC to ensure that implementation was going smoothly as per software development life cycle as charted in project charter.
+Created and maintained RAID logs for risk management and smooth closure of implementation activities.
+Responsible for tracking hardware/software acquisitions and purchase as per necessity to provide productive working environment for developers/testers and to ensure deployment process goes as smoothly as possible.
+Performed UAT testing and was heavily involved in UAT coordination including scheduling setting up environments and creating test scenario.
+Worked with system testers to ensure requirement are completely and accurately implemented and tested.
+Environment: MASKED_NAME, MS Excel, MASKED_NAME, MASKED_LOCATION, Quality Center, Clear Quest, JIRA.
+
+U.S Department of Interior, MASKED_LOCATION, MASKED_LOCATION							Oct 2014 – Feb 2015
+Sr. Business System Analyst (Information Management)
+SCI Group is the vendor of U.S Department of Interior who is reviewing the current and future needs of Renewable Energy Program for storage, management and access of document for Data Management and Records Management. 
+
+Responsibilities:
+Worked with SCI Group to collect information and document keeping Presidential M-12-18, NARA Guidelines and DOD5015.02 in mind.
+ERP framework.
+Worked closely with Project Manager on Need Report and Options Report.
+Deliver requirements under the Agile Scrum SDLC methodology to meet a very fast release schedule.
+Onsite Program Management of existing Information Management projects.
+Experience working on SharePoint. 
+Worked on enhancements closely with developer team to fix the bug. 
+Successfully developed the architecture, system design, metadata, and workflow design for modernization of a large credit union’s electronic document management system.
+Worked on life cycle management from creation to destruction.
+Providing enterprise level software to vendors based on their current requirement.
+MASKED_NAME and implemented rules as per M-12-18 and NARA guidelines.
+Experience in documenting as per NARA guidelines and DOD 5015.02.
+Data mapping for Captured Source and Destination database mapping for housing information in-house for downstream application.
+Created Business requirements, functional requirements and Use case diagrams.
+Responsible for defining the scope of the project(s), feasibility analysis, project planning, gathering business requirements by conducting user interviews, JAD sessions, and story boarding.
+Updated and modified progress and resources allocation in MASKED_LOCATION project for the team.
+Converted the technical document in to business document for better understanding for SME of backend process. 
+Documented various Business rules, Technical requirements, Business requirements and Supplemental requirements.
+
+GE Transportation, MASKED_LOCATION, PA									Feb 2014 – Sept MASKED_ADDRESS
+A division of the General Electric (GE) Company that manufactures equipment for the railroad, marine, mining, drilling and energy generation industries. The Project is a web based application. Determining how the present GE Transportation's software is in alignment with the overall corporate goals.
+Responsibilities:
+
+Capturing the technical requirements and defining technology solutions using user interviews, document analysis, requirements workshops, surveys, local site visits, business process descriptions, use cases, business analysis, and task and workflow analysis.
+Give directions to other System and Business Analyst to analyze the business.
+Proficiency with enterprise business management software – PeopleSoft.
+Validate reporting and troubleshoot data issues; recommend and implement resolutions.
+Lead strategic improvement efforts related to data collection, allocation, and costing methodologies to enhance the current Business Support execution model. Integrate improvements into the standard production process. 
+Lead other analysts in understanding the business use cases and writing inner queries.   
+Creating the conceptual, logical and physical design of the solution to ensure appropriate technology is acquired and implemented via producing and maintaining requirement specification documentation.
+Utilized Rational Unified Process (RUP) to configure and develop processes, standards, and procedure.
+Work with application SME's, QA analyst, and business partners to ensure that the programmed solution meets the requirements.
+Performing application development activities – writing source code, configuring applications and unit testing – that support the enterprise application strategy.
+Maintaining the change control process for all source code and application changes generated across a distributed environment that includes both on premise and cloud technologies. 
+Delivering against a backlog of production issues and enhancement requests using the IT Service Management system. 
+Conducting UAT (User Acceptance Testing) using HP Application Lifecycle Management tool.
+Troubleshooting and resolving application issues; identifying ways to improve existing processes via writing SQL, MASKED_NAME and HTML code.
+Developing, manually executing and documenting test cases and test scripts via the HP Lifecycle Management tool (version 11.00).
+Coding and executing performance tracking and reporting scripts in Oracle SQL, PL/SQL, JavaScript and HTML.
+
+PNC Bank, MASKED_LOCATION, MASKED_LOCATION								          Jan 2012-Feb MASKED_ADDRESS
+The project was a web based application involving the automation of Student Mortgage Loan Origination process beginning from origination/opening the mortgage through fund closing. The system performs all the functions of loan processes such as set up an account information, new student loan set up, appraisal, credit, income, making loan payments, managing personal and amortization schedules, obtaining documents, forms, payoff statements, and managing automatic account drafting. Extending capital to businesses for the purpose of acquiring equipment. The project involved modules for Student Loan Pre-approval, application, underwriting, pricing, processing and closing.  
+
+Responsibilities:
+Highly skilled to translate business requirements or functional requirements into functional specifications.
+Firm understanding of the Software Development Life Cycle (SDLC).
+Deliver requirements under the Agile Scrum SDLC methodology to meet a very fast release schedule.
+Worked on various applications and Conducted Gap Analysis between “As is” and “To be” process for the applications. Participated in the Logical and Physical Design sessions and developed Design Documents. 
+Created role based matrix for these applications and worked with the developer to create applications supporting these roles.
+Excellent knowledge of mortgage life cycle and worked on mortgage loan origination fee generation system
+Utilized Rational Unified Process (RUP) to configure and develop processes, standards, and procedure.
+Conducting UAT (User Acceptance Testing) using HP Application Lifecycle Management tool.
+Performed UAT to make sure that all requirements were catered for in the application
+Conducted Functional Walkthroughs, User Acceptance Testing (UAT) sessions, and assisted the development of User Manuals for customers.
+Troubleshooting and resolving application issues; identifying ways to improve existing processes via writing SQL, MASKED_NAME and HTML code.
+Performed Gap analysis by identifying existing technologies, documenting the enhancements to meet the end state requirements.
+Analyzed and documented Business requirements and detail design of the software for full understanding of the business.
+Accumulated student’s requirements from various end through surveys, interviews and JAD sessions, stake holders and translated them into system requirements.
+Defined the change management approval procedures to control the scope of the order management requirements.
+Actively engaged various partners from the client team to monitor and control the risk associated with changing scope.
+Identified the business risks associated with the new system and formulated a Mitigation Plan to reduce the effect of critical risk factors.
+Created Business requirements, functional requirements and Use case diagrams.
+MASKED_NAME, MASKED_NAME, MASKED_LOCATION									Nov 2010 – Jan MASKED_ADDRESS	
+MASKED_NAME, a complementary offering to MASKED_NAME's existing solutions, MASKED_NAME provides a single point of access for investment managers and investment manager outsourcers to interact with MASKED_NAME services and other best-of-breed post-trade solutions, enabling the trade and settlement management of multiple asset classes via an ASP environment.  MASKED_NAME will be most valuable for investment managers with large, multiple asset class trading volumes and complex environments, as well as investment manager outsourcers looking to consolidate multiple investment manager operations onto a single platform. MASKED_NAME enables clients to reduce operating costs and risks quickly without high up-front costs and unpredictable ongoing expenditures associated with custom-developed environments and various vendor-system upgrades.
+
+Responsibilities:
+
+Worked as a team player and as a business analyst on Omgeo Connect, Oasys, INSITE and P&O Projects, cross functional tasks from clarifying functional specifications through implementation, for product development efforts. Work in partnership with Cross Functional team business analysts, product managers, and software developers, both within the company and sometimes with offsite partners for UAT. 
+Working on post trade confirmation, pre-settlement and trade communication products; “CTM, OASYS, MASKED_NAME and BBH messaging”.
+Gathered and documented User Requirements for proprietary Global and Domestic trading systems
+Coordinated product reviews of Requirement documents, incorporated agreed changes and obtained global sign off on final versions from Project Management and CFT.
+Documented existing processes and assisted in identifying areas of improvement for Operating Model in Pre-Trade and Post trade settlement process.
+Created and executed test scripts for existing defects, system enhancements and new system functionality.
+Utilized Rational Unified Process (RUP) to configure and develop processes, standards, and procedure.
+Implemented functionality for MASKED_NAME, a single point of entry for multiple MASKED_NAME services, such as Omgeo Central Trade Manager (CTM), MASKED_NAME, and MASKED_NAME.
+Reviewed System and Functional Design documents to ensure adherence to specified business requirements.
+Researched current techniques, systems and processes in place to determine changes to reduce costs, enhance efficiency and meet business needs.
+Assisted in User Acceptance Testing (UAT), developing and maintaining quality procedures, and ensuring that appropriate documentation is in place.
+Interacted with third party vendor during all product development lifecycles (including system design, testing, defect review and implementation).
+Investigated system defects generated by MASKED_NAME trading system while interacting with End Clients.
+Created system “workarounds” for end-users upon discovery of defects.
+Served a leading role in internal agile transformation and in presenting the company's agile transformation to customers MASKED_LOCATION in implementation of MASKED_LOCATION methodologies like Waterfall, Agile, CMMI and SCRUM.
+Worked with the Technical Support Manager to ensure that all Support QA tasks have resources assigned and the workloads are level. 
+Identifying the Security Risks in the application that being built and address them in the requirement document to avoid the security breaches. 
+Worked with subject matter experts including architects, software engineers, and QA professionals to gather detailed information about the product being built. 
+Netsoft Microsystems, MASKED_LOCATION                 								April 2009 – Oct MASKED_ADDRESS
+Netsoft Microsystems specializes in MASKED_LOCATION and Inshore Development of Software, and offers to engage in a long-term partnership with the clients. Applicant Tracking System (APS) application is designed to help companies in streamlining their recruitment process. It can be used for post job openings, screen resumes, generate and send interview requests to potential candidates by email. It also has a gamut of other features like individual applicant tracking; pre-screening questions, response tracking, automated resume ranking etc. and a wide variety of reports can be generated to perform recruitment data analysis.
+Responsibilities:
+Coordinated all aspects of projects such as initiation, planning, scheduling, task assignment and tracking, status reporting and risk management.
+Facilitated JAD sessions to coordinate activities for project schedules, presented deliverables to the management, conducted JAD sessions to elicit requirements.
+Identified processes for developing and documenting detailed business requirements including process, data flow analysis and modeling. 
+Created Use-Cases, BPM, and Requirement documents to document the Business needs.
+Requirements were gathered through interactions and meetings and periodic walkthroughs with loan analysts, credit analysts and other potential users of the application. 
+MASKED_NAME reviews and identified Gaps, leading to improvements/enhancements in the same. 
+Managed requirements to minimize scope issues. Understood all system requirements and provided feedback, collected requirements from stakeholders and prioritized them.
+Worked with the Project Manager on various Project Management activities such as keeping track of the
+Project Status, Deadlines, Environment Request, and Compliance Issues. 
+Prepared Business Process Models including modeling of all the activities of the business from the conceptual to procedural level.
+Responsible for building training materials to train team members with Business process.     
+Tracked issues that were detected and updated the status of existing issues based on the daily meetings with the offshore team.
+Worked closely with Project manager/Senior Analysts in handling the whole project.
+Followed the Agile methodology during the entire SDLC. 
+
+EDUCATION 

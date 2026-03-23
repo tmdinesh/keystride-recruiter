@@ -1,0 +1,39 @@
+{
+  "resume_id": "Sai Srinivas_Sr_Java_Developer_anon",
+  "skills": [
+    "python",
+    "java",
+    "javascript",
+    "typescript",
+    "php",
+    "scala",
+    "r",
+    "react",
+    "angular",
+    "html",
+    "css",
+    "bootstrap",
+    "jquery",
+    "node",
+    "spring",
+    "rest",
+    "soap",
+    "sql",
+    "mysql",
+    "mongodb",
+    "oracle",
+    "cassandra",
+    "aws",
+    "apache",
+    "spark",
+    "hadoop",
+    "jira"
+  ],
+  "education": {
+    "degree": "Unknown",
+    "year": "Unknown"
+  },
+  "experience_years": 9,
+  "projects": [],
+  "certifications": []
+}

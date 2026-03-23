@@ -1,0 +1,41 @@
+{
+  "resume_id": "Vijay Bhargav_anon",
+  "skills": [
+    "python",
+    "java",
+    "javascript",
+    "scala",
+    "r",
+    "angular",
+    "html",
+    "css",
+    "jquery",
+    "node",
+    "spring",
+    "rest",
+    "soap",
+    "sql",
+    "mysql",
+    "mongodb",
+    "oracle",
+    "cassandra",
+    "aws",
+    "azure",
+    "apache",
+    "spark",
+    "hadoop"
+  ],
+  "education": {
+    "degree": "Unknown",
+    "year": "Unknown"
+  },
+  "experience_years": 9,
+  "projects": [
+    "Prepared user documentation with screenshots for UAT (User Acceptance testing).",
+    "Wrote stored procedures, triggers, and cursors using Oracle PL/SQL.",
+    "Interact with clients to understand their needs and propose design to the team to implement the requirement.",
+    "Involved in technical Documentation for the module",
+    "Designed and created SQL Server Database, Stored Procedures"
+  ],
+  "certifications": []
+}

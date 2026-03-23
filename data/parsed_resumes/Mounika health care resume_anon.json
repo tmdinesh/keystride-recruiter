@@ -1,0 +1,21 @@
+{
+  "resume_id": "Mounika health care resume_anon",
+  "skills": [
+    "sql"
+  ],
+  "education": {
+    "degree": "Interacted with Product Owners, Scrum Master and gathered requirements as per the business needs.",
+    "year": "Unknown"
+  },
+  "experience_years": 6,
+  "projects": [
+    "Meet regularly with the Project and IT owner to discuss status and issues.",
+    "Acted as the lead business analyst for website used by customers to place pharmaceutical orders. This project was developed implementing RUP methodology.",
+    "Actively involved in Gap Analysis and impact analysis.",
+    "Followed the Business Rules, and ensured that HIPAA compliant Rules are followed to display minimum benefit information that the Provider is required to pass on the EDI transactions.",
+    "Captured all HIPAA-related EDI data in the repository using FACETS."
+  ],
+  "certifications": [
+    "Interacted with Product Owners, Scrum Master and gathered requirements as per the business needs."
+  ]
+}

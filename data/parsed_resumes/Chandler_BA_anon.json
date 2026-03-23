@@ -1,0 +1,23 @@
+{
+  "resume_id": "Chandler_BA_anon",
+  "skills": [
+    "php",
+    "html",
+    "css",
+    "asp.net",
+    "sql",
+    "mysql",
+    "apache",
+    "jira"
+  ],
+  "education": {
+    "degree": "Masters in Business Administration(MBA), Madurai Kamaraj University (MASKED_LOCATION, MASKED_LOCATION), Jan 2012 - Dec 2013",
+    "year": "2012"
+  },
+  "experience_years": 12,
+  "projects": [],
+  "certifications": [
+    "Sound Experience in being a SCRUM Master.",
+    "Acted as a SCRUM Master."
+  ]
+}

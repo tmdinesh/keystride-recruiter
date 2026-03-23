@@ -1,0 +1,45 @@
+ROLE: Senior Cloud Engineer
+SOURCE: Synthetic
+URL: N/A
+COMPANY: Quantum Builds
+
+============================================================
+  SENIOR CLOUD ENGINEER
+  Quantum Builds
+============================================================
+
+ABOUT THE COMPANY
+----------------------------------------
+Quantum Builds is a forward-thinking technology company dedicated to developing innovative, scalable, and resilient solutions across various industries. We empower businesses with cutting-edge platforms and infrastructure that drive efficiency, growth, and digital transformation.
+
+RESPONSIBILITIES
+----------------------------------------
+  • Design, implement, and maintain highly scalable, secure, and reliable cloud infrastructure on Google Cloud Platform (GCP).
+  • Develop, deploy, and manage Kubernetes clusters and container orchestration strategies for microservices architectures using Google Kubernetes Engine (GKE).
+  • Automate infrastructure provisioning, configuration, and application deployments through Infrastructure as Code (IaC) tools and robust CI/CD pipelines.
+  • Monitor, troubleshoot, and optimize cloud environments for performance, cost-efficiency, security, and compliance.
+  • Collaborate with development teams to ensure cloud best practices are integrated into the software development lifecycle and contribute to architectural discussions.
+
+REQUIRED SKILLS (Must-Have)
+----------------------------------------
+  ✅ Google Cloud Platform (GCP) services (e.g., GKE, Compute Engine, Cloud SQL, Cloud Storage, Cloud Pub/Sub, IAM, VPC)
+  ✅ Kubernetes (cluster management, Helm charts, Operators, service mesh concepts like Istio)
+  ✅ Infrastructure as Code (Terraform, Cloud Deployment Manager)
+  ✅ CI/CD tools (e.g., GitLab CI, ArgoCD, Cloud Build)
+  ✅ Scripting and automation proficiency (Python, Go, Bash)
+  ✅ Containerization technologies (Docker, Artifact Registry, Container Registry)
+
+PREFERRED SKILLS (Nice-to-Have)
+----------------------------------------
+  ⭐ Experience with serverless technologies (Cloud Functions, Cloud Run, App Engine)
+  ⭐ Proficiency in observability platforms (Prometheus, Grafana, Stackdriver/Cloud Monitoring)
+  ⭐ Google Cloud Professional certifications (e.g., Professional Cloud Engineer, Professional Cloud Architect)
+
+EXPERIENCE & EDUCATION
+----------------------------------------
+  Experience: 4-6 years
+  Education:  Bachelor's degree in Computer Science, Engineering, or a related technical field
+
+COMPENSATION
+----------------------------------------
+  $130,000 - $170,000 USD

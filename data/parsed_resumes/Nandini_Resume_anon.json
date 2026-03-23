@@ -1,0 +1,23 @@
+{
+  "resume_id": "Nandini_Resume_anon",
+  "skills": [
+    "java",
+    "rest",
+    "soap",
+    "sql",
+    "oracle"
+  ],
+  "education": {
+    "degree": "Master of Science (M.S) in Software Engineering from MASKED_NAME, work integrated program from MASKED_NAME, with an aggregate of 80% in July 2010.",
+    "year": "2010"
+  },
+  "experience_years": 10,
+  "projects": [
+    "Handle all P1 to P6 cases and providing RCA and LTF",
+    "Personal Information:",
+    "Name                                 :          Jayanandini Pobbathi",
+    "Passport No.                      :           P2903133",
+    "Contact Number                :           MASKED_PHONE"
+  ],
+  "certifications": []
+}

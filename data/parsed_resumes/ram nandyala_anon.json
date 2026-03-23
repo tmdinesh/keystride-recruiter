@@ -1,0 +1,43 @@
+{
+  "resume_id": "ram nandyala_anon",
+  "skills": [
+    "java",
+    "javascript",
+    "typescript",
+    "react",
+    "angular",
+    "html",
+    "css",
+    "sass",
+    "bootstrap",
+    "jquery",
+    "node",
+    "spring",
+    "express",
+    "rest",
+    "soap",
+    "sql",
+    "mysql",
+    "mongodb",
+    "oracle",
+    "cassandra",
+    "aws",
+    "docker",
+    "kubernetes",
+    "jenkins",
+    "ci/cd",
+    "apache",
+    "swagger"
+  ],
+  "education": {
+    "degree": "Bachelor of Technology in Computer Science from Bonam Venkata Chalamayya Engineering  college.",
+    "year": "Unknown"
+  },
+  "experience_years": 8,
+  "projects": [
+    "Involved in Design UI Screen, created several mock up Using HTML, CSS and JavaScript.",
+    "We kept up bean life cycle by utilizing Spring IOC which keep up session information of beans.",
+    "Involved in development of SOAP Webservices using Apache Axis to extract client related data from databases."
+  ],
+  "certifications": []
+}

@@ -1,0 +1,43 @@
+{
+  "resume_id": "Ramachandra EDA_anon",
+  "skills": [
+    "python",
+    "java",
+    "javascript",
+    "r",
+    "html",
+    "css",
+    "bootstrap",
+    "jquery",
+    "spring",
+    "rest",
+    "soap",
+    "sql",
+    "mysql",
+    "oracle",
+    "cassandra",
+    "aws",
+    "jenkins",
+    "linux",
+    "apache",
+    "spark",
+    "hadoop",
+    "git",
+    "jira",
+    "postman",
+    "swagger"
+  ],
+  "education": {
+    "degree": "Education:                               Master of Computer Applications(MCA),  MASKED_LOCATION.",
+    "year": "Unknown"
+  },
+  "experience_years": 8,
+  "projects": [
+    "Take reasonable steps to determine the true identity of all customers and beneficial ownership of Bank of America products and services .",
+    "Report all identified instances of suspicious activity to the extent that it can do so under all applicable foreign and domestic laws .",
+    "Avoid providing support or assistance to customers seeking to deceive law enforcement agencies through the provision of false, altered, incomplete or missing information or by informing customers that their activities are, may be, or have been investigated or reported as suspicious.",
+    "Interaction with Business users on daily basis for gathering the Requirements.",
+    "Involving in the preparing low level design."
+  ],
+  "certifications": []
+}

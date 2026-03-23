@@ -1,0 +1,32 @@
+{
+  "resume_id": "Tarun RESUME-BSAT_anon",
+  "skills": [
+    "r",
+    "html",
+    "rest",
+    "soap",
+    "sql",
+    "oracle",
+    "apache",
+    "hadoop",
+    "power bi",
+    "jira",
+    "confluence"
+  ],
+  "education": {
+    "degree": "EDUCATION:  Bachelor of Science, Indira Gandhi National Open University, MASKED_LOCATION, MASKED_LOCATION",
+    "year": "Unknown"
+  },
+  "experience_years": 11,
+  "projects": [
+    "The project involved enhancing the payment gateway by using a technology-driven approach with upgraded security measures for online banking. The key features included in this project were the secured authorization processing and enhancement of automatic bill pay options. I was also engaged in creating interfaces for Bank of America involving FOREX Module.",
+    "Organized and Conducted the JAD sessions for requirement elicitation.",
+    "Elicited demands from the stakeholders and analyzed them for consistency, completeness and flexibility.",
+    "Interacted with SME\u2019s, asking detailed questions and carefully recording the requirements in a format that can be understood and reviewed by both technical and business people.",
+    "Communicated effectively across company contacts and clients including the regulatory and compliance authority, internal team about the project requirements, schedules and launches."
+  ],
+  "certifications": [
+    "Scrum Master Accredited Certification (SMAC) Authorized Certification Id: MASKED_PHONE1",
+    "Google Analytics Certified Professional Reference ID: MASKED_PHONE"
+  ]
+}

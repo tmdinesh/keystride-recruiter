@@ -1,0 +1,5 @@
+ROLE: QA Engineer
+SOURCE: Adzuna
+URL: https://www.adzuna.com/land/ad/5598076241?se=Dv5Xw4sY8RGJZfgUeQyxLw&utm_medium=api&utm_source=e34e223e&v=CC089966374ED3792C6987D16B6AE77C9DD7100B
+
+Job Description We are hiring QA Engineers for a one-year contract to support testing efforts for web-based applications and APIs. This is a fully remote role within the U.S., aligned to Mountain Standard Time hours. The ideal candidates will have hands-on experience with automated testing for APIs and web applications, using tools such as Cypress or similar automation frameworks. Strong unit testing experience is required, along with the ability to work collaboratively with development teams t

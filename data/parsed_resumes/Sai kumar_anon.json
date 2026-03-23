@@ -1,0 +1,36 @@
+{
+  "resume_id": "Sai kumar_anon",
+  "skills": [
+    "python",
+    "java",
+    "javascript",
+    "react",
+    "angular",
+    "html",
+    "css",
+    "sass",
+    "bootstrap",
+    "jquery",
+    "node",
+    "spring",
+    "rest",
+    "soap",
+    "sql",
+    "mysql",
+    "oracle",
+    "cassandra",
+    "aws",
+    "jenkins",
+    "apache",
+    "hadoop",
+    "git",
+    "jira"
+  ],
+  "education": {
+    "degree": "Unknown",
+    "year": "Unknown"
+  },
+  "experience_years": 7,
+  "projects": [],
+  "certifications": []
+}

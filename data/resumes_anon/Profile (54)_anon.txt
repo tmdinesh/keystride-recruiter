@@ -1,0 +1,182 @@
+ 
+ 
+Contact
+www.linkedin.com/in/mrdbourke
+(LinkedIn)
+www.mrdbourke.com (Personal)
+MASKED_NAME (Elementary)
+Mandarin (Elementary)
+Certifications
+Introduction to Data Science with
+Python
+Improving Deep Neural Networks:
+Hyperparameter tuning,
+Regularization and Optimization
+Duolingo Spanish Fluency: Beginner
+(Estimated)
+The Complete Web Developer
+Course
+Convolutional Neural Networks
+Publications
+How I Stop Feeling Depressed
+MASKED_NAME
+I just launched a new beginner-friendly machine learning course
+(dbourke.link/mlcourse), message for more
+MASKED_LOCATION, MASKED_LOCATION
+Summary
+I make YouTube videos and write about the crossroads of
+technology, health, science, philosophy and life. 
+People first, technology second.
+Heavily skewed optimist.
+Curious about everything.
+I love getting hands on with a technical problem. But nothing excites
+me more than communicating it’s benefits to others. From getting
+involved with the nut and bolts of a deep learning network to pitching
+a 48-hour hacked-together MVP at a MASKED_LOCATION. 
+I have no troubles getting up and talking to people about any topic
+I’m interested in. If it excites me, you’ll find me talking (or writing)
+about it.
+I grew up as an overweight teenager. I had a strict schedule. School
+8:00am-3:00m, MASKED_NAME. This kind of dedication led
+to my Xbox team being number 1 in MASKED_LOCATION for Modern Warfare 2.
+We slayed it.
+After high school, I got fit. I sold my Xbox and built a pull-up bar in
+my backyard. 
+I failed my first two years at university due to having a lack of
+meaning (and laziness). 
+When I combined my interest of health and fitness with what I was
+studying, my results left the stratosphere. 
+This is the only way I work now. I use my interests as rocket fuel. 
+ 
+Page 1 of 5
+
+ 
+ 
+I plan to merge my love for health and technology. I’m going to utilize
+the power of artificial intelligence to help people move more and eat
+better. 
+Where's the proof?
+Whether it was maintaining an NPS of 88 as an Apple Genius or
+creating YouTube videos with thousands of views, I love using my
+knowledge to help others. 
+My writing has had over 6 million views online.
+Communicating ideas to others is my strength. 
+Want to know more?
+For updates on work, you can subscribe on my website:
+www.mrdbourke.com. 
+If you’d like to ask me anything at all, send me a message,
+otherwise, my email is MASKED_EMAIL.
+Experience
+mrdbourke Studios
+Founder
+March 2017 - Present (3 years 1 month)
+Brisbane
+Creating YouTube videos and writing articles at the crossover of technology,
+health and art.
+MASKED_NAME
+Machine Learning Engineer
+April 2018 - June 2019 (1 year 3 months)
+MASKED_NAME machines start to understand the world before letting them gather their
+own insights. Kind of teaching your child to ride a bike without training wheels
+for the first time. They grow up so fast.
+ 
+Page 2 of 5
+
+ 
+ 
+With the help of my colleagues, a little TensorFlow, a bit of MASKED_LOCATION, plenty of
+Python and some GPU computing power we build models to help make sense
+of the world.
+Projects include: 
+- Deriving insights from completed law cases using language embeddings 
+- Constructing structured information out of unstructured text
+- Predicting whether a future purchase should occur or not based on historical
+data
+- Using previous purchases to recommend products to returning customers
+- Replicating state of the art neural network architectures from scientific papers
+I also write about what we work on. Links to samples below.
+Code Camp
+Teaching Assistant
+January 2018 - September 2018 (9 months)
+MASKED_LOCATION, MASKED_LOCATION
+Helping young students learning to code.
+Teaching classes of 12 students or more. 
+Utilising block coding and line coding to help students create their own mobile-
+device-based games.
+Uber
+Driver
+July 2017 - April 2018 (10 months)
+MASKED_LOCATION, MASKED_LOCATION
+Moving people. And driving them from A to B of course.
+352 5-star trips with an average of 4.93/5.00 star rating.
+My top three favourite rider comments.
+"Really made my morning trip to uni less horrible."
+"10/10 dude."
+ 
+Page 3 of 5
+
+ 
+ 
+"One of the best drivers I've ever had! Great conversation and would book
+again if I had the choice :)"
+Meeting different people every 10-minutes has opened my eyes to diverse
+world we live in.
+Driving Uber has made me comfortable meeting and talking to anyone about
+anything.
+MoveMore
+Founder
+March 2017 - March 2018 (1 year 1 month)
+MASKED_LOCATION, MASKED_LOCATION
+MoveMore is an MASKED_LOCATION-powered ChatBot designed to help educate and encourage
+people to be more active.
+It is capable of providing workout routines and exercise guides across a vast
+range of goals and movements. 
+Apple
+3 years 5 months
+Genius
+June 2015 - February 2017 (1 year 9 months)
+Vast understanding of macOS, iOS and their respective services.
+Offering the worlds best customer support to the worlds best products. 
+Troubleshooting issues and creating solutions relating to anything Apple. 
+Educating team members on products whilst independently expanding my own
+technical know-how. 
+Delivering over 30 one on one technical reservations on a daily basis. 
+Service Specialist
+October 2013 - June 2015 (1 year 9 months)
+Providing customers with the best experience possible by sharing knowledge
+and skills. 
+ 
+Page 4 of 5
+
+ 
+ 
+Setting the foundations for the relationships of customers with the Apple
+brand. 
+Delivered over 3000 technical support sessions with a 5 minute reservation
+average and customer approval rating of 88%. 
+Decibels Entertainment
+DJ and Professional Entertainer
+August 2013 - February 2014 (7 months)
+Getting people to dance is one thing, keeping them dancing all night was
+another. 
+Entertaining and directing crowds of 10-200 people. 
+Setting up intricate entertainment hardware in multiple different locations. 
+Queensland Building and Construction Commission
+Records Officer
+August 2011 - September 2012 (1 year 2 months)
+Data and records storage specialist.
+Vast understanding MS Office products. 
+Education
+Udacity
+Nanodegree, MASKED_NAME · (2017 - 2018)
+Coursera
+Specialisation, MASKED_NAME · (2017 - 2018)
+Udacity
+Nanodegree, MASKED_NAME · (2017 - 2017)
+Stanford University
+Machine Learning, MASKED_NAME · (2017 - 2017)
+Massachusetts Institute of Technology
+Certificate in New Ventures Leadership, MIT Global Entrepreneurship
+Bootcamp · (2017 - 2017)
+ 
+Page 5 of 5

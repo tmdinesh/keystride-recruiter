@@ -1,0 +1,36 @@
+{
+  "resume_id": "Tarun Resume_anon",
+  "skills": [
+    "r",
+    "html",
+    "css",
+    "jquery",
+    "asp.net",
+    "rest",
+    "soap",
+    "sql",
+    "oracle",
+    "aws",
+    "hadoop",
+    "tableau",
+    "jira",
+    "confluence"
+  ],
+  "education": {
+    "degree": "Bachelor of Engineering in Computer Science from Osmania University, MASKED_LOCATION",
+    "year": "Unknown"
+  },
+  "experience_years": 7,
+  "projects": [
+    "The Application keeps track of portfolio weightage in comparison with the client\u2019s risk appetite and investment preferences. The Project was implemented in SAFE 4.0 environment.",
+    "Conducted user interviews, facilitated JAD sessions",
+    "Helped to prioritize user stories using MoSCoW and Planning Poker techniques",
+    "Acted as an agile coach in Introducing Scrum, SAFE to multiple team members",
+    "Prepared Clientside validation and Server side validation in SRD and provided to lead developers"
+  ],
+  "certifications": [
+    "BUSINESS SYSTEMS ANALYST /Certified \u2018SCRUM MASTER\u2019 & \u2018PO\u2019",
+    "An accomplished consultant with MASKED_ADDRESS and Scrum Master with experience working in the Finance, Banking, Healthcare, and E-commerce companies",
+    "Business Systems Analyst/Scrum Master"
+  ]
+}

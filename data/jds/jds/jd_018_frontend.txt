@@ -1,0 +1,32 @@
+ROLE: Product Engineer
+SOURCE: RemoteOK
+URL: https://remoteOK.com/remote-jobs/remote-product-engineer-fronted-as-1130554
+
+Were looking for a frontend-focused engineer whos excited to help Hemi build tools that support patients and therapists, cares about making a real difference, and enjoys working closely with a small, hands-on team.
+Hemi is building a digital platform that supports patients and therapists between clinical sessions. The company is especially excited about the opportunities AI unlocks to enhance both sides of the experience  from an AI pain coach that helps patients stay engaged, supported, and motivated between appointments, to a clinical copilot that helps therapists work more efficiently and make better-informed decisions with richer insights and smarter workflows.
+Relevant experiences:
+Strong experience with React Native and TypeScript
+Solid frontend fundamentals and care for UX quality
+Product-minded approach and curiosity about users and clear and kind communication style
+Comfortable using English in daily work communication
+High integrity, ownership, and accountability and experience working in startups or scale-ups
+Nice to have:
+Familiarity with Kubernetes or cloud infrastructure
+Experience in regulated or data-sensitive environments
+Experience building multi-sided platforms
+Familiarity with the company's stack: VS Code, Opencode AI, GitHub & GitHub Actions, Linear, Figma, Slack, Google Workspace, Sentry, Metabase and Mixpanel
+Accountabilities:
+Build and improve patient-facing and clinician-facing product features. We're looking for a Product Engineer with a strong frontend focus who enjoys building products end to end.
+Own frontend implementation of key user journeys. 
+This is a role with a lot of trust and autonomy, paired with clear ownership and responsibility.
+You will work closely with UX and product in a small, caring team that values good communication, integrity, and thoughtful decision-making.
+Take responsibility for the quality of what you ship. You care as much about what you build and why as how you build it.
+Translate complex workflows into clear, maintainable code
+Contribute to backend or API work when needed
+Help evolve the product as Hemi grows
+Why You'll Love Working With Us:
+ Remote across Europe - Enjoy the flexibility of working from anywhere in Europe. We trust you to do your best work, wherever you are.
+High trust and autonomy - We give you clear ownership and the freedom to make impactful decisions. Your expertise will directly shape our product.
+ Meaningful work - Build a product with a clear, positive impact, supporting mental wellness for patients and therapists alike.
+ A caring team - Join a small team that prioritizes integrity, thoughtful communication, and mutual support in everything we do. Team gathering off-site 2-3 times a year.
+ Learn and expand - Gain experience across frontend, backend, and product thinking in a growing startup.

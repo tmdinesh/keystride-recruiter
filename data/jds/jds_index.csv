@@ -1,0 +1,87 @@
+jd_id,title,role_category,source,url,char_count,file
+jd_001,Growth Customer Success Lead,frontend,RemoteOK,https://remoteOK.com/remote-jobs/remote-growth-customer-success-lead-embrace-1130632,1791,jd_001_frontend.txt
+jd_002,Software Engineer,frontend,RemoteOK,https://remoteOK.com/remote-jobs/remote-software-engineer-pomelo-care-1130627,2848,jd_002_frontend.txt
+jd_003,Senior Cloud Engineer,devops,RemoteOK,https://remoteOK.com/remote-jobs/remote-senior-cloud-engineer-kunai-1130626,1032,jd_003_devops.txt
+jd_004,Cloud Architect,devops,RemoteOK,https://remoteOK.com/remote-jobs/remote-cloud-architect-accenture-federal-services-1130620,3459,jd_004_devops.txt
+jd_005,AI Data Specialist Chinese Simplified,ml,RemoteOK,https://remoteOK.com/remote-jobs/remote-ai-data-specialist-chinese-simplified-rws-trainai-1130618,2555,jd_005_ml.txt
+jd_006,AI Data Specialist Polish,ml,RemoteOK,https://remoteOK.com/remote-jobs/remote-ai-data-specialist-polish-rws-trainai-1130617,2552,jd_006_ml.txt
+jd_007,Senior Frontend Engineer,frontend,RemoteOK,https://remoteOK.com/remote-jobs/remote-senior-frontend-engineer-level-1130614,3768,jd_007_frontend.txt
+jd_008,Technical Support Engineer EMEA,devops,RemoteOK,https://remoteOK.com/remote-jobs/remote-technical-support-engineer-emea-chainguard-1130613,1704,jd_008_devops.txt
+jd_009,Senior Engineering Manager Data Pipeline,qa,RemoteOK,https://remoteOK.com/remote-jobs/remote-senior-engineering-manager-data-pipeline-bloomreach-1130612,2289,jd_009_qa.txt
+jd_010,Senior Data Engineer,ml,RemoteOK,https://remoteOK.com/remote-jobs/remote-senior-data-engineer-federato-1130607,1736,jd_010_ml.txt
+jd_011,Engineering Manager,devops,RemoteOK,https://remoteOK.com/remote-jobs/remote-engineering-manager-energyhub-1130596,2358,jd_011_devops.txt
+jd_012,Senior Game Designer,ml,RemoteOK,https://remoteOK.com/remote-jobs/remote-senior-game-designer-mob-entertainment-1130576,1968,jd_012_ml.txt
+jd_013,AI Engineer I,ml,RemoteOK,https://remoteOK.com/remote-jobs/remote-ai-engineer-i-sezzle-1130573,1895,jd_013_ml.txt
+jd_014,Senior Backend Engineer Grafana k6 UK,backend,RemoteOK,https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-grafana-k6-uk-1130569,1364,jd_014_backend.txt
+jd_015,Middle Project Manager Internal Systems and Processes,devops,RemoteOK,https://remoteOK.com/remote-jobs/remote-middle-project-manager-internal-systems-and-processes-infuse-1130567,1544,jd_015_devops.txt
+jd_016,Early Career Software Engineer Warfighter Systems,backend,RemoteOK,https://remoteOK.com/remote-jobs/remote-early-career-software-engineer-warfighter-systems-anduril-industries-1130565,2863,jd_016_backend.txt
+jd_017,Senior Software Engineer Prime,frontend,RemoteOK,https://remoteOK.com/remote-jobs/remote-senior-software-engineer-prime-alpaca-1130563,2810,jd_017_frontend.txt
+jd_018,Product Engineer,frontend,RemoteOK,https://remoteOK.com/remote-jobs/remote-product-engineer-fronted-as-1130554,2821,jd_018_frontend.txt
+jd_019,Senior Database Reliability Engineer,data,RemoteOK,https://remoteOK.com/remote-jobs/remote-senior-database-reliability-engineer-okta-inc-1130537,960,jd_019_data.txt
+jd_020,Senior Fullstack Developer,backend,RemoteOK,https://remoteOK.com/remote-jobs/remote-senior-fullstack-developer-kodify-media-group-1130526,4194,jd_020_backend.txt
+jd_021,Subtitle Localization Specialist,qa,RemoteOK,https://remoteOK.com/remote-jobs/remote-subtitle-localization-specialist-tsmg-1130524,1443,jd_021_qa.txt
+jd_022,Senior Backend Engineer Content,backend,RemoteOK,https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-content-onx-1130517,1563,jd_022_backend.txt
+jd_023,Software Engineer UI,backend,RemoteOK,https://remoteOK.com/remote-jobs/remote-software-engineer-ui-brave-1130515,3420,jd_023_backend.txt
+jd_024,PointClickCare Associate Data Scientist,data,RemoteOK,https://remoteOK.com/remote-jobs/remote-pointclickcare-associate-data-scientist-pointclickcare-1130500,983,jd_024_data.txt
+jd_025,Dentist,qa,RemoteOK,https://remoteOK.com/remote-jobs/remote-dentist-akicita-federal-llc-1130499,1758,jd_025_qa.txt
+jd_026,Data Analyst II,data,RemoteOK,https://remoteOK.com/remote-jobs/remote-data-analyst-ii-computercare-1130490,4773,jd_026_data.txt
+jd_027,Senior Software Engineer eCommerce (Magento 2) (m/w/d) - Vollzeit | Remote (DE) oder Hybrid (Berlin/Xanten),frontend,Arbeitnow,https://www.arbeitnow.com/jobs/companies/mb-outdoor-gmbh/senior-software-engineer-ecommerce-magento-2-vollzeit-remote-de-oder-hybrid-berlin-xanten-166921,4031,jd_027_frontend.txt
+jd_028,Microsoft 365 Supporter (m/w/d) - Frankfurt a.M.,devops,Arbeitnow,https://www.arbeitnow.com/jobs/companies/evoila-frankfurt-gmbh-ehem-copitos-gmbh-part-of-evoila/microsoft-365-supporter-frankfurt-am-frankfurt-am-main-485406,2310,jd_028_devops.txt
+jd_029,Microsoft 365 Consultant (m/w/d),devops,Arbeitnow,https://www.arbeitnow.com/jobs/companies/evoila-frankfurt-gmbh-ehem-copitos-gmbh-part-of-evoila/microsoft-365-consultant-frankfurt-am-main-40404,2409,jd_029_devops.txt
+jd_030,(Senior) Data Analyst - Sales (f/m/x),data,Arbeitnow,https://www.arbeitnow.com/jobs/companies/exmox-gmbh/senior-data-analyst-sales-hamburg-339332,5305,jd_030_data.txt
+jd_031,Head of Data Analytics (m/f/x),data,Arbeitnow,https://www.arbeitnow.com/jobs/companies/exmox-gmbh/head-of-data-analytics-hamburg-405796,5556,jd_031_data.txt
+jd_032,Werkstudent C# Entwicklung (m/w/d),data,Arbeitnow,https://www.arbeitnow.com/jobs/companies/leanio-gmbh/werkstudent-c-entwicklung-passau-367849,1662,jd_032_data.txt
+jd_033,"SW-Developer (m/w/x) - JAVA, C++",backend,Arbeitnow,https://www.arbeitnow.com/jobs/companies/k-tronik-gmbh/sw-developer-java-c-stuttgart-393479,1907,jd_033_backend.txt
+jd_034,Werkstudent:in Webflow Frontend Development,frontend,Arbeitnow,https://www.arbeitnow.com/jobs/companies/v-lab-one-gmbh-co-kg/werkstudentin-webflow-frontend-development-berlin-361075,2522,jd_034_frontend.txt
+jd_035,Entwickler:in Backend (m/w/d) in Köln oder Umgebung,backend,Arbeitnow,https://www.arbeitnow.com/jobs/companies/diepartments/entwicklerin-backend-in-koln-oder-umgebung-cologne-179799,2345,jd_035_backend.txt
+jd_036,Head of Engineering,backend,Arbeitnow,https://www.arbeitnow.com/jobs/companies/glsnxt/head-of-engineering-berlin-216960,5987,jd_036_backend.txt
+jd_037,Digital Solutions Manager (m/w/d),data,Arbeitnow,https://www.arbeitnow.com/jobs/companies/pcs-polymercycle-solutions-gmbh/digital-solutions-manager-munich-327625,3947,jd_037_data.txt
+jd_038,Senior Java Developer / Java Architekt (m/w/d),frontend,Arbeitnow,https://www.arbeitnow.com/jobs/companies/collaboration-betters-the-world-gmbh/senior-java-developer-java-architekt-frankfurt-am-main-265446,4572,jd_038_frontend.txt
+jd_039,Software Consultant / Anwendungsberater / Prozessberater (m/w/d),frontend,Arbeitnow,https://www.arbeitnow.com/jobs/companies/gecko-mbh/software-consultant-anwendungsberater-prozessberater-rostock-100858,4131,jd_039_frontend.txt
+jd_040,Application Manager für Hochschul-Software (m/w/d),frontend,Arbeitnow,https://www.arbeitnow.com/jobs/companies/gecko-mbh/application-manager-fur-hochschul-software-rostock-192888,4272,jd_040_frontend.txt
+jd_041,Security Engineer (m/w/d),devops,Arbeitnow,https://www.arbeitnow.com/jobs/companies/think-about-it-gmbh/security-engineer-bochum-44238,2453,jd_041_devops.txt
+jd_042,Anwendungsbetreuer für Hochschul-Software (m/w/d),backend,Arbeitnow,https://www.arbeitnow.com/jobs/companies/gecko-mbh/anwendungsbetreuer-fur-hochschul-software-rostock-100895,4250,jd_042_backend.txt
+jd_043,KI & ML Engineer (m/w/d) im Kölner Startup,backend,Arbeitnow,https://www.arbeitnow.com/jobs/companies/greenpocket-gmbh/ki-ml-engineer-im-kolner-startup-cologne-272909,3913,jd_043_backend.txt
+jd_044,Cloud & DevOps Engineer (m/w/d),devops,Arbeitnow,https://www.arbeitnow.com/jobs/companies/ares-consulting-gmbh/cloud-devops-engineer-munich-450170,4390,jd_044_devops.txt
+jd_045,Senior IT-Projektmanager (m/w/d),devops,Arbeitnow,https://www.arbeitnow.com/jobs/companies/ares-consulting-gmbh/senior-it-projektmanager-munich-285282,4524,jd_045_devops.txt
+jd_046,Staff Full-Stack Engineer (all genders),qa,Arbeitnow,https://www.arbeitnow.com/jobs/companies/kaufland-e-commerce/staff-full-stack-engineer-all-genders-cologne-343142,6294,jd_046_qa.txt
+jd_047,Fullstack Engineer - Billing & Subscription,data,Arbeitnow,https://www.arbeitnow.com/jobs/companies/sumup/fullstack-engineer-billing-subscription-berlin-87295,5880,jd_047_data.txt
+jd_048,Regional CRM Lead,qa,Arbeitnow,https://www.arbeitnow.com/jobs/companies/wolt-english/regional-crm-lead-berlin-150033,6244,jd_048_qa.txt
+jd_049,Senior Data-Engineer in Berlin Homeoffice-Anteil bei 80 % 70.000 - 80.000,ml,Arbeitnow,https://www.arbeitnow.com/jobs/companies/wabcon/senior-data-engineer-in-berlin-homeoffice-anteil-bei-80-70000-80000-75578,2239,jd_049_ml.txt
+jd_050,Machine Learning Engineer - Automotive Unit,ml,Arbeitnow,https://www.arbeitnow.com/jobs/companies/simi-reality-motion-systems-gmbh/machine-learning-engineer-automotive-unit-unterschleissheim-24530,2865,jd_050_ml.txt
+jd_051,Embedded Software Engineer C/C++ - Automotive Unit,ml,Arbeitnow,https://www.arbeitnow.com/jobs/companies/simi-reality-motion-systems-gmbh/embedded-software-engineer-c-c-automotive-unit-unterschleissheim-224387,2435,jd_051_ml.txt
+jd_052,Project Manager - Automotive Unit,ml,Arbeitnow,https://www.arbeitnow.com/jobs/companies/simi-reality-motion-systems-gmbh/project-manager-automotive-unit-unterschleissheim-428092,3921,jd_052_ml.txt
+jd_053,Software Tester in Banking und Payments,qa,Arbeitnow,https://www.arbeitnow.com/jobs/companies/ccrm-it-dienstleistungen-gmbh/software-tester-in-banking-und-payments-leipzig-11407,1788,jd_053_qa.txt
+jd_054,Werkstudent:in - Business Development,ml,Arbeitnow,https://www.arbeitnow.com/jobs/companies/acemateai/werkstudentin-business-development-berlin-280932,3524,jd_054_ml.txt
+jd_055,Dynatrace Monitoring Specialist (m/w/d),qa,Arbeitnow,https://www.arbeitnow.com/jobs/companies/flexit-consulting-gmbh/dynatrace-monitoring-specialist-dusseldorf-232013,3212,jd_055_qa.txt
+jd_056,Backend Developer (Billing Team),qa,Arbeitnow,https://www.arbeitnow.com/jobs/companies/tripleten/remote-backend-developer-billing-team-berlin-185691,2610,jd_056_qa.txt
+jd_057,Frontend Developer,frontend,Adzuna,https://www.adzuna.com/land/ad/5593994418?se=PMQUpIsY8RG5rcA4CVuJpQ&utm_medium=api&utm_source=e34e223e&v=2C02D75A7CF27CC4BB560DD52075D24C4C6C8C43,498,jd_057_frontend.txt
+jd_058,Frontend Developer,frontend,Adzuna,https://www.adzuna.com/land/ad/5630359700?se=PMQUpIsY8RG5rcA4CVuJpQ&utm_medium=api&utm_source=e34e223e&v=80C55F320E6A50E8B3C001B1C9B87555E70D887C,499,jd_058_frontend.txt
+jd_059,Senior Frontend Developer with Security Clearance,frontend,Adzuna,https://www.adzuna.com/land/ad/5640435027?se=PMQUpIsY8RG5rcA4CVuJpQ&utm_medium=api&utm_source=e34e223e&v=B633F093D054C88004FB644E212DB8946CAEF3C5,499,jd_059_frontend.txt
+jd_060,Senior Frontend Developer with Security Clearance,frontend,Adzuna,https://www.adzuna.com/land/ad/5647364637?se=PMQUpIsY8RG5rcA4CVuJpQ&utm_medium=api&utm_source=e34e223e&v=DF91B2196A6D5EF33E5C4C725AA797C5C6CF6369,499,jd_060_frontend.txt
+jd_061,Drupal Designer/Frontend Developer 100% Remote,frontend,Adzuna,https://www.adzuna.com/land/ad/5643254779?se=PMQUpIsY8RG5rcA4CVuJpQ&utm_medium=api&utm_source=e34e223e&v=F0BB7A00448D9E9993786D9278E7A97F8FD3042B,499,jd_061_frontend.txt
+jd_062,Backend Developer,backend,Adzuna,https://www.adzuna.com/land/ad/5653352253?se=Ml8SrIsY8RGJZfgUeQyxLw&utm_medium=api&utm_source=e34e223e&v=61A8C5D736A0DE50EA511A68ADF7D2EA56939894,499,jd_062_backend.txt
+jd_063,Backend Developer,backend,Adzuna,https://www.adzuna.com/land/ad/5653260125?se=Ml8SrIsY8RGJZfgUeQyxLw&utm_medium=api&utm_source=e34e223e&v=B18158F5E27B1D62DEAA248DA41BE8101C110DFE,499,jd_063_backend.txt
+jd_064,Java Backend Developer,backend,Adzuna,https://www.adzuna.com/land/ad/5629126066?se=Ml8SrIsY8RGJZfgUeQyxLw&utm_medium=api&utm_source=e34e223e&v=85B2332EF75B7738C5061AA41C5CBE7EE75E8E27,499,jd_064_backend.txt
+jd_065,Backend Developer,backend,Adzuna,https://www.adzuna.com/land/ad/5643224948?se=Ml8SrIsY8RGJZfgUeQyxLw&utm_medium=api&utm_source=e34e223e&v=DBFEB8AB3F2B2B87D1653DAC6B5456B4C122853F,498,jd_065_backend.txt
+jd_066,Backend Developer with Security Clearance,backend,Adzuna,https://www.adzuna.com/land/ad/5553151713?se=Ml8SrIsY8RGJZfgUeQyxLw&utm_medium=api&utm_source=e34e223e&v=00365A0C2DA6035FBC778E6CB816DD6FAB27E020,499,jd_066_backend.txt
+jd_067,Data Analyst III,data,Adzuna,https://www.adzuna.com/land/ad/5653775466?se=ii3Qs4sY8RGJZfgUeQyxLw&utm_medium=api&utm_source=e34e223e&v=171297224A54B51153CE8E7193EE4B8B2832B511,498,jd_067_data.txt
+jd_068,Material Master Data Analyst,data,Adzuna,https://www.adzuna.com/land/ad/5650075090?se=ii3Qs4sY8RGJZfgUeQyxLw&utm_medium=api&utm_source=e34e223e&v=FBCF18B5BE053C81BBBB9374EEE10D63BC81C1DA,499,jd_068_data.txt
+jd_069,Data Analyst,data,Adzuna,https://www.adzuna.com/land/ad/5644311277?se=ii3Qs4sY8RGJZfgUeQyxLw&utm_medium=api&utm_source=e34e223e&v=860A7722574B712E9D5F63179E46C7AD9D3828E3,498,jd_069_data.txt
+jd_070,Data Analyst,data,Adzuna,https://www.adzuna.com/land/ad/5643781940?se=ii3Qs4sY8RGJZfgUeQyxLw&utm_medium=api&utm_source=e34e223e&v=7334BF2F5F068AD9C2ED392C38FD3A7E669BFE0C,498,jd_070_data.txt
+jd_071,Data Analyst,data,Adzuna,https://www.adzuna.com/land/ad/5643225150?se=ii3Qs4sY8RGJZfgUeQyxLw&utm_medium=api&utm_source=e34e223e&v=D565E5DB0B0B978B8F235D69E01C869B32AFDABF,342,jd_071_data.txt
+jd_072,Machine Learning Engineer,ml,Adzuna,https://www.adzuna.com/land/ad/5643257693?se=8ouiu4sY8RGJZfgUeQyxLw&utm_medium=api&utm_source=e34e223e&v=C6A050F99DAEB88B53B3BA03B13749E2DE2863D3,499,jd_072_ml.txt
+jd_073,Senior Machine Learning Engineer,ml,Adzuna,https://www.adzuna.com/land/ad/5582286503?se=8ouiu4sY8RGJZfgUeQyxLw&utm_medium=api&utm_source=e34e223e&v=9A9F8565370E80B64E948A047E11A7A08C96ADFE,498,jd_073_ml.txt
+jd_074,Senior Machine Learning Engineer,ml,Adzuna,https://www.adzuna.com/land/ad/5582286479?se=8ouiu4sY8RGJZfgUeQyxLw&utm_medium=api&utm_source=e34e223e&v=49BC1FBA2FBC1C218573661965855DFDC1C6BEDF,498,jd_074_ml.txt
+jd_075,Senior Machine Learning Engineer,ml,Adzuna,https://www.adzuna.com/land/ad/5582286690?se=8ouiu4sY8RGJZfgUeQyxLw&utm_medium=api&utm_source=e34e223e&v=38B30049C281F0087B20E28AE8728E3B9E98C5B8,498,jd_075_ml.txt
+jd_076,Senior Machine Learning Engineer,ml,Adzuna,https://www.adzuna.com/land/ad/5582286691?se=8ouiu4sY8RGJZfgUeQyxLw&utm_medium=api&utm_source=e34e223e&v=3281D9103305C779E1DD0A8F9BA5F4C96ABD4CD0,498,jd_076_ml.txt
+jd_077,Lead QA Engineer,qa,Adzuna,https://www.adzuna.com/land/ad/5637959891?se=Dv5Xw4sY8RGJZfgUeQyxLw&utm_medium=api&utm_source=e34e223e&v=399B2B54D547C79C0F8662E6277567ECAEC8CA06,499,jd_077_qa.txt
+jd_078,Senior QA Engineer,qa,Adzuna,https://www.adzuna.com/land/ad/5637959902?se=Dv5Xw4sY8RGJZfgUeQyxLw&utm_medium=api&utm_source=e34e223e&v=7AF234647A9560A68EB80EAF63F749E64A1D0185,496,jd_078_qa.txt
+jd_079,QA Engineer,qa,Adzuna,https://www.adzuna.com/land/ad/5633882772?se=Dv5Xw4sY8RGJZfgUeQyxLw&utm_medium=api&utm_source=e34e223e&v=AADDF8E30DA92EC5E14C60C1CCF4C5D9257DD1CD,499,jd_079_qa.txt
+jd_080,QA Engineer,qa,Adzuna,https://www.adzuna.com/land/ad/4864289515?se=Dv5Xw4sY8RGJZfgUeQyxLw&utm_medium=api&utm_source=e34e223e&v=1A9E62378E4DAD5EDA6920D06BDC686024CE331F,498,jd_080_qa.txt
+jd_081,QA Engineer,qa,Adzuna,https://www.adzuna.com/land/ad/5598076241?se=Dv5Xw4sY8RGJZfgUeQyxLw&utm_medium=api&utm_source=e34e223e&v=CC089966374ED3792C6987D16B6AE77C9DD7100B,499,jd_081_qa.txt
+jd_082,DevOps Engineer,devops,Adzuna,https://www.adzuna.com/land/ad/5597179447?se=grQ5y4sY8RGbM9_FMNqlUA&utm_medium=api&utm_source=e34e223e&v=C686108BDB65E94A26EB0BC49F54388345190F0A,498,jd_082_devops.txt
+jd_083,DevOps Engineer,devops,Adzuna,https://www.adzuna.com/land/ad/5584105038?se=grQ5y4sY8RGbM9_FMNqlUA&utm_medium=api&utm_source=e34e223e&v=D13E1367C2CE520A0D9E540010ACDD943D3D4367,497,jd_083_devops.txt
+jd_084,DevOps Engineer,devops,Adzuna,https://www.adzuna.com/land/ad/5632077464?se=grQ5y4sY8RGbM9_FMNqlUA&utm_medium=api&utm_source=e34e223e&v=539F1DE4F518BF425A1F68A9690C3D17FDCB1618,499,jd_084_devops.txt
+jd_085,DevOps Engineer,devops,Adzuna,https://www.adzuna.com/land/ad/5631751124?se=grQ5y4sY8RGbM9_FMNqlUA&utm_medium=api&utm_source=e34e223e&v=E51131E9F3EDCFD4F11FF2AA3CC3A9A9517F5FF6,499,jd_085_devops.txt
+jd_086,DevOps Engineer,devops,Adzuna,https://www.adzuna.com/land/ad/5651493299?se=grQ5y4sY8RGbM9_FMNqlUA&utm_medium=api&utm_source=e34e223e&v=A9F7E688BE890729870A92FAD8419139E11E29D6,499,jd_086_devops.txt
