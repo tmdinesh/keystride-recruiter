@@ -170,7 +170,7 @@ for pid, rf, jf, label in final_data:
     # For Match Type, check if resume role matches JD role
     # Since we don't have perfect resume roles, we'll just put something plausible
     match_type = "same_role" if label in ["strong_fit", "medium_fit"] else "cross_role"
-    ws.append([pid, rf, jf, jd_role, match_type, label, "Gemini CLI", "Heuristic Match"])
+    ws.append([pid, rf, jf, jd_role, match_type, label, "Ollama CLI", "Heuristic Match"])
 
 wb.save('ground_truth_labels_final_100.xlsx')
 print("Successfully created ground_truth_labels_final_100.xlsx")

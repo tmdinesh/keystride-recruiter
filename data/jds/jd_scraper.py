@@ -28,7 +28,7 @@ import os
 import re
 import time
 import json
-import google.generativeai as genai
+import requests
 
 BASE_DIR   = os.path.dirname(os.path.abspath(__file__))
 JDS_DIR    = os.path.join(BASE_DIR, "jds")
@@ -196,14 +196,23 @@ def format_jd(meta, data):
     return "\n".join(lines)
 
 
-def generate_jd(model, role, stack, experience, company):
-    """Call Gemini API to generate one JD."""
+def generate_jd(role, stack, experience, company):
+    """Call Ollama API to generate one JD."""
     prompt = JD_PROMPT.format(
         role=role, stack=stack,
         experience=experience, company=company
     )
-    response = model.generate_content(prompt)
-    raw = response.text.strip()
+    
+    response = requests.post("http://localhost:11434/api/generate", json={
+        "model": "resume_scanner",
+        "prompt": prompt,
+        "format": "json",
+        "stream": False
+    }, timeout=120)
+    
+    response.raise_for_status()
+    raw = response.json().get('response', '{}').strip()
+    
     # Strip markdown fences if present
     raw = re.sub(r'^```json\s*', '', raw)
     raw = re.sub(r'^```\s*',     '', raw)
@@ -212,16 +221,6 @@ def generate_jd(model, role, stack, experience, company):
 
 
 def run():
-    api_key = "AIzaSyCE1Da0jcuKwXSoD5yl_8q_C4t9u7drfTE"
-    if not api_key:
-        print("❌ GEMINI_API_KEY not set.")
-        print("   Windows:   set GEMINI_API_KEY=your_key")
-        print("   Mac/Linux: export GEMINI_API_KEY=your_key")
-        return
-
-    genai.configure(api_key=api_key)
-    model = genai.GenerativeModel("gemini-2.5-flash")  # fast + cheap for bulk generation
-
     # Get all existing JD files
     jd_files = sorted([
         f for f in os.listdir(JDS_DIR)
@@ -275,7 +274,7 @@ def run():
         print(f"  [{i:02d}/{len(assignments)}] Generating: {meta['role']} @ {meta['company']}")
 
         try:
-            data       = generate_jd(model, meta["role"], meta["stack"],
+            data       = generate_jd(meta["role"], meta["stack"],
                                      meta["experience"], meta["company"])
             jd_text    = format_jd(meta, data)
 

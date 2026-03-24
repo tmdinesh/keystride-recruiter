@@ -42,7 +42,7 @@ else:
         pair_id = ws.cell(row=row, column=pair_id_col).value
         if pair_id in labels_data:
             ws.cell(row=row, column=fit_label_col).value = labels_data[pair_id]
-            ws.cell(row=row, column=labeled_by_col).value = "Gemini CLI"
+            ws.cell(row=row, column=labeled_by_col).value = "Ollama CLI"
 
     wb.save('ground_truth_labels_filled.xlsx')
     print("Successfully updated ground_truth_labels_filled.xlsx")
