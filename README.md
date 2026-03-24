@@ -1,10 +1,10 @@
-# AI Resume Scanner & HR Platform 🚀
+# AI Resume Scanner & HR Platform
 
 A comprehensive, full-stack AI-driven recruitment platform designed to intelligently parse, match, and evaluate candidate resumes against Job Descriptions using Natural Language Processing and local offline Generative AI.
 
 ![V2 Dashboard View](./frontend/public/dashboard_preview.png)
 
-## 🌟 Key Features
+## Key Features
 - **Automated Resume & JD Parsing**: Instantly extracts years of experience, core skills, and education from `.txt`, `.pdf`, and `.docx` files.
 - **Dual Matching Engine**: 
   - *Heuristic NLP*: Uses Spacy to cross-reference extracted candidate skills against JD requirements.
@@ -14,7 +14,7 @@ A comprehensive, full-stack AI-driven recruitment platform designed to intellige
 - **API First**: Powered by a lightning-fast FastAPI backend natively structured for microservice scalability.
 - **Fully Dockerized**: 1-click containerized deployment for both backend models and frontend interface.
 
-## 🏗️ Architecture Stack
+## Architecture Stack
 - **Frontend**: React 18, Vite, Tailwind CSS, Recharts, Lucide React, Axios.
 - **Backend**: Python 3.10, FastAPI, Uvicorn, Pydantic.
 - **AI & NLP Processing**: 
@@ -25,7 +25,7 @@ A comprehensive, full-stack AI-driven recruitment platform designed to intellige
 
 ---
 
-## 🚀 Quickstart & Installation
+## Quickstart & Installation
 
 ### 1. Prerequisites
 - [Docker](https://www.docker.com/) & Docker Compose installed.
@@ -49,7 +49,7 @@ docker-compose up --build
 
 ---
 
-## 🧠 How the AI Works under the hood
+## How the AI Works under the hood
 1. Documents are uploaded via the React frontend and transmitted as Multipart forms to FastAPI.
 2. PyPDF2 reads the binary buffers.
 3. Spacy extracts customized tokens mapped to a vast tech-industry vocabulary.
@@ -57,7 +57,7 @@ docker-compose up --build
 5. The processed dictionary is serialized to JSON and POSTed to your local `http://localhost:11434/api/generate` (Ollama) wrapping a strict prompt payload.
 6. The AI returns the final `strengths`, `gaps`, and `interview_questions`.
 
-## 📁 Project Structure
+## Project Structure
 ```text
 ├── backend/
 │   ├── app.py                 # FastAPI routing and global in-memory state
