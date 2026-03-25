@@ -74,6 +74,11 @@ export const apiService = {
     return res.data;
   },
 
+  rejectCandidate: async (id: string): Promise<{ success: boolean }> => {
+    const res = await api.post(`/candidates/${id}/reject`);
+    return res.data;
+  },
+
   getShortlisted: async (): Promise<Candidate[]> => {
     const res = await api.get('/shortlist');
     return res.data;
@@ -86,9 +91,21 @@ export const apiService = {
   },
 
   exportReport: async (type: string, format: 'pdf' | 'excel'): Promise<Blob> => {
-    // Keep mock blob for now
-    await new Promise(resolve => setTimeout(resolve, 500));
-    return new Blob(['Mock report content'], { type: format === 'pdf' ? 'application/pdf' : 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet' });
+    const res = await api.get(`/export?type=${type}&format=${format}`, {
+      responseType: 'blob'
+    });
+    return res.data;
+  },
+
+  // Settings
+  getSettings: async (): Promise<any> => {
+    const res = await api.get('/settings');
+    return res.data;
+  },
+
+  updateSettings: async (settings: any): Promise<{ success: boolean }> => {
+    const res = await api.post('/settings', settings);
+    return res.data;
   },
 
   // Metrics

@@ -7,3 +7,6 @@ PyPDF2
 sentence-transformers
 scikit-learn
 requests
+reportlab
+pandas
+openpyxl

@@ -1,7 +1,7 @@
 import { useEffect, useState } from 'react';
 import { useNavigate } from 'react-router-dom';
-import { Search, Eye, ArrowUpDown, ArrowUp, ArrowDown } from 'lucide-react';
-import { Card, CardContent, CardHeader, CardTitle } from '../components/ui/card';
+import { Search, Eye, ArrowUpDown, ArrowUp, ArrowDown, Check, X } from 'lucide-react';
+import { Card, CardContent } from '../components/ui/card';
 import { Input } from '../components/ui/input';
 import { Button } from '../components/ui/button';
 import { Badge } from '../components/ui/badge';
@@ -9,6 +9,7 @@ import { Progress } from '../components/ui/progress';
 import { apiService } from '../services/api';
 import type { Candidate } from '../types';
 import { cn } from '../utils/cn';
+import { Toast } from '../components/ui/toast';
 
 type FilterType = 'All' | 'Strong' | 'Medium' | 'Weak' | 'Reject';
 type SortType = 'score' | 'experience' | 'name';
@@ -68,6 +69,7 @@ export const Candidates = () => {
   const [sortBy, setSortBy] = useState<SortType>('score');
   const [sortOrder, setSortOrder] = useState<SortOrder>('desc');
   const [loading, setLoading] = useState(true);
+  const [toast, setToast] = useState<{ message: string; type: 'success' | 'error' | 'info' } | null>(null);
   const navigate = useNavigate();
 
   useEffect(() => {
@@ -138,6 +140,38 @@ export const Candidates = () => {
       )}
     </button>
   );
+
+  const handleShortlist = async (e: React.MouseEvent, id: string, currentlyShortlisted: boolean) => {
+    e.stopPropagation();
+    try {
+      if (currentlyShortlisted) {
+        await apiService.removeFromShortlist(id);
+      } else {
+        await apiService.addToShortlist(id);
+      }
+      // Refresh candidates list
+      const data = await apiService.getCandidates();
+      setCandidates(data);
+      setToast({ message: currentlyShortlisted ? 'Removed from shortlist' : 'Added to shortlist', type: 'success' });
+    } catch (error) {
+      console.error('Failed to toggle shortlist:', error);
+      setToast({ message: 'Failed to update shortlist', type: 'error' });
+    }
+  };
+
+  const handleReject = async (e: React.MouseEvent, id: string) => {
+    e.stopPropagation();
+    try {
+      await apiService.rejectCandidate(id);
+      // Refresh candidates list
+      const data = await apiService.getCandidates();
+      setCandidates(data);
+      setToast({ message: 'Candidate marked as Reject', type: 'info' });
+    } catch (error) {
+      console.error('Failed to reject candidate:', error);
+      setToast({ message: 'Failed to reject candidate', type: 'error' });
+    }
+  };
 
   return (
     <div className="space-y-5 animate-in fade-in slide-up">
@@ -305,6 +339,24 @@ export const Candidates = () => {
                           <Eye className="h-3.5 w-3.5 mr-1" />
                           View
                         </Button>
+                        <Button
+                          variant={candidate.shortlisted ? "default" : "outline"}
+                          size="sm"
+                          onClick={(e) => handleShortlist(e, candidate.id, candidate.shortlisted)}
+                          className={cn("ml-2 transition-opacity", !candidate.shortlisted && "opacity-0 group-hover:opacity-100")}
+                        >
+                          <Check className="h-3.5 w-3.5 mr-1" />
+                          {candidate.shortlisted ? 'Shortlisted' : 'Shortlist'}
+                        </Button>
+                        <Button
+                          variant="outline"
+                          size="sm"
+                          onClick={(e) => handleReject(e, candidate.id)}
+                          className="ml-2 opacity-0 group-hover:opacity-100 transition-opacity text-red-600 hover:text-red-700 hover:bg-red-50"
+                        >
+                          <X className="h-3.5 w-3.5 mr-1" />
+                          Reject
+                        </Button>
                       </td>
                     </tr>
                   ))
@@ -314,6 +366,7 @@ export const Candidates = () => {
           </div>
         </CardContent>
       </Card>
+      {toast && <Toast message={toast.message} type={toast.type} onClose={() => setToast(null)} />}
     </div>
   );
 };

@@ -4,6 +4,11 @@ import os
 import shutil
 import uuid
 import datetime
+import io
+import pandas as pd
+from reportlab.lib.pagesizes import letter
+from reportlab.pdfgen import canvas
+from fastapi.responses import StreamingResponse
 
 from resume_parser import parse_resume
 from jd_parser import parse_jd
@@ -28,6 +33,18 @@ GLOBAL_STATE = {
     "current_jd": None,          # Dict: raw parsed JD
     "candidates": {},            # Dict: id -> Candidate Dict
     "activities": [],            # List: Activity Dict
+    "settings": {
+        "fullName": "HR Manager",
+        "email": "hr@company.com",
+        "emailNotifications": True,
+        "darkMode": False,
+        "apiEndpoint": "http://localhost:8000/api",
+        "weights": {
+            "experience": 30,
+            "skills": 50,
+            "education": 20
+        }
+    }
 }
 
 def add_activity(type_str: str, message: str):
@@ -201,6 +218,15 @@ async def remove_from_shortlist(id: str):
     add_activity("candidate_removed", f"{c['name']} removed from shortlist")
     return {"success": True}
 
+@app.post("/api/candidates/{id}/reject")
+async def reject_candidate(id: str):
+    c = GLOBAL_STATE["candidates"].get(id)
+    if not c:
+        raise HTTPException(status_code=404, detail="Candidate not found")
+    c["recommendation"] = "Reject"
+    add_activity("candidate_rejected", f"{c['name']} marked as Reject")
+    return {"success": True}
+
 @app.get("/api/shortlist")
 async def get_shortlisted():
     return [c for c in GLOBAL_STATE["candidates"].values() if c["shortlisted"]]
@@ -212,6 +238,68 @@ async def get_reports():
       { "id": '1', "name": 'Shortlist Summary Report', "type": 'shortlist_summary', "dateGenerated": datetime.datetime.now().isoformat() },
       { "id": '2', "name": 'Full Ranking Report', "type": 'full_ranking', "dateGenerated": datetime.datetime.now().isoformat() }
     ]
+
+@app.get("/api/export")
+async def export_report(type: str = "full_ranking", format: str = "pdf"):
+    candidates = list(GLOBAL_STATE["candidates"].values())
+    if not candidates:
+        # Provide some mock data if empty for demo
+        candidates = [
+            {"name": "John Doe", "matchScore": 85, "experience": 5, "recommendation": "Strong"},
+            {"name": "Jane Smith", "matchScore": 72, "experience": 3, "recommendation": "Medium"}
+        ]
+
+    df = pd.DataFrame(candidates)
+    # Filter columns for report
+    cols = ["name", "matchScore", "experience", "recommendation"]
+    df = df[cols]
+
+    if format == "excel":
+        output = io.BytesIO()
+        with pd.ExcelWriter(output, engine='openpyxl') as writer:
+            df.to_excel(writer, index=False, sheet_name='Candidates')
+        output.seek(0)
+        return StreamingResponse(
+            output,
+            media_type="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            headers={"Content-Disposition": f"attachment; filename=report_{type}.xlsx"}
+        )
+    else: # Default PDF
+        output = io.BytesIO()
+        p = canvas.Canvas(output, pagesize=letter)
+        p.drawString(100, 750, f"Recruitment Report: {type.replace('_', ' ').title()}")
+        p.drawString(100, 730, f"Date: {datetime.datetime.now().strftime('%Y-%m-%d %H:%M')}")
+        
+        y = 700
+        p.drawString(100, y, "Candidate Name | Score | Exp | Rec")
+        y -= 20
+        p.line(100, y+15, 500, y+15)
+        
+        for c in candidates:
+            p.drawString(100, y, f"{c['name'][:20]} | {c['matchScore']}% | {c['experience']}y | {c['recommendation']}")
+            y -= 20
+            if y < 50:
+                p.showPage()
+                y = 750
+        
+        p.save()
+        output.seek(0)
+        return StreamingResponse(
+            output,
+            media_type="application/pdf",
+            headers={"Content-Disposition": f"attachment; filename=report_{type}.pdf"}
+        )
+
+# Settings
+@app.get("/api/settings")
+async def get_settings():
+    return GLOBAL_STATE["settings"]
+
+@app.post("/api/settings")
+async def update_settings(settings: dict):
+    GLOBAL_STATE["settings"].update(settings)
+    add_activity("settings_updated", "System settings updated")
+    return {"success": True, "settings": GLOBAL_STATE["settings"]}
 
 @app.get("/api/metrics")
 async def get_metrics():

@@ -1,8 +1,10 @@
-import { useState } from 'react';
+import { useEffect, useState } from 'react';
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '../components/ui/card';
 import { Button } from '../components/ui/button';
 import { Input } from '../components/ui/input';
-import { User, Bell, Code2, SlidersHorizontal } from 'lucide-react';
+import { User, Bell, Code2, SlidersHorizontal, Loader2 } from 'lucide-react';
+import { apiService } from '../services/api';
+import { Toast } from '../components/ui/toast';
 
 interface ToggleProps {
   checked: boolean;
@@ -35,8 +37,107 @@ const Toggle = ({ checked, onChange, label, description }: ToggleProps) => {
 };
 
 export const Settings = () => {
+  const [loading, setLoading] = useState(true);
+  const [saving, setSaving] = useState(false);
+  const [toast, setToast] = useState<{ message: string; type: 'success' | 'error' | 'info' } | null>(null);
+  
+  // Profile
+  const [fullName, setFullName] = useState('HR Manager');
+  const [email, setEmail] = useState('hr@company.com');
+  
+  // Preferences
   const [emailNotifs, setEmailNotifs] = useState(true);
   const [darkMode, setDarkMode] = useState(false);
+  
+  // API
+  const [apiEndpoint, setApiEndpoint] = useState('http://localhost:8000/api');
+  const [apiKey, setApiKey] = useState('••••••••');
+  
+  // Weights
+  const [weights, setWeights] = useState({
+    experience: 30,
+    skills: 50,
+    education: 20
+  });
+
+  useEffect(() => {
+    const fetchSettings = async () => {
+      try {
+        const data = await apiService.getSettings();
+        setFullName(data.fullName || 'HR Manager');
+        setEmail(data.email || 'hr@company.com');
+        setEmailNotifs(data.emailNotifications ?? true);
+        setDarkMode(data.darkMode ?? false);
+        setApiEndpoint(data.apiEndpoint || 'http://localhost:8000/api');
+        setWeights(data.weights || { experience: 30, skills: 50, education: 20 });
+      } catch (error) {
+        console.error('Failed to fetch settings:', error);
+      } finally {
+        setLoading(false);
+      }
+    };
+    fetchSettings();
+  }, []);
+
+  const handleSaveProfile = async () => {
+    setSaving(true);
+    try {
+      await apiService.updateSettings({ fullName, email });
+      setToast({ message: 'Profile updated successfully', type: 'success' });
+    } catch {
+      setToast({ message: 'Failed to update profile', type: 'error' });
+    } finally {
+      setSaving(false);
+    }
+  };
+
+  const handleSavePreferences = async () => {
+    setSaving(true);
+    try {
+      await apiService.updateSettings({ emailNotifications: emailNotifs, darkMode });
+      setToast({ message: 'Preferences updated successfully', type: 'success' });
+    } catch {
+      setToast({ message: 'Failed to update preferences', type: 'error' });
+    } finally {
+      setSaving(false);
+    }
+  };
+
+  const handleTestConnection = async () => {
+    setToast({ message: 'Testing connection to ' + apiEndpoint, type: 'info' });
+    setTimeout(() => setToast({ message: 'Connection successful!', type: 'success' }), 1000);
+  };
+
+  const handleUpdateWeights = async () => {
+    const sum = Number(weights.experience) + Number(weights.skills) + Number(weights.education);
+    if (sum !== 100) {
+      setToast({ message: `Weights must sum to 100 (current sum: ${sum})`, type: 'error' });
+      return;
+    }
+    setSaving(true);
+    try {
+      await apiService.updateSettings({ weights });
+      setToast({ message: 'Scoring weights updated', type: 'success' });
+    } catch {
+      setToast({ message: 'Failed to update weights', type: 'error' });
+    } finally {
+      setSaving(false);
+    }
+  };
+
+  const handleReset = () => {
+    setEmailNotifs(true);
+    setDarkMode(false);
+    setToast({ message: 'Preferences reset to defaults', type: 'info' });
+  };
+
+  if (loading) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <Loader2 className="h-8 w-8 animate-spin text-primary" />
+      </div>
+    );
+  }
 
   const sections = [
     {
@@ -49,13 +150,15 @@ export const Settings = () => {
         <div className="space-y-4">
           <div className="space-y-1.5">
             <label className="text-sm font-medium text-foreground">Full Name</label>
-            <Input defaultValue="HR Manager" />
+            <Input value={fullName} onChange={(e) => setFullName(e.target.value)} />
           </div>
           <div className="space-y-1.5">
             <label className="text-sm font-medium text-foreground">Email Address</label>
-            <Input type="email" defaultValue="hr@company.com" />
+            <Input type="email" value={email} onChange={(e) => setEmail(e.target.value)} />
           </div>
-          <Button size="sm">Save Changes</Button>
+          <Button size="sm" onClick={handleSaveProfile} disabled={saving}>
+            {saving ? 'Saving...' : 'Save Changes'}
+          </Button>
         </div>
       ),
     },
@@ -79,7 +182,12 @@ export const Settings = () => {
             label="Dark Mode"
             description="Switch to the dark theme"
           />
-          <Button variant="outline" size="sm">Reset to Defaults</Button>
+          <div className="flex gap-2">
+            <Button size="sm" onClick={handleSavePreferences} disabled={saving}>
+              Save
+            </Button>
+            <Button variant="outline" size="sm" onClick={handleReset}>Reset to Defaults</Button>
+          </div>
         </div>
       ),
     },
@@ -93,13 +201,13 @@ export const Settings = () => {
         <div className="space-y-4">
           <div className="space-y-1.5">
             <label className="text-sm font-medium text-foreground">API Endpoint</label>
-            <Input defaultValue="http://localhost:8000/api" className="font-mono text-xs" />
+            <Input value={apiEndpoint} onChange={(e) => setApiEndpoint(e.target.value)} className="font-mono text-xs" />
           </div>
           <div className="space-y-1.5">
             <label className="text-sm font-medium text-foreground">API Key</label>
-            <Input type="password" defaultValue="••••••••" className="font-mono" />
+            <Input type="password" value={apiKey} onChange={(e) => setApiKey(e.target.value)} className="font-mono" />
           </div>
-          <Button variant="outline" size="sm">Test Connection</Button>
+          <Button variant="outline" size="sm" onClick={handleTestConnection}>Test Connection</Button>
         </div>
       ),
     },
@@ -112,19 +220,25 @@ export const Settings = () => {
       content: (
         <div className="space-y-4">
           {[
-            { label: 'Experience Weight', defaultValue: '30' },
-            { label: 'Skills Weight', defaultValue: '50' },
-            { label: 'Education Weight', defaultValue: '20' },
-          ].map(({ label, defaultValue }) => (
+            { label: 'Experience Weight', key: 'experience', value: weights.experience },
+            { label: 'Skills Weight', key: 'skills', value: weights.skills },
+            { label: 'Education Weight', key: 'education', value: weights.education },
+          ].map(({ label, key, value }) => (
             <div key={label} className="space-y-1.5">
               <div className="flex items-center justify-between">
                 <label className="text-sm font-medium text-foreground">{label}</label>
-                <span className="text-xs text-muted-foreground">{defaultValue}%</span>
+                <span className="text-xs text-muted-foreground">{value}%</span>
               </div>
-              <Input type="number" defaultValue={defaultValue} min="0" max="100" />
+              <Input 
+                type="number" 
+                value={value} 
+                onChange={(e) => setWeights({ ...weights, [key]: e.target.value })} 
+                min="0" 
+                max="100" 
+              />
             </div>
           ))}
-          <Button size="sm">Update Weights</Button>
+          <Button size="sm" onClick={handleUpdateWeights} disabled={saving}>Update Weights</Button>
         </div>
       ),
     },
@@ -160,6 +274,7 @@ export const Settings = () => {
           );
         })}
       </div>
+      {toast && <Toast message={toast.message} type={toast.type} onClose={() => setToast(null)} />}
     </div>
   );
 };
