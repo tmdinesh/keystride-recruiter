@@ -174,7 +174,8 @@ async def upload_resumes(files: list[UploadFile] = File(...)):
             shutil.copyfileobj(file.file, buffer)
             
         resume_data = parse_resume(file_path)
-        match_result = match_resume_to_jd(resume_data, jd_data)
+        weights = GLOBAL_STATE.get("settings", {}).get("weights")
+        match_result = match_resume_to_jd(resume_data, jd_data, weights=weights)
         insights = generate_insights(resume_data, jd_data, match_result['overall_score'])
         
         cand_obj = format_candidate(resume_data, jd_data, match_result, insights)

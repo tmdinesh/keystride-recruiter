@@ -95,6 +95,16 @@ export const Settings = () => {
     setSaving(true);
     try {
       await apiService.updateSettings({ emailNotifications: emailNotifs, darkMode });
+      
+      // Apply theme immediately
+      if (darkMode) {
+        document.documentElement.classList.add('dark');
+        localStorage.setItem('theme', 'dark');
+      } else {
+        document.documentElement.classList.remove('dark');
+        localStorage.setItem('theme', 'light');
+      }
+      
       setToast({ message: 'Preferences updated successfully', type: 'success' });
     } catch {
       setToast({ message: 'Failed to update preferences', type: 'error' });
@@ -109,14 +119,19 @@ export const Settings = () => {
   };
 
   const handleUpdateWeights = async () => {
-    const sum = Number(weights.experience) + Number(weights.skills) + Number(weights.education);
+    const w = {
+      experience: Number(weights.experience),
+      skills: Number(weights.skills),
+      education: Number(weights.education)
+    };
+    const sum = w.experience + w.skills + w.education;
     if (sum !== 100) {
       setToast({ message: `Weights must sum to 100 (current sum: ${sum})`, type: 'error' });
       return;
     }
     setSaving(true);
     try {
-      await apiService.updateSettings({ weights });
+      await apiService.updateSettings({ weights: w });
       setToast({ message: 'Scoring weights updated', type: 'success' });
     } catch {
       setToast({ message: 'Failed to update weights', type: 'error' });
@@ -232,7 +247,7 @@ export const Settings = () => {
               <Input 
                 type="number" 
                 value={value} 
-                onChange={(e) => setWeights({ ...weights, [key]: e.target.value })} 
+                onChange={(e) => setWeights({ ...weights, [key]: Number(e.target.value) })} 
                 min="0" 
                 max="100" 
               />
