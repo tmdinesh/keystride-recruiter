@@ -10,3 +10,4 @@ requests
 reportlab
 pandas
 openpyxl
+python-docx

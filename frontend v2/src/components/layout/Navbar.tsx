@@ -1,7 +1,6 @@
-import { Search, Bell, Moon, Sun, LogOut, ChevronDown, Zap } from 'lucide-react';
+import { Search, Moon, Sun, LogOut, ChevronDown } from 'lucide-react';
 import { useState, useRef, useEffect } from 'react';
 import { useNavigate } from 'react-router-dom';
-import { Input } from '../ui/input';
 import { useTheme } from '../../hooks/useTheme';
 
 export const Navbar = () => {
@@ -55,11 +54,6 @@ export const Navbar = () => {
             )}
           </button>
 
-          {/* Notification bell */}
-          <button className="relative p-2 rounded-lg hover:bg-accent transition-colors text-muted-foreground hover:text-foreground">
-            <Bell className="h-4 w-4" />
-            <span className="absolute top-1.5 right-1.5 h-2 w-2 rounded-full bg-primary border-2 border-background animate-pulse-soft" />
-          </button>
 
           {/* Profile */}
           <div className="relative ml-1" ref={menuRef}>

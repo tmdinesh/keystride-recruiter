@@ -24,6 +24,8 @@ import re
 import json
 from typing import List
 from pydantic import BaseModel
+from docx import Document as DocxDocument
+from PyPDF2 import PdfReader
 
 # ── Schema ────────────────────────────────────────────────────────────────────
 
@@ -113,8 +115,16 @@ PROJECT_SKIP_PATTERNS = [
 # ── Step 1: Read File ─────────────────────────────────────────────────────────
 
 def read_resume(filepath):
-    with open(filepath, encoding="utf-8", errors="replace") as f:
-        return f.read()
+    ext = os.path.splitext(filepath)[1].lower()
+    if ext == '.docx':
+        doc = DocxDocument(filepath)
+        return '\n'.join([p.text for p in doc.paragraphs])
+    elif ext == '.pdf':
+        reader = PdfReader(filepath)
+        return '\n'.join([page.extract_text() or '' for page in reader.pages])
+    else:
+        with open(filepath, encoding="utf-8", errors="replace") as f:
+            return f.read()
 
 # ── Step 2: Split into Sections ───────────────────────────────────────────────
 
@@ -301,7 +311,8 @@ def extract_certifications(sections, text):
 # ── Main Parse Function ───────────────────────────────────────────────────────
 
 def parse_resume(filepath):
-    resume_id = os.path.basename(filepath).replace(".txt", "")
+    basename = os.path.basename(filepath)
+    resume_id = os.path.splitext(basename)[0]
     text      = read_resume(filepath)
     sections  = split_sections(text)
 

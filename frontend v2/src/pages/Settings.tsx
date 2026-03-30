@@ -47,7 +47,6 @@ export const Settings = () => {
   
   // Preferences
   const [emailNotifs, setEmailNotifs] = useState(true);
-  const [darkMode, setDarkMode] = useState(false);
   
   // API
   const [apiEndpoint, setApiEndpoint] = useState('http://localhost:8000/api');
@@ -67,7 +66,6 @@ export const Settings = () => {
         setFullName(data.fullName || 'HR Manager');
         setEmail(data.email || 'hr@company.com');
         setEmailNotifs(data.emailNotifications ?? true);
-        setDarkMode(data.darkMode ?? false);
         setApiEndpoint(data.apiEndpoint || 'http://localhost:8000/api');
         setWeights(data.weights || { experience: 30, skills: 50, education: 20 });
       } catch (error) {
@@ -94,17 +92,7 @@ export const Settings = () => {
   const handleSavePreferences = async () => {
     setSaving(true);
     try {
-      await apiService.updateSettings({ emailNotifications: emailNotifs, darkMode });
-      
-      // Apply theme immediately
-      if (darkMode) {
-        document.documentElement.classList.add('dark');
-        localStorage.setItem('theme', 'dark');
-      } else {
-        document.documentElement.classList.remove('dark');
-        localStorage.setItem('theme', 'light');
-      }
-      
+      await apiService.updateSettings({ emailNotifications: emailNotifs });
       setToast({ message: 'Preferences updated successfully', type: 'success' });
     } catch {
       setToast({ message: 'Failed to update preferences', type: 'error' });
@@ -142,7 +130,6 @@ export const Settings = () => {
 
   const handleReset = () => {
     setEmailNotifs(true);
-    setDarkMode(false);
     setToast({ message: 'Preferences reset to defaults', type: 'info' });
   };
 
@@ -190,12 +177,6 @@ export const Settings = () => {
             onChange={setEmailNotifs}
             label="Email Notifications"
             description="Receive email updates for new matches"
-          />
-          <Toggle
-            checked={darkMode}
-            onChange={setDarkMode}
-            label="Dark Mode"
-            description="Switch to the dark theme"
           />
           <div className="flex gap-2">
             <Button size="sm" onClick={handleSavePreferences} disabled={saving}>

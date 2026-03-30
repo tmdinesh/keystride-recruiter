@@ -81,6 +81,24 @@ def get_text_similarity(resume_text, jd_text):
         print(f"Embedding error: {e}")
         return 50
 
+def calculate_education_score(resume_education):
+    """Score education based on degree level extracted from resume."""
+    degree_text = resume_education.get('degree', 'Unknown').lower() if isinstance(resume_education, dict) else 'unknown'
+    
+    # Score based on degree level
+    if any(kw in degree_text for kw in ['phd', 'ph.d', 'doctorate']):
+        return 100
+    elif any(kw in degree_text for kw in ['master', 'm.tech', 'mtech', 'm.eng', 'm.sc', 'msc', 'm.s', 'mba', 'pgdm']):
+        return 90
+    elif any(kw in degree_text for kw in ['bachelor', 'b.tech', 'btech', 'b.e', 'b.eng', 'b.sc', 'bsc', 'b.s']):
+        return 75
+    elif any(kw in degree_text for kw in ['diploma', 'associate']):
+        return 60
+    elif degree_text == 'unknown':
+        return 40
+    else:
+        return 50
+
 def match_resume_to_jd(resume_data, jd_data, resume_raw_text="", jd_raw_text="", weights=None):
     """
     resume_data: dict from parsed resume
@@ -88,7 +106,7 @@ def match_resume_to_jd(resume_data, jd_data, resume_raw_text="", jd_raw_text="",
     weights: dict with 'skills', 'experience', 'education' ratios (sum to 100)
     """
     if not weights:
-        weights = {"skills": 50, "experience": 20, "education": 30}
+        weights = {"skills": 50, "experience": 30, "education": 20}
         
     skill_score = calculate_skill_match(
         resume_data.get('skills', []), 
@@ -109,12 +127,11 @@ def match_resume_to_jd(resume_data, jd_data, resume_raw_text="", jd_raw_text="",
     # Weighted overall score
     # Normalize weights to 0-1
     w_skills = weights.get('skills', 50) / 100.0
-    w_exp = weights.get('experience', 20) / 100.0
-    w_edu = weights.get('education', 30) / 100.0
+    w_exp = weights.get('experience', 30) / 100.0
+    w_edu = weights.get('education', 20) / 100.0
     
-    # In V2, 'education' is often extracted but matcher doesn't have a specific extractor yet
-    # We'll use a hardcoded 80 for education match if not explicitly calculated
-    education_score = 80 
+    # Calculate education score from resume data
+    education_score = calculate_education_score(resume_data.get('education', {})) 
     
     overall = (skill_score * w_skills) + (experience_score * w_exp) + (education_score * w_edu)
     

@@ -37,7 +37,6 @@ GLOBAL_STATE = {
         "fullName": "HR Manager",
         "email": "hr@company.com",
         "emailNotifications": True,
-        "darkMode": False,
         "apiEndpoint": "http://localhost:8000/api",
         "weights": {
             "experience": 30,
@@ -166,7 +165,7 @@ async def upload_resumes(files: list[UploadFile] = File(...)):
     count = 0
     
     for file in files:
-        if not file.filename.endswith(('.txt', '.pdf')):
+        if not file.filename.endswith(('.txt', '.pdf', '.doc', '.docx')):
             continue
             
         file_path = os.path.join(UPLOAD_DIR, file.filename)

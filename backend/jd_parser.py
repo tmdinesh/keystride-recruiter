@@ -4,6 +4,8 @@ import json
 from typing import List
 from pydantic import BaseModel
 import sys
+from docx import Document as DocxDocument
+from PyPDF2 import PdfReader
 
 # Append path to import SKILL_VOCAB from resume_parser
 sys.path.append(os.path.dirname(os.path.abspath(__file__)))
@@ -20,8 +22,16 @@ class JDSchema(BaseModel):
 # ── Step 1: Read File ─────────────────────────────────────────────────────────
 
 def read_jd(filepath):
-    with open(filepath, encoding="utf-8", errors="replace") as f:
-        return f.read()
+    ext = os.path.splitext(filepath)[1].lower()
+    if ext == '.docx':
+        doc = DocxDocument(filepath)
+        return '\n'.join([p.text for p in doc.paragraphs])
+    elif ext == '.pdf':
+        reader = PdfReader(filepath)
+        return '\n'.join([page.extract_text() or '' for page in reader.pages])
+    else:
+        with open(filepath, encoding="utf-8", errors="replace") as f:
+            return f.read()
 
 # ── Step 2: Extract Skills ────────────────────────────────────────────────────
 
