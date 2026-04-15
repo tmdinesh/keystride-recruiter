@@ -22,7 +22,7 @@ def generate_insights(resume_data, jd_data, match_score):
     Falls back to heuristics if Ollama is down or fails.
     """
     resume_skills = resume_data.get('skills', [])
-    jd_skills = jd_data.get('must_have_skills', []) + jd_data.get('good_to_have_skills', [])
+    jd_skills = jd_data.get('must_have_skills', []) + jd_data.get('good_to_have', [])
     experience = resume_data.get('experience_years', 0)
     
     prompt = f"""

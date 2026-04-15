@@ -1,4 +1,5 @@
 from fastapi import FastAPI, UploadFile, File, HTTPException
+from pydantic import BaseModel
 from fastapi.middleware.cors import CORSMiddleware
 import os
 import shutil
@@ -83,10 +84,13 @@ def format_candidate(resume_data, jd_data, match_result, insights):
             "matchScore": 100 if has_skill else 0
         })
 
+    name = resume_data.get("name") or cid.replace("_anon", "").replace("_", " ")[:20] or "Anonymous Candidate"
+    first_name = name.split()[0].lower()
+
     return {
         "id": cid,
-        "name": cid.replace("_anon", "").replace("_", " ")[:20] or "Anonymous Candidate",
-        "email": f"{cid.lower()}@example.com",
+        "name": name,
+        "email": f"{first_name}@example.com",
         "matchScore": match_score,
         "experience": resume_data.get("experience_years", 0),
         "topMatchedSkills": matched_skills[:5],
@@ -99,7 +103,7 @@ def format_candidate(resume_data, jd_data, match_result, insights):
         "interviewQuestions": insights.get("interview_questions", []),
         "experienceMatch": match_result.get("experience_score", 0),
         "skillMatch": match_result.get("skill_match_score", 0),
-        "educationMatch": 80, # Hardcoded fallback
+        "educationMatch": match_result.get("education_score", 0),
         "skillComparison": skill_comparison
     }
 
@@ -121,7 +125,7 @@ async def get_stats():
     
     strong = sum(1 for c in candidates if c["recommendation"] == "Strong")
     medium = sum(1 for c in candidates if c["recommendation"] == "Medium")
-    weak = total - strong - medium # Weak + Reject
+    weak = sum(1 for c in candidates if c["recommendation"] == "Weak") 
     avg_score = sum(c["matchScore"] for c in candidates) // total
     
     return {
@@ -155,6 +159,25 @@ async def upload_jd(file: UploadFile = File(...)):
     GLOBAL_STATE["candidates"] = {}
     add_activity("jd_processed", f"Job Description processed: {file.filename}")
     return {"success": True, "message": "Job Description uploaded and processed successfully"}
+
+class JDTextPayload(BaseModel):
+    text: str
+
+@app.post("/api/upload_jd_text")
+async def upload_jd_text(payload: JDTextPayload):
+    if not payload.text.strip():
+        raise HTTPException(status_code=400, detail="JD text cannot be empty.")
+    
+    # Write text to a temp file so parse_jd can process it normally
+    temp_path = os.path.join(UPLOAD_DIR, "jd_pasted.txt")
+    with open(temp_path, "w", encoding="utf-8") as f:
+        f.write(payload.text)
+    
+    jd_data = parse_jd(temp_path)
+    GLOBAL_STATE["current_jd"] = jd_data
+    GLOBAL_STATE["candidates"] = {}
+    add_activity("jd_processed", "Job Description processed from pasted text")
+    return {"success": True, "message": "Job Description text uploaded and processed successfully"}
 
 @app.post("/api/upload_resumes")
 async def upload_resumes(files: list[UploadFile] = File(...)):
@@ -242,17 +265,17 @@ async def get_reports():
 @app.get("/api/export")
 async def export_report(type: str = "full_ranking", format: str = "pdf"):
     candidates = list(GLOBAL_STATE["candidates"].values())
+    if type in ["shortlist", "shortlist_summary"]:
+        candidates = [c for c in candidates if c.get("shortlisted", False)]
+        
     if not candidates:
-        # Provide some mock data if empty for demo
-        candidates = [
-            {"name": "John Doe", "matchScore": 85, "experience": 5, "recommendation": "Strong"},
-            {"name": "Jane Smith", "matchScore": 72, "experience": 3, "recommendation": "Medium"}
-        ]
-
-    df = pd.DataFrame(candidates)
-    # Filter columns for report
-    cols = ["name", "matchScore", "experience", "recommendation"]
-    df = df[cols]
+        # Create an empty dataframe with the correct columns if list is empty
+        df = pd.DataFrame(columns=["name", "matchScore", "experience", "recommendation"])
+    else:
+        df = pd.DataFrame(candidates)
+        # Filter columns for report
+        cols = ["name", "matchScore", "experience", "recommendation"]
+        df = df[cols]
 
     if format == "excel":
         output = io.BytesIO()

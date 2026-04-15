@@ -84,17 +84,52 @@ const SkeletonCard = () => (
 export const Dashboard = () => {
   const [stats, setStats] = useState<DashboardStats | null>(null);
   const [activities, setActivities] = useState<Activity[]>([]);
+  const [skillsData, setSkillsData] = useState<{skill: string, count: number}[]>([]);
+  const [scoreDistribution, setScoreDistribution] = useState<{range: string, count: number}[]>([]);
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
     const fetchData = async () => {
       try {
-        const [statsData, activitiesData] = await Promise.all([
+        const [statsData, activitiesData, candidatesData] = await Promise.all([
           apiService.getDashboardStats(),
           apiService.getActivities(),
+          apiService.getCandidates(),
         ]);
         setStats(statsData);
         setActivities(activitiesData);
+
+        // Aggregate skills from real candidates
+        const skillCounts: Record<string, number> = {};
+        candidatesData.forEach(c => {
+          c.topMatchedSkills.forEach(skill => {
+            skillCounts[skill] = (skillCounts[skill] || 0) + 1;
+          });
+        });
+        const sortedSkills = Object.entries(skillCounts)
+          .map(([skill, count]) => ({ skill, count }))
+          .sort((a, b) => b.count - a.count)
+          .slice(0, 10);
+        setSkillsData(sortedSkills);
+
+        // Calculate score distribution
+        const dist = [
+          { range: '0–20', count: 0 },
+          { range: '21–40', count: 0 },
+          { range: '41–60', count: 0 },
+          { range: '61–80', count: 0 },
+          { range: '81–100', count: 0 },
+        ];
+        candidatesData.forEach(c => {
+          const score = c.matchScore;
+          if (score <= 20) dist[0].count++;
+          else if (score <= 40) dist[1].count++;
+          else if (score <= 60) dist[2].count++;
+          else if (score <= 80) dist[3].count++;
+          else dist[4].count++;
+        });
+        setScoreDistribution(dist);
+
       } catch (error) {
         console.error('Failed to fetch dashboard data:', error);
       } finally {
@@ -104,26 +139,7 @@ export const Dashboard = () => {
     fetchData();
   }, []);
 
-  const skillsData = [
-    { skill: 'Python', count: 8 },
-    { skill: 'React', count: 7 },
-    { skill: 'Node.js', count: 6 },
-    { skill: 'TypeScript', count: 6 },
-    { skill: 'AWS', count: 5 },
-    { skill: 'Docker', count: 5 },
-    { skill: 'MongoDB', count: 4 },
-    { skill: 'PostgreSQL', count: 4 },
-    { skill: 'GraphQL', count: 3 },
-    { skill: 'Kubernetes', count: 3 },
-  ];
 
-  const scoreDistribution = [
-    { range: '0–20', count: 0 },
-    { range: '21–40', count: 1 },
-    { range: '41–60', count: 2 },
-    { range: '61–80', count: 4 },
-    { range: '81–100', count: 3 },
-  ];
 
   const getActivityIcon = (type: string) => {
     switch (type) {

@@ -1,9 +1,10 @@
 import { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
-import { Mail, Lock, LogIn, Zap, ArrowRight, Users, BarChart3, CheckCircle } from 'lucide-react';
+import { Mail, Lock, LogIn, Zap, ArrowRight, Users, BarChart3, CheckCircle, Sun, Moon } from 'lucide-react';
 import { Button } from '../components/ui/button';
 import { Input } from '../components/ui/input';
 import { apiService } from '../services/api';
+import { useTheme } from '../hooks/useTheme';
 
 const features = [
   { icon: Users, text: 'AI-powered resume screening' },
@@ -17,6 +18,7 @@ export const Login = () => {
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState('');
   const navigate = useNavigate();
+  const { theme, toggleTheme } = useTheme();
 
   const handleLogin = async (e: React.FormEvent) => {
     e.preventDefault();
@@ -113,7 +115,18 @@ export const Login = () => {
       </div>
 
       {/* Right panel — login form */}
-      <div className="flex-1 flex items-center justify-center p-6 sm:p-12 bg-background">
+      <div className="flex-1 flex items-center justify-center p-6 sm:p-12 bg-background relative">
+        {/* Theme toggle */}
+        <div className="absolute top-6 right-6">
+          <button
+            onClick={toggleTheme}
+            className="p-2.5 rounded-lg bg-secondary/50 hover:bg-secondary text-muted-foreground hover:text-foreground transition-all duration-200"
+            title={theme === 'light' ? 'Switch to dark mode' : 'Switch to light mode'}
+          >
+            {theme === 'dark' ? <Sun className="h-5 w-5" /> : <Moon className="h-5 w-5" />}
+          </button>
+        </div>
+
         <div className="w-full max-w-sm space-y-8">
           {/* Mobile logo */}
           <div className="lg:hidden flex items-center gap-3 mb-8">

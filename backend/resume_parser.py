@@ -31,6 +31,7 @@ from PyPDF2 import PdfReader
 
 class ResumeSchema(BaseModel):
     resume_id:        str
+    name:             str
     skills:           List[str]
     education:        dict
     experience_years: int
@@ -60,9 +61,12 @@ SKILL_VOCAB = [
     "machine learning", "deep learning", "nlp", "computer vision",
     "tensorflow", "pytorch", "keras", "scikit-learn", "pandas",
     "numpy", "matplotlib", "spark", "hadoop", "airflow", "dbt",
-    "tableau", "power bi", "looker",
-    # Tools
+    "tableau", "power bi", "looker", "data analysis",
+    # Tools & Methods
     "git", "jira", "confluence", "figma", "postman", "swagger",
+    "agile", "scrum", "excel", "powerpoint", "communication",
+    "business analysis", "requirements gathering", "stakeholder management",
+    "testing", "qa", "selenium", "api testing",
 ]
 
 DEGREE_KEYWORDS = [
@@ -165,6 +169,31 @@ def split_sections(text):
         sections[current] = "\n".join(buffer)
 
     return sections
+
+# ── Step 2.5: Extract Name ────────────────────────────────────────────────────
+
+def extract_name(text, basename=""):
+    lines = text.split('\n')
+    # Look at first 5 non-empty lines for a name
+    for line in lines[:10]:
+        # Remove weird unicode characters, just keep printable ascii
+        line = re.sub(r'[^\x00-\x7F]+', '', line).strip()
+        if not line:
+            continue
+        # Skip if looks like email, phone, or title
+        if "@" in line or re.search(r'\d', line) or line.lower() in [s.lower() for s in SKILL_VOCAB]:
+            continue
+        
+        words = line.split()
+        alphabetic_words = [w for w in words if w.isalpha()]
+        
+        # Must have at least one alphabetic word, and all alphabetic words must be Capitalized
+        if 1 <= len(words) < 5 and len(alphabetic_words) > 0:
+            if all(w[0].isupper() for w in alphabetic_words):
+                # Filter out common headers that might be misidentified
+                if line.lower() not in ["resume", "curriculum vitae", "profile", "summary"]:
+                    return line
+    return basename.replace("_anon", "").replace("_", " ").split('.')[0][:20] or "Anonymous Candidate"
 
 # ── Step 3: Extract Skills ────────────────────────────────────────────────────
 
@@ -318,6 +347,7 @@ def parse_resume(filepath):
 
     data = ResumeSchema(
         resume_id        = resume_id,
+        name             = extract_name(text, basename),
         skills           = extract_skills(text),
         education        = extract_education(text),
         experience_years = extract_experience_years(text),

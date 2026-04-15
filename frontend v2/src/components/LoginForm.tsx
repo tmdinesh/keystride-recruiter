@@ -4,7 +4,7 @@ const LoginForm: React.FC = () => {
   return (
     <form className="space-y-6">
       <div>
-        <label htmlFor="email" className="block text-sm font-medium text-gray-700">
+        <label htmlFor="email" className="block text-sm font-medium text-foreground">
           Email address
         </label>
         <div className="mt-1">
@@ -14,13 +14,13 @@ const LoginForm: React.FC = () => {
             name="email"
             autoComplete="email"
             required
-            className="appearance-none block w-full px-3 py-2 border border-gray-300 rounded-md shadow-sm placeholder-gray-400 focus:outline-none focus:ring-indigo-500 focus:border-indigo-500 sm:text-sm"
+            className="appearance-none block w-full px-3 py-2 border border-input rounded-md shadow-sm bg-background text-foreground placeholder:text-muted-foreground/60 focus:outline-none focus:ring-2 focus:ring-ring/60 focus:border-primary/50 sm:text-sm transition-all duration-200"
           />
         </div>
       </div>
 
       <div>
-        <label htmlFor="password" className="block text-sm font-medium text-gray-700">
+        <label htmlFor="password" className="block text-sm font-medium text-foreground">
           Password
         </label>
         <div className="mt-1">
@@ -30,7 +30,7 @@ const LoginForm: React.FC = () => {
             name="password"
             autoComplete="current-password"
             required
-            className="appearance-none block w-full px-3 py-2 border border-gray-300 rounded-md shadow-sm placeholder-gray-400 focus:outline-none focus:ring-indigo-500 focus:border-indigo-500 sm:text-sm"
+            className="appearance-none block w-full px-3 py-2 border border-input rounded-md shadow-sm bg-background text-foreground placeholder:text-muted-foreground/60 focus:outline-none focus:ring-2 focus:ring-ring/60 focus:border-primary/50 sm:text-sm transition-all duration-200"
           />
         </div>
       </div>

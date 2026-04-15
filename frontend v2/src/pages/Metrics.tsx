@@ -49,8 +49,8 @@ export const Metrics = () => {
   return (
     <div className="space-y-6">
       <div>
-        <h1 className="text-3xl font-bold text-gray-900">Evaluation Metrics</h1>
-        <p className="text-gray-500 mt-1">AI model performance and fairness metrics</p>
+        <h1 className="text-3xl font-bold text-foreground">Evaluation Metrics</h1>
+        <p className="text-muted-foreground mt-1">AI model performance and fairness metrics</p>
       </div>
 
       {/* Key Metrics */}
@@ -126,19 +126,19 @@ export const Metrics = () => {
             <table className="w-full border-collapse">
               <thead>
                 <tr>
-                  <th className="border border-gray-300 px-4 py-2 bg-gray-50 font-medium text-sm text-gray-700">
+                  <th className="border border-border px-4 py-2 bg-muted/40 font-semibold text-xs text-muted-foreground uppercase tracking-wide">
                     Actual \ Predicted
                   </th>
-                  <th className="border border-gray-300 px-4 py-2 bg-gray-50 font-medium text-sm text-gray-700">
+                  <th className="border border-border px-4 py-2 bg-muted/40 font-semibold text-xs text-muted-foreground uppercase tracking-wide">
                     Strong
                   </th>
-                  <th className="border border-gray-300 px-4 py-2 bg-gray-50 font-medium text-sm text-gray-700">
+                  <th className="border border-border px-4 py-2 bg-muted/40 font-semibold text-xs text-muted-foreground uppercase tracking-wide">
                     Medium
                   </th>
-                  <th className="border border-gray-300 px-4 py-2 bg-gray-50 font-medium text-sm text-gray-700">
+                  <th className="border border-border px-4 py-2 bg-muted/40 font-semibold text-xs text-muted-foreground uppercase tracking-wide">
                     Weak
                   </th>
-                  <th className="border border-gray-300 px-4 py-2 bg-gray-50 font-medium text-sm text-gray-700">
+                  <th className="border border-border px-4 py-2 bg-muted/40 font-semibold text-xs text-muted-foreground uppercase tracking-wide">
                     Reject
                   </th>
                 </tr>
@@ -149,7 +149,7 @@ export const Metrics = () => {
                   const maxValue = Math.max(...row);
                   return (
                     <tr key={rowIdx}>
-                      <td className="border border-gray-300 px-4 py-2 bg-gray-50 font-medium text-sm text-gray-700">
+                      <td className="border border-border px-4 py-2 bg-muted/30 font-semibold text-sm text-foreground">
                         {labels[rowIdx]}
                       </td>
                       {row.map((value, colIdx) => {
@@ -158,7 +158,7 @@ export const Metrics = () => {
                         return (
                           <td
                             key={colIdx}
-                            className="border border-gray-300 px-4 py-2 text-center font-semibold"
+                            className="border border-border px-4 py-2 text-center font-semibold text-foreground"
                             style={{ backgroundColor: bgColor }}
                           >
                             {value}
@@ -185,7 +185,7 @@ export const Metrics = () => {
             <div className="text-3xl font-bold" style={{ color: getColor(metrics.fairnessScore) }}>
               {(metrics.fairnessScore * 100).toFixed(1)}%
             </div>
-            <p className="text-sm text-gray-600 mt-2">
+            <p className="text-sm text-muted-foreground mt-2">
               Score difference before/after masking PII: {metrics.scoreDifference.toFixed(1)}%
             </p>
           </CardContent>
@@ -200,17 +200,17 @@ export const Metrics = () => {
             <div className="space-y-3">
               <div>
                 <div className="flex justify-between text-sm mb-1">
-                  <span className="text-gray-600">Score Difference</span>
-                  <span className="font-medium">{metrics.scoreDifference.toFixed(1)}%</span>
+                  <span className="text-muted-foreground">Score Difference</span>
+                  <span className="font-medium text-foreground">{metrics.scoreDifference.toFixed(1)}%</span>
                 </div>
-                <div className="h-2 bg-gray-200 rounded-full overflow-hidden">
+                <div className="h-2 bg-muted rounded-full overflow-hidden">
                   <div
-                    className="h-full bg-blue-600 transition-all"
+                    className="h-full bg-primary transition-all"
                     style={{ width: `${Math.min(metrics.scoreDifference * 5, 100)}%` }}
                   />
                 </div>
               </div>
-              <p className="text-xs text-gray-500">
+              <p className="text-xs text-muted-foreground">
                 Lower difference indicates better fairness. A difference of less than 5% is considered good.
               </p>
             </div>

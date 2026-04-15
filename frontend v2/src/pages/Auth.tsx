@@ -7,9 +7,9 @@ const Auth: React.FC = () => {
 
   return (
     <div className="min-h-screen bg-gradient-to-br from-blue-500 to-indigo-600 flex items-center justify-center py-12 px-4 sm:px-6 lg:px-8">
-      <div className="max-w-md w-full bg-white p-8 rounded-xl shadow-2xl space-y-8 transform transition-all duration-300 ease-in-out hover:scale-105">
+      <div className="max-w-md w-full bg-card p-8 rounded-xl shadow-2xl space-y-8 transform transition-all duration-300 ease-in-out hover:scale-105">
         <div>
-          <h2 className="mt-6 text-center text-4xl font-extrabold text-gray-900">
+          <h2 className="mt-6 text-center text-4xl font-extrabold text-foreground">
             {isLogin ? 'Sign in to your account' : 'Create a new account'}
           </h2>
         </div>
@@ -19,7 +19,7 @@ const Auth: React.FC = () => {
             className={`w-1/2 py-3 text-lg font-medium rounded-l-lg transition-colors duration-200 ${
               isLogin
                 ? 'bg-indigo-700 text-white shadow-md'
-                : 'bg-gray-200 text-gray-700 hover:bg-gray-300'
+                : 'bg-muted text-muted-foreground hover:bg-muted/80'
             }`}
           >
             Login
@@ -29,7 +29,7 @@ const Auth: React.FC = () => {
             className={`w-1/2 py-3 text-lg font-medium rounded-r-lg transition-colors duration-200 ${
               !isLogin
                 ? 'bg-indigo-700 text-white shadow-md'
-                : 'bg-gray-200 text-gray-700 hover:bg-gray-300'
+                : 'bg-muted text-muted-foreground hover:bg-muted/80'
             }`}
           >
             Register

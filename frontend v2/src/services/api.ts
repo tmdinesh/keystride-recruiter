@@ -39,7 +39,9 @@ export const apiService = {
       });
       return res.data;
     }
-    return { success: false, message: 'Text upload not supported yet' };
+    // Text paste path — send to dedicated text endpoint
+    const res = await api.post('/upload_jd_text', { text: file });
+    return res.data;
   },
 
   uploadResumes: async (files: File[]): Promise<{ success: boolean; message: string; count: number }> => {

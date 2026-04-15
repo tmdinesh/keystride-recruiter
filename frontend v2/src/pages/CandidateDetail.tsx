@@ -63,7 +63,7 @@ export const CandidateDetail = () => {
         </Button>
         <Card>
           <CardContent className="py-12 text-center">
-            <p className="text-gray-500">Candidate not found</p>
+            <p className="text-muted-foreground">Candidate not found</p>
           </CardContent>
         </Card>
       </div>
@@ -85,7 +85,7 @@ export const CandidateDetail = () => {
               stroke="currentColor"
               strokeWidth="8"
               fill="none"
-              className="text-gray-200"
+              className="text-muted/60"
             />
             <circle
               cx="64"
@@ -97,8 +97,8 @@ export const CandidateDetail = () => {
               strokeDasharray={circumference}
               strokeDashoffset={offset}
               className={cn("transition-all duration-500", {
-                "text-green-500": value >= 80,
-                "text-yellow-500": value >= 60 && value < 80,
+                "text-emerald-500": value >= 80,
+                "text-amber-500": value >= 60 && value < 80,
                 "text-orange-500": value >= 40 && value < 60,
                 "text-red-500": value < 40,
               })}
@@ -107,17 +107,17 @@ export const CandidateDetail = () => {
           <div className="absolute inset-0 flex items-center justify-center">
             <div className="text-center">
               <div className={cn("text-2xl font-bold", {
-                "text-green-600": value >= 80,
-                "text-yellow-600": value >= 60 && value < 80,
-                "text-orange-600": value >= 40 && value < 60,
-                "text-red-600": value < 40,
+                "text-emerald-600 dark:text-emerald-400": value >= 80,
+                "text-amber-600 dark:text-amber-400": value >= 60 && value < 80,
+                "text-orange-600 dark:text-orange-400": value >= 40 && value < 60,
+                "text-red-600 dark:text-red-400": value < 40,
               })}>
                 {value}%
               </div>
             </div>
           </div>
         </div>
-        <p className="text-sm text-gray-600 mt-2">{label}</p>
+        <p className="text-sm text-muted-foreground mt-2">{label}</p>
       </div>
     );
   };
@@ -130,8 +130,8 @@ export const CandidateDetail = () => {
             <ArrowLeft className="h-4 w-4 mr-2" />
             Back to Candidates
           </Button>
-          <h1 className="text-3xl font-bold text-gray-900 mt-4">{candidate.name}</h1>
-          <p className="text-gray-500 mt-1">{candidate.id} • {candidate.email}</p>
+          <h1 className="text-3xl font-bold text-foreground mt-4">{candidate.name}</h1>
+          <p className="text-muted-foreground mt-1">{candidate.id} • {candidate.email}</p>
         </div>
         <Button
           onClick={handleAddToShortlist}
@@ -174,22 +174,22 @@ export const CandidateDetail = () => {
             <CardContent className="space-y-6">
               <div>
                 <div className="flex justify-between mb-2">
-                  <span className="text-sm font-medium text-gray-700">Experience Match</span>
-                  <span className="text-sm font-semibold text-gray-900">{candidate.experienceMatch}%</span>
+                  <span className="text-sm font-medium text-foreground">Experience Match</span>
+                  <span className="text-sm font-semibold text-foreground">{candidate.experienceMatch}%</span>
                 </div>
                 <Progress value={candidate.experienceMatch} />
               </div>
               <div>
                 <div className="flex justify-between mb-2">
-                  <span className="text-sm font-medium text-gray-700">Skill Match</span>
-                  <span className="text-sm font-semibold text-gray-900">{candidate.skillMatch}%</span>
+                  <span className="text-sm font-medium text-foreground">Skill Match</span>
+                  <span className="text-sm font-semibold text-foreground">{candidate.skillMatch}%</span>
                 </div>
                 <Progress value={candidate.skillMatch} />
               </div>
               <div>
                 <div className="flex justify-between mb-2">
-                  <span className="text-sm font-medium text-gray-700">Education Match</span>
-                  <span className="text-sm font-semibold text-gray-900">{candidate.educationMatch}%</span>
+                  <span className="text-sm font-medium text-foreground">Education Match</span>
+                  <span className="text-sm font-semibold text-foreground">{candidate.educationMatch}%</span>
                 </div>
                 <Progress value={candidate.educationMatch} />
               </div>
@@ -207,8 +207,8 @@ export const CandidateDetail = () => {
               <ul className="space-y-2">
                 {candidate.strengths.map((strength, idx) => (
                   <li key={idx} className="flex items-start gap-2">
-                    <CheckCircle2 className="h-5 w-5 text-green-600 mt-0.5 flex-shrink-0" />
-                    <span className="text-sm text-gray-700">{strength}</span>
+                    <CheckCircle2 className="h-5 w-5 text-emerald-600 dark:text-emerald-400 mt-0.5 flex-shrink-0" />
+                    <span className="text-sm text-foreground">{strength}</span>
                   </li>
                 ))}
               </ul>
@@ -223,8 +223,8 @@ export const CandidateDetail = () => {
               <ul className="space-y-2">
                 {candidate.skillGaps.map((gap, idx) => (
                   <li key={idx} className="flex items-start gap-2">
-                    <XCircle className="h-5 w-5 text-orange-600 mt-0.5 flex-shrink-0" />
-                    <span className="text-sm text-gray-700">{gap}</span>
+                    <XCircle className="h-5 w-5 text-orange-600 dark:text-orange-400 mt-0.5 flex-shrink-0" />
+                    <span className="text-sm text-foreground">{gap}</span>
                   </li>
                 ))}
               </ul>
@@ -236,7 +236,7 @@ export const CandidateDetail = () => {
               <CardTitle>AI Summary</CardTitle>
             </CardHeader>
             <CardContent>
-              <p className="text-sm text-gray-700 leading-relaxed">{candidate.summary}</p>
+              <p className="text-sm text-foreground leading-relaxed">{candidate.summary}</p>
             </CardContent>
           </Card>
         </div>
@@ -251,7 +251,7 @@ export const CandidateDetail = () => {
         <CardContent>
           <ol className="space-y-3 list-decimal list-inside">
             {candidate.interviewQuestions.map((question, idx) => (
-              <li key={idx} className="text-sm text-gray-700 pl-2">
+              <li key={idx} className="text-sm text-foreground pl-2">
                 {question}
               </li>
             ))}
@@ -268,38 +268,47 @@ export const CandidateDetail = () => {
         <CardContent>
           <div className="overflow-x-auto">
             <table className="w-full">
-              <thead className="bg-gray-50 border-b border-gray-200">
+              <thead className="bg-muted/30 border-b border-border">
                 <tr>
-                  <th className="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase">JD Required Skill</th>
-                  <th className="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase">Candidate Has?</th>
-                  <th className="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase">Match Score</th>
+                  <th className="px-4 py-3 text-left text-xs font-semibold text-muted-foreground uppercase tracking-wide">JD Required Skill</th>
+                  <th className="px-4 py-3 text-left text-xs font-semibold text-muted-foreground uppercase tracking-wide">Candidate Has?</th>
+                  <th className="px-4 py-3 text-left text-xs font-semibold text-muted-foreground uppercase tracking-wide">Match Score</th>
                 </tr>
               </thead>
-              <tbody className="divide-y divide-gray-200">
-                {candidate.skillComparison.map((skill, idx) => (
-                  <tr key={idx} className="hover:bg-gray-50">
-                    <td className="px-4 py-3 text-sm text-gray-900">{skill.skill}</td>
-                    <td className="px-4 py-3">
-                      {skill.candidateHas ? (
-                        <Badge variant="success">
-                          <CheckCircle2 className="h-3 w-3 mr-1" />
-                          Yes
-                        </Badge>
-                      ) : (
-                        <Badge variant="danger">
-                          <XCircle className="h-3 w-3 mr-1" />
-                          No
-                        </Badge>
-                      )}
-                    </td>
-                    <td className="px-4 py-3">
-                      <div className="flex items-center gap-2">
-                        <Progress value={skill.matchScore} className="flex-1 max-w-[100px]" />
-                        <span className="text-sm font-medium text-gray-900">{skill.matchScore}%</span>
-                      </div>
+              <tbody className="bg-card divide-y divide-border">
+                {candidate.skillComparison.length === 0 ? (
+                  <tr>
+                    <td colSpan={3} className="px-4 py-10 text-center text-sm text-muted-foreground">
+                      No skill keywords were detected in the Job Description.<br />
+                      <span className="text-xs opacity-70">Try uploading a detailed JD file (PDF/DOCX) with specific skill requirements.</span>
                     </td>
                   </tr>
-                ))}
+                ) : (
+                  candidate.skillComparison.map((skill, idx) => (
+                    <tr key={idx} className="hover:bg-accent/30 transition-colors">
+                      <td className="px-4 py-3 text-sm text-foreground">{skill.skill}</td>
+                      <td className="px-4 py-3">
+                        {skill.candidateHas ? (
+                          <Badge variant="success">
+                            <CheckCircle2 className="h-3 w-3 mr-1" />
+                            Yes
+                          </Badge>
+                        ) : (
+                          <Badge variant="danger">
+                            <XCircle className="h-3 w-3 mr-1" />
+                            No
+                          </Badge>
+                        )}
+                      </td>
+                      <td className="px-4 py-3">
+                        <div className="flex items-center gap-2">
+                          <Progress value={skill.matchScore} className="flex-1 max-w-[100px]" />
+                          <span className="text-sm font-medium text-foreground">{skill.matchScore}%</span>
+                        </div>
+                      </td>
+                    </tr>
+                  ))
+                )}
               </tbody>
             </table>
           </div>
