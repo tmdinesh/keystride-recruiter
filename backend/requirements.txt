@@ -8,6 +8,6 @@ sentence-transformers
 scikit-learn
 requests
 reportlab
-pandas
 openpyxl
 python-docx
+pandas
